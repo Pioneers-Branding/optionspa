@@ -223,13 +223,13 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
   "image": [
     {
       "@type": "ImageObject",
-      "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/counseling.png",
-      "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/counseling.png"
+      "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/counseling.png",
+      "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/counseling.png"
     },
     {
       "@type": "ImageObject",
-      "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/happiness-cheerful-elderly-woman-men-tal_03364ae9bb.jpg",
-      "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/happiness-cheerful-elderly-woman-men-tal_03364ae9bb.jpg"
+      "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/happiness-cheerful-elderly-woman-men-tal_03364ae9bb.jpg",
+      "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/happiness-cheerful-elderly-woman-men-tal_03364ae9bb.jpg"
     }
   ],
   "serviceType": "Counseling Services"
@@ -324,19 +324,19 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
   "logo": {
     "@type": "ImageObject",
     "@id": "logo",
-    "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
-    "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
+    "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
+    "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
   },
   "image": [
     {
       "@type": "ImageObject",
-      "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Cyntrell-1.jpg",
-      "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Cyntrell-1.jpg"
+      "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Cyntrell-1.jpg",
+      "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Cyntrell-1.jpg"
     },
     {
       "@type": "ImageObject",
-      "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Jarret-1.jpg",
-      "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Jarret-1.jpg"
+      "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Jarret-1.jpg",
+      "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Jarret-1.jpg"
     }
   ],
   "description": "If you're looking for mental health support for addicts, look no further than Options Addictions & Recovery. We offer a variety of services to help addicts recover from their addiction.",
@@ -409,8 +409,8 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
   ],
   "logo": {
     "@type": "ImageObject",
-    "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
-    "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
+    "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
+    "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
   },
   "telephone": "(610) 741-6567",
   "contactPoint": {
@@ -479,8 +479,8 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
   "image": [
     {
       "@type": "ImageObject",
-      "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/Reading.webp",
-      "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/Reading.webp"
+      "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/Reading.webp",
+      "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/Reading.webp"
     }
   ]
 }</script>
@@ -774,23 +774,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="tve-page-section-out" data-css="tve-u-18baece39c6"></div>
 <div class="tve-page-section-in" data-css="tve-u-654b76a2354409" style=""><div class="thrv_wrapper tcb-image-gallery" data-click-behavior="none" data-crop-images="true" data-css="tve-u-18baecef7f0" data-cwv-height-d="297" data-cwv-height-m="297" data-cwv-height-t="297" data-fullscreen-size="medium" data-thumbnail-size="large" data-type="horizontalMasonry" style=""><div class="tcb-image-gallery-container tve-prevent-content-edit justified-gallery" style="height: 356.298px;"><div class="thrv_wrapper tve_image_caption jg-entry jg-entry-visible" data-caption="" data-id="3717" data-index="0" data-position="1/5" data-selector='[data-css="tve-u-18baecef7f0"] .thrv_wrapper.tve_image_caption' style="width: 301px; height: 83.97px; top: 30px; left: 30px;">
 <span class="tve_image_frame no_style">
-<img alt="" class="tve_image wp-image-3717" data-css="tve-u-18baed5b8d3" data-id="3717" data-sizes='{"thumbnail":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/UPMC-1024x288-1-150x150.jpg","height":150,"width":150,"orientation":"landscape"},"medium":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/UPMC-1024x288-1-300x84.jpg","height":84,"width":300,"orientation":"landscape"},"full":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/UPMC-1024x288-1.jpg","height":288,"width":1024,"orientation":"landscape"},"tf-client-image-size":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/UPMC-1024x288-1-120x120.jpg","height":120,"width":120,"orientation":"landscape"}}' data-src="wp-content/uploads/2023/11/UPMC-1024x288-1-300x84.jpg" decoding="async" height="288" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="wp-content/uploads/2023/11/UPMC-1024x288-1.jpg" srcset="wp-content/uploads/2023/11/UPMC-1024x288-1.jpg 1024w, wp-content/uploads/2023/11/UPMC-1024x288-1-300x84.jpg 300w, wp-content/uploads/2023/11/UPMC-1024x288-1-768x216.jpg 768w" style="" title="UPMC-1024x288" width="1024"/>
+<img alt="" class="tve_image wp-image-3717" data-css="tve-u-18baed5b8d3" data-id="3717" data-sizes='{"thumbnail":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/UPMC-1024x288-1-150x150.jpg","height":150,"width":150,"orientation":"landscape"},"medium":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/UPMC-1024x288-1-300x84.jpg","height":84,"width":300,"orientation":"landscape"},"full":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/UPMC-1024x288-1.jpg","height":288,"width":1024,"orientation":"landscape"},"tf-client-image-size":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/UPMC-1024x288-1-120x120.jpg","height":120,"width":120,"orientation":"landscape"}}' data-src="wp-content/uploads/2023/11/UPMC-1024x288-1-300x84.jpg" decoding="async" height="288" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="wp-content/uploads/2023/11/UPMC-1024x288-1.jpg" srcset="wp-content/uploads/2023/11/UPMC-1024x288-1.jpg 1024w, wp-content/uploads/2023/11/UPMC-1024x288-1-300x84.jpg 300w, wp-content/uploads/2023/11/UPMC-1024x288-1-768x216.jpg 768w" style="" title="UPMC-1024x288" width="1024"/>
 </span>
 </div><div class="thrv_wrapper tve_image_caption jg-entry jg-entry-visible" data-caption="" data-id="3718" data-index="1" data-position="2/5" data-selector='[data-css="tve-u-18baecef7f0"] .thrv_wrapper.tve_image_caption' style="width: 147px; height: 73.888px; top: 143.97px; left: 30px;">
 <span class="tve_image_frame no_style">
-<img alt="" class="tve_image wp-image-3718" data-css="tve-u-18baed5b8d4" data-id="3718" data-sizes='{"thumbnail":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/highmark-thumb-150x150.png","height":150,"width":150,"orientation":"landscape"},"medium":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/highmark-thumb-300x150.png","height":150,"width":300,"orientation":"landscape"},"full":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/highmark-thumb.png","height":200,"width":400,"orientation":"landscape"},"tf-client-image-size":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/highmark-thumb-120x120.png","height":120,"width":120,"orientation":"landscape"}}' data-src="wp-content/uploads/2023/11/highmark-thumb-300x150.png" decoding="async" height="200" loading="lazy" sizes="auto, (max-width: 400px) 100vw, 400px" src="wp-content/uploads/2023/11/highmark-thumb.png" srcset="wp-content/uploads/2023/11/highmark-thumb.png 400w, wp-content/uploads/2023/11/highmark-thumb-300x150.png 300w" style="" title="highmark-thumb" width="400"/>
+<img alt="" class="tve_image wp-image-3718" data-css="tve-u-18baed5b8d4" data-id="3718" data-sizes='{"thumbnail":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/highmark-thumb-150x150.png","height":150,"width":150,"orientation":"landscape"},"medium":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/highmark-thumb-300x150.png","height":150,"width":300,"orientation":"landscape"},"full":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/highmark-thumb.png","height":200,"width":400,"orientation":"landscape"},"tf-client-image-size":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/highmark-thumb-120x120.png","height":120,"width":120,"orientation":"landscape"}}' data-src="wp-content/uploads/2023/11/highmark-thumb-300x150.png" decoding="async" height="200" loading="lazy" sizes="auto, (max-width: 400px) 100vw, 400px" src="wp-content/uploads/2023/11/highmark-thumb.png" srcset="wp-content/uploads/2023/11/highmark-thumb.png 400w, wp-content/uploads/2023/11/highmark-thumb-300x150.png 300w" style="" title="highmark-thumb" width="400"/>
 </span>
 </div><div class="thrv_wrapper tve_image_caption jg-entry jg-entry-visible" data-caption="" data-id="137" data-index="2" data-position="3/5" data-selector='[data-css="tve-u-18baecef7f0"] .thrv_wrapper.tve_image_caption' style="width: 124px; height: 73.888px; top: 143.97px; left: 207px;">
 <span class="tve_image_frame no_style">
-<img alt="recovery treatment" class="tve_image wp-image-137" data-css="tve-u-18baed5b8d5" data-id="137" data-sizes='{"thumbnail":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2021/10/8-150x126.png","height":126,"width":150,"orientation":"landscape"},"full":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2021/10/8.png","height":126,"width":212,"orientation":"landscape"}}' data-src="wp-content/uploads/2021/10/8.png" decoding="async" height="126" loading="lazy" src="wp-content/uploads/2021/10/8.png" style="" title="recovery treatment" width="212"/>
+<img alt="recovery treatment" class="tve_image wp-image-137" data-css="tve-u-18baed5b8d5" data-id="137" data-sizes='{"thumbnail":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2021/10/8-150x126.png","height":126,"width":150,"orientation":"landscape"},"full":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2021/10/8.png","height":126,"width":212,"orientation":"landscape"}}' data-src="wp-content/uploads/2021/10/8.png" decoding="async" height="126" loading="lazy" src="wp-content/uploads/2021/10/8.png" style="" title="recovery treatment" width="212"/>
 </span>
 </div><div class="thrv_wrapper tve_image_caption jg-entry jg-entry-visible" data-caption="" data-id="3719" data-index="3" data-position="4/5" data-selector='[data-css="tve-u-18baecef7f0"] .thrv_wrapper.tve_image_caption' style="width: 140px; height: 78.4397px; top: 247.858px; left: 30px;">
 <span class="tve_image_frame no_style">
-<img alt="" class="tve_image wp-image-3719" data-css="tve-u-18baed5b8d7" data-id="3719" data-sizes='{"thumbnail":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/Aetna-Logo-2012-150x150.jpg","height":150,"width":150,"orientation":"landscape"},"medium":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/Aetna-Logo-2012-300x169.jpg","height":169,"width":300,"orientation":"landscape"},"large":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/Aetna-Logo-2012-1024x576.jpg","height":576,"width":1024,"orientation":"landscape"},"full":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/Aetna-Logo-2012.jpg","height":720,"width":1280,"orientation":"landscape"},"tf-client-image-size":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/Aetna-Logo-2012-120x120.jpg","height":120,"width":120,"orientation":"landscape"}}' data-src="wp-content/uploads/2023/11/Aetna-Logo-2012-300x169.jpg" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 1280px) 100vw, 1280px" src="wp-content/uploads/2023/11/Aetna-Logo-2012-1024x576.jpg" srcset="wp-content/uploads/2023/11/Aetna-Logo-2012-1024x576.jpg 1024w, wp-content/uploads/2023/11/Aetna-Logo-2012-300x169.jpg 300w, wp-content/uploads/2023/11/Aetna-Logo-2012-768x432.jpg 768w, wp-content/uploads/2023/11/Aetna-Logo-2012.jpg 1280w" style="" title="Aetna-Logo-2012" width="1280"/>
+<img alt="" class="tve_image wp-image-3719" data-css="tve-u-18baed5b8d7" data-id="3719" data-sizes='{"thumbnail":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/Aetna-Logo-2012-150x150.jpg","height":150,"width":150,"orientation":"landscape"},"medium":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/Aetna-Logo-2012-300x169.jpg","height":169,"width":300,"orientation":"landscape"},"large":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/Aetna-Logo-2012-1024x576.jpg","height":576,"width":1024,"orientation":"landscape"},"full":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/Aetna-Logo-2012.jpg","height":720,"width":1280,"orientation":"landscape"},"tf-client-image-size":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/11/Aetna-Logo-2012-120x120.jpg","height":120,"width":120,"orientation":"landscape"}}' data-src="wp-content/uploads/2023/11/Aetna-Logo-2012-300x169.jpg" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 1280px) 100vw, 1280px" src="wp-content/uploads/2023/11/Aetna-Logo-2012-1024x576.jpg" srcset="wp-content/uploads/2023/11/Aetna-Logo-2012-1024x576.jpg 1024w, wp-content/uploads/2023/11/Aetna-Logo-2012-300x169.jpg 300w, wp-content/uploads/2023/11/Aetna-Logo-2012-768x432.jpg 768w, wp-content/uploads/2023/11/Aetna-Logo-2012.jpg 1280w" style="" title="Aetna-Logo-2012" width="1280"/>
 </span>
 </div><div class="thrv_wrapper tve_image_caption jg-entry jg-entry-visible" data-caption="" data-id="132" data-index="4" data-position="5/5" data-selector='[data-css="tve-u-18baecef7f0"] .thrv_wrapper.tve_image_caption' style="width: 131px; height: 78.4397px; top: 247.858px; left: 200px;">
 <span class="tve_image_frame no_style">
-<img alt="Cigna" class="tve_image wp-image-132" data-css="tve-u-18baed5b8d8" data-id="132" data-sizes='{"thumbnail":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2021/10/3-150x126.png","height":126,"width":150,"orientation":"landscape"},"full":{"url":"/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2021/10/3.png","height":126,"width":212,"orientation":"landscape"}}' data-src="wp-content/uploads/2021/10/3.png" decoding="async" height="126" loading="lazy" src="wp-content/uploads/2021/10/3.png" style="" title="Cigna" width="212"/>
+<img alt="Cigna" class="tve_image wp-image-132" data-css="tve-u-18baed5b8d8" data-id="132" data-sizes='{"thumbnail":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2021/10/3-150x126.png","height":126,"width":150,"orientation":"landscape"},"full":{"url":"assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2021/10/3.png","height":126,"width":212,"orientation":"landscape"}}' data-src="wp-content/uploads/2021/10/3.png" decoding="async" height="126" loading="lazy" src="wp-content/uploads/2021/10/3.png" style="" title="Cigna" width="212"/>
 </span>
 </div></div></div><div class="thrv_wrapper thrv_text_element" data-css="tve-u-654b76a23544b2"><section class="" data-brz-uid="amikrwjymnphxekztmbrxsqftcmclngkrxxp" name="amikrwjymnphxekztmbrxsqftcmclngkrxxp"><p data-generated-css="brz-css-qtuec" data-uniq-id="lfjot" style="text-align: center;" tabindex="-1">Also, we <strong>do not accept </strong>any Medicaid or Medicare products.</p></section></div></div>
 </div><div class="thrv_wrapper thrv-page-section tve-height-update" data-css="tve-u-654b76a2354538" data-inherit-lp-settings="1" style="">
@@ -1052,7 +1052,7 @@ var tve_dash_front = {"ajaxurl":"https://optionspa.com/wp-admin/admin-ajax.php",
 <script id="tve_frontend_dropdown-js" src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/dropdown.min__q011b470d.js" type="text/javascript"></script>
 <script id="tve_frontend_menu-js" src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/menu.min__q011b470d.js" type="text/javascript"></script>
 <script type="text/javascript">var tcb_current_post_lists=JSON.parse('[]'); var tcb_post_lists=tcb_post_lists?[...tcb_post_lists,...tcb_current_post_lists]:tcb_current_post_lists;</script><script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min__q98f937dc.js"}}
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"wp-includes/js/wp-emoji-release.min__q98f937dc.js"}}
 </script>
 <script type="module">
 /* <![CDATA[ */

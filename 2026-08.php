@@ -409,8 +409,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   "@type": "MedicalClinic",
   "name": "Options Psychiatry and TMS",
   "url": "https://www.optionspa.com/",
-  "logo": "/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
-  "image": "/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp",
+  "logo": "wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
+  "image": "wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp",
   "description": "Options Psychiatry and TMS offers compassionate mental health care including TMS therapy, medication management, and psychiatric services in Reading, PA.",
   "telephone": "+16107416312",
   "email": "info@optionspa.com",
@@ -1262,42 +1262,42 @@ fbq('track', 'PageView');
                         title: "Dr. Cyntrell Crawford's Addiction Master Class in Acapulco, Mexico. Discuss on Addiction and Recovery",
                         duration: "23:52",
                         videoId: "T0BVvr9W_68",
-                        thumbnail: "/assets-ext/img.youtube.com/vi/T0BVvr9W_68/mqdefault.jpg"
+                        thumbnail: "assets-ext/img.youtube.com/vi/T0BVvr9W_68/mqdefault.jpg"
                     },
                     {
                         id: 2,
                         title: "Dr. Cyntrell Crawford on WFLA Bloom TV discussion on Breaking Bad Habits",
                         duration: "5:08",
                         videoId: "X0yDwXrwXwY",
-                        thumbnail: "/assets-ext/img.youtube.com/vi/X0yDwXrwXwY/mqdefault.jpg"
+                        thumbnail: "assets-ext/img.youtube.com/vi/X0yDwXrwXwY/mqdefault.jpg"
                     },
                     {
                         id: 3,
                         title: "Dr. Cyntrell Crawford discussion with Nigel Farage at LSE about addiction and recovery in UK",
                         duration: "0:56",
                         videoId: "kOAdXPm7YMI",
-                        thumbnail: "/assets-ext/img.youtube.com/vi/kOAdXPm7YMI/mqdefault.jpg"
+                        thumbnail: "assets-ext/img.youtube.com/vi/kOAdXPm7YMI/mqdefault.jpg"
                     },
                     {
                         id: 4,
                         title: "Dr. Cyntrell Crawford discussion with Dog the Bounty Hunter while playing pool about the impact of family in recovery",
                         duration: "1:32",
                         videoId: "CV_7_HlqtrY",
-                        thumbnail: "/assets-ext/img.youtube.com/vi/CV_7_HlqtrY/mqdefault.jpg"
+                        thumbnail: "assets-ext/img.youtube.com/vi/CV_7_HlqtrY/mqdefault.jpg"
                     },
                     {
                         id: 5,
                         title: "Dr Cyntrell Crawford discussion with Dr. Oz about Addiction and Mental Health Treatment in US particularly in Pennsylvania",
                         duration: "1:33",
                         videoId: "CNpNLsoMU3w",
-                        thumbnail: "/assets-ext/img.youtube.com/vi/CNpNLsoMU3w/mqdefault.jpg"
+                        thumbnail: "assets-ext/img.youtube.com/vi/CNpNLsoMU3w/mqdefault.jpg"
                     },
                     {
                         id: 6,
                         title: "Mrs. Sunita D. | Arthritis Pain Relief Story Dr Cyntrell Crawford, MD at Temple University",
                         duration: "5:33",
                         videoId: "YmhMBlXU8wY",
-                        thumbnail: "/assets-ext/img.youtube.com/vi/YmhMBlXU8wY/mqdefault.jpg"
+                        thumbnail: "assets-ext/img.youtube.com/vi/YmhMBlXU8wY/mqdefault.jpg"
                     }
                 ];
 
@@ -1736,12 +1736,12 @@ Victoria Brown</h4>
 
         // Gallery Lightbox Functionality
         const galleryImages = [
-            { src: '/wp-content/uploads/2026/06/machine-1_yubnw6.webp', alt: 'Gallery Image 1' },
-            { src: '/wp-content/uploads/2026/06/machine-2_mjhvda.webp', alt: 'Gallery Image 2' },
-            { src: '/wp-content/uploads/2026/06/gallery-3_obgduh.webp', alt: 'Gallery Image 3' },
-            { src: '/wp-content/uploads/2026/06/gallery-4_l260ve.webp', alt: 'Gallery Image 4' },
-            { src: '/wp-content/uploads/2026/06/gallery-5_wm7adf.webp', alt: 'Gallery Image 5' },
-            { src: '/wp-content/uploads/2026/06/gallery-6_xyqkws.webp', alt: 'Gallery Image 6' },
+            { src: 'wp-content/uploads/2026/06/machine-1_yubnw6.webp', alt: 'Gallery Image 1' },
+            { src: 'wp-content/uploads/2026/06/machine-2_mjhvda.webp', alt: 'Gallery Image 2' },
+            { src: 'wp-content/uploads/2026/06/gallery-3_obgduh.webp', alt: 'Gallery Image 3' },
+            { src: 'wp-content/uploads/2026/06/gallery-4_l260ve.webp', alt: 'Gallery Image 4' },
+            { src: 'wp-content/uploads/2026/06/gallery-5_wm7adf.webp', alt: 'Gallery Image 5' },
+            { src: 'wp-content/uploads/2026/06/gallery-6_xyqkws.webp', alt: 'Gallery Image 6' },
         ];
 
         let currentImageIndex = 0;
@@ -2052,7 +2052,7 @@ var tve_dash_front = {"ajaxurl":"https://optionspa.com/wp-admin/admin-ajax.php",
 <script id="tve_frontend_menu-js" src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/menu.min__q011b470d.js" type="text/javascript"></script>
 <script id="tve_frontend_social-share-js" src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/social-share.min__q011b470d.js" type="text/javascript"></script>
 <script type="text/javascript">var tcb_current_post_lists=JSON.parse('[]'); var tcb_post_lists=tcb_post_lists?[...tcb_post_lists,...tcb_current_post_lists]:tcb_current_post_lists;</script><script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min__q98f937dc.js"}}
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"wp-includes/js/wp-emoji-release.min__q98f937dc.js"}}
 </script>
 <script type="module">
 /* <![CDATA[ */

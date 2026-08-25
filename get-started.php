@@ -223,13 +223,13 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
   "image": [
     {
       "@type": "ImageObject",
-      "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/counseling.png",
-      "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/counseling.png"
+      "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/counseling.png",
+      "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/counseling.png"
     },
     {
       "@type": "ImageObject",
-      "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/happiness-cheerful-elderly-woman-men-tal_03364ae9bb.jpg",
-      "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/happiness-cheerful-elderly-woman-men-tal_03364ae9bb.jpg"
+      "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/happiness-cheerful-elderly-woman-men-tal_03364ae9bb.jpg",
+      "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/happiness-cheerful-elderly-woman-men-tal_03364ae9bb.jpg"
     }
   ],
   "serviceType": "Counseling Services"
@@ -324,19 +324,19 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
   "logo": {
     "@type": "ImageObject",
     "@id": "logo",
-    "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
-    "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
+    "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
+    "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
   },
   "image": [
     {
       "@type": "ImageObject",
-      "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Cyntrell-1.jpg",
-      "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Cyntrell-1.jpg"
+      "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Cyntrell-1.jpg",
+      "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Cyntrell-1.jpg"
     },
     {
       "@type": "ImageObject",
-      "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Jarret-1.jpg",
-      "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Jarret-1.jpg"
+      "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Jarret-1.jpg",
+      "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/Jarret-1.jpg"
     }
   ],
   "description": "If you're looking for mental health support for addicts, look no further than Options Addictions & Recovery. We offer a variety of services to help addicts recover from their addiction.",
@@ -409,8 +409,8 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
   ],
   "logo": {
     "@type": "ImageObject",
-    "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
-    "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
+    "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
+    "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
   },
   "telephone": "(610) 741-6567",
   "contactPoint": {
@@ -479,8 +479,8 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
   "image": [
     {
       "@type": "ImageObject",
-      "contentUrl": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/Reading.webp",
-      "url": "/assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/Reading.webp"
+      "contentUrl": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/Reading.webp",
+      "url": "assets-ext/brandingpioneers.co.in/option-wordpress-web/wp-content/uploads/2023/01/Reading.webp"
     }
   ]
 }</script>
@@ -1033,7 +1033,7 @@ var tve_dash_front = {"ajaxurl":"https://optionspa.com/wp-admin/admin-ajax.php",
 <script id="tve_frontend_dropdown-js" src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/dropdown.min__q011b470d.js" type="text/javascript"></script>
 <script id="tve_frontend_menu-js" src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/menu.min__q011b470d.js" type="text/javascript"></script>
 <script type="text/javascript">var tcb_current_post_lists=JSON.parse('[]'); var tcb_post_lists=tcb_post_lists?[...tcb_post_lists,...tcb_current_post_lists]:tcb_current_post_lists;</script><script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min__q98f937dc.js"}}
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"wp-includes/js/wp-emoji-release.min__q98f937dc.js"}}
 </script>
 <script type="module">
 /* <![CDATA[ */

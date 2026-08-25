@@ -13170,7 +13170,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <script
         type="text/javascript">var tcb_current_post_lists = JSON.parse('[]'); var tcb_post_lists = tcb_post_lists ? [...tcb_post_lists, ...tcb_current_post_lists] : tcb_current_post_lists;</script>
     <script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min__q98f937dc.js"}}
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"wp-includes/js/wp-emoji-release.min__q98f937dc.js"}}
 </script>
     <script type="module">
         /* <![CDATA[ */
