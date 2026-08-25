@@ -87,12 +87,12 @@
 <title>Depression Treatment in Reading, PA | Psychiatrist for Depression - Options Psychiatry</title>
 <meta content="Get compassionate depression treatment in Reading, PA at Options Psychiatry. Our psychiatrists offer therapy, medication management, and advanced care for lasting recovery." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="depression.php" rel="canonical"/>
+<link href="depression" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="Depression Treatment in Reading, PA | Psychiatrist for Depression - Options Psychiatry" property="og:title"/>
 <meta content="Get compassionate depression treatment in Reading, PA at Options Psychiatry. Our psychiatrists offer therapy, medication management, and advanced care for lasting recovery." property="og:description"/>
-<meta content="depression.php" property="og:url"/>
+<meta content="depression" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-06-29T03:14:59-04:00" property="og:updated_time"/>
 <meta content="wp-content/uploads/2026/06/depression-journey_gk42ae.jpg" property="og:image"/>
@@ -996,7 +996,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 <div class="opt-hero-actions">
-<a class="opt-btn-hero-dark" href="contact.php" style="margin-right:12px;">Book Your Consultation</a>
+<a class="opt-btn-hero-dark" href="contact" style="margin-right:12px;">Book Your Consultation</a>
 <a class="opt-btn opt-btn-contact-orange" href="tel:6107416567" style="text-decoration:none;">Call (610) 741-6567</a>
 </div>
 </div>
@@ -1032,7 +1032,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Major Depressive Disorder is a serious medical condition that affects how you feel, think, and
                         handle daily activities. It's more than just feeling blue — it's a persistent state that can
                         last for weeks, months, or even years without appropriate care.</p>
-<p>At <a href="index.php" style=" color: blue;">Options Psychiatry</a>, we understand that every experience with depression is different. That's
+<p>At <a href="./" style=" color: blue;">Options Psychiatry</a>, we understand that every experience with depression is different. That's
                         why we focus on identifying the root causes and providing a customized path toward stability and
                         joy.</p>
 </div>
@@ -1119,7 +1119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             wellness journey.</p>
 </div>
 <div bis_skin_checked="1" class="cta-contact-action">
-<a class="opt-btn opt-btn-contact-orange" href="tms-quiz.php">Take TMS
+<a class="opt-btn opt-btn-contact-orange" href="tms-quiz">Take TMS
                             Quiz</a>
 </div>
 </div>
@@ -1154,7 +1154,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3>Seasonal Affective Disorder (SAD)</h3>
 <p>Depression that occurs at the same time each year, usually during the dark winter months.</p>
 </div>
-<a href="bipolar-disorder.php">
+<a href="bipolar-disorder">
 <div class="opt-type-card opt-reveal" style="transition-delay: 0.4s;">
 <h3>Bipolar Disorder</h3>
 <p>Involves periods of intense lows (depression) alternating with periods of intense highs
@@ -1176,8 +1176,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2>Tailored Treatment Protocols</h2>
 <p>We believe in a holistic strategy for overcoming depression. Our clinic specializes in both
                         standard psychiatric care and evidence-based treatment approaches.</p>
-<p>From <a href="tms-therapy-reading.php" style="color: blue;">TMS Therapy (Transcranial Magnetic Stimulation)</a>, a non-invasive, medication-free approach
-                        FDA-cleared for depression, to precise <a href="medication-management-options.php" style="color: blue;">Medication Management</a>, we ensure you have access to
+<p>From <a href="tms-therapy-reading" style="color: blue;">TMS Therapy (Transcranial Magnetic Stimulation)</a>, a non-invasive, medication-free approach
+                        FDA-cleared for depression, to precise <a href="medication-management-options" style="color: blue;">Medication Management</a>, we ensure you have access to
                         the highest standard of care.</p>
 <ul style="list-style: none; margin-top: 30px; display: flex; flex-direction: column; gap: 15px;">
 <li style="display: flex; gap: 15px; align-items: center;">
@@ -1194,7 +1194,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 </ul>
 <div style="margin-top: 40px;">
-<a class="opt-btn-hero-dark" href="contact.php">Start Your Treatment
+<a class="opt-btn-hero-dark" href="contact">Start Your Treatment
                             Plan</a>
 </div>
 </div>
@@ -1211,20 +1211,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-section-label">Serving Pennsylvania</span>
 <h2 style="margin-bottom:15px;">Depression Treatment Near You in Berks County, PA</h2>
 <p style="max-width:700px;margin:0 auto 30px;">Options Psychiatry is conveniently located in Reading, PA and provides expert psychiatrist services for depression across Berks County and beyond — including West Reading, Wyomissing, Pottstown, Kutztown, Lebanon, Fleetwood, Boyertown, Phoenixville, Norristown, and throughout southeastern Pennsylvania. Telehealth options are also available for patients across the state.</p>
-<a class="opt-btn-hero-dark" href="contact.php" style="margin-right:15px;">Schedule Your Free Consultation</a>
+<a class="opt-btn-hero-dark" href="contact" style="margin-right:15px;">Schedule Your Free Consultation</a>
 <a class="opt-btn opt-btn-contact-orange" href="tel:6107416567" style="text-decoration:none;margin-right:15px;">Call (610) 741-6567 Now</a>
-<a class="opt-btn opt-btn-contact-orange" href="tms-therapy-reading.php" style="text-decoration:none;">Explore TMS Therapy</a>
+<a class="opt-btn opt-btn-contact-orange" href="tms-therapy-reading" style="text-decoration:none;">Explore TMS Therapy</a>
 </div>
 <div style="background:#f0f4f8;border-radius:12px;padding:30px;margin-top:30px;">
 <h3 style="margin-bottom:20px;text-align:center;">Related Mental Health Conditions We Treat</h3>
 <p style="text-align:center;margin-bottom:25px;">Depression often co-occurs with other mental health conditions. Our experienced Reading, PA psychiatrists provide comprehensive care for a range of conditions:</p>
 <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
-<a href="anxiety.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;transition:box-shadow 0.2s;">Anxiety Disorders Treatment →</a>
-<a href="ptsd.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">PTSD &amp; Trauma Treatment →</a>
-<a href="ocd.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">OCD Treatment →</a>
-<a href="bipolar-disorder.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Bipolar Disorder Treatment →</a>
-<a href="adhd.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">ADHD Treatment →</a>
-<a href="medication-management-options.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Medication Management →</a>
+<a href="anxiety" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;transition:box-shadow 0.2s;">Anxiety Disorders Treatment →</a>
+<a href="ptsd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">PTSD &amp; Trauma Treatment →</a>
+<a href="ocd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">OCD Treatment →</a>
+<a href="bipolar-disorder" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Bipolar Disorder Treatment →</a>
+<a href="adhd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">ADHD Treatment →</a>
+<a href="medication-management-options" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Medication Management →</a>
 </div>
 </div>
 </div>
@@ -1251,7 +1251,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-faq-toggle"><i class="fa-solid fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>Therapy helps individuals understand negative thought patterns, develop coping strategies, and improve emotional health. Many people combine therapy with medication or TMS for depression for better results. A <a href="index.php" style="color: blue;">psychiatrist in Reading PA</a> can recommend the right approach for effective depression treatment in Reading PA.</p>
+<p>Therapy helps individuals understand negative thought patterns, develop coping strategies, and improve emotional health. Many people combine therapy with medication or TMS for depression for better results. A <a href="./" style="color: blue;">psychiatrist in Reading PA</a> can recommend the right approach for effective depression treatment in Reading PA.</p>
 </div>
 </div>
 <div class="opt-faq-item">
@@ -1278,7 +1278,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-faq-toggle"><i class="fa-solid fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>Yes, depression can affect memory, focus, and concentration. Treating depression through therapy, medication, or TMS for depression may help improve cognitive function. Clinics offering <a href="tms-therapy-reading.php" style="color: blue;">TMS Therapy in Reading PA</a> often treat patients whose symptoms do not improve with medication alone.</p>
+<p>Yes, depression can affect memory, focus, and concentration. Treating depression through therapy, medication, or TMS for depression may help improve cognitive function. Clinics offering <a href="tms-therapy-reading" style="color: blue;">TMS Therapy in Reading PA</a> often treat patients whose symptoms do not improve with medication alone.</p>
 </div>
 </div>
 </div>

@@ -87,12 +87,12 @@
 <title>TMS Near Me in Reading, PA | Advanced TMS Therapy</title>
 <meta content="Looking for TMS near me in Reading, PA? Options Psychiatry offers FDA-cleared TMS therapy for depression. Non-invasive, medication-free relief. Book today!" name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="tms-therapy-reading.php" rel="canonical"/>
+<link href="tms-therapy-reading" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="TMS Near Me in Reading, PA | Advanced TMS Therapy" property="og:title"/>
 <meta content="Looking for TMS near me in Reading, PA? Options Psychiatry offers FDA-cleared TMS therapy for depression. Non-invasive, medication-free relief. Book today!" property="og:description"/>
-<meta content="tms-therapy-reading.php" property="og:url"/>
+<meta content="tms-therapy-reading" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-06-29T03:00:34-04:00" property="og:updated_time"/>
 <meta content="wp-content/uploads/2026/06/tms-main-img_xukwt6.webp" property="og:image"/>
@@ -1476,7 +1476,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 <div class="opt-hero-actions">
-<a class="opt-btn-hero-dark" href="contact.php"> Book Your Free TMS Evaluation Today</a>
+<a class="opt-btn-hero-dark" href="contact"> Book Your Free TMS Evaluation Today</a>
 </div>
 </div>
 <!-- RIGHT COLUMN (Form) -->
@@ -1598,7 +1598,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="opt-conditions-grid">
 <!-- 1. Depression -->
-<a href="depression.php">
+<a href="depression">
 <div class="opt-condition-card opt-reveal">
 <div class="opt-condition-header">
 <div class="opt-condition-icon-box"><i class="fa-regular fa-face-smile"></i></div>
@@ -1607,7 +1607,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p class="opt-condition-desc">TMS stimulates underactive brain regions to improve mood and reduce
                         symptoms in treatment-resistant depression where medications have failed.</p>
 </div></a>
-<a href="anxiety.php">
+<a href="anxiety">
 <!-- 2. Anxiety -->
 <div class="opt-condition-card opt-reveal" style="transition-delay: 0.1s;">
 <div class="opt-condition-header">
@@ -1617,7 +1617,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p class="opt-condition-desc">Helps regulate brain activity linked to excessive worry and panic,
                         reducing symptoms of generalized anxiety and panic disorders effectively.</p>
 </div></a>
-<a href="ocd.php">
+<a href="ocd">
 <!-- 3. OCD -->
 <div class="opt-condition-card opt-reveal" style="transition-delay: 0.2s;">
 <div class="opt-condition-header">
@@ -1628,7 +1628,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         compulsive
                         behaviors, offering relief when standard treatments aren't enough.</p>
 </div></a>
-<a href="ptsd.php">
+<a href="ptsd">
 <!-- 4. PTSD -->
 <div class="opt-condition-card opt-reveal">
 <div class="opt-condition-header">
@@ -1638,7 +1638,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p class="opt-condition-desc">Reduces hyperactivity in stress-related brain areas, alleviating
                         trauma-related symptoms like flashbacks and hyperarousal.</p>
 </div></a>
-<a href="adhd.php">
+<a href="adhd">
 <!-- 5. ADHD -->
 <div class="opt-condition-card opt-reveal" style="transition-delay: 0.1s;">
 <div class="opt-condition-header">
@@ -1648,7 +1648,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p class="opt-condition-desc">Can improve focus and cognitive control by stimulating the prefrontal
                         cortex, aiding those who struggle with attention and impulsivity.</p>
 </div></a>
-<a href="bipolar-disorder.php">
+<a href="bipolar-disorder">
 <!-- 6. Bipolar -->
 <div class="opt-condition-card opt-reveal" style="transition-delay: 0.2s;">
 <div class="opt-condition-header">
@@ -1688,7 +1688,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>These pulses are targeted specifically at the prefrontal cortex—the region of the brain involved
                         in mood regulation that is often underactive in depression.</p>
 <div style="margin-top: 30px; display: flex; gap: 15px;">
-<a class="opt-btn opt-btn-primary" href="contact.php">Schedule Your Free Consultation Now</a>
+<a class="opt-btn opt-btn-primary" href="contact">Schedule Your Free Consultation Now</a>
 </div>
 </div>
 <div class="opt-zigzag-visual">
@@ -1734,7 +1734,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             wellness journey.</p>
 </div>
 <div bis_skin_checked="1" class="cta-contact-action">
-<a class="opt-btn opt-btn-contact-orange" href="tms-quiz.php">Take the Free TMS Quiz – See If You Qualify</a>
+<a class="opt-btn opt-btn-contact-orange" href="tms-quiz">Take the Free TMS Quiz – See If You Qualify</a>
 </div>
 </div>
 </div>

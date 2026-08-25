@@ -87,12 +87,12 @@
 <title>contact us - Options Psychiatry</title>
 <meta content="(610) 741-6567" name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="contact.php" rel="canonical"/>
+<link href="contact" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="contact us - Options Psychiatry" property="og:title"/>
 <meta content="(610) 741-6567" property="og:description"/>
-<meta content="contact.php" property="og:url"/>
+<meta content="contact" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-08-13T09:02:13-04:00" property="og:updated_time"/>
 <meta content="summary_large_image" name="twitter:card"/>

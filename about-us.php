@@ -843,14 +843,14 @@
         content="Learn about Options Psychiatry, our mission, experienced mental health professionals, and patient-focused approach to delivering compassionate psychiatric care."
         name="description" />
     <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots" />
-    <link href="about-us.php" rel="canonical" />
+    <link href="about-us" rel="canonical" />
     <meta content="en_US" property="og:locale" />
     <meta content="article" property="og:type" />
     <meta content="About Us | Options Psychiatry" property="og:title" />
     <meta
         content="Learn about Options Psychiatry, our mission, experienced mental health professionals, and patient-focused approach to delivering compassionate psychiatric care."
         property="og:description" />
-    <meta content="about-us.php" property="og:url" />
+    <meta content="about-us" property="og:url" />
     <meta content="Options Psychiatry" property="og:site_name" />
     <meta content="2026-04-11T03:50:57-04:00" property="og:updated_time" />
     <meta content="wp-content/uploads/2022/03/about-us.jpg" property="og:image" />
@@ -8522,7 +8522,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                     <div class="mobile-booking">
                                                         <div class="col-sm-4 col-xs-4">
                                                             <div class="book-ap book-ap-bg"><a
-                                                                    href="contact.php">REQUEST A<br />CONSULTATION</a>
+                                                                    href="contact">REQUEST A<br />CONSULTATION</a>
                                                             </div>
                                                         </div>
                                                         <div class="col-sm-4 col-xs-4">
@@ -8545,7 +8545,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                         <div class="tcb-flex-col" data-css="tve-u-16eff067282" style="">
                                             <div class="tcb-col" style=""><a class="tcb-logo thrv_wrapper"
                                                     data-css="tve-u-17076c6b956" data-img-style="width: 100%;"
-                                                    href="index.php" target="_blank">
+                                                    href="./" target="_blank">
                                                     <picture>
                                                         <source media="(min-width:1024px)"
                                                             srcset="wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY-300x112.png 300w, wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png 463w" />
@@ -8587,7 +8587,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-id="74" data-item-display-desktop="text"
                                                                     id="menu-item-74"><a
                                                                         class="tcb-menu-item-container tcb--row"
-                                                                        href="generated-homepage.php"><span
+                                                                        href="generated-homepage"><span
                                                                             class="tcb-menu-item-image menu-item-74-img tve_editable tcb-elem-placeholder">
                                                                             <span
                                                                                 class="tcb-inline-placeholder-action with-icon">
@@ -8601,7 +8601,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-id="3052" data-item-display-desktop="text"
                                                                     id="menu-item-3052"><a
                                                                         class="tcb-menu-item-container tcb--row tve-state-active"
-                                                                        href="about-us.php"><span
+                                                                        href="about-us"><span
                                                                             class="tcb-menu-item-image menu-item-3052-img tve_editable tcb-elem-placeholder">
                                                                             <span
                                                                                 class="tcb-inline-placeholder-action with-icon">
@@ -8623,14 +8623,14 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                             data-id="2983"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-2983"><a
-                                                                                href="dr-crawford-old.php"><span
+                                                                                href="dr-crawford-old"><span
                                                                                     class="tve-disabled-text-inner">Meet
                                                                                     Dr. Crawford Old</span></a></li>
                                                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3386 lvl-1"
                                                                             data-id="3386"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-3386"><a
-                                                                                href="media.php"><span
+                                                                                href="media"><span
                                                                                     class="tve-disabled-text-inner">Media</span></a>
                                                                         </li>
                                                                     </ul>
@@ -8660,7 +8660,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                             data-id="3039"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-3039"><a
-                                                                                href="tms-therapy-reading-old.php"><span
+                                                                                href="tms-therapy-reading-old"><span
                                                                                     class="tve-disabled-text-inner">TMS
                                                                                     Therapy at Options Old</span></a>
                                                                         </li>
@@ -8668,7 +8668,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                             data-id="3038"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-3038"><a
-                                                                                href="medication-management-options-old.php"><span
+                                                                                href="medication-management-options-old"><span
                                                                                     class="tve-disabled-text-inner">Medication
                                                                                     Management at Options Old</span></a>
                                                                         </li>
@@ -8699,14 +8699,14 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                             data-id="3751"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-3751"><a
-                                                                                href="get-started.php"><span
+                                                                                href="get-started"><span
                                                                                     class="tve-disabled-text-inner">Get
                                                                                     Started</span></a></li>
                                                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3755 lvl-1"
                                                                             data-id="3755"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-3755"><a
-                                                                                href="insurances-accepted.php"><span
+                                                                                href="insurances-accepted"><span
                                                                                     class="tve-disabled-text-inner">Insurances
                                                                                     Accepted</span></a></li>
                                                                     </ul>
@@ -8715,7 +8715,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-id="2982" data-item-display-desktop="text"
                                                                     id="menu-item-2982"><a
                                                                         class="tcb-menu-item-container tcb--row"
-                                                                        href="blog-old.php"><span
+                                                                        href="blog-old"><span
                                                                             class="tcb-menu-item-image menu-item-2982-img tve_editable tcb-elem-placeholder">
                                                                             <span
                                                                                 class="tcb-inline-placeholder-action with-icon">
@@ -8729,7 +8729,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-id="2984" data-item-display-desktop="text"
                                                                     id="menu-item-2984"><a
                                                                         class="tcb-menu-item-container tcb--row"
-                                                                        href="contact-old.php"><span
+                                                                        href="contact-old"><span
                                                                             class="tcb-menu-item-image menu-item-2984-img tve_editable tcb-elem-placeholder">
                                                                             <span
                                                                                 class="tcb-inline-placeholder-action with-icon">
@@ -9178,7 +9178,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                 style="">
                                 <div class="thrive-colors-palette-config" style="display: none !important"
                                     wfd-invisible="true"></div>
-                                <a class="tcb-button-link tcb-plain-text" href="contact.php" style="">
+                                <a class="tcb-button-link tcb-plain-text" href="contact" style="">
                                     <span class="tcb-button-texts" style=""><span
                                             class="tcb-button-text thrv-inline-text" data-css="tve-u-6241576d96b3c0"
                                             style=""><strong>CONTACT US</strong></span></span>
@@ -10352,7 +10352,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                         <div class="tcb-flex-col" data-css="tve-u-17c5a123d1b" style="">
                                             <div class="tcb-col">
                                                 <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17c5a0d61bd"
-                                                    style=""><span class="tve_image_frame"><a href="index.php"><img
+                                                    style=""><span class="tve_image_frame"><a href="./"><img
                                                                 alt="" class="tve_image wp-image-3085"
                                                                 data-css="tve-u-17c5a0d7558" data-height="66"
                                                                 data-id="3085" data-init-height="159"
@@ -10420,7 +10420,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-1801809aa7f"
-                                                                    data-tcb_hover_state_parent="" href="index.php"
+                                                                    data-tcb_hover_state_parent="" href="./"
                                                                     style="outline: none;">Home</a></span>
                                                         </li>
                                                         <li class="thrv-styled-list-item" data-css="tve-u-1997fadbea5"
@@ -10439,7 +10439,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-1801809aa7f"
-                                                                    data-tcb_hover_state_parent="" href="about-us.php"
+                                                                    data-tcb_hover_state_parent="" href="about-us"
                                                                     style="outline: none;">About Us</a></span>
                                                         </li>
                                                         <li class="thrv-styled-list-item" data-css="tve-u-17c5a13399f"
@@ -10458,7 +10458,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-1801809aa7f"
-                                                                    data-tcb_hover_state_parent="" href="blog.php"
+                                                                    data-tcb_hover_state_parent="" href="blog"
                                                                     style="outline: none;">Blog</a></span>
                                                         </li>
                                                         <li class="thrv-styled-list-item" data-css="tve-u-17c5a13399f"
@@ -10478,7 +10478,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-1801809c59d"
                                                                     data-tcb_hover_state_parent=""
-                                                                    href="tms-therapy-reading.php"
+                                                                    href="tms-therapy-reading"
                                                                     style="outline: none;">TMS Therapy in
                                                                     Reading </a></span>
                                                         </li>
@@ -10499,7 +10499,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-17fb66e61df"
                                                                     data-tcb_hover_state_parent=""
-                                                                    href="medication-management-options.php"
+                                                                    href="medication-management-options"
                                                                     style="outline: none;">﻿﻿Medication Management in
                                                                     Reading</a></span>
                                                         </li>
@@ -10519,7 +10519,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-17fb66d52a6"
-                                                                    data-tcb_hover_state_parent="" href="contact.php"
+                                                                    data-tcb_hover_state_parent="" href="contact"
                                                                     style="outline: none;">Contact Us</a></span>
                                                         </li>
                                                     </ul>
@@ -10703,7 +10703,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     <p data-css="tve-u-17c5a1d9444"
                                                                         style="text-align: center; color: rgb(255, 255, 255) !important; --tcb-applied-color:rgb(255, 255, 255) !important;">
                                                                         <a class="" data-css="tve-u-17fb66c169d"
-                                                                            href="hipaa-policy.php"
+                                                                            href="hipaa-policy"
                                                                             style="outline: none;">HIPAA Policy</a>
                                                                     </p>
                                                                 </div>
@@ -10716,7 +10716,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     <p data-css="tve-u-17c5a1d9444"
                                                                         style="text-align: center; color: rgb(255, 255, 255) !important; --tcb-applied-color:rgb(255, 255, 255) !important;">
                                                                         <a class="" data-css="tve-u-17fb66c169d"
-                                                                            href="privacy-policy.php"
+                                                                            href="privacy-policy"
                                                                             style="outline: none;">Privacy Policy</a>
                                                                     </p>
                                                                 </div>
@@ -10729,7 +10729,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     <p data-css="tve-u-17c5a1df383"
                                                                         style="text-align: center;"><a class=""
                                                                             data-css="tve-u-17fb66c902c"
-                                                                            href="terms-of-services.php"
+                                                                            href="terms-of-services"
                                                                             style="outline: none;">Terms of Service</a>
                                                                     </p>
                                                                 </div>
@@ -10742,7 +10742,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     <p data-css="tve-u-17c5a1e0643"
                                                                         style="text-align: center;"><a class=""
                                                                             data-css="tve-u-17fb66cee59"
-                                                                            href="disclaimer.php">Disclaimer</a></p>
+                                                                            href="disclaimer">Disclaimer</a></p>
                                                                 </div>
                                                             </div>
                                                         </div>

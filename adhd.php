@@ -87,12 +87,12 @@
 <title>ADHD Treatment in Reading, PA | Adult ADHD Psychiatrist - Options Psychiatry</title>
 <meta content="Get expert ADHD treatment in Reading, PA at Options Psychiatry. Our psychiatrists provide accurate diagnosis, medication management, and personalized care to improve focus and daily functioning." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="adhd.php" rel="canonical"/>
+<link href="adhd" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="ADHD Treatment in Reading, PA | Adult ADHD Psychiatrist - Options Psychiatry" property="og:title"/>
 <meta content="Get expert ADHD treatment in Reading, PA at Options Psychiatry. Our psychiatrists provide accurate diagnosis, medication management, and personalized care to improve focus and daily functioning." property="og:description"/>
-<meta content="adhd.php" property="og:url"/>
+<meta content="adhd" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-06-29T03:40:26-04:00" property="og:updated_time"/>
 <meta content="wp-content/uploads/2026/06/adhd-journey_a1bd0l.jpg" property="og:image"/>
@@ -994,7 +994,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 <div class="opt-hero-actions">
-<a class="opt-btn-hero-dark" href="contact.php">Book Your
+<a class="opt-btn-hero-dark" href="contact">Book Your
                             Consultation</a>
 </div>
 </div>
@@ -1030,7 +1030,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Attention Deficit Hyperactivity Disorder (ADHD) is a neurodevelopmental condition that affects
                         the executive functions of the brain—like focus, memory, and impulse control. It’s not about a
                         lack of effort; it’s about how your brain prioritizes stimuli.</p>
-<p>At <a href="index.php" style="color: blue;">Options Psychiatry</a>, we move beyond just managing symptoms. We use a combination of diagnostic
+<p>At <a href="./" style="color: blue;">Options Psychiatry</a>, we move beyond just managing symptoms. We use a combination of diagnostic
                         expertise and advanced treatment to help you align your brain’s natural strengths with the
                         demands of your daily life.</p>
 </div>
@@ -1145,7 +1145,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2>Comprehensive Care for ADHD</h2>
 <p>Every ADHD journey is unique. We provide a multifaceted approach that addresses the biological
                         and behavioral aspects of the condition.</p>
-<p>We combine <a href="medication-management-options.php" style="color: blue;"> Medication Management</a> with structured support and evidence-based treatment approaches.
+<p>We combine <a href="medication-management-options" style="color: blue;"> Medication Management</a> with structured support and evidence-based treatment approaches.
                         While TMS is primarily known for depression, emerging protocols are showing promise for
                         cognitive enhancement and focus modulation in certain presentations of ADHD.</p>
 <ul style="list-style: none; margin-top: 30px; display: flex; flex-direction: column; gap: 15px;">
@@ -1163,7 +1163,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 </ul>
 <div style="margin-top: 40px;">
-<a class="opt-btn-hero-dark" href="contact.php">Start Your Treatment
+<a class="opt-btn-hero-dark" href="contact">Start Your Treatment
                             Plan</a>
 </div>
 </div>
@@ -1179,19 +1179,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-section-label">Serving Pennsylvania</span>
 <h2 style="margin-bottom:15px;">ADHD Treatment Near You in Berks County, PA</h2>
 <p style="max-width:700px;margin:0 auto 30px;">Options Psychiatry provides expert ADHD diagnosis and treatment in Reading, PA and surrounding communities — including West Reading, Wyomissing, Pottstown, Kutztown, Lebanon, Fleetwood, Boyertown, Phoenixville, Norristown, and throughout Berks County, PA. We serve both children and adults with personalized ADHD care. Telehealth ADHD treatment is also available across Pennsylvania.</p>
-<a class="opt-btn-hero-dark" href="contact.php" style="margin-right:15px;">Schedule Your Free Consultation</a>
+<a class="opt-btn-hero-dark" href="contact" style="margin-right:15px;">Schedule Your Free Consultation</a>
 <a class="opt-btn opt-btn-contact-orange" href="tel:6107416567" style="text-decoration:none;margin-right:15px;">Call (610) 741-6567 Now</a>
-<a class="opt-btn opt-btn-contact-orange" href="medication-management-options.php" style="text-decoration:none;">Explore Medication Management</a>
+<a class="opt-btn opt-btn-contact-orange" href="medication-management-options" style="text-decoration:none;">Explore Medication Management</a>
 </div>
 <div style="background:#f0f4f8;border-radius:12px;padding:30px;margin-top:30px;">
 <h3 style="margin-bottom:20px;text-align:center;">Related Mental Health Conditions We Treat</h3>
 <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
-<a href="depression.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Depression Treatment →</a>
-<a href="anxiety.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Anxiety Disorders Treatment →</a>
-<a href="ptsd.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">PTSD Treatment →</a>
-<a href="ocd.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">OCD Treatment →</a>
-<a href="bipolar-disorder.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Bipolar Disorder Treatment →</a>
-<a href="medication-management-options.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Medication Management →</a>
+<a href="depression" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Depression Treatment →</a>
+<a href="anxiety" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Anxiety Disorders Treatment →</a>
+<a href="ptsd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">PTSD Treatment →</a>
+<a href="ocd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">OCD Treatment →</a>
+<a href="bipolar-disorder" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Bipolar Disorder Treatment →</a>
+<a href="medication-management-options" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Medication Management →</a>
 </div>
 </div>
 </div>
@@ -1219,7 +1219,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-faq-toggle"><i class="fa-solid fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>ADHD symptoms can change over time. Some people learn coping strategies as they get older, while others may experience increased challenges with organization, focus, or time management. Seeking professional <a href="index.php" style="color: blue;">mental health service in Reading PA</a> can help manage symptoms effectively.</p>
+<p>ADHD symptoms can change over time. Some people learn coping strategies as they get older, while others may experience increased challenges with organization, focus, or time management. Seeking professional <a href="./" style="color: blue;">mental health service in Reading PA</a> can help manage symptoms effectively.</p>
 </div>
 </div>
 <div class="opt-faq-item">

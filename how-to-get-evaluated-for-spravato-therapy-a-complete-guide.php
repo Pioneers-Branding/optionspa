@@ -834,14 +834,14 @@
 		content="Discover how to get evaluated for Spravato therapy and what providers consider, from treatment-resistant depression and medications to safety and insurance."
 		name="description" />
 	<meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots" />
-	<link href="how-to-get-evaluated-for-spravato-therapy-a-complete-guide.php" rel="canonical" />
+	<link href="how-to-get-evaluated-for-spravato-therapy-a-complete-guide" rel="canonical" />
 	<meta content="en_US" property="og:locale" />
 	<meta content="article" property="og:type" />
 	<meta content="How to Get Evaluated for Spravato Therapy: A Complete Guide" property="og:title" />
 	<meta
 		content="Discover how to get evaluated for Spravato therapy and what providers consider, from treatment-resistant depression and medications to safety and insurance."
 		property="og:description" />
-	<meta content="how-to-get-evaluated-for-spravato-therapy-a-complete-guide.php" property="og:url" />
+	<meta content="how-to-get-evaluated-for-spravato-therapy-a-complete-guide" property="og:url" />
 	<meta content="Options Psychiatry" property="og:site_name" />
 	<meta content="Spravato" property="article:section" />
 	<meta content="2026-08-14T08:12:14-04:00" property="og:updated_time" />
@@ -7182,7 +7182,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 											data-css="tve-u-17c5a9a8d32" style="">
 											<div class="mobile-booking">
 												<div class="col-sm-4 col-xs-4">
-													<div class="book-ap book-ap-bg"><a href="contact.php">REQUEST
+													<div class="book-ap book-ap-bg"><a href="contact">REQUEST
 															A<br />CONSULTATION</a></div>
 												</div>
 												<div class="col-sm-4 col-xs-4">
@@ -7202,7 +7202,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 								data-css="tve-u-16eff063edc" style="padding: 0px !important;">
 								<div class="tcb-flex-col" data-css="tve-u-16eff067282" style="">
 									<div class="tcb-col" style=""><a class="tcb-logo thrv_wrapper"
-											data-css="tve-u-17076c6b956" data-img-style="width: 100%;" href="index.php"
+											data-css="tve-u-17076c6b956" data-img-style="width: 100%;" href="./"
 											target="_blank">
 											<picture>
 												<source media="(min-width:1024px)"
@@ -7243,7 +7243,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 															data-id="74" data-item-display-desktop="text"
 															id="menu-item-74"><a
 																class="tcb-menu-item-container tcb--row"
-																href="generated-homepage.php"><span
+																href="generated-homepage"><span
 																	class="tcb-menu-item-image menu-item-74-img tve_editable tcb-elem-placeholder">
 																	<span
 																		class="tcb-inline-placeholder-action with-icon">
@@ -7257,7 +7257,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 															data-id="3052" data-item-display-desktop="text"
 															id="menu-item-3052"><a
 																class="tcb-menu-item-container tcb--row"
-																href="about-us.php"><span
+																href="about-us"><span
 																	class="tcb-menu-item-image menu-item-3052-img tve_editable tcb-elem-placeholder">
 																	<span
 																		class="tcb-inline-placeholder-action with-icon">
@@ -7278,12 +7278,12 @@ or the following one for loading the Bootstrap library from jsDelivr:
 																<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2983 lvl-1"
 																	data-id="2983" data-item-display-desktop="text"
 																	id="menu-item-2983"><a
-																		href="dr-crawford-old.php"><span
+																		href="dr-crawford-old"><span
 																			class="tve-disabled-text-inner">Meet Dr.
 																			Crawford Old</span></a></li>
 																<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3386 lvl-1"
 																	data-id="3386" data-item-display-desktop="text"
-																	id="menu-item-3386"><a href="media.php"><span
+																	id="menu-item-3386"><a href="media"><span
 																			class="tve-disabled-text-inner">Media</span></a>
 																</li>
 															</ul>
@@ -7312,13 +7312,13 @@ or the following one for loading the Bootstrap library from jsDelivr:
 																<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3039 lvl-1"
 																	data-id="3039" data-item-display-desktop="text"
 																	id="menu-item-3039"><a
-																		href="tms-therapy-reading-old.php"><span
+																		href="tms-therapy-reading-old"><span
 																			class="tve-disabled-text-inner">TMS Therapy
 																			at Options Old</span></a></li>
 																<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3038 lvl-1"
 																	data-id="3038" data-item-display-desktop="text"
 																	id="menu-item-3038"><a
-																		href="medication-management-options-old.php"><span
+																		href="medication-management-options-old"><span
 																			class="tve-disabled-text-inner">Medication
 																			Management at Options Old</span></a></li>
 															</ul>
@@ -7346,13 +7346,13 @@ or the following one for loading the Bootstrap library from jsDelivr:
 															<ul class="sub-menu menu-item-3756-ul">
 																<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3751 lvl-1"
 																	data-id="3751" data-item-display-desktop="text"
-																	id="menu-item-3751"><a href="get-started.php"><span
+																	id="menu-item-3751"><a href="get-started"><span
 																			class="tve-disabled-text-inner">Get
 																			Started</span></a></li>
 																<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3755 lvl-1"
 																	data-id="3755" data-item-display-desktop="text"
 																	id="menu-item-3755"><a
-																		href="insurances-accepted.php"><span
+																		href="insurances-accepted"><span
 																			class="tve-disabled-text-inner">Insurances
 																			Accepted</span></a></li>
 															</ul>
@@ -7361,7 +7361,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 															data-id="2982" data-item-display-desktop="text"
 															id="menu-item-2982"><a
 																class="tcb-menu-item-container tcb--row"
-																href="blog-old.php"><span
+																href="blog-old"><span
 																	class="tcb-menu-item-image menu-item-2982-img tve_editable tcb-elem-placeholder">
 																	<span
 																		class="tcb-inline-placeholder-action with-icon">
@@ -7375,7 +7375,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 															data-id="2984" data-item-display-desktop="text"
 															id="menu-item-2984"><a
 																class="tcb-menu-item-container tcb--row"
-																href="contact-old.php"><span
+																href="contact-old"><span
 																	class="tcb-menu-item-image menu-item-2984-img tve_editable tcb-elem-placeholder">
 																	<span
 																		class="tcb-inline-placeholder-action with-icon">
@@ -7654,13 +7654,13 @@ or the following one for loading the Bootstrap library from jsDelivr:
 										prepared to discuss their current symptoms and previous mental health treatment.
 									</p>
 								</blockquote>
-								<p>At <a data-id="https://optionspa.com/" data-type="link" href="index.php">Options
+								<p>At <a data-id="https://optionspa.com/" data-type="link" href="./">Options
 										Psychiatry</a> in Reading, PA, the initial psychiatric evaluation focuses on
 									understanding the patient’s needs, medical and psychiatric history, symptoms, and
 									treatment goals. The practice provides individualized psychiatric care, medication
 									management, counseling, and other mental health treatment options.</p>
 								<p>During an evaluation, patients can also discuss whether <a data-id="8538"
-										data-type="page" href="spravato-therapy.php">Spravato</a> for
+										data-type="page" href="spravato-therapy">Spravato</a> for
 									treatment-resistant depression or another evidence-based treatment may be
 									appropriate.</p>
 								<h3 class="wp-block-heading">2. Review Your Depression Symptoms</h3>
@@ -7803,7 +7803,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 								<h2 class="wp-block-heading">Does Insurance Cover Spravato?</h2>
 								<p>Insurance coverage for Spravato can vary significantly between health plans, and
 									understanding <a data-id="https://optionspa.com/is-spravato-covered-by-insurance/"
-										data-type="link" href="is-spravato-covered-by-insurance.php">Spravato insurance
+										data-type="link" href="is-spravato-covered-by-insurance">Spravato insurance
 										coverage</a> can help patients prepare for potential authorization and
 									out-of-pocket costs. Coverage may depend on the patient’s diagnosis, previous
 									treatment history, medical necessity, authorization requirements, and individual
@@ -7827,7 +7827,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 								<p>A Spravato assessment does not necessarily mean that Spravato will be the recommended
 									treatment, and learning about <a
 										data-id="https://optionspa.com/tms-therapy-vs-spravato/" data-type="link"
-										href="tms-therapy-vs-spravato.php">TMS therapy vs. Spravato</a> can help
+										href="tms-therapy-vs-spravato">TMS therapy vs. Spravato</a> can help
 									patients understand how these treatment approaches differ.</p>
 								<p>Depending on the diagnosis and treatment history, a psychiatrist may discuss options
 									including medication management, psychotherapy, or other advanced depression
@@ -7835,7 +7835,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 								<p>For example, TMS is a non-invasive treatment that uses magnetic pulses to stimulate
 									specific areas of the brain, and understanding <a
 										data-id="https://optionspa.com/who-is-eligible-for-tms-therapy/"
-										data-type="link" href="who-is-eligible-for-tms-therapy.php">who is eligible for
+										data-type="link" href="who-is-eligible-for-tms-therapy">who is eligible for
 										TMS therapy</a> can help patients explore whether it may be an appropriate
 									alternative.</p>
 								<p>The right treatment depends on the patient’s diagnosis, previous treatment response,
@@ -7845,7 +7845,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 									treatment decisions based on a patient’s complete clinical picture.</p>
 								<p>Depression can have different causes, symptoms, and treatment responses, which is why
 									understanding <a data-id="https://optionspa.com/does-depression-treatment-work/"
-										data-type="link" href="does-depression-treatment-work.php">how depression
+										data-type="link" href="does-depression-treatment-work">how depression
 										treatment works</a> can help patients make informed decisions about their care.
 									A thorough evaluation gives the psychiatrist an opportunity to determine whether the
 									patient has treatment-resistant depression, review previous antidepressant
@@ -7866,7 +7866,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 									determine whether <strong>Spravato for treatment-resistant depression</strong> may
 									be appropriate or whether another approach may better fit the patient’s needs.</p>
 								<p>For individuals seeking <a data-id="https://optionspa.com/psychiatrist-in-reading/"
-										data-type="link" href="psychiatrist-in-reading.php">psychiatric care in
+										data-type="link" href="psychiatrist-in-reading">psychiatric care in
 										Reading, PA</a>, working with an experienced psychiatric provider can provide
 									clarity about available depression treatment options. Options Psychiatry offers
 									personalized psychiatric evaluations and medication management in Reading, PA,
@@ -7953,7 +7953,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 																style="display: none !important"></div>
 															<a class="tcb-button-link tve-dynamic-link"
 																dynamic-postlink="tcb_post_prev_link"
-																href="is-bipolar-disorder-a-permanent-disability.php"
+																href="is-bipolar-disorder-a-permanent-disability"
 																style=""><span class="tcb-button-icon" style="">
 																	<div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-icon-display tcb-local-vars-root"
 																		data-css="tve-u-1746d2d48ed"
@@ -8061,7 +8061,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 												<div class="tcb-col"><a class="tve-dynamic-link"
 														data-shortcode-id="4187"
 														dynamic-postlink="tcb_post_the_permalink"
-														href="is-spravato-covered-by-insurance.php">
+														href="is-spravato-covered-by-insurance">
 														<div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad tcb-local-vars-root"
 															data-css="tve-u-16f8a014a34">
 															<div class="tve-content-box-background"
@@ -8077,7 +8077,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 														style="">
 														<a class="tcb-button-link tcb-post-read-more-link tve_evt_manager_listen tve_et_mouseover"
 															data-tcb-events='__TCB_EVENT_[{"t":"mouseover","config":{"anim":"forward","loop":1},"a":"thrive_animation"}]_TNEVE_BCT__'
-															href="is-spravato-covered-by-insurance.php"><span
+															href="is-spravato-covered-by-insurance"><span
 																class="tcb-button-icon" style="">
 																<div
 																	class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-icon-display">
@@ -8101,7 +8101,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 										</div>
 									</div>
 									<h2 class="tcb-post-title tcb-shortcode thrv_wrapper" data-css="tve-u-16f8a014a38">
-										<a data-css="tve-u-16f8a014a38" href="is-spravato-covered-by-insurance.php"
+										<a data-css="tve-u-16f8a014a38" href="is-spravato-covered-by-insurance"
 											title="Is Spravato® Covered by Insurance? Complete 2026 Guide">Is Spravato®
 											Covered by Insurance? Complete 2026 Guide</a></h2>
 								</article>
@@ -8123,7 +8123,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 												<div class="tcb-col"><a class="tve-dynamic-link"
 														data-shortcode-id="4187"
 														dynamic-postlink="tcb_post_the_permalink"
-														href="tms-therapy-vs-spravato.php">
+														href="tms-therapy-vs-spravato">
 														<div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad tcb-local-vars-root"
 															data-css="tve-u-16f8a014a34">
 															<div class="tve-content-box-background"
@@ -8139,7 +8139,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 														style="">
 														<a class="tcb-button-link tcb-post-read-more-link tve_evt_manager_listen tve_et_mouseover"
 															data-tcb-events='__TCB_EVENT_[{"t":"mouseover","config":{"anim":"forward","loop":1},"a":"thrive_animation"}]_TNEVE_BCT__'
-															href="tms-therapy-vs-spravato.php"><span
+															href="tms-therapy-vs-spravato"><span
 																class="tcb-button-icon" style="">
 																<div
 																	class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-icon-display">
@@ -8163,7 +8163,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 										</div>
 									</div>
 									<h2 class="tcb-post-title tcb-shortcode thrv_wrapper" data-css="tve-u-16f8a014a38">
-										<a data-css="tve-u-16f8a014a38" href="tms-therapy-vs-spravato.php"
+										<a data-css="tve-u-16f8a014a38" href="tms-therapy-vs-spravato"
 											title="TMS Therapy vs. Spravato: Which Depression Treatment Is Right for You?">TMS
 											Therapy vs. Spravato: Which Depression Treatment Is Right for You?</a></h2>
 								</article>
@@ -8195,7 +8195,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 							<div class="thrv_wrapper thrv-search-form" data-css="" data-ct="search_form-56234"
 								data-ct-name="Default Template" data-display-d="none" data-list=""
 								data-position-d="left" data-tcb-events="">
-								<form action="index.php" class="tve-prevent-content-edit" method="get" role="search">
+								<form action="./" class="tve-prevent-content-edit" method="get" role="search">
 									<div class="thrv-sf-submit" data-button-layout="icon_text" data-css="">
 										<button type="submit">
 											<span class="tcb-sf-button-icon">
@@ -8245,7 +8245,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 										</div>
 										<div class="thrive-dynamic-styled-list-text"
 											data-selector=".thrive-dynamic-styled-list-text a">
-											<a class="tcb-plain-text" href="category-adhd.php">ADHD</a>
+											<a class="tcb-plain-text" href="category-adhd">ADHD</a>
 										</div>
 									</li>
 									<li class="thrive-dynamic-styled-list-item dynamic-item-with-icon tve_no_icons"
@@ -8264,7 +8264,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 										</div>
 										<div class="thrive-dynamic-styled-list-text"
 											data-selector=".thrive-dynamic-styled-list-text a">
-											<a class="tcb-plain-text" href="category-anxiety.php">Anxiety</a>
+											<a class="tcb-plain-text" href="category-anxiety">Anxiety</a>
 										</div>
 									</li>
 									<li class="thrive-dynamic-styled-list-item dynamic-item-with-icon tve_no_icons"
@@ -8283,7 +8283,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 										</div>
 										<div class="thrive-dynamic-styled-list-text"
 											data-selector=".thrive-dynamic-styled-list-text a">
-											<a class="tcb-plain-text" href="category-blog.php">blog</a>
+											<a class="tcb-plain-text" href="category-blog">blog</a>
 										</div>
 									</li>
 									<li class="thrive-dynamic-styled-list-item dynamic-item-with-icon tve_no_icons"
@@ -8302,7 +8302,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 										</div>
 										<div class="thrive-dynamic-styled-list-text"
 											data-selector=".thrive-dynamic-styled-list-text a">
-											<a class="tcb-plain-text" href="category-casino.php">casino</a>
+											<a class="tcb-plain-text" href="category-casino">casino</a>
 										</div>
 									</li>
 									<li class="thrive-dynamic-styled-list-item dynamic-item-with-icon tve_no_icons"
@@ -8322,7 +8322,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 										<div class="thrive-dynamic-styled-list-text"
 											data-selector=".thrive-dynamic-styled-list-text a">
 											<a class="tcb-plain-text"
-												href="category-casino-utan-svensk-licens.php">casino utan svensk
+												href="category-casino-utan-svensk-licens">casino utan svensk
 												licens</a>
 										</div>
 									</li>
@@ -9497,7 +9497,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 								<div class="tcb-flex-col" data-css="tve-u-17c5a123d1b" style="">
 									<div class="tcb-col">
 										<div class="thrv_wrapper tve_image_caption" data-css="tve-u-17c5a0d61bd"
-											style=""><span class="tve_image_frame"><a href="index.php"><img alt=""
+											style=""><span class="tve_image_frame"><a href="./"><img alt=""
 														class="tve_image wp-image-3085" data-css="tve-u-17c5a0d7558"
 														data-height="66" data-id="3085" data-init-height="159"
 														data-init-width="420" data-link-wrap="true" data-width="175"
@@ -9561,7 +9561,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 														class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
 														data-css="tve-u-17c5a13235d" style=""><a class=""
 															data-css="tve-u-1801809aa7f" data-tcb_hover_state_parent=""
-															href="index.php" style="outline: none;">Home</a></span>
+															href="./" style="outline: none;">Home</a></span>
 												</li>
 												<li class="thrv-styled-list-item" data-css="tve-u-1997fadbea5" style="">
 													<div class="tcb-styled-list-icon">
@@ -9577,7 +9577,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 														class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
 														data-css="tve-u-17c5a13235d" style=""><a class=""
 															data-css="tve-u-1801809aa7f" data-tcb_hover_state_parent=""
-															href="about-us.php" style="outline: none;">About
+															href="about-us" style="outline: none;">About
 															Us</a></span>
 												</li>
 												<li class="thrv-styled-list-item" data-css="tve-u-17c5a13399f" style="">
@@ -9594,7 +9594,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 														class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
 														data-css="tve-u-17c5a13235d" style=""><a class=""
 															data-css="tve-u-1801809aa7f" data-tcb_hover_state_parent=""
-															href="blog.php" style="outline: none;">Blog</a></span>
+															href="blog" style="outline: none;">Blog</a></span>
 												</li>
 												<li class="thrv-styled-list-item" data-css="tve-u-17c5a13399f" style="">
 													<div class="tcb-styled-list-icon">
@@ -9610,7 +9610,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 														class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
 														data-css="tve-u-17c5a13235d" style=""><a class=""
 															data-css="tve-u-1801809c59d" data-tcb_hover_state_parent=""
-															href="tms-therapy-reading.php" style="outline: none;">TMS
+															href="tms-therapy-reading" style="outline: none;">TMS
 															Therapy in Reading </a></span>
 												</li>
 												<li class="thrv-styled-list-item" data-css="tve-u-17c5a13399f" style="">
@@ -9627,7 +9627,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 														class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
 														data-css="tve-u-17c5a13235d" style=""><a class=""
 															data-css="tve-u-17fb66e61df" data-tcb_hover_state_parent=""
-															href="medication-management-options.php"
+															href="medication-management-options"
 															style="outline: none;">﻿﻿Medication Management in
 															Reading</a></span>
 												</li>
@@ -9645,7 +9645,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 														class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
 														data-css="tve-u-17c5a13235d" style=""><a class=""
 															data-css="tve-u-17fb66d52a6" data-tcb_hover_state_parent=""
-															href="contact.php" style="outline: none;">Contact
+															href="contact" style="outline: none;">Contact
 															Us</a></span>
 												</li>
 											</ul>
@@ -9819,7 +9819,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 															<p data-css="tve-u-17c5a1d9444"
 																style="text-align: center; color: rgb(255, 255, 255) !important; --tcb-applied-color:rgb(255, 255, 255) !important;">
 																<a class="" data-css="tve-u-17fb66c169d"
-																	href="hipaa-policy.php"
+																	href="hipaa-policy"
 																	style="outline: none;">HIPAA Policy</a></p>
 														</div>
 													</div>
@@ -9831,7 +9831,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 															<p data-css="tve-u-17c5a1d9444"
 																style="text-align: center; color: rgb(255, 255, 255) !important; --tcb-applied-color:rgb(255, 255, 255) !important;">
 																<a class="" data-css="tve-u-17fb66c169d"
-																	href="privacy-policy.php"
+																	href="privacy-policy"
 																	style="outline: none;">Privacy Policy</a></p>
 														</div>
 													</div>
@@ -9842,7 +9842,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 															data-css="tve-u-18017a0310e" style="">
 															<p data-css="tve-u-17c5a1df383" style="text-align: center;">
 																<a class="" data-css="tve-u-17fb66c902c"
-																	href="terms-of-services.php"
+																	href="terms-of-services"
 																	style="outline: none;">Terms of Service</a></p>
 														</div>
 													</div>
@@ -9853,7 +9853,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 															data-css="tve-u-18017a03f86" style="">
 															<p data-css="tve-u-17c5a1e0643" style="text-align: center;">
 																<a class="" data-css="tve-u-17fb66cee59"
-																	href="disclaimer.php">Disclaimer</a></p>
+																	href="disclaimer">Disclaimer</a></p>
 														</div>
 													</div>
 												</div>

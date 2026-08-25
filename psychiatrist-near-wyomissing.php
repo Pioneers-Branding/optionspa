@@ -87,12 +87,12 @@
 <title>Pyschiatrist Near Wyomissing - Options Psychiatry</title>
 <meta content="Establishing the gold standard in clinical precision and executive privacy for the Wyomissing community. Experience a higher tier of psychiatric excellence." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="psychiatrist-near-wyomissing.php" rel="canonical"/>
+<link href="psychiatrist-near-wyomissing" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="Pyschiatrist Near Wyomissing - Options Psychiatry" property="og:title"/>
 <meta content="Establishing the gold standard in clinical precision and executive privacy for the Wyomissing community. Experience a higher tier of psychiatric excellence." property="og:description"/>
-<meta content="psychiatrist-near-wyomissing.php" property="og:url"/>
+<meta content="psychiatrist-near-wyomissing" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-04-23T08:09:22-04:00" property="og:updated_time"/>
 <meta content="wp-content/uploads/2026/04/doctor-with-patient.webp" property="og:image"/>
@@ -1234,7 +1234,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h1>Psychiatrist near <i>Wyomissing</i>, PA</h1>
 <p>Establishing the gold standard in clinical precision and executive privacy for the Wyomissing community. Experience a higher tier of psychiatric excellence.</p>
 <div class="hero-btns" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-<a class="btn-lux" href="contact.php" style="background: var(--accent); border-color: var(--accent);">Book Appointment</a>
+<a class="btn-lux" href="contact" style="background: var(--accent); border-color: var(--accent);">Book Appointment</a>
 <a class="btn-lux btn-outline" href="tel:4845091212" style="color: var(--white); border-color: var(--white);">Call (484) 509-1212</a>
 </div>
 </div>
@@ -1254,44 +1254,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- ADHD -->
 <div class="service-lux-card card-adhd">
 <div class="icon-placeholder">🧠</div>
-<h3><a href="adhd.php">ADHD Excellence</a></h3>
+<h3><a href="adhd">ADHD Excellence</a></h3>
 <p>High-performance ADHD management designed specifically for the Wyomissing executive and professional community.</p>
-<a class="learn-more-link" href="adhd.php">Learn More</a>
+<a class="learn-more-link" href="adhd">Learn More</a>
 </div>
 <!-- Depression -->
 <div class="service-lux-card card-depress">
 <div class="icon-placeholder">⚖️</div>
-<h3><a href="depression.php">Depression Care</a></h3>
+<h3><a href="depression">Depression Care</a></h3>
 <p>Modern clinical pathways for treatment-resistant depression, emphasizing rapid stabilization and recovery.</p>
-<a class="learn-more-link" href="depression.php">See Options</a>
+<a class="learn-more-link" href="depression">See Options</a>
 </div>
 <!-- Anxiety -->
 <div class="service-lux-card card-anxiety">
 <div class="icon-placeholder">🕊️</div>
-<h3><a href="anxiety-treatment.php">Anxiety Recovery</a></h3>
+<h3><a href="anxiety-treatment">Anxiety Recovery</a></h3>
 <p>Bespoke protocols for overcoming corporate stress, social anxiety, and chronic worry in Wyomissing.</p>
-<a class="learn-more-link" href="anxiety-treatment.php">Find Calm</a>
+<a class="learn-more-link" href="anxiety-treatment">Find Calm</a>
 </div>
 <!-- TMS -->
 <div class="service-lux-card card-tms">
 <div class="icon-placeholder">⚡</div>
-<h3><a href="tms-therapy.php">TMS Therapy</a></h3>
+<h3><a href="tms-therapy">TMS Therapy</a></h3>
 <p>FDA-cleared, non-invasive neural stimulation for those seeking the gold standard in drug-free treatment.</p>
-<a class="learn-more-link" href="tms-therapy.php">Explore Technology</a>
+<a class="learn-more-link" href="tms-therapy">Explore Technology</a>
 </div>
 <!-- Med -->
 <div class="service-lux-card card-med">
 <div class="icon-placeholder">💊</div>
-<h3><a href="medication-management.php">Med Management</a></h3>
+<h3><a href="medication-management">Med Management</a></h3>
 <p>Data-driven medication oversight that prioritizes cognitive clarity and physiological balance.</p>
-<a class="learn-more-link" href="medication-management.php">View Process</a>
+<a class="learn-more-link" href="medication-management">View Process</a>
 </div>
 <!-- Trauma -->
 <div class="service-lux-card card-trauma">
 <div class="icon-placeholder">🛡️</div>
-<h3><a href="ptsd.php">Trauma Support</a></h3>
+<h3><a href="ptsd">Trauma Support</a></h3>
 <p>Compassionate, evidence-based care helping individuals navigate the complexities of PTSD and trauma.</p>
-<a class="learn-more-link" href="ptsd.php">Begin Healing</a>
+<a class="learn-more-link" href="ptsd">Begin Healing</a>
 </div>
 </div>
 </div>
@@ -1306,9 +1306,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="about-text reveal-hidden reveal-right">
 <span class="badge-premium">The Premier Choice</span>
 <h2>A New Era of <i>Wyomissing</i> Psychiatry.</h2>
-<p>At <a href="index.php" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">Options Psychiatry</a>, we understand that Wyomissing residents expect clinical excellence. Under the expert guidance of the <a href="dr-crawford.php" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;"><b>best psychiatrist in Reading, PA</b></a>, we deliver just that.</p>
+<p>At <a href="./" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">Options Psychiatry</a>, we understand that Wyomissing residents expect clinical excellence. Under the expert guidance of the <a href="dr-crawford" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;"><b>best psychiatrist in Reading, PA</b></a>, we deliver just that.</p>
 <p>Our clinic provides a private, boutique environment designed to provide high-caliber care that adapts to your professional and personal life, not the other way around.</p>
-<a href="about-us.php" style="color: var(--primary); font-weight: 700; text-decoration: underline; text-underline-offset: 5px;">Our Story</a>
+<a href="about-us" style="color: var(--primary); font-weight: 700; text-decoration: underline; text-underline-offset: 5px;">Our Story</a>
 </div>
 </div>
 </div>
@@ -1347,12 +1347,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2>Helping You Rise Above.</h2>
 </div>
 <div class="conditions-lux reveal-hidden">
-<a class="condition-tag-link" href="adhd.php"><span class="condition-tag">ADHD</span></a>
-<a class="condition-tag-link" href="depression.php"><span class="condition-tag">Depression</span></a>
-<a class="condition-tag-link" href="anxiety-treatment.php"><span class="condition-tag">Anxiety</span></a>
-<a class="condition-tag-link" href="ocd.php"><span class="condition-tag">OCD</span></a>
-<a class="condition-tag-link" href="ptsd.php"><span class="condition-tag">PTSD</span></a>
-<a class="condition-tag-link" href="bipolar-disorder.php"><span class="condition-tag">Bipolar</span></a>
+<a class="condition-tag-link" href="adhd"><span class="condition-tag">ADHD</span></a>
+<a class="condition-tag-link" href="depression"><span class="condition-tag">Depression</span></a>
+<a class="condition-tag-link" href="anxiety-treatment"><span class="condition-tag">Anxiety</span></a>
+<a class="condition-tag-link" href="ocd"><span class="condition-tag">OCD</span></a>
+<a class="condition-tag-link" href="ptsd"><span class="condition-tag">PTSD</span></a>
+<a class="condition-tag-link" href="bipolar-disorder"><span class="condition-tag">Bipolar</span></a>
 </div>
 </div>
 </section>
@@ -1426,7 +1426,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 <p>Strategically positioned for the Wyomissing community, we provide an executive environment with free parking for all patients traveling from <b>Wyomissing, West Reading, or Shillington</b>.</p>
-<a class="btn-lux btn-outline" href="contact.php" style="margin-top: 20px;">Contact Our Clinical Team</a>
+<a class="btn-lux btn-outline" href="contact" style="margin-top: 20px;">Contact Our Clinical Team</a>
 </div>
 </div>
 </section>
@@ -1447,7 +1447,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p style="color: rgba(255,255,255,0.7); font-size: 1.3rem; margin-bottom: 55px; max-width: 700px; margin-left: auto; margin-right: auto;">
                 Our clinical team is currently accepting new patients near Wyomissing. Secure your consultation now.</p>
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-<a class="btn-lux" href="contact.php" style="background: var(--accent); border-color: var(--accent);">Schedule Consultation</a>
+<a class="btn-lux" href="contact" style="background: var(--accent); border-color: var(--accent);">Schedule Consultation</a>
 <a class="btn-lux btn-outline" href="tel:4845091212" style="border-color: var(--white); color: var(--white);">Call (484) 509-1212</a>
 </div>
 </div>
@@ -1464,7 +1464,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <details>
 <summary>Do you accept insurance near Wyomissing, PA?</summary>
 <div class="faq-ans">
-<p>Yes. We believe luxury care should be accessible. We are in-network with many major <a href="insurances-accepted.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">insurance providers</a> and our patient advocates will help you maximize your behavioral health benefits.
+<p>Yes. We believe luxury care should be accessible. We are in-network with many major <a href="insurances-accepted" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">insurance providers</a> and our patient advocates will help you maximize your behavioral health benefits.
                         </p>
 </div>
 </details>
@@ -1494,31 +1494,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <details>
 <summary>Does Dr. Crawford provide psychiatric care for Wyomissing professionals?</summary>
 <div class="faq-ans">
-<p>Yes. <a href="dr-crawford.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Dr. Crawford</a> specializes in treating high-performing professionals from the Wyomissing area. We provide extreme clinical privacy and precision-based plans for ADHD and depression. <a href="contact.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Book your executive consultation here</a>.</p>
+<p>Yes. <a href="dr-crawford" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Dr. Crawford</a> specializes in treating high-performing professionals from the Wyomissing area. We provide extreme clinical privacy and precision-based plans for ADHD and depression. <a href="contact" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Book your executive consultation here</a>.</p>
 </div>
 </details>
 <details>
 <summary>What makes Dr. Crawford the best choice for Wyomissing residents?</summary>
 <div class="faq-ans">
-<p>Dr. Crawford combines board-certified expertise with a boutique, private office setting that Wyomissing residents value. <a href="contact.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Contact Options Psychiatry today</a> to experience a higher tier of mental health care.</p>
+<p>Dr. Crawford combines board-certified expertise with a boutique, private office setting that Wyomissing residents value. <a href="contact" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Contact Options Psychiatry today</a> to experience a higher tier of mental health care.</p>
 </div>
 </details>
 <details>
 <summary>Does Options Psychiatry offer telehealth for patients in Wyomissing?</summary>
 <div class="faq-ans">
-<p>Yes. While our Reading hub is just minutes from Wyomissing, <a href="dr-crawford.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Dr. Crawford</a> offers flexible telehealth for ongoing medication management to fit your busy schedule. <a href="contact.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Start your journey with us here</a>.</p>
+<p>Yes. While our Reading hub is just minutes from Wyomissing, <a href="dr-crawford" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Dr. Crawford</a> offers flexible telehealth for ongoing medication management to fit your busy schedule. <a href="contact" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Start your journey with us here</a>.</p>
 </div>
 </details>
 <details>
 <summary>Is insurance accepted for Dr. Crawford's services near Wyomissing?</summary>
 <div class="faq-ans">
-<p>Yes. We are in-network with many major <a href="insurances-accepted.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">insurance providers</a>. Our patient coordinators help Wyomissing residents maximize their benefits for all clinical services. <a href="contact.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Reach out to verify your plan</a>.</p>
+<p>Yes. We are in-network with many major <a href="insurances-accepted" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">insurance providers</a>. Our patient coordinators help Wyomissing residents maximize their benefits for all clinical services. <a href="contact" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Reach out to verify your plan</a>.</p>
 </div>
 </details>
 <details>
 <summary>How can I reach Dr. Crawford's clinical team from Wyomissing?</summary>
 <div class="faq-ans">
-<p>Our Wyomissing-area patients can call us directly at <a href="tel:4845091212" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">(484) 509-1212</a> or use our <a href="contact.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">secure contact form</a> for a direct and confidential response.</p>
+<p>Our Wyomissing-area patients can call us directly at <a href="tel:4845091212" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">(484) 509-1212</a> or use our <a href="contact" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">secure contact form</a> for a direct and confidential response.</p>
 </div>
 </details>
 </div>

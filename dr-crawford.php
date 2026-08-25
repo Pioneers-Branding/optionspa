@@ -87,12 +87,12 @@
 <title>Top Psychiatrist in Reading, PA | Dr. Cyntrell Crawford - Options Psychiatry</title>
 <meta content="Meet Dr. Cyntrell Crawford, a trusted psychiatrist in Reading, PA and founder of Options Psychiatry. Specializing in TMS therapy and personalized mental health care." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="dr-crawford.php" rel="canonical"/>
+<link href="dr-crawford" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="Top Psychiatrist in Reading, PA | Dr. Cyntrell Crawford - Options Psychiatry" property="og:title"/>
 <meta content="Meet Dr. Cyntrell Crawford, a trusted psychiatrist in Reading, PA and founder of Options Psychiatry. Specializing in TMS therapy and personalized mental health care." property="og:description"/>
-<meta content="dr-crawford.php" property="og:url"/>
+<meta content="dr-crawford" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-06-29T02:52:57-04:00" property="og:updated_time"/>
 <meta content="wp-content/uploads/2026/06/neurocare-TMS_v9cdtg.webp" property="og:image"/>
@@ -463,7 +463,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <nav aria-label="Breadcrumb" class="opt-breadcrumbs">
 <ul class="opt-breadcrumbs-list">
 <li class="opt-breadcrumb-item">
-<a href="index.php"><i class="fa fa-home"></i> Home</a>
+<a href="./"><i class="fa fa-home"></i> Home</a>
 </li>
 <li class="opt-breadcrumb-separator">/</li>
 <li aria-current="page" class="opt-breadcrumb-item opt-active">About Us</li>
@@ -538,7 +538,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             psychiatry, Dr. Crawford combines evidence-based medicine with a personalized approach to
                             help each patient find their unique path to recovery.</p>
 <div class="opt-doctor-actions">
-<a class="opt-btn opt-btn-primary" href="contact.php">Schedule A
+<a class="opt-btn opt-btn-primary" href="contact">Schedule A
                                 consultation</a>
 </div>
 </div>
@@ -657,7 +657,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 <div class="opt-cta-button-wrapper">
-<a class="opt-btn opt-btn-cta-appointment" href="contact.php">Schedule An
+<a class="opt-btn opt-btn-cta-appointment" href="contact">Schedule An
                             Appointment</a>
 </div>
 </div>

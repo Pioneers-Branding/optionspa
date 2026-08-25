@@ -87,12 +87,12 @@
 <title>Medication Management in Reading, PA | Psychiatric Care - Options Psychiatry</title>
 <meta content="Get expert medication management in Reading, PA at Options Psychiatry. Our psychiatrists monitor, adjust, and personalize medications for depression, anxiety, ADHD, and more." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="med-management.php" rel="canonical"/>
+<link href="med-management" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="Medication Management in Reading, PA | Psychiatric Care - Options Psychiatry" property="og:title"/>
 <meta content="Get expert medication management in Reading, PA at Options Psychiatry. Our psychiatrists monitor, adjust, and personalize medications for depression, anxiety, ADHD, and more." property="og:description"/>
-<meta content="med-management.php" property="og:url"/>
+<meta content="med-management" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-06-29T03:05:31-04:00" property="og:updated_time"/>
 <meta content="wp-content/uploads/2026/06/medical-consultation_qthtsd.jpg" property="og:image"/>
@@ -877,7 +877,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 <div class="opt-hero-actions">
-<a class="opt-btn opt-btn-primary" href="contact.php">Start Your
+<a class="opt-btn opt-btn-primary" href="contact">Start Your
                             Journey</a>
 <a class="opt-btn" href="tel:6107416567" style="border: 1px solid rgba(255, 255, 255, 0.4); color: white;"><i class="fa-solid fa-phone"></i> (610) 741-6567</a>
 </div>
@@ -923,7 +923,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Medication management is more than just receiving a prescription. It is a comprehensive
                         psychiatric service where our healthcare providers evaluate your biological needs, prescribe
                         appropriate medications, and closely monitor their effectiveness over time.</p>
-<p>At <a href="index.php" style="color: blue;">Options Psychiatry</a>, we believe medication is a powerful tool when used correctly. Our goal is
+<p>At <a href="./" style="color: blue;">Options Psychiatry</a>, we believe medication is a powerful tool when used correctly. Our goal is
                         to find the lowest effective dose to manage your symptoms while minimizing side effects, helping
                         you regain control over your life.</p>
 </div>
@@ -973,7 +973,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="opt-text-center opt-reveal" style="margin-bottom: 50px;">
 <span class="opt-badge-pill">The Options Advantage</span>
 <h2>Why Choose Options Psychiatry?</h2>
-<p style="max-width: 700px; margin: 0 auto;">We combine medical expertise with a compassionate, patient-centered approach to deliver the highest standard of care with a team of <a href="index.php" style="color: blue;">leading psychiatrists in Reading, PA.</a></p>
+<p style="max-width: 700px; margin: 0 auto;">We combine medical expertise with a compassionate, patient-centered approach to deliver the highest standard of care with a team of <a href="./" style="color: blue;">leading psychiatrists in Reading, PA.</a></p>
 </div>
 <div class="opt-grid-3" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
 <div class="opt-feature-box opt-reveal">
@@ -1003,7 +1003,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="opt-text-center opt-reveal" style="margin-bottom: 50px;">
 <span class="opt-badge-pill">Our Full Spectrum</span>
 <h2>What Services Does Options Psychiatry Offer?</h2>
-<p style="max-width: 800px; margin: 0 auto;">We provide a comprehensive range of <a href="index.php" style="color: blue;">mental health services in Reading, PA</a>
+<p style="max-width: 800px; margin: 0 auto;">We provide a comprehensive range of <a href="./" style="color: blue;">mental health services in Reading, PA</a>
                    designed to meet the unique needs of every patient, from advanced technology to traditional
                     therapy.</p>
 </div>
@@ -1013,21 +1013,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3>TMS Therapy</h3>
 <p>FDA-cleared, non-invasive treatment for depression and OCD that uses magnetic pulses to stimulate
                         brain activity.</p>
-<a href="tms-therapy-reading.php" style="color: var(--accent-orange); font-weight: 700; text-decoration: none;">Learn More →</a>
+<a href="tms-therapy-reading" style="color: var(--accent-orange); font-weight: 700; text-decoration: none;">Learn More →</a>
 </div>
 <div class="opt-feature-box opt-reveal" style="transition-delay: 0.1s;">
 <div class="opt-icon-circle"><i class="fa-solid fa-capsules"></i></div>
 <h3>Medication Management</h3>
 <p>Expert psychiatric evaluations and ongoing prescription management to find the right balance for
                         your recovery.</p>
-<a href="medication-management-options.php" style="color: var(--accent-orange); font-weight: 700; text-decoration: none;">Learn More →</a>
+<a href="medication-management-options" style="color: var(--accent-orange); font-weight: 700; text-decoration: none;">Learn More →</a>
 </div>
 <div class="opt-feature-box opt-reveal" style="transition-delay: 0.2s;">
 <div class="opt-icon-circle"><i class="fa-solid fa-comments"></i></div>
 <h3>Psychiatric Evaluations</h3>
 <p>Thorough assessments to accurately diagnose mental health conditions and create personalized
                         treatment pathways.</p>
-<a href="contact.php" style="color: var(--accent-orange); font-weight: 700; text-decoration: none;">Request Eval →</a>
+<a href="contact" style="color: var(--accent-orange); font-weight: 700; text-decoration: none;">Request Eval →</a>
 </div>
 </div>
 </div>
@@ -1044,23 +1044,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul style="list-style: none; padding: 0;">
 <li style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px;">
 <i class="fa-solid fa-circle-check" style="color: var(--accent-orange);"></i>
-<span><a href="depression.php" style="color: blue;">Major Depressive Disorder (MDD)</a></span>
+<span><a href="depression" style="color: blue;">Major Depressive Disorder (MDD)</a></span>
 </li>
 <li style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px;">
 <i class="fa-solid fa-circle-check" style="color: var(--accent-orange);"></i>
-<span>Generalized <a href="anxiety.php" style="color: blue;">Anxiety</a> &amp; Panic Disorders</span>
+<span>Generalized <a href="anxiety" style="color: blue;">Anxiety</a> &amp; Panic Disorders</span>
 </li>
 <li style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px;">
 <i class="fa-solid fa-circle-check" style="color: var(--accent-orange);"></i>
-<span><a href="adhd.php" style="color: blue;">Adult and Pediatric ADHD</a></span>
+<span><a href="adhd" style="color: blue;">Adult and Pediatric ADHD</a></span>
 </li>
 <li style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px;">
 <i class="fa-solid fa-circle-check" style="color: var(--accent-orange);"></i>
-<span><a href="bipolar-disorder.php" style="color: blue">Bipolar I and II Disorders</a></span>
+<span><a href="bipolar-disorder" style="color: blue">Bipolar I and II Disorders</a></span>
 </li>
 <li style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px;">
 <i class="fa-solid fa-circle-check" style="color: var(--accent-orange);"></i>
-<span><a href="ocd.php" style="color: blue;">OCD</a> and <a href="ptsd.php" style="color: blue">PTSD Management</a></span>
+<span><a href="ocd" style="color: blue;">OCD</a> and <a href="ptsd" style="color: blue">PTSD Management</a></span>
 </li>
 </ul>
 </div>
@@ -1112,18 +1112,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-section-label">Serving Pennsylvania</span>
 <h2 style="margin-bottom:15px;">Psychiatric Medication Management Near You in Berks County, PA</h2>
 <p style="max-width:700px;margin:0 auto 30px;">Options Psychiatry provides expert psychiatric medication management in Reading, PA and surrounding communities — including West Reading, Wyomissing, Pottstown, Kutztown, Lebanon, Fleetwood, Boyertown, Phoenixville, Norristown, and throughout Berks County, PA. Telehealth medication management is also available statewide.</p>
-<a class="opt-btn opt-btn-primary" href="contact.php" style="margin-right:15px;">Book Your Free Consultation</a>
+<a class="opt-btn opt-btn-primary" href="contact" style="margin-right:15px;">Book Your Free Consultation</a>
 <a class="opt-btn" href="tel:6107416567" style="border:1px solid var(--accent-orange);color:var(--accent-orange);text-decoration:none;margin-right:15px;">Call (610) 741-6567 Now</a>
 </div>
 <div style="background:#f0f4f8;border-radius:12px;padding:30px;margin-top:30px;">
 <h3 style="margin-bottom:20px;text-align:center;">Mental Health Conditions We Treat with Medication Management</h3>
 <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
-<a href="depression.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Depression Treatment →</a>
-<a href="anxiety.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Anxiety Disorders Treatment →</a>
-<a href="ptsd.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">PTSD Treatment →</a>
-<a href="ocd.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">OCD Treatment →</a>
-<a href="bipolar-disorder.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Bipolar Disorder Treatment →</a>
-<a href="adhd.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">ADHD Treatment →</a>
+<a href="depression" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Depression Treatment →</a>
+<a href="anxiety" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Anxiety Disorders Treatment →</a>
+<a href="ptsd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">PTSD Treatment →</a>
+<a href="ocd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">OCD Treatment →</a>
+<a href="bipolar-disorder" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Bipolar Disorder Treatment →</a>
+<a href="adhd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">ADHD Treatment →</a>
 </div>
 </div>
 </div>

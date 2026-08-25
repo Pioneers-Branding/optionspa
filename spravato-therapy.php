@@ -87,12 +87,12 @@
 <title>Spravato Treatment in Reading, PA | Options Psychiatry.</title>
 <meta content="Looking for TMS near me in Reading, PA? Options Psychiatry offers FDA-cleared TMS therapy for depression. Non-invasive, medication-free relief. Book today!" name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="spravato-therapy.php" rel="canonical"/>
+<link href="spravato-therapy" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="Spravato Treatment in Reading, PA | Options Psychiatry." property="og:title"/>
 <meta content="Looking for TMS near me in Reading, PA? Options Psychiatry offers FDA-cleared TMS therapy for depression. Non-invasive, medication-free relief. Book today!" property="og:description"/>
-<meta content="spravato-therapy.php" property="og:url"/>
+<meta content="spravato-therapy" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-08-13T11:54:07-04:00" property="og:updated_time"/>
 <meta content="wp-content/uploads/2026/06/SpravatoHands-1024x960.webp" property="og:image"/>
@@ -1185,7 +1185,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Our dedicated Spravato® treatment rooms are designed for maximum comfort, featuring dimmable
                         lighting, comfortable seating, and a calming atmosphere to ensure your 2-hour observation period
                         is relaxing and peaceful.</p>
-<a class="spravato-btn" href="contact.php" style="margin-top: 20px;">Schedule
+<a class="spravato-btn" href="contact" style="margin-top: 20px;">Schedule
                         Your Evaluation</a>
 </div>
 <div class="spravato-two-column-img">

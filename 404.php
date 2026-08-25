@@ -22,9 +22,9 @@
 <div class="w">
   <h1>Page not found</h1>
   <p>That page has moved or no longer exists. Let us point you somewhere useful.</p>
-  <a href="index.php">Home</a>
-  <a class="alt" href="contact.php">Contact us</a>
-  <a class="alt" href="blog.php">Blog</a>
+  <a href="./">Home</a>
+  <a class="alt" href="contact">Contact us</a>
+  <a class="alt" href="blog">Blog</a>
 </div>
 </body>
 </html>

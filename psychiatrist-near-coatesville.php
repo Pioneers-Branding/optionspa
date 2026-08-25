@@ -87,12 +87,12 @@
 <title>Psychiatrist near Coatesville - Options Psychiatry</title>
 <meta content="🧠" name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="psychiatrist-near-coatesville.php" rel="canonical"/>
+<link href="psychiatrist-near-coatesville" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="Psychiatrist near Coatesville - Options Psychiatry" property="og:title"/>
 <meta content="🧠" property="og:description"/>
-<meta content="psychiatrist-near-coatesville.php" property="og:url"/>
+<meta content="psychiatrist-near-coatesville" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-04-23T08:10:01-04:00" property="og:updated_time"/>
 <meta content="wp-content/uploads/2026/04/doctor-with-patient.webp" property="og:image"/>
@@ -1285,7 +1285,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Bringing high-caliber clinical expertise and luxury psychiatric care to the Coatesville community. A
                     new standard for mental wellness.</p>
 <div class="hero-btns" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-<a class="btn-lux" href="contact.php" style="background: var(--accent); border-color: var(--accent);">Book Appointment</a>
+<a class="btn-lux" href="contact" style="background: var(--accent); border-color: var(--accent);">Book Appointment</a>
 <a class="btn-lux btn-outline" href="tel:4845091212" style="color: var(--white); border-color: var(--white);">Call (484) 509-1212</a>
 </div>
 </div>
@@ -1305,49 +1305,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- ADHD -->
 <div class="service-lux-card card-adhd">
 <div class="icon-placeholder">🧠</div>
-<h3><a href="adhd.php">ADHD Solutions</a></h3>
+<h3><a href="adhd">ADHD Solutions</a></h3>
 <p>Sophisticated assessments and management plans tailored for the Coatesville professional and
                         student population.</p>
-<a class="learn-more-link" href="adhd.php">Learn More</a>
+<a class="learn-more-link" href="adhd">Learn More</a>
 </div>
 <!-- Depression -->
 <div class="service-lux-card card-depress">
 <div class="icon-placeholder">⚖️</div>
-<h3><a href="depression.php">Depression Care</a></h3>
+<h3><a href="depression">Depression Care</a></h3>
 <p>Advanced therapeutic paths designed to break the cycle of treatment-resistant depression with
                         lasting results.</p>
-<a class="learn-more-link" href="depression.php">See Options</a>
+<a class="learn-more-link" href="depression">See Options</a>
 </div>
 <!-- Anxiety -->
 <div class="service-lux-card card-anxiety">
 <div class="icon-placeholder">🕊️</div>
-<h3><a href="anxiety-treatment.php">Anxiety Recovery</a></h3>
+<h3><a href="anxiety-treatment">Anxiety Recovery</a></h3>
 <p>Proven protocols for managing panic, OCD, and general anxiety near the Coatesville area.</p>
-<a class="learn-more-link" href="anxiety-treatment.php">Find Calm</a>
+<a class="learn-more-link" href="anxiety-treatment">Find Calm</a>
 </div>
 <!-- TMS -->
 <div class="service-lux-card card-tms">
 <div class="icon-placeholder">⚡</div>
-<h3><a href="tms-therapy.php">TMS Technology</a></h3>
+<h3><a href="tms-therapy">TMS Technology</a></h3>
 <p>FDA-cleared neural stimulation providing a drug-free alternative for complex mental health
                         challenges.</p>
-<a class="learn-more-link" href="tms-therapy.php">Explore Technology</a>
+<a class="learn-more-link" href="tms-therapy">Explore Technology</a>
 </div>
 <!-- Med -->
 <div class="service-lux-card card-med">
 <div class="icon-placeholder">💊</div>
-<h3><a href="medication-management.php">Med Management</a></h3>
+<h3><a href="medication-management">Med Management</a></h3>
 <p>Data-driven medication oversight that ensures maximum clinical effectiveness with minimal side
                         effects.</p>
-<a class="learn-more-link" href="medication-management.php">View Process</a>
+<a class="learn-more-link" href="medication-management">View Process</a>
 </div>
 <!-- Trauma -->
 <div class="service-lux-card card-trauma">
 <div class="icon-placeholder">🛡️</div>
-<h3><a href="ptsd.php">Trauma Support</a></h3>
+<h3><a href="ptsd">Trauma Support</a></h3>
 <p>Specialized care for PTSD helping Coatesville residents navigate their path back to strength and
                         resilience.</p>
-<a class="learn-more-link" href="ptsd.php">Begin Healing</a>
+<a class="learn-more-link" href="ptsd">Begin Healing</a>
 </div>
 </div>
 </div>
@@ -1362,13 +1362,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="about-text reveal-hidden reveal-right">
 <span class="badge-premium">The Options Difference</span>
 <h2>Elevating <i>Coatesville</i> Mental Health.</h2>
-<p>At <a href="index.php" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">Options
+<p>At <a href="./" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">Options
                             Psychiatry</a>, we believe Coatesville deserves better than standard mental health services.
-                        Led by the <a href="dr-crawford.php" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;"><b>best
+                        Led by the <a href="dr-crawford" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;"><b>best
                                 psychiatrist in Reading, PA</b></a>, we offer elite care.</p>
 <p>Our Reading-based boutique clinic is designed for those traveling from Chester County who
                         prioritize expert clinical outcomes in a discreet environment.</p>
-<a href="about-us.php" style="color: var(--primary); font-weight: 700; text-decoration: underline; text-underline-offset: 5px;">Our
+<a href="about-us" style="color: var(--primary); font-weight: 700; text-decoration: underline; text-underline-offset: 5px;">Our
                         Approach</a>
 </div>
 </div>
@@ -1408,12 +1408,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2>Helping You Rise Above.</h2>
 </div>
 <div class="conditions-lux reveal-hidden">
-<a class="condition-tag-link" href="adhd.php"><span class="condition-tag">ADHD</span></a>
-<a class="condition-tag-link" href="depression.php"><span class="condition-tag">Depression</span></a>
-<a class="condition-tag-link" href="anxiety-treatment.php"><span class="condition-tag">Anxiety</span></a>
-<a class="condition-tag-link" href="ocd.php"><span class="condition-tag">OCD</span></a>
-<a class="condition-tag-link" href="ptsd.php"><span class="condition-tag">PTSD</span></a>
-<a class="condition-tag-link" href="bipolar-disorder.php"><span class="condition-tag">Bipolar</span></a>
+<a class="condition-tag-link" href="adhd"><span class="condition-tag">ADHD</span></a>
+<a class="condition-tag-link" href="depression"><span class="condition-tag">Depression</span></a>
+<a class="condition-tag-link" href="anxiety-treatment"><span class="condition-tag">Anxiety</span></a>
+<a class="condition-tag-link" href="ocd"><span class="condition-tag">OCD</span></a>
+<a class="condition-tag-link" href="ptsd"><span class="condition-tag">PTSD</span></a>
+<a class="condition-tag-link" href="bipolar-disorder"><span class="condition-tag">Bipolar</span></a>
 </div>
 </div>
 </section>
@@ -1490,7 +1490,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <p>Strategically positioned for Chester County patients, we offer a private clinical environment with
                     free parking for all patients coming from <b>Coatesville, Honey Brook, or Morgantown</b>.</p>
-<a class="btn-lux btn-outline" href="contact.php" style="margin-top: 20px;">Contact Our Clinical Team</a>
+<a class="btn-lux btn-outline" href="contact" style="margin-top: 20px;">Contact Our Clinical Team</a>
 </div>
 </div>
 </section>
@@ -1512,7 +1512,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p style="color: rgba(255,255,255,0.7); font-size: 1.3rem; margin-bottom: 55px; max-width: 700px; margin-left: auto; margin-right: auto;">
                 Our clinical team is currently accepting new patients near Coatesville. Secure your consultation now.</p>
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-<a class="btn-lux" href="contact.php" style="background: var(--accent); border-color: var(--accent);">Schedule Consultation</a>
+<a class="btn-lux" href="contact" style="background: var(--accent); border-color: var(--accent);">Schedule Consultation</a>
 <a class="btn-lux btn-outline" href="tel:4845091212" style="border-color: var(--white); color: var(--white);">Call (484) 509-1212</a>
 </div>
 </div>
@@ -1552,31 +1552,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <details>
 <summary>Does Dr. Crawford treat patients from Coatesville?</summary>
 <div class="faq-ans">
-<p>Yes. <a href="dr-crawford.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Dr. Crawford</a> works with many residents and professionals from Coatesville. We provide a higher tier of clinical specialization in a discrete boutique environment. <a href="contact.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Schedule your consultation today</a>.</p>
+<p>Yes. <a href="dr-crawford" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Dr. Crawford</a> works with many residents and professionals from Coatesville. We provide a higher tier of clinical specialization in a discrete boutique environment. <a href="contact" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Schedule your consultation today</a>.</p>
 </div>
 </details>
 <details>
 <summary>What makes Options Psychiatry the best choice for Coatesville residents?</summary>
 <div class="faq-ans">
-<p>We offer extreme clinical privacy and advanced treatments like <a href="tms-therapy.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">TMS therapy</a> that are often unavailable in standard clinics. <a href="contact.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Contact Options Psychiatry to learn more</a>.</p>
+<p>We offer extreme clinical privacy and advanced treatments like <a href="tms-therapy" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">TMS therapy</a> that are often unavailable in standard clinics. <a href="contact" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Contact Options Psychiatry to learn more</a>.</p>
 </div>
 </details>
 <details>
 <summary>Does Dr. Crawford collaborate with Coatesville-area specialists?</summary>
 <div class="faq-ans">
-<p>Yes. With your permission, <a href="dr-crawford.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Dr. Crawford</a> coordinates care with your existing specialists or primary care doctors in Coatesville. <a href="contact.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Book your private session here</a>.</p>
+<p>Yes. With your permission, <a href="dr-crawford" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Dr. Crawford</a> coordinates care with your existing specialists or primary care doctors in Coatesville. <a href="contact" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Book your private session here</a>.</p>
 </div>
 </details>
 <details>
 <summary>Is insurance accepted for psychiatric care near Coatesville?</summary>
 <div class="faq-ans">
-<p>Yes. <a href="insurances-accepted.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Options Psychiatry</a> is in-network with major providers. We help Coatesville patients navigate their coverage for medication management and all clinical services. <a href="contact.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Reach out to verify your plan</a>.</p>
+<p>Yes. <a href="insurances-accepted" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Options Psychiatry</a> is in-network with major providers. We help Coatesville patients navigate their coverage for medication management and all clinical services. <a href="contact" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">Reach out to verify your plan</a>.</p>
 </div>
 </details>
 <details>
 <summary>How can I reach Dr. Crawford's office from the Coatesville area?</summary>
 <div class="faq-ans">
-<p>You can call our clinical team at <a href="tel:4845091212" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">(484) 509-1212</a> or use our <a href="contact.php" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">secure online portal</a>. We specialize in providing a private sanctuary for all our Chester County patients.</p>
+<p>You can call our clinical team at <a href="tel:4845091212" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">(484) 509-1212</a> or use our <a href="contact" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">secure online portal</a>. We specialize in providing a private sanctuary for all our Chester County patients.</p>
 </div>
 </details>
 </div>

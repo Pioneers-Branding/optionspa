@@ -86,12 +86,12 @@
 <title>Mental Health Services in Pennsylvania | Trusted Psychiatrists</title>
 <meta content="Options Psychiatry provides expert mental health services in Pennsylvania, including TMS therapy, psychiatry, and medication management in Reading, PA. Our board-certified psychiatrists are accepting new patients, call today to get started." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="2026-08.php" rel="canonical"/>
+<link href="2026-08" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="website" property="og:type"/>
 <meta content="Mental Health Services in Pennsylvania | Trusted Psychiatrists" property="og:title"/>
 <meta content="Options Psychiatry provides expert mental health services in Pennsylvania, including TMS therapy, psychiatry, and medication management in Reading, PA. Our board-certified psychiatrists are accepting new patients, call today to get started." property="og:description"/>
-<meta content="2026-08.php" property="og:url"/>
+<meta content="2026-08" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-07-21T05:12:23-04:00" property="og:updated_time"/>
 <meta content="summary_large_image" name="twitter:card"/>
@@ -559,7 +559,7 @@ fbq('track', 'PageView');
                             wellness journey.</p>
 </div>
 <div class="cta-contact-action">
-<a class="opt-btn opt-btn-contact-orange" href="tms-quiz.php">Take TMS
+<a class="opt-btn opt-btn-contact-orange" href="tms-quiz">Take TMS
                             Quiz</a>
 </div>
 </div>
@@ -572,7 +572,7 @@ fbq('track', 'PageView');
 <div class="tms-intro-content">
 <span class="opt-section-label">Innovative Brain Stimulation</span>
 <h1 style="font-size: 40px;">Trusted Psychiatrists in Pennsylvania</h1>
-<p class="opt-intro-text">Standard treatments often focus on managing symptoms, but at our clinic in Reading, PA, our trusted psychiatrists take a more advanced approach. <a href="tms-therapy-reading.php" style="color: blue;">TMS therapy</a> goes
+<p class="opt-intro-text">Standard treatments often focus on managing symptoms, but at our clinic in Reading, PA, our trusted psychiatrists take a more advanced approach. <a href="tms-therapy-reading" style="color: blue;">TMS therapy</a> goes
                             further
                             by
                             physically stimulating the mood-regulating circuits in your brain. Through neuroplasticity,
@@ -593,7 +593,7 @@ fbq('track', 'PageView');
 </div>
 </div>
 </div>
-<a class="opt-btn opt-btn-primary" href="contact.php">Start Your
+<a class="opt-btn opt-btn-primary" href="contact">Start Your
                             Transformation</a>
 </div>
 <div class="opt-tms-intro-stats">
@@ -639,7 +639,7 @@ fbq('track', 'PageView');
 <h3>Depression</h3>
 <p>Comprehensive treatment for major depressive disorder and treatment-resistant depression
                                 using evidence-based therapies.</p>
-<a class="opt-service-link" href="depression.php">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="depression">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 <!-- Anxiety -->
@@ -648,7 +648,7 @@ fbq('track', 'PageView');
 <div class="opt-service-overlay">
 <h3>Anxiety</h3>
 <p>Evidence-based approaches to manage generalized anxiety, panic, and social anxiety.</p>
-<a class="opt-service-link" href="anxiety.php">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="anxiety">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 <!-- PTSD -->
@@ -657,7 +657,7 @@ fbq('track', 'PageView');
 <div class="opt-service-overlay">
 <h3>PTSD</h3>
 <p>Specialized care for trauma-informed healing and processing traumatic experiences.</p>
-<a class="opt-service-link" href="ptsd.php">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="ptsd">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 <!-- OCD -->
@@ -666,7 +666,7 @@ fbq('track', 'PageView');
 <div class="opt-service-overlay">
 <h3>OCD</h3>
 <p>Targeted treatment for obsessive-compulsive disorder and intrusive thoughts.</p>
-<a class="opt-service-link" href="ocd.php">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="ocd">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 <!-- Bipolar -->
@@ -675,7 +675,7 @@ fbq('track', 'PageView');
 <div class="opt-service-overlay">
 <h3>Bipolar Disorder</h3>
 <p>Comprehensive management of mood stabilization and ongoing long-term support.</p>
-<a class="opt-service-link" href="bipolar-disorder.php">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="bipolar-disorder">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 <!-- ADHD -->
@@ -685,7 +685,7 @@ fbq('track', 'PageView');
 <h3>ADHD</h3>
 <p>Professional diagnosis and treatment for attention-deficit hyperactivity disorder in
                                 adults.</p>
-<a class="opt-service-link" href="adhd.php">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="adhd">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 </div>
@@ -756,7 +756,7 @@ fbq('track', 'PageView');
 </div>
 </div>
 <div class="opt-cta-button-wrapper">
-<a class="opt-btn opt-btn-cta-appointment" href="contact.php">Schedule An
+<a class="opt-btn opt-btn-cta-appointment" href="contact">Schedule An
                             Appointment</a>
 </div>
 </div>
@@ -787,11 +787,11 @@ fbq('track', 'PageView');
                             over 10 years of experience treating complex mental health conditions. She founded Options
                             Psychiatry to provide a judgment-free, supportive environment where patients feel truly
                             heard and valued.</p>
-<p class="opt-doctor-bio">Specializing in <a href="tms-therapy-reading.php" style="color: blue;">TMS Therapy</a>, <a href="medication-management-options.php" style="color: blue;">medication management</a>, and addiction
+<p class="opt-doctor-bio">Specializing in <a href="tms-therapy-reading" style="color: blue;">TMS Therapy</a>, <a href="medication-management-options" style="color: blue;">medication management</a>, and addiction
                             psychiatry, Dr. Crawford combines evidence-based medicine with a personalized approach to
                             help each patient find their unique path to recovery.</p>
 <div class="opt-doctor-actions">
-<a class="opt-btn opt-btn-primary" href="contact.php">Schedule A
+<a class="opt-btn opt-btn-primary" href="contact">Schedule A
                                 Consultation</a>
 </div>
 </div>
@@ -1474,7 +1474,7 @@ fbq('track', 'PageView');
                         and
                         reclaim your life.</p>
 <div class="opt-cta-buttons">
-<a class="opt-btn opt-btn-primary opt-btn-large" href="contact.php">Schedule A Consultation</a>
+<a class="opt-btn opt-btn-primary opt-btn-large" href="contact">Schedule A Consultation</a>
 <a class="opt-btn opt-btn-glass opt-btn-large" href="tel:6107416567">Call (610) 741-6567</a>
 </div>
 </div>
@@ -1661,7 +1661,7 @@ Victoria Brown</h4>
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>TMS therapy (Transcranial Magnetic Stimulation) is a non-invasive treatment that uses magnetic pulses to stimulate areas of the brain involved in mood regulation. Dr. Crawford at Options Psychiatry offers advanced <a href="tms-therapy-reading.php" style="color: blue;">TMS therapy in Reading, PA</a> for patients struggling with depression and other mental health conditions.</p>
+<p>TMS therapy (Transcranial Magnetic Stimulation) is a non-invasive treatment that uses magnetic pulses to stimulate areas of the brain involved in mood regulation. Dr. Crawford at Options Psychiatry offers advanced <a href="tms-therapy-reading" style="color: blue;">TMS therapy in Reading, PA</a> for patients struggling with depression and other mental health conditions.</p>
 </div>
 </div>
 <div class="opt-faq-item">
@@ -1697,7 +1697,7 @@ Victoria Brown</h4>
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>Options Psychiatry provides comprehensive <a href="index.php" style="color: blue;">mental health services in Reading, PA</a>, including psychiatric evaluations, medication management, and advanced TMS therapy. Dr. Crawford focuses on individualized treatment to help patients improve their mental well-being and daily functioning.
+<p>Options Psychiatry provides comprehensive <a href="./" style="color: blue;">mental health services in Reading, PA</a>, including psychiatric evaluations, medication management, and advanced TMS therapy. Dr. Crawford focuses on individualized treatment to help patients improve their mental well-being and daily functioning.
                             </p>
 </div>
 </div>
@@ -1707,7 +1707,7 @@ Victoria Brown</h4>
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>Yes, Dr. Crawford, a leading psychiatrist in Reading, PA, treats a variety of conditions including <a href="depression.php" style="color: blue;">depression</a>, <a href="anxiety.php" style="color: blue;">anxiety disorders</a>, and <a href="adhd.php" style="color: blue;">ADHD</a>. She uses evidence-based treatments and personalized care to help patients manage symptoms and achieve long-term mental wellness.</p>
+<p>Yes, Dr. Crawford, a leading psychiatrist in Reading, PA, treats a variety of conditions including <a href="depression" style="color: blue;">depression</a>, <a href="anxiety" style="color: blue;">anxiety disorders</a>, and <a href="adhd" style="color: blue;">ADHD</a>. She uses evidence-based treatments and personalized care to help patients manage symptoms and achieve long-term mental wellness.</p>
 </div>
 </div>
 </div>

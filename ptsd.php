@@ -87,12 +87,12 @@
 <title>PTSD Treatment in Reading, PA | Trauma &amp; Stress Therapy - Options Psychiatry</title>
 <meta content="Get compassionate PTSD treatment in Reading, PA at Options Psychiatry. Our experts provide personalized therapy, medication management, and trauma-focused care to support recovery." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="ptsd.php" rel="canonical"/>
+<link href="ptsd" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="PTSD Treatment in Reading, PA | Trauma &amp; Stress Therapy - Options Psychiatry" property="og:title"/>
 <meta content="Get compassionate PTSD treatment in Reading, PA at Options Psychiatry. Our experts provide personalized therapy, medication management, and trauma-focused care to support recovery." property="og:description"/>
-<meta content="ptsd.php" property="og:url"/>
+<meta content="ptsd" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-06-29T03:23:32-04:00" property="og:updated_time"/>
 <meta content="wp-content/uploads/2026/06/ptsd-journey_kos9j3.jpg" property="og:image"/>
@@ -994,7 +994,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 <div class="opt-hero-actions">
-<a class="opt-btn-hero-dark" href="contact.php">Book Your
+<a class="opt-btn-hero-dark" href="contact">Book Your
                             Consultation</a>
 </div>
 </div>
@@ -1176,7 +1176,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 </ul>
 <div style="margin-top: 40px;">
-<a class="opt-btn-hero-dark" href="contact.php">Start Your Treatment
+<a class="opt-btn-hero-dark" href="contact">Start Your Treatment
                             Plan</a>
 </div>
 </div>
@@ -1192,19 +1192,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-section-label">Serving Pennsylvania</span>
 <h2 style="margin-bottom:15px;">PTSD Treatment Near You in Berks County, PA</h2>
 <p style="max-width:700px;margin:0 auto 30px;">Options Psychiatry provides compassionate, expert PTSD treatment in Reading, PA and surrounding communities — including West Reading, Wyomissing, Pottstown, Kutztown, Lebanon, Fleetwood, Boyertown, Phoenixville, Norristown, and throughout Berks County, PA. We also offer telehealth trauma treatment options for patients across Pennsylvania.</p>
-<a class="opt-btn-hero-dark" href="contact.php" style="margin-right:15px;">Schedule Your Free Consultation</a>
+<a class="opt-btn-hero-dark" href="contact" style="margin-right:15px;">Schedule Your Free Consultation</a>
 <a class="opt-btn opt-btn-contact-orange" href="tel:6107416567" style="text-decoration:none;margin-right:15px;">Call (610) 741-6567 Now</a>
-<a class="opt-btn opt-btn-contact-orange" href="medication-management-options.php" style="text-decoration:none;">Explore Medication Management</a>
+<a class="opt-btn opt-btn-contact-orange" href="medication-management-options" style="text-decoration:none;">Explore Medication Management</a>
 </div>
 <div style="background:#f0f4f8;border-radius:12px;padding:30px;margin-top:30px;">
 <h3 style="margin-bottom:20px;text-align:center;">Related Mental Health Conditions We Treat</h3>
 <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
-<a href="depression.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Depression Treatment →</a>
-<a href="anxiety.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Anxiety Disorders Treatment →</a>
-<a href="ocd.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">OCD Treatment →</a>
-<a href="bipolar-disorder.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Bipolar Disorder Treatment →</a>
-<a href="adhd.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">ADHD Treatment →</a>
-<a href="medication-management-options.php" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Medication Management →</a>
+<a href="depression" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Depression Treatment →</a>
+<a href="anxiety" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Anxiety Disorders Treatment →</a>
+<a href="ocd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">OCD Treatment →</a>
+<a href="bipolar-disorder" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Bipolar Disorder Treatment →</a>
+<a href="adhd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">ADHD Treatment →</a>
+<a href="medication-management-options" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Medication Management →</a>
 </div>
 </div>
 </div>
