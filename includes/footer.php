@@ -11,7 +11,7 @@ Edit THIS file to change the footer on every page. */ ?>
                         <div class="opt-container">
                             <div class="opt-footer-top-centered">
                                 <div class="opt-footer-logo">
-                                    <img alt="Options Logo" src="/wp-content/uploads/2022/04/OPTI.png" width="180px" />
+                                    <img alt="Options Logo" src="wp-content/uploads/2022/04/OPTI.png" width="180px" />
                                 </div>
                                 <p class="opt-footer-description-centered">Options provides education, support, and
                                     therapeutic
@@ -20,7 +20,7 @@ Edit THIS file to change the footer on every page. */ ?>
                                     TMS Therapy,
                                     Medications &amp; Counseling helps us provide comprehensive and quality care.</p>
                                 <div class="opt-footer-cta">
-                                    <a class="opt-btn opt-btn-contact-orange" href="/contact">Book An
+                                    <a class="opt-btn opt-btn-contact-orange" href="contact.php">Book An
                                         Appointment Today</a>
                                 </div>
                                 <div class="opt-footer-social-centered">
@@ -33,25 +33,25 @@ Edit THIS file to change the footer on every page. */ ?>
                                 <div class="footer-column">
                                     <h3 class="opt-footer-title">QUICK LINKS</h3>
                                     <ul class="opt-footer-links">
-                                        <li><a href="/"> Home</a></li>
-                                        <li><a href="/dr-crawford"> About Us</a></li>
-                                        <li><a href="/blog"> Blog</a></li>
-                                        <li><a href="/tms-therapy-reading"> TMS Therapy in
+                                        <li><a href="index.php"> Home</a></li>
+                                        <li><a href="dr-crawford.php"> About Us</a></li>
+                                        <li><a href="blog.php"> Blog</a></li>
+                                        <li><a href="tms-therapy-reading.php"> TMS Therapy in
                                                 Reading</a></li>
-                                        <li><a href="/medication-management-options"> Medication
+                                        <li><a href="medication-management-options.php"> Medication
                                                 Management in Reading</a></li>
-                                        <li><a href="/contact"> Contact Us</a></li>
+                                        <li><a href="contact.php"> Contact Us</a></li>
                                     </ul>
                                 </div>
                                 <div class="footer-column">
                                     <h3 class="opt-footer-title">CONDITIONS WE TREAT</h3>
                                     <ul class="opt-footer-links">
-                                        <li><a href="/depression"> Depression</a></li>
-                                        <li><a href="/anxiety"> Anxiety Disorders</a></li>
-                                        <li><a href="/ptsd"> PTSD</a></li>
-                                        <li><a href="/ocd"> OCD</a></li>
-                                        <li><a href="/bipolar-disorder"> Bipolar Disorder</a></li>
-                                        <li><a href="/adhd"> ADHD</a></li>
+                                        <li><a href="depression.php"> Depression</a></li>
+                                        <li><a href="anxiety.php"> Anxiety Disorders</a></li>
+                                        <li><a href="ptsd.php"> PTSD</a></li>
+                                        <li><a href="ocd.php"> OCD</a></li>
+                                        <li><a href="bipolar-disorder.php"> Bipolar Disorder</a></li>
+                                        <li><a href="adhd.php"> ADHD</a></li>
                                     </ul>
                                 </div>
                                 <div class="footer-column">
@@ -207,26 +207,26 @@ Edit THIS file to change the footer on every page. */ ?>
                                         </summary>
                                         <div class="opt-aws-content">
                                             <div class="opt-aws-grid">
-                                                <a href="/psychiatrist-near-birdsboro"
+                                                <a href="psychiatrist-near-birdsboro.php"
                                                     title="Birdsboro">Birdsboro</a>
-                                                <a href="/psychiatrist-near-coatesville"
+                                                <a href="psychiatrist-near-coatesville.php"
                                                     title="Coatesville">Coatesville</a>
-                                                <a href="/psychiatrist-near-kutztown" title="Kutztown">Kutztown</a>
-                                                <a href="/psychiatrist-near-lancaster"
+                                                <a href="psychiatrist-near-kutztown.php" title="Kutztown">Kutztown</a>
+                                                <a href="psychiatrist-near-lancaster.php"
                                                     title="Lancaster">Lancaster</a>
-                                                <a href="/psychiatrist-near-lebanon" title="Lebanon">Lebanon</a>
-                                                <a href="/psychiatrist-near-oley-valley" title="Oley Valley">Oley
+                                                <a href="psychiatrist-near-lebanon.php" title="Lebanon">Lebanon</a>
+                                                <a href="psychiatrist-near-oley-valley.php" title="Oley Valley">Oley
                                                     Valley</a>
-                                                <a href="/psychiatrist-near-pottstown"
+                                                <a href="psychiatrist-near-pottstown.php"
                                                     title="Pottstown">Pottstown</a>
-                                                <a href="/psychiatrist-near-pottsville"
+                                                <a href="psychiatrist-near-pottsville.php"
                                                     title="Pottsville">Pottsville</a>
-                                                <a href="/psychiatrist-near-sinking-spring"
+                                                <a href="psychiatrist-near-sinking-spring.php"
                                                     title="Sinking Spring">Sinking
                                                     Spring</a>
-                                                <a href="/psychiatrist-near-west-reading" title="West Reading">West
+                                                <a href="psychiatrist-near-west-reading.php" title="West Reading">West
                                                     Reading</a>
-                                                <a href="/psychiatrist-near-wyomissing"
+                                                <a href="psychiatrist-near-wyomissing.php"
                                                     title="Wyomissing">Wyomissing</a>
                                             </div>
                                         </div>

@@ -843,18 +843,18 @@
         content="Learn about Options Psychiatry, our mission, experienced mental health professionals, and patient-focused approach to delivering compassionate psychiatric care."
         name="description" />
     <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots" />
-    <link href="/about-us" rel="canonical" />
+    <link href="about-us.php" rel="canonical" />
     <meta content="en_US" property="og:locale" />
     <meta content="article" property="og:type" />
     <meta content="About Us | Options Psychiatry" property="og:title" />
     <meta
         content="Learn about Options Psychiatry, our mission, experienced mental health professionals, and patient-focused approach to delivering compassionate psychiatric care."
         property="og:description" />
-    <meta content="/about-us/" property="og:url" />
+    <meta content="about-us.php" property="og:url" />
     <meta content="Options Psychiatry" property="og:site_name" />
     <meta content="2026-04-11T03:50:57-04:00" property="og:updated_time" />
-    <meta content="/wp-content/uploads/2022/03/about-us.jpg" property="og:image" />
-    <meta content="/wp-content/uploads/2022/03/about-us.jpg" property="og:image:secure_url" />
+    <meta content="wp-content/uploads/2022/03/about-us.jpg" property="og:image" />
+    <meta content="wp-content/uploads/2022/03/about-us.jpg" property="og:image:secure_url" />
     <meta content="1500" property="og:image:width" />
     <meta content="787" property="og:image:height" />
     <meta content="addiction counseling, tms therapy" property="og:image:alt" />
@@ -864,7 +864,7 @@
     <meta
         content="Learn about Options Psychiatry, our mission, experienced mental health professionals, and patient-focused approach to delivering compassionate psychiatric care."
         name="twitter:description" />
-    <meta content="/wp-content/uploads/2022/03/about-us.jpg" name="twitter:image" />
+    <meta content="wp-content/uploads/2022/03/about-us.jpg" name="twitter:image" />
     <meta content="Time to read" name="twitter:label1" />
     <meta content="Less than a minute" name="twitter:data1" />
     <!-- /Rank Math WordPress SEO plugin -->
@@ -880,7 +880,7 @@
 
         /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
     </style>
-    <link href="/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend__qf7ffcae6.css"
+    <link href="wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend__qf7ffcae6.css"
         id="hfe-widgets-style-css" media="all" rel="stylesheet" type="text/css" />
     <style id="wp-emoji-styles-inline-css" type="text/css">
         img.wp-smiley,
@@ -898,7 +898,7 @@
 
         /*# sourceURL=wp-emoji-styles-inline-css */
     </style>
-    <link href="/wp-includes/css/dist/block-library/style.min__q98f937dc.css" id="wp-block-library-css" media="all"
+    <link href="wp-includes/css/dist/block-library/style.min__q98f937dc.css" id="wp-block-library-css" media="all"
         rel="stylesheet" type="text/css" />
     <style id="classic-theme-styles-inline-css" type="text/css">
         /*! This file is auto-generated */
@@ -920,7 +920,7 @@
 
         /*# sourceURL=/wp-includes/css/classic-themes.min.css */
     </style>
-    <link href="/wp-content/plugins/wp-blog-post-layouts/includes/assets/css/build__q8daf52c7.css"
+    <link href="wp-content/plugins/wp-blog-post-layouts/includes/assets/css/build__q8daf52c7.css"
         id="wpblog-post-layouts-block-style-css" media="all" rel="stylesheet" type="text/css" />
     <style id="global-styles-inline-css" type="text/css">
         :root {
@@ -1257,44 +1257,44 @@
 
         /*# sourceURL=global-styles-inline-css */
     </style>
-    <link href="/wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css"
+    <link href="wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css"
         id="kk-star-ratings-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css"
+    <link href="wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css"
         id="tve-ult-main-frame-css-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css"
+    <link href="wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css"
         id="hfe-style-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css" id="elementor-frontend-css"
+    <link href="wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css" id="elementor-frontend-css"
         media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/uploads/elementor/css/post-4716__q104fc520.css" id="elementor-post-4716-css" media="all"
+    <link href="wp-content/uploads/elementor/css/post-4716__q104fc520.css" id="elementor-post-4716-css" media="all"
         rel="stylesheet" type="text/css" />
-    <link href="/wp-content/uploads/elementor/css/post-4753__q104fc520.css" id="elementor-post-4753-css" media="all"
+    <link href="wp-content/uploads/elementor/css/post-4753__q104fc520.css" id="elementor-post-4753-css" media="all"
         rel="stylesheet" type="text/css" />
-    <link href="/wp-content/uploads/elementor/css/post-4746__q2b585c9b.css" id="elementor-post-4746-css" media="all"
+    <link href="wp-content/uploads/elementor/css/post-4746__q2b585c9b.css" id="elementor-post-4746-css" media="all"
         rel="stylesheet" type="text/css" />
-    <link href="/_external/fonts.googleapis.com/css/index__qe78199b5.html#038;subset=latin%2Clatin-ext"
+    <link href="_external/fonts.googleapis.com/css/index__qe78199b5.html#038;subset=latin%2Clatin-ext"
         id="wpblog-post-layouts-google-fonts-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css"
+    <link href="wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css"
         id="fontawesome-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css" id="tvo-frontend-css"
+    <link href="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css" id="tvo-frontend-css"
         media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/themes/thrive-theme/inc/assets/dist/landingpage-front__q784709ed.css"
+    <link href="wp-content/themes/thrive-theme/inc/assets/dist/landingpage-front__q784709ed.css"
         id="thrive-theme-landingpage-front-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/themes/thrive-theme/style__q784709ed.css" id="thrive-theme-css" media="all" rel="stylesheet"
+    <link href="wp-content/themes/thrive-theme/style__q784709ed.css" id="thrive-theme-css" media="all" rel="stylesheet"
         type="text/css" />
-    <link href="/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css"
+    <link href="wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css"
         id="hfe-elementor-icons-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css" id="hfe-icons-list-css"
+    <link href="wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css" id="hfe-icons-list-css"
         media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css"
+    <link href="wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css"
         id="hfe-social-icons-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css"
+    <link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css"
         id="hfe-social-share-icons-brands-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css"
+    <link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css"
         id="hfe-social-share-icons-fontawesome-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css"
+    <link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css"
         id="hfe-nav-menu-icons-css" media="all" rel="stylesheet" type="text/css" />
-    <script id="jquery-core-js" src="/wp-includes/js/jquery/jquery.min__qf43b551b.js" type="text/javascript"></script>
-    <script id="jquery-migrate-js" src="/wp-includes/js/jquery/jquery-migrate.min__q558973c0.js"
+    <script id="jquery-core-js" src="wp-includes/js/jquery/jquery.min__qf43b551b.js" type="text/javascript"></script>
+    <script id="jquery-migrate-js" src="wp-includes/js/jquery/jquery-migrate.min__q558973c0.js"
         type="text/javascript"></script>
     <script id="jquery-js-after" type="text/javascript">
         /* <![CDATA[ */
@@ -1303,25 +1303,25 @@
         //# sourceURL=jquery-js-after
         /* ]]> */
     </script>
-    <script id="jquery-ui-core-js" src="/wp-includes/js/jquery/ui/core.min__qb37ee774.js"
+    <script id="jquery-ui-core-js" src="wp-includes/js/jquery/ui/core.min__qb37ee774.js"
         type="text/javascript"></script>
-    <script id="jquery-ui-menu-js" src="/wp-includes/js/jquery/ui/menu.min__qb37ee774.js"
+    <script id="jquery-ui-menu-js" src="wp-includes/js/jquery/ui/menu.min__qb37ee774.js"
         type="text/javascript"></script>
-    <script id="wp-dom-ready-js" src="/wp-includes/js/dist/dom-ready.min__q5346137b.js" type="text/javascript"></script>
-    <script id="wp-hooks-js" src="/wp-includes/js/dist/hooks.min__qaf5f3db4.js" type="text/javascript"></script>
-    <script id="wp-i18n-js" src="/wp-includes/js/dist/i18n.min__q1cde93bb.js" type="text/javascript"></script>
+    <script id="wp-dom-ready-js" src="wp-includes/js/dist/dom-ready.min__q5346137b.js" type="text/javascript"></script>
+    <script id="wp-hooks-js" src="wp-includes/js/dist/hooks.min__qaf5f3db4.js" type="text/javascript"></script>
+    <script id="wp-i18n-js" src="wp-includes/js/dist/i18n.min__q1cde93bb.js" type="text/javascript"></script>
     <script id="wp-i18n-js-after" type="text/javascript">
         /* <![CDATA[ */
         wp.i18n.setLocaleData({ 'text direction\u0004ltr': ['ltr'] });
         //# sourceURL=wp-i18n-js-after
         /* ]]> */
     </script>
-    <script id="wp-a11y-js" src="/wp-includes/js/dist/a11y.min__q1b1cf71c.js" type="text/javascript"></script>
-    <script id="jquery-ui-autocomplete-js" src="/wp-includes/js/jquery/ui/autocomplete.min__qb37ee774.js"
+    <script id="wp-a11y-js" src="wp-includes/js/dist/a11y.min__q1b1cf71c.js" type="text/javascript"></script>
+    <script id="jquery-ui-autocomplete-js" src="wp-includes/js/jquery/ui/autocomplete.min__qb37ee774.js"
         type="text/javascript"></script>
-    <script id="imagesloaded-js" src="/wp-includes/js/imagesloaded.min__qbb938083.js" type="text/javascript"></script>
-    <script id="masonry-js" src="/wp-includes/js/masonry.min__q3a0508bb.js" type="text/javascript"></script>
-    <script id="jquery-masonry-js" src="/wp-includes/js/jquery/jquery.masonry.min__qef703437.js"
+    <script id="imagesloaded-js" src="wp-includes/js/imagesloaded.min__qbb938083.js" type="text/javascript"></script>
+    <script id="masonry-js" src="wp-includes/js/masonry.min__q3a0508bb.js" type="text/javascript"></script>
+    <script id="jquery-masonry-js" src="wp-includes/js/jquery/jquery.masonry.min__qef703437.js"
         type="text/javascript"></script>
     <script id="tve_frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
@@ -1330,7 +1330,7 @@
         /* ]]> */
     </script>
     <script id="tve_frontend-js"
-        src="/wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/general.min__qe79741bf.js"
+        src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/general.min__qe79741bf.js"
         type="text/javascript"></script>
     <script id="theme-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
@@ -1338,35 +1338,35 @@
         //# sourceURL=theme-frontend-js-extra
         /* ]]> */
     </script>
-    <script id="theme-frontend-js" src="/wp-content/themes/thrive-theme/inc/assets/dist/frontend.min__q784709ed.js"
+    <script id="theme-frontend-js" src="wp-content/themes/thrive-theme/inc/assets/dist/frontend.min__q784709ed.js"
         type="text/javascript"></script>
     <script id="display-testimonials-tcb-js"
-        src="/wp-content/plugins/thrive-ovation/tcb-bridge/frontend/js/display-testimonials-tcb.min__qe79741bf.js"
+        src="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/js/display-testimonials-tcb.min__qe79741bf.js"
         type="text/javascript"></script>
 
 
     <meta content="IQ1dcuJ47hx3D0nkl5e3QOOCEIZ_UU7NBBkRGBNuLN4" name="google-site-verification" />
-    <link href="/wp-content/uploads/custom-css-js/4734__qec47fe7e.css" id="4734-css" media="all" rel="stylesheet"
+    <link href="wp-content/uploads/custom-css-js/4734__qec47fe7e.css" id="4734-css" media="all" rel="stylesheet"
         type="text/css" />
-    <link href="/wp-content/uploads/custom-css-js/4725__q70077246.css" id="4725-css" media="all" rel="stylesheet"
+    <link href="wp-content/uploads/custom-css-js/4725__q70077246.css" id="4725-css" media="all" rel="stylesheet"
         type="text/css" />
-    <link href="/wp-content/uploads/custom-css-js/2880__q42b25d37.css" id="2880-css" media="all" rel="stylesheet"
+    <link href="wp-content/uploads/custom-css-js/2880__q42b25d37.css" id="2880-css" media="all" rel="stylesheet"
         type="text/css" />
     <!-- start Simple Custom CSS and JS -->
     <!-- Add HTML code to the header or the footer.
 
 For example, you can use the following code for loading the jQuery library from Google CDN:
-<script src="/assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 or the following one for loading the Bootstrap library from jsDelivr:
-<link rel="stylesheet" href="/assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
  <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
-    <link href="/_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet" />
+    <link href="_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet" />
     <!-- Font Awesome -->
-    <link href="/_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet" />
+    <link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet" />
     <!-- End of the comment -->
     <!-- end Simple Custom CSS and JS -->
     <!-- start Simple Custom CSS and JS -->
@@ -1383,7 +1383,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 
     </script>
     <!-- end Simple Custom CSS and JS -->
-    <link href="/_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    <link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
         rel="stylesheet" />
     <!-- Meta Pixel Code -->
     <script>
@@ -1481,9 +1481,9 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
     <style id="tve_global_variables" type="text/css">
         :root {
-            --tcb-background-author-image: url("/_external/secure.gravatar.com/avatar/0047baa95022e0117a11fdd310da4521de7ab91557a0210496da6c384c404e52/index__qb7b91a31.html");
+            --tcb-background-author-image: url("_external/secure.gravatar.com/avatar/0047baa95022e0117a11fdd310da4521de7ab91557a0210496da6c384c404e52/index__qb7b91a31.html");
             --tcb-background-user-image: url();
-            --tcb-background-featured-image-thumbnail: url("/wp-content/uploads/2022/03/about-us.jpg");
+            --tcb-background-featured-image-thumbnail: url("wp-content/uploads/2022/03/about-us.jpg");
             --tcb-skin-color-0: hsla(var(--tcb-theme-main-master-h, 210), var(--tcb-theme-main-master-s, 77%), var(--tcb-theme-main-master-l, 54%), var(--tcb-theme-main-master-a, 1));
             --tcb-skin-color-0-h: var(--tcb-theme-main-master-h, 210);
             --tcb-skin-color-0-s: var(--tcb-theme-main-master-s, 77%);
@@ -1622,11 +1622,11 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <meta
         content="Elementor 3.35.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
         name="generator" />
-    <link class="thrive-external-font" href="/_external/fonts.googleapis.com/css/index__q1713ae60.html" rel="stylesheet"
+    <link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__q1713ae60.html" rel="stylesheet"
         type="text/css" />
-    <link class="thrive-external-font" href="/_external/fonts.googleapis.com/css/index__q02c3b389.html" rel="stylesheet"
+    <link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__q02c3b389.html" rel="stylesheet"
         type="text/css" />
-    <link class="thrive-external-font" href="/_external/fonts.googleapis.com/css/index__qbe0afaa7.html" rel="stylesheet"
+    <link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__qbe0afaa7.html" rel="stylesheet"
         type="text/css" />
     <style id="thrive-default-styles" type="text/css">
         @media (min-width: 300px) {
@@ -1997,10 +1997,10 @@ or the following one for loading the Bootstrap library from jsDelivr:
             }
         }
     </style>
-    <link href="/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="icon" sizes="32x32" />
-    <link href="/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="icon" sizes="192x192" />
-    <link href="/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="apple-touch-icon" />
-    <meta content="/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" name="msapplication-TileImage" />
+    <link href="wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="icon" sizes="32x32" />
+    <link href="wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="icon" sizes="192x192" />
+    <link href="wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="apple-touch-icon" />
+    <meta content="wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" name="msapplication-TileImage" />
     <style class="tve_custom_style">
         @media (min-width: 300px) {
             .tve_post_lp>div> :not(#tve) {
@@ -2663,18 +2663,18 @@ or the following one for loading the Bootstrap library from jsDelivr:
         }
 
         [data-css="tve-u-180181c234c"] {
-            background-image: url("/wp-content/uploads/2022/03/about-us.jpg") !important;
+            background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
             background-size: cover !important;
             background-position: 50% 50% !important;
             background-attachment: scroll !important;
             background-repeat: no-repeat !important;
             background-color: rgb(12, 17, 21) !important;
-            --background-image: url("/wp-content/uploads/2022/03/about-us.jpg") !important;
+            --background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
             --background-size: cover !important;
             --background-position: 50% 50% !important;
             --background-attachment: scroll !important;
             --background-repeat: no-repeat !important;
-            --tve-applied-background-image: url("/wp-content/uploads/2022/03/about-us.jpg") !important;
+            --tve-applied-background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
             --background-color: rgb(12, 17, 21) !important;
             --tve-applied-background-color: rgb(12, 17, 21) !important;
         }
@@ -2731,17 +2731,17 @@ or the following one for loading the Bootstrap library from jsDelivr:
         [data-css="tve-u-197254181e1"] {
             border-radius: 40px;
             overflow: hidden;
-            background-image: url("/wp-content/uploads/2025/05/2150858397.jpg") !important;
+            background-image: url("wp-content/uploads/2025/05/2150858397.jpg") !important;
             background-size: cover !important;
             background-position: 50% 43% !important;
             background-attachment: scroll !important;
             background-repeat: no-repeat !important;
-            --background-image: url("/wp-content/uploads/2025/05/2150858397.jpg") !important;
+            --background-image: url("wp-content/uploads/2025/05/2150858397.jpg") !important;
             --background-size: cover !important;
             --background-position: 50% 43% !important;
             --background-attachment: scroll !important;
             --background-repeat: no-repeat !important;
-            --tve-applied-background-image: url("/wp-content/uploads/2025/05/2150858397.jpg") !important;
+            --tve-applied-background-image: url("wp-content/uploads/2025/05/2150858397.jpg") !important;
             box-shadow: none;
             --tve-applied-box-shadow: none;
         }
@@ -2916,18 +2916,18 @@ or the following one for loading the Bootstrap library from jsDelivr:
         }
 
         [data-css="tve-u-19725e26895"] {
-            background-image: url("/wp-content/uploads/2025/05/2149547999.jpg") !important;
+            background-image: url("wp-content/uploads/2025/05/2149547999.jpg") !important;
             background-size: cover !important;
             background-position: 0% 51% !important;
             background-attachment: scroll !important;
             background-repeat: no-repeat !important;
             border: 15px solid var(--tcb-local-color-5b254, rgb(240, 246, 251)) !important;
-            --background-image: url("/wp-content/uploads/2025/05/2149547999.jpg") !important;
+            --background-image: url("wp-content/uploads/2025/05/2149547999.jpg") !important;
             --background-size: cover !important;
             --background-position: 0% 51% !important;
             --background-attachment: scroll !important;
             --background-repeat: no-repeat !important;
-            --tve-applied-background-image: url("/wp-content/uploads/2025/05/2149547999.jpg") !important;
+            --tve-applied-background-image: url("wp-content/uploads/2025/05/2149547999.jpg") !important;
         }
 
         [data-css="tve-u-19725e26896"] {
@@ -3198,17 +3198,17 @@ or the following one for loading the Bootstrap library from jsDelivr:
             }
 
             [data-css="tve-u-180181c234c"] {
-                background-image: url("/wp-content/uploads/2022/03/about-us.jpg") !important;
+                background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
                 background-size: cover !important;
                 background-position: 50% 50% !important;
                 background-attachment: scroll !important;
                 background-repeat: no-repeat !important;
-                --background-image: url("/wp-content/uploads/2022/03/about-us.jpg") !important;
+                --background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
                 --background-size: cover !important;
                 --background-position: 50% 50% !important;
                 --background-attachment: scroll !important;
                 --background-repeat: no-repeat !important;
-                --tve-applied-background-image: url("/wp-content/uploads/2022/03/about-us.jpg") !important;
+                --tve-applied-background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
             }
 
             [data-css="tve-u-180181c2349"] {
@@ -7846,8 +7846,8 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                 }
                             </style>
                             <style class="tve-symbol-custom-style">
-                                @import url("/_external/fonts.googleapis.com/css/index__qefe37e37.html");
-                                @import url("/_external/fonts.googleapis.com/css/index__qd8ec9620.html");
+                                @import url("_external/fonts.googleapis.com/css/index__qefe37e37.html");
+                                @import url("_external/fonts.googleapis.com/css/index__qd8ec9620.html");
                                 @media (min-width: 300px) {
                                     .thrv_symbol_65 [data-css="tve-u-16eff063edc"] {
                                         padding: 0px !important;
@@ -8522,7 +8522,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                     <div class="mobile-booking">
                                                         <div class="col-sm-4 col-xs-4">
                                                             <div class="book-ap book-ap-bg"><a
-                                                                    href="/contact">REQUEST A<br />CONSULTATION</a>
+                                                                    href="contact.php">REQUEST A<br />CONSULTATION</a>
                                                             </div>
                                                         </div>
                                                         <div class="col-sm-4 col-xs-4">
@@ -8545,12 +8545,12 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                         <div class="tcb-flex-col" data-css="tve-u-16eff067282" style="">
                                             <div class="tcb-col" style=""><a class="tcb-logo thrv_wrapper"
                                                     data-css="tve-u-17076c6b956" data-img-style="width: 100%;"
-                                                    href="/" target="_blank">
+                                                    href="index.php" target="_blank">
                                                     <picture>
                                                         <source media="(min-width:1024px)"
-                                                            srcset="/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY-300x112.png 300w, /wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png 463w" />
+                                                            srcset="wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY-300x112.png 300w, wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png 463w" />
                                                         <img alt="options logo" height="173" loading="lazy"
-                                                            src="/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
+                                                            src="wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
                                                             style="width: 100%;" width="463" />
                                                     </picture>
                                                 </a></div>
@@ -8587,7 +8587,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-id="74" data-item-display-desktop="text"
                                                                     id="menu-item-74"><a
                                                                         class="tcb-menu-item-container tcb--row"
-                                                                        href="/generated-homepage"><span
+                                                                        href="generated-homepage.php"><span
                                                                             class="tcb-menu-item-image menu-item-74-img tve_editable tcb-elem-placeholder">
                                                                             <span
                                                                                 class="tcb-inline-placeholder-action with-icon">
@@ -8601,7 +8601,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-id="3052" data-item-display-desktop="text"
                                                                     id="menu-item-3052"><a
                                                                         class="tcb-menu-item-container tcb--row tve-state-active"
-                                                                        href="/about-us"><span
+                                                                        href="about-us.php"><span
                                                                             class="tcb-menu-item-image menu-item-3052-img tve_editable tcb-elem-placeholder">
                                                                             <span
                                                                                 class="tcb-inline-placeholder-action with-icon">
@@ -8623,14 +8623,14 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                             data-id="2983"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-2983"><a
-                                                                                href="/dr-crawford-old"><span
+                                                                                href="dr-crawford-old.php"><span
                                                                                     class="tve-disabled-text-inner">Meet
                                                                                     Dr. Crawford Old</span></a></li>
                                                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3386 lvl-1"
                                                                             data-id="3386"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-3386"><a
-                                                                                href="/media"><span
+                                                                                href="media.php"><span
                                                                                     class="tve-disabled-text-inner">Media</span></a>
                                                                         </li>
                                                                     </ul>
@@ -8660,7 +8660,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                             data-id="3039"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-3039"><a
-                                                                                href="/tms-therapy-reading-old"><span
+                                                                                href="tms-therapy-reading-old.php"><span
                                                                                     class="tve-disabled-text-inner">TMS
                                                                                     Therapy at Options Old</span></a>
                                                                         </li>
@@ -8668,7 +8668,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                             data-id="3038"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-3038"><a
-                                                                                href="/medication-management-options-old"><span
+                                                                                href="medication-management-options-old.php"><span
                                                                                     class="tve-disabled-text-inner">Medication
                                                                                     Management at Options Old</span></a>
                                                                         </li>
@@ -8699,14 +8699,14 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                             data-id="3751"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-3751"><a
-                                                                                href="/get-started"><span
+                                                                                href="get-started.php"><span
                                                                                     class="tve-disabled-text-inner">Get
                                                                                     Started</span></a></li>
                                                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3755 lvl-1"
                                                                             data-id="3755"
                                                                             data-item-display-desktop="text"
                                                                             id="menu-item-3755"><a
-                                                                                href="/insurances-accepted"><span
+                                                                                href="insurances-accepted.php"><span
                                                                                     class="tve-disabled-text-inner">Insurances
                                                                                     Accepted</span></a></li>
                                                                     </ul>
@@ -8715,7 +8715,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-id="2982" data-item-display-desktop="text"
                                                                     id="menu-item-2982"><a
                                                                         class="tcb-menu-item-container tcb--row"
-                                                                        href="/blog-old"><span
+                                                                        href="blog-old.php"><span
                                                                             class="tcb-menu-item-image menu-item-2982-img tve_editable tcb-elem-placeholder">
                                                                             <span
                                                                                 class="tcb-inline-placeholder-action with-icon">
@@ -8729,7 +8729,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-id="2984" data-item-display-desktop="text"
                                                                     id="menu-item-2984"><a
                                                                         class="tcb-menu-item-container tcb--row"
-                                                                        href="/contact-old"><span
+                                                                        href="contact-old.php"><span
                                                                             class="tcb-menu-item-image menu-item-2984-img tve_editable tcb-elem-placeholder">
                                                                             <span
                                                                                 class="tcb-inline-placeholder-action with-icon">
@@ -9178,7 +9178,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                 style="">
                                 <div class="thrive-colors-palette-config" style="display: none !important"
                                     wfd-invisible="true"></div>
-                                <a class="tcb-button-link tcb-plain-text" href="/contact" style="">
+                                <a class="tcb-button-link tcb-plain-text" href="contact.php" style="">
                                     <span class="tcb-button-texts" style=""><span
                                             class="tcb-button-text thrv-inline-text" data-css="tve-u-6241576d96b3c0"
                                             style=""><strong>CONTACT US</strong></span></span>
@@ -10352,13 +10352,13 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                         <div class="tcb-flex-col" data-css="tve-u-17c5a123d1b" style="">
                                             <div class="tcb-col">
                                                 <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17c5a0d61bd"
-                                                    style=""><span class="tve_image_frame"><a href="/"><img
+                                                    style=""><span class="tve_image_frame"><a href="index.php"><img
                                                                 alt="" class="tve_image wp-image-3085"
                                                                 data-css="tve-u-17c5a0d7558" data-height="66"
                                                                 data-id="3085" data-init-height="159"
                                                                 data-init-width="420" data-link-wrap="true"
                                                                 data-width="175" height="66" loading="lazy"
-                                                                src="/wp-content/uploads/2022/04/OPTI.png"
+                                                                src="wp-content/uploads/2022/04/OPTI.png"
                                                                 style="aspect-ratio: auto 420 / 159;" title="OPTI"
                                                                 width="175" /></a></span></div>
                                                 <div class="thrv_wrapper thrv_text_element">
@@ -10420,7 +10420,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-1801809aa7f"
-                                                                    data-tcb_hover_state_parent="" href="/"
+                                                                    data-tcb_hover_state_parent="" href="index.php"
                                                                     style="outline: none;">Home</a></span>
                                                         </li>
                                                         <li class="thrv-styled-list-item" data-css="tve-u-1997fadbea5"
@@ -10439,7 +10439,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-1801809aa7f"
-                                                                    data-tcb_hover_state_parent="" href="/about-us"
+                                                                    data-tcb_hover_state_parent="" href="about-us.php"
                                                                     style="outline: none;">About Us</a></span>
                                                         </li>
                                                         <li class="thrv-styled-list-item" data-css="tve-u-17c5a13399f"
@@ -10458,7 +10458,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-1801809aa7f"
-                                                                    data-tcb_hover_state_parent="" href="/blog"
+                                                                    data-tcb_hover_state_parent="" href="blog.php"
                                                                     style="outline: none;">Blog</a></span>
                                                         </li>
                                                         <li class="thrv-styled-list-item" data-css="tve-u-17c5a13399f"
@@ -10478,7 +10478,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-1801809c59d"
                                                                     data-tcb_hover_state_parent=""
-                                                                    href="/tms-therapy-reading"
+                                                                    href="tms-therapy-reading.php"
                                                                     style="outline: none;">TMS Therapy in
                                                                     Reading </a></span>
                                                         </li>
@@ -10499,7 +10499,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-17fb66e61df"
                                                                     data-tcb_hover_state_parent=""
-                                                                    href="/medication-management-options"
+                                                                    href="medication-management-options.php"
                                                                     style="outline: none;">﻿﻿Medication Management in
                                                                     Reading</a></span>
                                                         </li>
@@ -10519,7 +10519,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                                 data-css="tve-u-17c5a13235d" style=""><a class=""
                                                                     data-css="tve-u-17fb66d52a6"
-                                                                    data-tcb_hover_state_parent="" href="/contact"
+                                                                    data-tcb_hover_state_parent="" href="contact.php"
                                                                     style="outline: none;">Contact Us</a></span>
                                                         </li>
                                                     </ul>
@@ -10703,7 +10703,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     <p data-css="tve-u-17c5a1d9444"
                                                                         style="text-align: center; color: rgb(255, 255, 255) !important; --tcb-applied-color:rgb(255, 255, 255) !important;">
                                                                         <a class="" data-css="tve-u-17fb66c169d"
-                                                                            href="/hipaa-policy"
+                                                                            href="hipaa-policy.php"
                                                                             style="outline: none;">HIPAA Policy</a>
                                                                     </p>
                                                                 </div>
@@ -10716,7 +10716,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     <p data-css="tve-u-17c5a1d9444"
                                                                         style="text-align: center; color: rgb(255, 255, 255) !important; --tcb-applied-color:rgb(255, 255, 255) !important;">
                                                                         <a class="" data-css="tve-u-17fb66c169d"
-                                                                            href="/privacy-policy"
+                                                                            href="privacy-policy.php"
                                                                             style="outline: none;">Privacy Policy</a>
                                                                     </p>
                                                                 </div>
@@ -10729,7 +10729,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     <p data-css="tve-u-17c5a1df383"
                                                                         style="text-align: center;"><a class=""
                                                                             data-css="tve-u-17fb66c902c"
-                                                                            href="/terms-of-services"
+                                                                            href="terms-of-services.php"
                                                                             style="outline: none;">Terms of Service</a>
                                                                     </p>
                                                                 </div>
@@ -10742,7 +10742,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     <p data-css="tve-u-17c5a1e0643"
                                                                         style="text-align: center;"><a class=""
                                                                             data-css="tve-u-17fb66cee59"
-                                                                            href="/disclaimer">Disclaimer</a></p>
+                                                                            href="disclaimer.php">Disclaimer</a></p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -13132,7 +13132,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         </div>
     </div>
     <script id="tve_frontend_social-share-js"
-        src="/wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/social-share.min__q011b470d.js"
+        src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/social-share.min__q011b470d.js"
         type="text/javascript"></script>
     <script id="kk-star-ratings-js-extra" type="text/javascript">
         /* <![CDATA[ */
@@ -13141,13 +13141,13 @@ or the following one for loading the Bootstrap library from jsDelivr:
         /* ]]> */
     </script>
     <script id="kk-star-ratings-js"
-        src="/wp-content/plugins/kk-star-ratings/src/core/public/js/kk-star-ratings.min__qf503e290.js"
+        src="wp-content/plugins/kk-star-ratings/src/core/public/js/kk-star-ratings.min__qf503e290.js"
         type="text/javascript"></script>
     <script id="wpblog-post-layouts-elements-scripts-js"
-        src="/wp-content/plugins/wp-blog-post-layouts/includes/assets/js/elementor-frontend__q8daf52c7.js"
+        src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/elementor-frontend__q8daf52c7.js"
         type="text/javascript"></script>
     <script id="wpblog-post-layouts-public-script-js"
-        src="/wp-content/plugins/wp-blog-post-layouts/includes/assets/js/frontend__q8daf52c7.js"
+        src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/frontend__q8daf52c7.js"
         type="text/javascript"></script>
     <script id="tve-dash-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
@@ -13156,16 +13156,16 @@ or the following one for loading the Bootstrap library from jsDelivr:
         /* ]]> */
     </script>
     <script id="tve-dash-frontend-js"
-        src="/wp-content/plugins/thrive-ultimatum/thrive-dashboard/js/dist/frontend.min__qe79741bf.js"
+        src="wp-content/plugins/thrive-ultimatum/thrive-dashboard/js/dist/frontend.min__qe79741bf.js"
         type="text/javascript"></script>
     <script id="tve_frontend_lead-generation-js"
-        src="/wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/lead-generation.min__q011b470d.js"
+        src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/lead-generation.min__q011b470d.js"
         type="text/javascript"></script>
     <script id="tve_frontend_dropdown-js"
-        src="/wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/dropdown.min__q011b470d.js"
+        src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/dropdown.min__q011b470d.js"
         type="text/javascript"></script>
     <script id="tve_frontend_menu-js"
-        src="/wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/menu.min__q011b470d.js"
+        src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/menu.min__q011b470d.js"
         type="text/javascript"></script>
     <script
         type="text/javascript">var tcb_current_post_lists = JSON.parse('[]'); var tcb_post_lists = tcb_post_lists ? [...tcb_post_lists, ...tcb_current_post_lists] : tcb_current_post_lists;</script>
@@ -13185,10 +13185,10 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <!-- Add HTML code to the header or the footer.
 
 For example, you can use the following code for loading the jQuery library from Google CDN:
-<script src="/assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 or the following one for loading the Bootstrap library from jsDelivr:
-<link rel="stylesheet" href="/assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
 -- End of the comment -->
     <script>
@@ -13582,7 +13582,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         var TVE_Ult_Data = { "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "ajax_load_action": "tve_ult_ajax_load", "conversion_events_action": "tve_ult_conversion_event", "shortcode_campaign_ids": [], "matched_display_settings": [], "campaign_ids": [], "post_id": 3045, "is_singular": true, "tu_em": "", "evergreen_redirects": [] };
         /* ]]> */
     </script>
-    <script src="/wp-content/plugins/thrive-ultimatum/js/dist/no-campaign.min__q04f4ffbd.js"
+    <script src="wp-content/plugins/thrive-ultimatum/js/dist/no-campaign.min__q04f4ffbd.js"
         type="text/javascript"></script>
 </body>
 

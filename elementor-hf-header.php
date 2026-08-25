@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<link href="/_external/gmpg.org/xfn/11/index.html" rel="profile"/>
+<link href="_external/gmpg.org/xfn/11/index.html" rel="profile"/>
 
 <script type="text/javascript">
 			window.flatStyles = window.flatStyles || ''
@@ -86,12 +86,12 @@
 <title>Mental Health Services in Pennsylvania | Trusted Psychiatrists</title>
 <meta content="Options Psychiatry provides expert mental health services in Pennsylvania, including TMS therapy, psychiatry, and medication management in Reading, PA. Our board-certified psychiatrists are accepting new patients, call today to get started." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="/elementor-hf/header" rel="canonical"/>
+<link href="elementor-hf-header.php" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="website" property="og:type"/>
 <meta content="Mental Health Services in Pennsylvania | Trusted Psychiatrists" property="og:title"/>
 <meta content="Options Psychiatry provides expert mental health services in Pennsylvania, including TMS therapy, psychiatry, and medication management in Reading, PA. Our board-certified psychiatrists are accepting new patients, call today to get started." property="og:description"/>
-<meta content="/elementor-hf/header/" property="og:url"/>
+<meta content="elementor-hf-header.php" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-07-21T05:12:23-04:00" property="og:updated_time"/>
 <meta content="summary_large_image" name="twitter:card"/>
@@ -111,8 +111,8 @@
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
 </style>
-<link href="/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend__qf7ffcae6.css" id="hfe-widgets-style-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/themes/thrive-theme/inc/assets/dist/theme__q784709ed.css" id="thrive-theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend__qf7ffcae6.css" id="hfe-widgets-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/themes/thrive-theme/inc/assets/dist/theme__q784709ed.css" id="thrive-theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
 <style id="wp-emoji-styles-inline-css" type="text/css">
 
 	img.wp-smiley, img.emoji {
@@ -133,7 +133,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
 /*# sourceURL=/wp-includes/css/classic-themes.min.css */
 </style>
-<link href="/wp-content/plugins/wp-blog-post-layouts/includes/assets/css/build__q8daf52c7.css" id="wpblog-post-layouts-block-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/wp-blog-post-layouts/includes/assets/css/build__q8daf52c7.css" id="wpblog-post-layouts-block-style-css" media="all" rel="stylesheet" type="text/css"/>
 <style id="global-styles-inline-css" type="text/css">
 :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 :where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
@@ -142,30 +142,30 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 :root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
 /*# sourceURL=global-styles-inline-css */
 </style>
-<link href="/wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css" id="kk-star-ratings-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css" id="tve-ult-main-frame-css-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css" id="hfe-style-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css" id="elementor-frontend-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/uploads/elementor/css/post-4716__q104fc520.css" id="elementor-post-4716-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/uploads/elementor/css/post-4735__q441a7b78.css" id="elementor-post-4735-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/uploads/elementor/css/post-4753__q104fc520.css" id="elementor-post-4753-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/uploads/elementor/css/post-4746__q2b585c9b.css" id="elementor-post-4746-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/_external/fonts.googleapis.com/css/index__qe78199b5.html#038;subset=latin%2Clatin-ext" id="wpblog-post-layouts-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css" id="fontawesome-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css" id="tvo-frontend-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/themes/thrive-theme/style__q784709ed.css" id="thrive-theme-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css" id="tve_style_family_tve_flt-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css" id="thrive-template-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css" id="hfe-elementor-icons-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css" id="hfe-icons-list-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css" id="hfe-social-icons-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css" id="hfe-social-share-icons-brands-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css" id="hfe-social-share-icons-fontawesome-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css" id="hfe-nav-menu-icons-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/_external/fonts.googleapis.com/css/index__q65d37b7f.html" id="elementor-gf-roboto-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/_external/fonts.googleapis.com/css/index__qb6c5de83.html" id="elementor-gf-robotoslab-css" media="all" rel="stylesheet" type="text/css"/>
-<script id="jquery-core-js" src="/wp-includes/js/jquery/jquery.min__qf43b551b.js" type="text/javascript"></script>
-<script id="jquery-migrate-js" src="/wp-includes/js/jquery/jquery-migrate.min__q558973c0.js" type="text/javascript"></script>
+<link href="wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css" id="kk-star-ratings-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css" id="tve-ult-main-frame-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css" id="hfe-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css" id="elementor-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/uploads/elementor/css/post-4716__q104fc520.css" id="elementor-post-4716-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/uploads/elementor/css/post-4735__q441a7b78.css" id="elementor-post-4735-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/uploads/elementor/css/post-4753__q104fc520.css" id="elementor-post-4753-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/uploads/elementor/css/post-4746__q2b585c9b.css" id="elementor-post-4746-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="_external/fonts.googleapis.com/css/index__qe78199b5.html#038;subset=latin%2Clatin-ext" id="wpblog-post-layouts-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css" id="fontawesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css" id="tvo-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/themes/thrive-theme/style__q784709ed.css" id="thrive-theme-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css" id="tve_style_family_tve_flt-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css" id="thrive-template-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css" id="hfe-elementor-icons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css" id="hfe-icons-list-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css" id="hfe-social-icons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css" id="hfe-social-share-icons-brands-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css" id="hfe-social-share-icons-fontawesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css" id="hfe-nav-menu-icons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="_external/fonts.googleapis.com/css/index__q65d37b7f.html" id="elementor-gf-roboto-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="_external/fonts.googleapis.com/css/index__qb6c5de83.html" id="elementor-gf-robotoslab-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="wp-includes/js/jquery/jquery.min__qf43b551b.js" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="wp-includes/js/jquery/jquery-migrate.min__q558973c0.js" type="text/javascript"></script>
 <script id="jquery-js-after" type="text/javascript">
 /* <![CDATA[ */
 !function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
@@ -173,58 +173,58 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 //# sourceURL=jquery-js-after
 /* ]]> */
 </script>
-<script id="jquery-ui-core-js" src="/wp-includes/js/jquery/ui/core.min__qb37ee774.js" type="text/javascript"></script>
-<script id="jquery-ui-menu-js" src="/wp-includes/js/jquery/ui/menu.min__qb37ee774.js" type="text/javascript"></script>
-<script id="wp-dom-ready-js" src="/wp-includes/js/dist/dom-ready.min__q5346137b.js" type="text/javascript"></script>
-<script id="wp-hooks-js" src="/wp-includes/js/dist/hooks.min__qaf5f3db4.js" type="text/javascript"></script>
-<script id="wp-i18n-js" src="/wp-includes/js/dist/i18n.min__q1cde93bb.js" type="text/javascript"></script>
+<script id="jquery-ui-core-js" src="wp-includes/js/jquery/ui/core.min__qb37ee774.js" type="text/javascript"></script>
+<script id="jquery-ui-menu-js" src="wp-includes/js/jquery/ui/menu.min__qb37ee774.js" type="text/javascript"></script>
+<script id="wp-dom-ready-js" src="wp-includes/js/dist/dom-ready.min__q5346137b.js" type="text/javascript"></script>
+<script id="wp-hooks-js" src="wp-includes/js/dist/hooks.min__qaf5f3db4.js" type="text/javascript"></script>
+<script id="wp-i18n-js" src="wp-includes/js/dist/i18n.min__q1cde93bb.js" type="text/javascript"></script>
 <script id="wp-i18n-js-after" type="text/javascript">
 /* <![CDATA[ */
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 //# sourceURL=wp-i18n-js-after
 /* ]]> */
 </script>
-<script id="wp-a11y-js" src="/wp-includes/js/dist/a11y.min__q1b1cf71c.js" type="text/javascript"></script>
-<script id="jquery-ui-autocomplete-js" src="/wp-includes/js/jquery/ui/autocomplete.min__qb37ee774.js" type="text/javascript"></script>
-<script id="imagesloaded-js" src="/wp-includes/js/imagesloaded.min__qbb938083.js" type="text/javascript"></script>
-<script id="masonry-js" src="/wp-includes/js/masonry.min__q3a0508bb.js" type="text/javascript"></script>
-<script id="jquery-masonry-js" src="/wp-includes/js/jquery/jquery.masonry.min__qef703437.js" type="text/javascript"></script>
+<script id="wp-a11y-js" src="wp-includes/js/dist/a11y.min__q1b1cf71c.js" type="text/javascript"></script>
+<script id="jquery-ui-autocomplete-js" src="wp-includes/js/jquery/ui/autocomplete.min__qb37ee774.js" type="text/javascript"></script>
+<script id="imagesloaded-js" src="wp-includes/js/imagesloaded.min__qbb938083.js" type="text/javascript"></script>
+<script id="masonry-js" src="wp-includes/js/masonry.min__q3a0508bb.js" type="text/javascript"></script>
+<script id="jquery-masonry-js" src="wp-includes/js/jquery/jquery.masonry.min__qef703437.js" type="text/javascript"></script>
 <script id="tve_frontend-js-extra" type="text/javascript">
 /* <![CDATA[ */
 var tve_frontend_options = {"ajaxurl":"https://optionspa.com/wp-admin/admin-ajax.php","is_editor_page":"","page_events":"","is_single":"1","social_fb_app_id":"","dash_url":"https://optionspa.com/wp-content/plugins/thrive-ultimatum/thrive-dashboard","queried_object":{"ID":4735,"post_author":"4"},"query_vars":{"certificate_u":""},"$_POST":[],"translations":{"Copy":"Copy","empty_username":"ERROR: The username field is empty.","empty_password":"ERROR: The password field is empty.","empty_login":"ERROR: Enter a username or email address.","min_chars":"At least %s characters are needed","no_headings":"No headings found","registration_err":{"required_field":"\u003Cstrong\u003EError\u003C/strong\u003E: This field is required","required_email":"\u003Cstrong\u003EError\u003C/strong\u003E: Please type your email address","invalid_email":"\u003Cstrong\u003EError\u003C/strong\u003E: The email address isn&#8217;t correct","passwordmismatch":"\u003Cstrong\u003EError\u003C/strong\u003E: Password mismatch"}},"routes":{"posts":"https://optionspa.com/wp-json/tcb/v1/posts","video_reporting":"https://optionspa.com/wp-json/tcb/v1/video-reporting","courses":"https://optionspa.com/wp-json/tva/v1/course_list_element","certificate_search":"https://optionspa.com/wp-json/tva/v1/certificate/search","assessments":"https://optionspa.com/wp-json/tva/v1/user/assessment","testimonials":"https://optionspa.com/wp-json/tcb/v1/testimonials"},"nonce":"52d3aee43c","allow_video_src":"","google_client_id":null,"google_api_key":null,"facebook_app_id":null,"lead_generation_custom_tag_apis":["activecampaign","aweber","convertkit","drip","klicktipp","mailchimp","sendlane","zapier"],"post_request_data":[],"user_profile_nonce":"4c5041a2b9","ip":"14.195.188.138","current_user":[],"post_id":"4735","post_title":"Mental Health Services in Pennsylvania | Trusted Psychiatrist","post_type":"page","post_url":"https://optionspa.com/","is_lp":"","conditional_display":{"is_tooltip_dismissed":false}};
 //# sourceURL=tve_frontend-js-extra
 /* ]]> */
 </script>
-<script id="tve_frontend-js" src="/wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/general.min__qe79741bf.js" type="text/javascript"></script>
+<script id="tve_frontend-js" src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/general.min__qe79741bf.js" type="text/javascript"></script>
 <script id="theme-frontend-js-extra" type="text/javascript">
 /* <![CDATA[ */
 var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email address invalid","url":"Website address invalid","required":"Required field missing"}},"routes":{"posts":"https://optionspa.com/wp-json/tcb/v1/posts","frontend":"https://optionspa.com/wp-json/ttb/v1/frontend"},"tar_post_url":"?tve=true&action=architect&from_theme=1","is_editor":"","ID":"28","template_url":"?tve=true&action=architect&from_tar=4735","pagination_url":{"template":"https://optionspa.com/page/[thrive_page_number]/","base":"https://optionspa.com/"},"sidebar_visibility":[],"is_singular":"1","is_user_logged_in":""};
 //# sourceURL=theme-frontend-js-extra
 /* ]]> */
 </script>
-<script id="theme-frontend-js" src="/wp-content/themes/thrive-theme/inc/assets/dist/frontend.min__q784709ed.js" type="text/javascript"></script>
-<script id="display-testimonials-tcb-js" src="/wp-content/plugins/thrive-ovation/tcb-bridge/frontend/js/display-testimonials-tcb.min__qe79741bf.js" type="text/javascript"></script>
+<script id="theme-frontend-js" src="wp-content/themes/thrive-theme/inc/assets/dist/frontend.min__q784709ed.js" type="text/javascript"></script>
+<script id="display-testimonials-tcb-js" src="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/js/display-testimonials-tcb.min__qe79741bf.js" type="text/javascript"></script>
 
 
 <meta content="IQ1dcuJ47hx3D0nkl5e3QOOCEIZ_UU7NBBkRGBNuLN4" name="google-site-verification"/>
-<link href="/wp-content/uploads/custom-css-js/4734__qec47fe7e.css" id="4734-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/uploads/custom-css-js/4725__q70077246.css" id="4725-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="/wp-content/uploads/custom-css-js/2880__q42b25d37.css" id="2880-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/uploads/custom-css-js/4734__qec47fe7e.css" id="4734-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/uploads/custom-css-js/4725__q70077246.css" id="4725-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="wp-content/uploads/custom-css-js/2880__q42b25d37.css" id="2880-css" media="all" rel="stylesheet" type="text/css"/>
 <!-- start Simple Custom CSS and JS -->
 <!-- Add HTML code to the header or the footer.
 
 For example, you can use the following code for loading the jQuery library from Google CDN:
-<script src="/assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 or the following one for loading the Bootstrap library from jsDelivr:
-<link rel="stylesheet" href="/assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
  <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com" rel="preconnect"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
-<link href="/_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet"/>
+<link href="_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet"/>
 <!-- Font Awesome -->
-<link href="/_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet"/>
+<link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet"/>
 <!-- End of the comment -->
 <!-- end Simple Custom CSS and JS -->
 <!-- start Simple Custom CSS and JS -->
@@ -241,7 +241,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 
 </script>
 <!-- end Simple Custom CSS and JS -->
-<link href="/_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
 <!-- Meta Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
@@ -398,7 +398,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MJC7C7C4');</script>
-<!-- End Google Tag Manager --><style id="thrive-theme-layout-css" type="text/css">@media (min-width: 300px){.thrive-layout-19 .main-container .sidebar-section{width: 28.51%;}.thrive-layout-19 .main-container .content-section{width: calc(71.49% - 80px);}}@media (max-width: 1023px){.thrive-layout-19 .main-container{flex-wrap: wrap;}.thrive-layout-19 #wrapper .main-content-background,.thrive-layout-19 #wrapper .layout-background-width .section-background,.thrive-layout-19 #wrapper .layout-background-width .symbol-section-out{width: 100%;}.thrive-layout-19 .layout-content-width.main-container{width: 100%;}.thrive-layout-19 .layout-content-width > .section-content{width: 100%;}.thrive-layout-19 .layout-content-width .symbol-section-in{width: 100%;}}</style><style id="thrive-dynamic-css" type="text/css">@media (min-width: 300px){.tve-theme-28 .bottom-section [data-css="tve-u-16ecb857f33"]{background-image: url("/_external/secure.gravatar.com/avatar/0047baa95022e0117a11fdd310da4521de7ab91557a0210496da6c384c404e52/index__qb7b91a31.html") !important;}}</style><style id="tve_global_variables" type="text/css">:root{--tcb-background-author-image:url("/_external/secure.gravatar.com/avatar/0047baa95022e0117a11fdd310da4521de7ab91557a0210496da6c384c404e52/index__qb7b91a31.html");--tcb-background-user-image:url();--tcb-background-featured-image-thumbnail:url("/wp-content/plugins/thrive-ultimatum/tcb/editor/css/images/featured_image.png");--tcb-skin-color-0:hsla(var(--tcb-theme-main-master-h,210), var(--tcb-theme-main-master-s,77%), var(--tcb-theme-main-master-l,54%), var(--tcb-theme-main-master-a,1));--tcb-skin-color-0-h:var(--tcb-theme-main-master-h,210);--tcb-skin-color-0-s:var(--tcb-theme-main-master-s,77%);--tcb-skin-color-0-l:var(--tcb-theme-main-master-l,54%);--tcb-skin-color-0-a:var(--tcb-theme-main-master-a,1);--tcb-skin-color-1:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), calc(var(--tcb-theme-main-master-s,77%) + 2% ), calc(var(--tcb-theme-main-master-l,54%) - 0% ), 0.5);--tcb-skin-color-1-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-1-s:calc(var(--tcb-theme-main-master-s,77%) + 2% );--tcb-skin-color-1-l:calc(var(--tcb-theme-main-master-l,54%) - 0% );--tcb-skin-color-1-a:0.5;--tcb-skin-color-2:rgb(248, 248, 248);--tcb-skin-color-2-h:0;--tcb-skin-color-2-s:0%;--tcb-skin-color-2-l:97%;--tcb-skin-color-2-a:1;--tcb-skin-color-3:hsla(calc(var(--tcb-theme-main-master-h,210) + 30 ), 85%, 13%, 1);--tcb-skin-color-3-h:calc(var(--tcb-theme-main-master-h,210) + 30 );--tcb-skin-color-3-s:85%;--tcb-skin-color-3-l:13%;--tcb-skin-color-3-a:1;--tcb-skin-color-4:rgb(12, 17, 21);--tcb-skin-color-4-h:206;--tcb-skin-color-4-s:27%;--tcb-skin-color-4-l:6%;--tcb-skin-color-4-a:1;--tcb-skin-color-5:rgb(106, 107, 108);--tcb-skin-color-5-h:210;--tcb-skin-color-5-s:0%;--tcb-skin-color-5-l:41%;--tcb-skin-color-5-a:1;--tcb-skin-color-8:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), calc(var(--tcb-theme-main-master-s,77%) + 2% ), calc(var(--tcb-theme-main-master-l,54%) - 0% ), 0.18);--tcb-skin-color-8-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-8-s:calc(var(--tcb-theme-main-master-s,77%) + 2% );--tcb-skin-color-8-l:calc(var(--tcb-theme-main-master-l,54%) - 0% );--tcb-skin-color-8-a:0.18;--tcb-skin-color-9:hsla(calc(var(--tcb-theme-main-master-h,210) - 3 ), 56%, 96%, 1);--tcb-skin-color-9-h:calc(var(--tcb-theme-main-master-h,210) - 3 );--tcb-skin-color-9-s:56%;--tcb-skin-color-9-l:96%;--tcb-skin-color-9-a:1;--tcb-skin-color-10:hsla(calc(var(--tcb-theme-main-master-h,210) - 21 ), calc(var(--tcb-theme-main-master-s,77%) + 23% ), calc(var(--tcb-theme-main-master-l,54%) + 27% ), 1);--tcb-skin-color-10-h:calc(var(--tcb-theme-main-master-h,210) - 21 );--tcb-skin-color-10-s:calc(var(--tcb-theme-main-master-s,77%) + 23% );--tcb-skin-color-10-l:calc(var(--tcb-theme-main-master-l,54%) + 27% );--tcb-skin-color-10-a:1;--tcb-skin-color-13:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), calc(var(--tcb-theme-main-master-s,77%) + 2% ), calc(var(--tcb-theme-main-master-l,54%) - 18% ), 0.5);--tcb-skin-color-13-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-13-s:calc(var(--tcb-theme-main-master-s,77%) + 2% );--tcb-skin-color-13-l:calc(var(--tcb-theme-main-master-l,54%) - 18% );--tcb-skin-color-13-a:0.5;--tcb-skin-color-14:rgb(230, 230, 230);--tcb-skin-color-14-h:0;--tcb-skin-color-14-s:0%;--tcb-skin-color-14-l:90%;--tcb-skin-color-14-a:1;--tcb-skin-color-16:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), 3%, 36%, 1);--tcb-skin-color-16-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-16-s:3%;--tcb-skin-color-16-l:36%;--tcb-skin-color-16-a:1;--tcb-skin-color-18:hsla(calc(var(--tcb-theme-main-master-h,210) - 1 ), calc(var(--tcb-theme-main-master-s,77%) + 1% ), calc(var(--tcb-theme-main-master-l,54%) - 1% ), 0.8);--tcb-skin-color-18-h:calc(var(--tcb-theme-main-master-h,210) - 1 );--tcb-skin-color-18-s:calc(var(--tcb-theme-main-master-s,77%) + 1% );--tcb-skin-color-18-l:calc(var(--tcb-theme-main-master-l,54%) - 1% );--tcb-skin-color-18-a:0.8;--tcb-skin-color-19:hsla(calc(var(--tcb-theme-main-master-h,210) - 3 ), 56%, 96%, 0.85);--tcb-skin-color-19-h:calc(var(--tcb-theme-main-master-h,210) - 3 );--tcb-skin-color-19-s:56%;--tcb-skin-color-19-l:96%;--tcb-skin-color-19-a:0.85;--tcb-skin-color-20:hsla(calc(var(--tcb-theme-main-master-h,210) - 3 ), 56%, 96%, 0.9);--tcb-skin-color-20-h:calc(var(--tcb-theme-main-master-h,210) - 3 );--tcb-skin-color-20-s:56%;--tcb-skin-color-20-l:96%;--tcb-skin-color-20-a:0.9;--tcb-skin-color-21:hsla(calc(var(--tcb-theme-main-master-h,210) - 210 ), calc(var(--tcb-theme-main-master-s,77%) - 77% ), calc(var(--tcb-theme-main-master-l,54%) + 46% ), 1);--tcb-skin-color-21-h:calc(var(--tcb-theme-main-master-h,210) - 210 );--tcb-skin-color-21-s:calc(var(--tcb-theme-main-master-s,77%) - 77% );--tcb-skin-color-21-l:calc(var(--tcb-theme-main-master-l,54%) + 46% );--tcb-skin-color-21-a:1;--tcb-skin-color-22:rgb(255, 255, 255);--tcb-skin-color-22-h:0;--tcb-skin-color-22-s:0%;--tcb-skin-color-22-l:100%;--tcb-skin-color-22-a:1;--tcb-skin-color-23:rgb(32, 65, 71);--tcb-skin-color-23-h:189;--tcb-skin-color-23-s:37%;--tcb-skin-color-23-l:20%;--tcb-skin-color-23-a:1;--tcb-skin-color-24:rgb(59, 59, 59);--tcb-skin-color-24-h:0;--tcb-skin-color-24-s:0%;--tcb-skin-color-24-l:23%;--tcb-skin-color-24-a:1;--tcb-skin-color-25:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), calc(var(--tcb-theme-main-master-s,77%) + 5% ), calc(var(--tcb-theme-main-master-l,54%) + 8% ), 0.04);--tcb-skin-color-25-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-25-s:calc(var(--tcb-theme-main-master-s,77%) + 5% );--tcb-skin-color-25-l:calc(var(--tcb-theme-main-master-l,54%) + 8% );--tcb-skin-color-25-a:0.04;--tcb-skin-color-26:hsla(calc(var(--tcb-theme-main-master-h,210) + 1 ), calc(var(--tcb-theme-main-master-s,77%) + 6% ), calc(var(--tcb-theme-main-master-l,54%) + 9% ), 0.12);--tcb-skin-color-26-h:calc(var(--tcb-theme-main-master-h,210) + 1 );--tcb-skin-color-26-s:calc(var(--tcb-theme-main-master-s,77%) + 6% );--tcb-skin-color-26-l:calc(var(--tcb-theme-main-master-l,54%) + 9% );--tcb-skin-color-26-a:0.12;--tcb-skin-color-27:hsla(calc(var(--tcb-theme-main-master-h,210) + 10 ), calc(var(--tcb-theme-main-master-s,77%) + 6% ), calc(var(--tcb-theme-main-master-l,54%) + 17% ), 1);--tcb-skin-color-27-h:calc(var(--tcb-theme-main-master-h,210) + 10 );--tcb-skin-color-27-s:calc(var(--tcb-theme-main-master-s,77%) + 6% );--tcb-skin-color-27-l:calc(var(--tcb-theme-main-master-l,54%) + 17% );--tcb-skin-color-27-a:1;--tcb-skin-color-28:hsla(calc(var(--tcb-theme-main-master-h,210) + 2 ), calc(var(--tcb-theme-main-master-s,77%) - 34% ), calc(var(--tcb-theme-main-master-l,54%) + 27% ), 1);--tcb-skin-color-28-h:calc(var(--tcb-theme-main-master-h,210) + 2 );--tcb-skin-color-28-s:calc(var(--tcb-theme-main-master-s,77%) - 34% );--tcb-skin-color-28-l:calc(var(--tcb-theme-main-master-l,54%) + 27% );--tcb-skin-color-28-a:1;--tcb-skin-color-29:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), calc(var(--tcb-theme-main-master-s,77%) + 6% ), calc(var(--tcb-theme-main-master-l,54%) + 10% ), 0.4);--tcb-skin-color-29-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-29-s:calc(var(--tcb-theme-main-master-s,77%) + 6% );--tcb-skin-color-29-l:calc(var(--tcb-theme-main-master-l,54%) + 10% );--tcb-skin-color-29-a:0.4;--tcb-skin-color-30:hsla(calc(var(--tcb-theme-main-master-h,210) - 1 ), calc(var(--tcb-theme-main-master-s,77%) + 5% ), calc(var(--tcb-theme-main-master-l,54%) + 8% ), 0.85);--tcb-skin-color-30-h:calc(var(--tcb-theme-main-master-h,210) - 1 );--tcb-skin-color-30-s:calc(var(--tcb-theme-main-master-s,77%) + 5% );--tcb-skin-color-30-l:calc(var(--tcb-theme-main-master-l,54%) + 8% );--tcb-skin-color-30-a:0.85;--tcb-main-master-h:210;--tcb-main-master-s:77%;--tcb-main-master-l:54%;--tcb-main-master-a:1;--tcb-theme-main-master-h:210;--tcb-theme-main-master-s:77%;--tcb-theme-main-master-l:54%;--tcb-theme-main-master-a:1;}</style><meta content="Elementor 3.35.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap" name="generator"/>
+<!-- End Google Tag Manager --><style id="thrive-theme-layout-css" type="text/css">@media (min-width: 300px){.thrive-layout-19 .main-container .sidebar-section{width: 28.51%;}.thrive-layout-19 .main-container .content-section{width: calc(71.49% - 80px);}}@media (max-width: 1023px){.thrive-layout-19 .main-container{flex-wrap: wrap;}.thrive-layout-19 #wrapper .main-content-background,.thrive-layout-19 #wrapper .layout-background-width .section-background,.thrive-layout-19 #wrapper .layout-background-width .symbol-section-out{width: 100%;}.thrive-layout-19 .layout-content-width.main-container{width: 100%;}.thrive-layout-19 .layout-content-width > .section-content{width: 100%;}.thrive-layout-19 .layout-content-width .symbol-section-in{width: 100%;}}</style><style id="thrive-dynamic-css" type="text/css">@media (min-width: 300px){.tve-theme-28 .bottom-section [data-css="tve-u-16ecb857f33"]{background-image: url("_external/secure.gravatar.com/avatar/0047baa95022e0117a11fdd310da4521de7ab91557a0210496da6c384c404e52/index__qb7b91a31.html") !important;}}</style><style id="tve_global_variables" type="text/css">:root{--tcb-background-author-image:url("_external/secure.gravatar.com/avatar/0047baa95022e0117a11fdd310da4521de7ab91557a0210496da6c384c404e52/index__qb7b91a31.html");--tcb-background-user-image:url();--tcb-background-featured-image-thumbnail:url("wp-content/plugins/thrive-ultimatum/tcb/editor/css/images/featured_image.png");--tcb-skin-color-0:hsla(var(--tcb-theme-main-master-h,210), var(--tcb-theme-main-master-s,77%), var(--tcb-theme-main-master-l,54%), var(--tcb-theme-main-master-a,1));--tcb-skin-color-0-h:var(--tcb-theme-main-master-h,210);--tcb-skin-color-0-s:var(--tcb-theme-main-master-s,77%);--tcb-skin-color-0-l:var(--tcb-theme-main-master-l,54%);--tcb-skin-color-0-a:var(--tcb-theme-main-master-a,1);--tcb-skin-color-1:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), calc(var(--tcb-theme-main-master-s,77%) + 2% ), calc(var(--tcb-theme-main-master-l,54%) - 0% ), 0.5);--tcb-skin-color-1-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-1-s:calc(var(--tcb-theme-main-master-s,77%) + 2% );--tcb-skin-color-1-l:calc(var(--tcb-theme-main-master-l,54%) - 0% );--tcb-skin-color-1-a:0.5;--tcb-skin-color-2:rgb(248, 248, 248);--tcb-skin-color-2-h:0;--tcb-skin-color-2-s:0%;--tcb-skin-color-2-l:97%;--tcb-skin-color-2-a:1;--tcb-skin-color-3:hsla(calc(var(--tcb-theme-main-master-h,210) + 30 ), 85%, 13%, 1);--tcb-skin-color-3-h:calc(var(--tcb-theme-main-master-h,210) + 30 );--tcb-skin-color-3-s:85%;--tcb-skin-color-3-l:13%;--tcb-skin-color-3-a:1;--tcb-skin-color-4:rgb(12, 17, 21);--tcb-skin-color-4-h:206;--tcb-skin-color-4-s:27%;--tcb-skin-color-4-l:6%;--tcb-skin-color-4-a:1;--tcb-skin-color-5:rgb(106, 107, 108);--tcb-skin-color-5-h:210;--tcb-skin-color-5-s:0%;--tcb-skin-color-5-l:41%;--tcb-skin-color-5-a:1;--tcb-skin-color-8:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), calc(var(--tcb-theme-main-master-s,77%) + 2% ), calc(var(--tcb-theme-main-master-l,54%) - 0% ), 0.18);--tcb-skin-color-8-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-8-s:calc(var(--tcb-theme-main-master-s,77%) + 2% );--tcb-skin-color-8-l:calc(var(--tcb-theme-main-master-l,54%) - 0% );--tcb-skin-color-8-a:0.18;--tcb-skin-color-9:hsla(calc(var(--tcb-theme-main-master-h,210) - 3 ), 56%, 96%, 1);--tcb-skin-color-9-h:calc(var(--tcb-theme-main-master-h,210) - 3 );--tcb-skin-color-9-s:56%;--tcb-skin-color-9-l:96%;--tcb-skin-color-9-a:1;--tcb-skin-color-10:hsla(calc(var(--tcb-theme-main-master-h,210) - 21 ), calc(var(--tcb-theme-main-master-s,77%) + 23% ), calc(var(--tcb-theme-main-master-l,54%) + 27% ), 1);--tcb-skin-color-10-h:calc(var(--tcb-theme-main-master-h,210) - 21 );--tcb-skin-color-10-s:calc(var(--tcb-theme-main-master-s,77%) + 23% );--tcb-skin-color-10-l:calc(var(--tcb-theme-main-master-l,54%) + 27% );--tcb-skin-color-10-a:1;--tcb-skin-color-13:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), calc(var(--tcb-theme-main-master-s,77%) + 2% ), calc(var(--tcb-theme-main-master-l,54%) - 18% ), 0.5);--tcb-skin-color-13-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-13-s:calc(var(--tcb-theme-main-master-s,77%) + 2% );--tcb-skin-color-13-l:calc(var(--tcb-theme-main-master-l,54%) - 18% );--tcb-skin-color-13-a:0.5;--tcb-skin-color-14:rgb(230, 230, 230);--tcb-skin-color-14-h:0;--tcb-skin-color-14-s:0%;--tcb-skin-color-14-l:90%;--tcb-skin-color-14-a:1;--tcb-skin-color-16:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), 3%, 36%, 1);--tcb-skin-color-16-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-16-s:3%;--tcb-skin-color-16-l:36%;--tcb-skin-color-16-a:1;--tcb-skin-color-18:hsla(calc(var(--tcb-theme-main-master-h,210) - 1 ), calc(var(--tcb-theme-main-master-s,77%) + 1% ), calc(var(--tcb-theme-main-master-l,54%) - 1% ), 0.8);--tcb-skin-color-18-h:calc(var(--tcb-theme-main-master-h,210) - 1 );--tcb-skin-color-18-s:calc(var(--tcb-theme-main-master-s,77%) + 1% );--tcb-skin-color-18-l:calc(var(--tcb-theme-main-master-l,54%) - 1% );--tcb-skin-color-18-a:0.8;--tcb-skin-color-19:hsla(calc(var(--tcb-theme-main-master-h,210) - 3 ), 56%, 96%, 0.85);--tcb-skin-color-19-h:calc(var(--tcb-theme-main-master-h,210) - 3 );--tcb-skin-color-19-s:56%;--tcb-skin-color-19-l:96%;--tcb-skin-color-19-a:0.85;--tcb-skin-color-20:hsla(calc(var(--tcb-theme-main-master-h,210) - 3 ), 56%, 96%, 0.9);--tcb-skin-color-20-h:calc(var(--tcb-theme-main-master-h,210) - 3 );--tcb-skin-color-20-s:56%;--tcb-skin-color-20-l:96%;--tcb-skin-color-20-a:0.9;--tcb-skin-color-21:hsla(calc(var(--tcb-theme-main-master-h,210) - 210 ), calc(var(--tcb-theme-main-master-s,77%) - 77% ), calc(var(--tcb-theme-main-master-l,54%) + 46% ), 1);--tcb-skin-color-21-h:calc(var(--tcb-theme-main-master-h,210) - 210 );--tcb-skin-color-21-s:calc(var(--tcb-theme-main-master-s,77%) - 77% );--tcb-skin-color-21-l:calc(var(--tcb-theme-main-master-l,54%) + 46% );--tcb-skin-color-21-a:1;--tcb-skin-color-22:rgb(255, 255, 255);--tcb-skin-color-22-h:0;--tcb-skin-color-22-s:0%;--tcb-skin-color-22-l:100%;--tcb-skin-color-22-a:1;--tcb-skin-color-23:rgb(32, 65, 71);--tcb-skin-color-23-h:189;--tcb-skin-color-23-s:37%;--tcb-skin-color-23-l:20%;--tcb-skin-color-23-a:1;--tcb-skin-color-24:rgb(59, 59, 59);--tcb-skin-color-24-h:0;--tcb-skin-color-24-s:0%;--tcb-skin-color-24-l:23%;--tcb-skin-color-24-a:1;--tcb-skin-color-25:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), calc(var(--tcb-theme-main-master-s,77%) + 5% ), calc(var(--tcb-theme-main-master-l,54%) + 8% ), 0.04);--tcb-skin-color-25-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-25-s:calc(var(--tcb-theme-main-master-s,77%) + 5% );--tcb-skin-color-25-l:calc(var(--tcb-theme-main-master-l,54%) + 8% );--tcb-skin-color-25-a:0.04;--tcb-skin-color-26:hsla(calc(var(--tcb-theme-main-master-h,210) + 1 ), calc(var(--tcb-theme-main-master-s,77%) + 6% ), calc(var(--tcb-theme-main-master-l,54%) + 9% ), 0.12);--tcb-skin-color-26-h:calc(var(--tcb-theme-main-master-h,210) + 1 );--tcb-skin-color-26-s:calc(var(--tcb-theme-main-master-s,77%) + 6% );--tcb-skin-color-26-l:calc(var(--tcb-theme-main-master-l,54%) + 9% );--tcb-skin-color-26-a:0.12;--tcb-skin-color-27:hsla(calc(var(--tcb-theme-main-master-h,210) + 10 ), calc(var(--tcb-theme-main-master-s,77%) + 6% ), calc(var(--tcb-theme-main-master-l,54%) + 17% ), 1);--tcb-skin-color-27-h:calc(var(--tcb-theme-main-master-h,210) + 10 );--tcb-skin-color-27-s:calc(var(--tcb-theme-main-master-s,77%) + 6% );--tcb-skin-color-27-l:calc(var(--tcb-theme-main-master-l,54%) + 17% );--tcb-skin-color-27-a:1;--tcb-skin-color-28:hsla(calc(var(--tcb-theme-main-master-h,210) + 2 ), calc(var(--tcb-theme-main-master-s,77%) - 34% ), calc(var(--tcb-theme-main-master-l,54%) + 27% ), 1);--tcb-skin-color-28-h:calc(var(--tcb-theme-main-master-h,210) + 2 );--tcb-skin-color-28-s:calc(var(--tcb-theme-main-master-s,77%) - 34% );--tcb-skin-color-28-l:calc(var(--tcb-theme-main-master-l,54%) + 27% );--tcb-skin-color-28-a:1;--tcb-skin-color-29:hsla(calc(var(--tcb-theme-main-master-h,210) - 0 ), calc(var(--tcb-theme-main-master-s,77%) + 6% ), calc(var(--tcb-theme-main-master-l,54%) + 10% ), 0.4);--tcb-skin-color-29-h:calc(var(--tcb-theme-main-master-h,210) - 0 );--tcb-skin-color-29-s:calc(var(--tcb-theme-main-master-s,77%) + 6% );--tcb-skin-color-29-l:calc(var(--tcb-theme-main-master-l,54%) + 10% );--tcb-skin-color-29-a:0.4;--tcb-skin-color-30:hsla(calc(var(--tcb-theme-main-master-h,210) - 1 ), calc(var(--tcb-theme-main-master-s,77%) + 5% ), calc(var(--tcb-theme-main-master-l,54%) + 8% ), 0.85);--tcb-skin-color-30-h:calc(var(--tcb-theme-main-master-h,210) - 1 );--tcb-skin-color-30-s:calc(var(--tcb-theme-main-master-s,77%) + 5% );--tcb-skin-color-30-l:calc(var(--tcb-theme-main-master-l,54%) + 8% );--tcb-skin-color-30-a:0.85;--tcb-main-master-h:210;--tcb-main-master-s:77%;--tcb-main-master-l:54%;--tcb-main-master-a:1;--tcb-theme-main-master-h:210;--tcb-theme-main-master-s:77%;--tcb-theme-main-master-l:54%;--tcb-theme-main-master-a:1;}</style><meta content="Elementor 3.35.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap" name="generator"/>
 <!-- Schema & Structured Data For WP v1.50 - -->
 <script class="saswp-schema-markup-output" type="application/ld+json">
 [{"@context":"https:\/\/schema.org\/","@type":"Organization","@id":"https:\/\/optionspa.com#Organization","name":"Options Psychiatry","url":"https:\/\/brandingpioneers.co.in\/option-wordpress-web","sameAs":[]}]
@@ -481,10 +481,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					}
 				}
 			</style>
-<link class="thrive-external-font" href="/_external/fonts.googleapis.com/css/index__q1713ae60.html" rel="stylesheet" type="text/css"/><link class="thrive-external-font" href="/_external/fonts.googleapis.com/css/index__qdf30ba22.html" rel="stylesheet" type="text/css"/><link class="thrive-external-font" href="/_external/fonts.googleapis.com/css/index__qbe0afaa7.html" rel="stylesheet" type="text/css"/><style id="thrive-default-styles" type="text/css">@media (min-width: 300px) { .tcb-style-wrap h1{ color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);font-size:40px;background-color:rgba(0, 0, 0, 0);font-style:normal;margin:0px;padding-top:0px;padding-bottom:24px;text-decoration:rgba(10, 10, 10, 0.85);text-transform:none;border-left:0px none rgba(10, 10, 10, 0.85);line-height:1.3em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-color:var(--tcb-skin-color-4);--tve-applied-color:var$(--tcb-skin-color-4);--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap h2{ font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;font-size:34px;line-height:1.4em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap h3{ font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;font-size:24px;line-height:1.4em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap h4{ font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;font-size:20px;line-height:1.4em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap h5{ font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;line-height:1.4em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap h6{ font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;line-height:1.6em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap p{ color:rgb(42, 42, 42);--tcb-applied-color:rgb(42, 42, 42);font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);font-size:18px;padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;--tcb-typography-font-family:Barlow;--tcb-typography-color:rgb(42, 42, 42);--tve-applied-color:rgb(42, 42, 42);--tcb-typography-font-size:18px;--g-bold-weight:700; }:not(.inc) .thrv_text_element a:not(.tcb-button-link), :not(.inc) .tcb-styled-list a, :not(.inc) .tcb-numbered-list a, .tve-input-option-text a, .tcb-post-content p a, .tcb-post-content li a, .tcb-post-content blockquote a, .tcb-post-content pre a{ --tcb-applied-color:var$(--tcb-skin-color-5);font-family:var(--tve-font-family, Barlow);--g-regular-weight:400;font-weight:var(--g-regular-weight, normal) ;font-size:18px;text-decoration-line:none;--eff:none;text-decoration-color:var(--eff-color, currentColor);color:var(--tcb-skin-color-0);--tve-font-family:Barlow; }:not(.inc) .thrv_text_element a:not(.tcb-button-link):hover, :not(.inc) .tcb-styled-list a:hover, :not(.inc) .tcb-numbered-list a:hover, .tve-input-option-text a:hover, .tcb-post-content p a:hover, .tcb-post-content li a:hover, .tcb-post-content blockquote a:hover, .tcb-post-content pre a:hover { text-decoration-line:none;--eff:none;text-decoration-color:var(--eff-color, currentColor);color:var(--tcb-skin-color-3); }.tcb-style-wrap ul:not([class*="menu"]), .tcb-style-wrap ol{ color:var(--tcb-skin-color-5);--tcb-applied-color:var$(--tcb-skin-color-5);font-family:Muli;--g-regular-weight:400;--g-bold-weight:800;font-weight:var(--g-regular-weight, normal);font-size:18px;margin-top:0px;margin-bottom:0px;padding-top:0px;padding-bottom:12px;padding-left:0px; }.tcb-style-wrap li:not([class*="menu"]){ color:rgb(42, 42, 42);--tcb-applied-color:rgb(42, 42, 42);font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);font-size:18px;line-height:1.4em;padding-bottom:16px;margin-bottom:0px;--tcb-typography-font-family:Barlow;--tcb-typography-color:rgb(42, 42, 42);--tve-applied-color:rgb(42, 42, 42); }.tcb-style-wrap blockquote{ color:var(--tcb-skin-color-5);--tcb-applied-color:var$(--tcb-skin-color-5);font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);font-size:18px;padding-top:0px;padding-bottom:0px;border-left:2px solid var(--tcb-skin-color-1);margin-top:0px;margin-bottom:24px;--tcb-typography-font-family:Barlow; }body, .tcb-plain-text{ color:var(--tcb-skin-color-5);--tcb-applied-color:var$(--tcb-skin-color-5);font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);font-size:18px;--tcb-typography-font-family:Barlow; }.tcb-style-wrap pre{ font-family:Barlow;--tcb-typography-font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal); } }@media (max-width: 1023px) { .tcb-style-wrap h1{ font-size:36px;padding-bottom:22px;margin-bottom:0px; }.tcb-style-wrap h2{ padding-bottom:22px;margin-bottom:0px;font-size:28px; }.tcb-style-wrap h3{ padding-bottom:22px;margin-bottom:0px;font-size:22px; }.tcb-style-wrap h4{ padding-bottom:22px;margin-bottom:0px; }.tcb-style-wrap h5{ padding-bottom:22px;margin-bottom:0px; }.tcb-style-wrap h6{ padding-bottom:22px;margin-bottom:0px; }.tcb-style-wrap p{ padding-bottom:22px;margin-bottom:0px;padding-top:0px;margin-top:0px; }.tcb-style-wrap ul:not([class*="menu"]), .tcb-style-wrap ol{ padding-top:0px;padding-bottom:4px; }.tcb-style-wrap li:not([class*="menu"]){ line-height:1.75em;--tcb-typography-line-height:1.75em;padding-bottom:14px;margin-bottom:0px; }.tcb-style-wrap blockquote{ margin-bottom:22px; } }@media (max-width: 767px) { .tcb-style-wrap h1{ font-size:28px;padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap h2{ font-size:24px;padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap h3{ font-size:22px;padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap h4{ font-size:20px;padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap h5{ padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap h6{ padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap p{ padding-bottom:20px;margin-bottom:0px;padding-top:0px;margin-top:0px;font-size:16px;--tcb-typography-font-size:16px; }.tcb-style-wrap ul:not([class*="menu"]), .tcb-style-wrap ol{ padding-left:0px;padding-bottom:4px;padding-top:0px; }.tcb-style-wrap li:not([class*="menu"]){ padding-bottom:10px;margin-bottom:0px;font-size:16px;--tcb-typography-font-size:16px; }.tcb-style-wrap blockquote{ margin-bottom:20px; } }</style><link href="/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="icon" sizes="32x32"/>
-<link href="/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="icon" sizes="192x192"/>
-<link href="/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="apple-touch-icon"/>
-<meta content="/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" name="msapplication-TileImage"/>
+<link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__q1713ae60.html" rel="stylesheet" type="text/css"/><link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__qdf30ba22.html" rel="stylesheet" type="text/css"/><link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__qbe0afaa7.html" rel="stylesheet" type="text/css"/><style id="thrive-default-styles" type="text/css">@media (min-width: 300px) { .tcb-style-wrap h1{ color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);font-size:40px;background-color:rgba(0, 0, 0, 0);font-style:normal;margin:0px;padding-top:0px;padding-bottom:24px;text-decoration:rgba(10, 10, 10, 0.85);text-transform:none;border-left:0px none rgba(10, 10, 10, 0.85);line-height:1.3em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-color:var(--tcb-skin-color-4);--tve-applied-color:var$(--tcb-skin-color-4);--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap h2{ font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;font-size:34px;line-height:1.4em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap h3{ font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;font-size:24px;line-height:1.4em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap h4{ font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;font-size:20px;line-height:1.4em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap h5{ font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;line-height:1.4em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap h6{ font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);color:var(--tcb-skin-color-4);--tcb-applied-color:var$(--tcb-skin-color-4);padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;line-height:1.6em;--tcb-typography-font-family:Barlow;--g-bold-weight:700;--tcb-typography-font-weight:var(--g-regular-weight, normal); }.tcb-style-wrap p{ color:rgb(42, 42, 42);--tcb-applied-color:rgb(42, 42, 42);font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);font-size:18px;padding-top:0px;margin-top:0px;padding-bottom:24px;margin-bottom:0px;--tcb-typography-font-family:Barlow;--tcb-typography-color:rgb(42, 42, 42);--tve-applied-color:rgb(42, 42, 42);--tcb-typography-font-size:18px;--g-bold-weight:700; }:not(.inc) .thrv_text_element a:not(.tcb-button-link), :not(.inc) .tcb-styled-list a, :not(.inc) .tcb-numbered-list a, .tve-input-option-text a, .tcb-post-content p a, .tcb-post-content li a, .tcb-post-content blockquote a, .tcb-post-content pre a{ --tcb-applied-color:var$(--tcb-skin-color-5);font-family:var(--tve-font-family, Barlow);--g-regular-weight:400;font-weight:var(--g-regular-weight, normal) ;font-size:18px;text-decoration-line:none;--eff:none;text-decoration-color:var(--eff-color, currentColor);color:var(--tcb-skin-color-0);--tve-font-family:Barlow; }:not(.inc) .thrv_text_element a:not(.tcb-button-link):hover, :not(.inc) .tcb-styled-list a:hover, :not(.inc) .tcb-numbered-list a:hover, .tve-input-option-text a:hover, .tcb-post-content p a:hover, .tcb-post-content li a:hover, .tcb-post-content blockquote a:hover, .tcb-post-content pre a:hover { text-decoration-line:none;--eff:none;text-decoration-color:var(--eff-color, currentColor);color:var(--tcb-skin-color-3); }.tcb-style-wrap ul:not([class*="menu"]), .tcb-style-wrap ol{ color:var(--tcb-skin-color-5);--tcb-applied-color:var$(--tcb-skin-color-5);font-family:Muli;--g-regular-weight:400;--g-bold-weight:800;font-weight:var(--g-regular-weight, normal);font-size:18px;margin-top:0px;margin-bottom:0px;padding-top:0px;padding-bottom:12px;padding-left:0px; }.tcb-style-wrap li:not([class*="menu"]){ color:rgb(42, 42, 42);--tcb-applied-color:rgb(42, 42, 42);font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);font-size:18px;line-height:1.4em;padding-bottom:16px;margin-bottom:0px;--tcb-typography-font-family:Barlow;--tcb-typography-color:rgb(42, 42, 42);--tve-applied-color:rgb(42, 42, 42); }.tcb-style-wrap blockquote{ color:var(--tcb-skin-color-5);--tcb-applied-color:var$(--tcb-skin-color-5);font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);font-size:18px;padding-top:0px;padding-bottom:0px;border-left:2px solid var(--tcb-skin-color-1);margin-top:0px;margin-bottom:24px;--tcb-typography-font-family:Barlow; }body, .tcb-plain-text{ color:var(--tcb-skin-color-5);--tcb-applied-color:var$(--tcb-skin-color-5);font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal);font-size:18px;--tcb-typography-font-family:Barlow; }.tcb-style-wrap pre{ font-family:Barlow;--tcb-typography-font-family:Barlow;--g-regular-weight:400;font-weight:var(--g-regular-weight, normal); } }@media (max-width: 1023px) { .tcb-style-wrap h1{ font-size:36px;padding-bottom:22px;margin-bottom:0px; }.tcb-style-wrap h2{ padding-bottom:22px;margin-bottom:0px;font-size:28px; }.tcb-style-wrap h3{ padding-bottom:22px;margin-bottom:0px;font-size:22px; }.tcb-style-wrap h4{ padding-bottom:22px;margin-bottom:0px; }.tcb-style-wrap h5{ padding-bottom:22px;margin-bottom:0px; }.tcb-style-wrap h6{ padding-bottom:22px;margin-bottom:0px; }.tcb-style-wrap p{ padding-bottom:22px;margin-bottom:0px;padding-top:0px;margin-top:0px; }.tcb-style-wrap ul:not([class*="menu"]), .tcb-style-wrap ol{ padding-top:0px;padding-bottom:4px; }.tcb-style-wrap li:not([class*="menu"]){ line-height:1.75em;--tcb-typography-line-height:1.75em;padding-bottom:14px;margin-bottom:0px; }.tcb-style-wrap blockquote{ margin-bottom:22px; } }@media (max-width: 767px) { .tcb-style-wrap h1{ font-size:28px;padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap h2{ font-size:24px;padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap h3{ font-size:22px;padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap h4{ font-size:20px;padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap h5{ padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap h6{ padding-bottom:20px;margin-bottom:0px; }.tcb-style-wrap p{ padding-bottom:20px;margin-bottom:0px;padding-top:0px;margin-top:0px;font-size:16px;--tcb-typography-font-size:16px; }.tcb-style-wrap ul:not([class*="menu"]), .tcb-style-wrap ol{ padding-left:0px;padding-bottom:4px;padding-top:0px; }.tcb-style-wrap li:not([class*="menu"]){ padding-bottom:10px;margin-bottom:0px;font-size:16px;--tcb-typography-font-size:16px; }.tcb-style-wrap blockquote{ margin-bottom:20px; } }</style><link href="wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="icon" sizes="32x32"/>
+<link href="wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="icon" sizes="192x192"/>
+<link href="wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" rel="apple-touch-icon"/>
+<meta content="wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp" name="msapplication-TileImage"/>
 <style id="wp-custom-css" type="text/css">
 			
 #testi button, input[type="button"], input[type="reset"], input[type="submit"] {
@@ -535,9 +535,9 @@ fbq('track', 'PageView');
 <section class="opt-hero-section">
 <video autoplay="" class="opt-hero-video" loop="" muted="" playsinline="">
 <!-- <source
-                    src="/assets-ext/res.cloudinary.com/de4kw1t2i/video/upload/v1767434040/25Ffaab8-Aab5-4B20-B6d1-69A01eb4a74e_r6oru8.mp4"
+                    src="assets-ext/res.cloudinary.com/de4kw1t2i/video/upload/v1767434040/25Ffaab8-Aab5-4B20-B6d1-69A01eb4a74e_r6oru8.mp4"
                     type="video/mp4"> -->
-<source src="/wp-content/uploads/2026/06/Options_Psychiatry_v1.3_1_uxc5ye.mp4" type="video/mp4"/>
+<source src="wp-content/uploads/2026/06/Options_Psychiatry_v1.3_1_uxc5ye.mp4" type="video/mp4"/>
 </video>
 <div class="opt-hero-overlay"></div>
 <!-- <div class="opt-hero-content">
@@ -559,7 +559,7 @@ fbq('track', 'PageView');
                             wellness journey.</p>
 </div>
 <div class="cta-contact-action">
-<a class="opt-btn opt-btn-contact-orange" href="/tms-quiz">Take TMS
+<a class="opt-btn opt-btn-contact-orange" href="tms-quiz.php">Take TMS
                             Quiz</a>
 </div>
 </div>
@@ -572,7 +572,7 @@ fbq('track', 'PageView');
 <div class="tms-intro-content">
 <span class="opt-section-label">Innovative Brain Stimulation</span>
 <h1 style="font-size: 40px;">Trusted Psychiatrists in Pennsylvania</h1>
-<p class="opt-intro-text">Standard treatments often focus on managing symptoms, but at our clinic in Reading, PA, our trusted psychiatrists take a more advanced approach. <a href="/tms-therapy-reading" style="color: blue;">TMS therapy</a> goes
+<p class="opt-intro-text">Standard treatments often focus on managing symptoms, but at our clinic in Reading, PA, our trusted psychiatrists take a more advanced approach. <a href="tms-therapy-reading.php" style="color: blue;">TMS therapy</a> goes
                             further
                             by
                             physically stimulating the mood-regulating circuits in your brain. Through neuroplasticity,
@@ -593,12 +593,12 @@ fbq('track', 'PageView');
 </div>
 </div>
 </div>
-<a class="opt-btn opt-btn-primary" href="/contact">Start Your
+<a class="opt-btn opt-btn-primary" href="contact.php">Start Your
                             Transformation</a>
 </div>
 <div class="opt-tms-intro-stats">
 <div class="opt-tms-image-container">
-<img alt="TMS Therapy Session" class="opt-tms-main-image" decoding="async" src="/wp-content/uploads/2026/06/neurocare-tms-person-photo_mt2k5v.webp"/>
+<img alt="TMS Therapy Session" class="opt-tms-main-image" decoding="async" src="wp-content/uploads/2026/06/neurocare-tms-person-photo_mt2k5v.webp"/>
 <div class="opt-stats-boxes-row">
 <div class="opt-small-stat-box">
 <span class="opt-stat-num">10+</span>
@@ -634,58 +634,58 @@ fbq('track', 'PageView');
 <div class="opt-services-collage">
 <!-- Depression -->
 <div class="opt-service-item opt-big">
-<img alt="Depression Treatment" decoding="async" src="/wp-content/uploads/2026/06/depressed_vbewsi.webp"/>
+<img alt="Depression Treatment" decoding="async" src="wp-content/uploads/2026/06/depressed_vbewsi.webp"/>
 <div class="opt-service-overlay">
 <h3>Depression</h3>
 <p>Comprehensive treatment for major depressive disorder and treatment-resistant depression
                                 using evidence-based therapies.</p>
-<a class="opt-service-link" href="/depression">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="depression.php">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 <!-- Anxiety -->
 <div class="opt-service-item">
-<img alt="Anxiety Treatment" decoding="async" src="/wp-content/uploads/2026/06/anxious-woman-sitting-bed-full-shot_gonlww.webp"/>
+<img alt="Anxiety Treatment" decoding="async" src="wp-content/uploads/2026/06/anxious-woman-sitting-bed-full-shot_gonlww.webp"/>
 <div class="opt-service-overlay">
 <h3>Anxiety</h3>
 <p>Evidence-based approaches to manage generalized anxiety, panic, and social anxiety.</p>
-<a class="opt-service-link" href="/anxiety">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="anxiety.php">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 <!-- PTSD -->
 <div class="opt-service-item">
-<img alt="PTSD Treatment" decoding="async" src="/wp-content/uploads/2026/06/ptsd_o7osoe.webp"/>
+<img alt="PTSD Treatment" decoding="async" src="wp-content/uploads/2026/06/ptsd_o7osoe.webp"/>
 <div class="opt-service-overlay">
 <h3>PTSD</h3>
 <p>Specialized care for trauma-informed healing and processing traumatic experiences.</p>
-<a class="opt-service-link" href="/ptsd">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="ptsd.php">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 <!-- OCD -->
 <div class="opt-service-item opt-wide">
-<img alt="OCD Treatment" decoding="async" src="/wp-content/uploads/2026/06/ocd_cmpi6u.webp"/>
+<img alt="OCD Treatment" decoding="async" src="wp-content/uploads/2026/06/ocd_cmpi6u.webp"/>
 <div class="opt-service-overlay">
 <h3>OCD</h3>
 <p>Targeted treatment for obsessive-compulsive disorder and intrusive thoughts.</p>
-<a class="opt-service-link" href="/ocd">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="ocd.php">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 <!-- Bipolar -->
 <div class="opt-service-item opt-wide">
-<img alt="Bipolar Treatment" decoding="async" src="/wp-content/uploads/2026/06/Bipolar_nwgrk8.webp"/>
+<img alt="Bipolar Treatment" decoding="async" src="wp-content/uploads/2026/06/Bipolar_nwgrk8.webp"/>
 <div class="opt-service-overlay">
 <h3>Bipolar Disorder</h3>
 <p>Comprehensive management of mood stabilization and ongoing long-term support.</p>
-<a class="opt-service-link" href="/bipolar-disorder">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="bipolar-disorder.php">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 <!-- ADHD -->
 <div class="opt-service-item opt-wide">
-<img alt="ADHD Treatment" decoding="async" src="/wp-content/uploads/2026/06/ADHD_jey5mo.webp"/>
+<img alt="ADHD Treatment" decoding="async" src="wp-content/uploads/2026/06/ADHD_jey5mo.webp"/>
 <div class="opt-service-overlay">
 <h3>ADHD</h3>
 <p>Professional diagnosis and treatment for attention-deficit hyperactivity disorder in
                                 adults.</p>
-<a class="opt-service-link" href="/adhd">Learn More <i class="fa fa-arrow-right"></i></a>
+<a class="opt-service-link" href="adhd.php">Learn More <i class="fa fa-arrow-right"></i></a>
 </div>
 </div>
 </div>
@@ -756,7 +756,7 @@ fbq('track', 'PageView');
 </div>
 </div>
 <div class="opt-cta-button-wrapper">
-<a class="opt-btn opt-btn-cta-appointment" href="/contact">Schedule An
+<a class="opt-btn opt-btn-cta-appointment" href="contact.php">Schedule An
                             Appointment</a>
 </div>
 </div>
@@ -768,7 +768,7 @@ fbq('track', 'PageView');
 <div class="opt-doctor-profile-wrapper">
 <div class="opt-doctor-image-container">
 <div class="opt-doctor-profile-image">
-<img alt="Dr. Cyntrell Crawford" decoding="async" src="/wp-content/uploads/2022/04/Cyntrell-768x825.jpg"/>
+<img alt="Dr. Cyntrell Crawford" decoding="async" src="wp-content/uploads/2022/04/Cyntrell-768x825.jpg"/>
 </div>
 </div>
 <div class="opt-doctor-profile-content">
@@ -787,11 +787,11 @@ fbq('track', 'PageView');
                             over 10 years of experience treating complex mental health conditions. She founded Options
                             Psychiatry to provide a judgment-free, supportive environment where patients feel truly
                             heard and valued.</p>
-<p class="opt-doctor-bio">Specializing in <a href="/tms-therapy-reading" style="color: blue;">TMS Therapy</a>, <a href="/medication-management-options" style="color: blue;">medication management</a>, and addiction
+<p class="opt-doctor-bio">Specializing in <a href="tms-therapy-reading.php" style="color: blue;">TMS Therapy</a>, <a href="medication-management-options.php" style="color: blue;">medication management</a>, and addiction
                             psychiatry, Dr. Crawford combines evidence-based medicine with a personalized approach to
                             help each patient find their unique path to recovery.</p>
 <div class="opt-doctor-actions">
-<a class="opt-btn opt-btn-primary" href="/contact">Schedule A
+<a class="opt-btn opt-btn-primary" href="contact.php">Schedule A
                                 Consultation</a>
 </div>
 </div>
@@ -811,7 +811,7 @@ fbq('track', 'PageView');
 <div class="opt-grand-opening-videos">
 <div class="opt-video-card">
 <div style="position:relative;aspect-ratio:16/9;">
-<iframe allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;" loading="lazy" referrerpolicy="origin" src="/_external/play.gumlet.io/embed/6958b51bf3928b38fc444101/index.html" style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" title="Gumlet video player">
+<iframe allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;" loading="lazy" referrerpolicy="origin" src="_external/play.gumlet.io/embed/6958b51bf3928b38fc444101/index.html" style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" title="Gumlet video player">
 </iframe>
 </div>
 <div class="opt-video-caption">
@@ -821,7 +821,7 @@ fbq('track', 'PageView');
 </div>
 <div class="opt-video-card">
 <div style="position:relative;aspect-ratio:16/9;">
-<iframe allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;" loading="lazy" referrerpolicy="origin" src="/_external/play.gumlet.io/embed/6958b51bf3928b38fc444103/index.html" style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" title="Gumlet video player">
+<iframe allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;" loading="lazy" referrerpolicy="origin" src="_external/play.gumlet.io/embed/6958b51bf3928b38fc444103/index.html" style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" title="Gumlet video player">
 </iframe>
 </div>
 <div class="opt-video-caption">
@@ -833,19 +833,19 @@ fbq('track', 'PageView');
 <!-- Second Row: 3 Clinic Photos -->
 <div class="opt-grand-opening-photos">
 <div class="opt-photo-card">
-<img alt="Modern Reception Area" decoding="async" src="/wp-content/uploads/2026/06/grand-opening-1_kxgteu.webp"/>
+<img alt="Modern Reception Area" decoding="async" src="wp-content/uploads/2026/06/grand-opening-1_kxgteu.webp"/>
 <div class="opt-photo-overlay">
 <h4>Grand Opening Photos</h4>
 </div>
 </div>
 <div class="opt-photo-card">
-<img alt="Treatment Room" decoding="async" src="/wp-content/uploads/2026/06/grand-opening-3_je2eys.webp"/>
+<img alt="Treatment Room" decoding="async" src="wp-content/uploads/2026/06/grand-opening-3_je2eys.webp"/>
 <div class="opt-photo-overlay">
 <h4>Grand Opening Photos</h4>
 </div>
 </div>
 <div class="opt-photo-card">
-<img alt="Comfortable Waiting Area" decoding="async" src="/wp-content/uploads/2026/06/grand-opening-2_oesusm.webp"/>
+<img alt="Comfortable Waiting Area" decoding="async" src="wp-content/uploads/2026/06/grand-opening-2_oesusm.webp"/>
 <div class="opt-photo-overlay">
 <h4>Grand Opening Photos</h4>
 </div>
@@ -863,37 +863,37 @@ fbq('track', 'PageView');
 </div>
 <div class="opt-gallery-grid">
 <div class="opt-gallery-item" onclick="openLightbox(0)">
-<img alt="Gallery Image 1" decoding="async" src="/wp-content/uploads/2026/06/machine-1_yubnw6.webp"/>
+<img alt="Gallery Image 1" decoding="async" src="wp-content/uploads/2026/06/machine-1_yubnw6.webp"/>
 <div class="opt-gallery-overlay">
 <i class="fa fa-search-plus"></i>
 </div>
 </div>
 <div class="opt-gallery-item" onclick="openLightbox(1)">
-<img alt="Gallery Image 2" decoding="async" src="/wp-content/uploads/2026/06/machine-2_mjhvda.webp"/>
+<img alt="Gallery Image 2" decoding="async" src="wp-content/uploads/2026/06/machine-2_mjhvda.webp"/>
 <div class="opt-gallery-overlay">
 <i class="fa fa-search-plus"></i>
 </div>
 </div>
 <div class="opt-gallery-item" onclick="openLightbox(2)">
-<img alt="Gallery Image 3" decoding="async" src="/wp-content/uploads/2026/06/gallery-3_obgduh.webp"/>
+<img alt="Gallery Image 3" decoding="async" src="wp-content/uploads/2026/06/gallery-3_obgduh.webp"/>
 <div class="opt-gallery-overlay">
 <i class="fa fa-search-plus"></i>
 </div>
 </div>
 <div class="opt-gallery-item" onclick="openLightbox(3)">
-<img alt="Gallery Image 4" decoding="async" src="/wp-content/uploads/2026/06/gallery-4_l260ve.webp"/>
+<img alt="Gallery Image 4" decoding="async" src="wp-content/uploads/2026/06/gallery-4_l260ve.webp"/>
 <div class="opt-gallery-overlay">
 <i class="fa fa-search-plus"></i>
 </div>
 </div>
 <div class="opt-gallery-item" onclick="openLightbox(4)">
-<img alt="Gallery Image 5" decoding="async" src="/wp-content/uploads/2026/06/gallery-5_wm7adf.webp"/>
+<img alt="Gallery Image 5" decoding="async" src="wp-content/uploads/2026/06/gallery-5_wm7adf.webp"/>
 <div class="opt-gallery-overlay">
 <i class="fa fa-search-plus"></i>
 </div>
 </div>
 <div class="opt-gallery-item" onclick="openLightbox(5)">
-<img alt="Gallery Image 6" decoding="async" src="/wp-content/uploads/2026/06/gallery-6_xyqkws.webp"/>
+<img alt="Gallery Image 6" decoding="async" src="wp-content/uploads/2026/06/gallery-6_xyqkws.webp"/>
 <div class="opt-gallery-overlay">
 <i class="fa fa-search-plus"></i>
 </div>
@@ -1234,12 +1234,12 @@ fbq('track', 'PageView');
 <div class="opt-iot-main-video">
 <div class="opt-iot-video-container" id="iotMainVideoContainer">
 <div class="opt-iot-main-thumbnail" id="iotMainThumbnail">
-<img alt="Video Thumbnail" decoding="async" id="iotMainThumbnailImg" src="/_external/img.youtube.com/vi/T0BVvr9W_68/hqdefault.jpg"/>
+<img alt="Video Thumbnail" decoding="async" id="iotMainThumbnailImg" src="_external/img.youtube.com/vi/T0BVvr9W_68/hqdefault.jpg"/>
 <div class="opt-iot-main-play-btn">
 <div class="opt-iot-main-play-icon"></div>
 </div>
 </div>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="iotMainVideoPlayer" src="/_external/www.youtube.com/embed/T0BVvr9W_68/index__qc13631c7.html" title="Patient Testimonial">
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="iotMainVideoPlayer" src="_external/www.youtube.com/embed/T0BVvr9W_68/index__qc13631c7.html" title="Patient Testimonial">
 </iframe>
 </div>
 <div class="opt-iot-video-info">
@@ -1408,46 +1408,46 @@ fbq('track', 'PageView');
 </div>
 <div class="opt-insurance-logos">
 <div class="opt-insurance-logo-item">
-<img alt="Insurance Provider" decoding="async" src="/wp-content/uploads/2026/06/capital-blue-cross-logo.png"/>
+<img alt="Insurance Provider" decoding="async" src="wp-content/uploads/2026/06/capital-blue-cross-logo.png"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="Insurance Provider" decoding="async" src="/wp-content/uploads/2026/06/wellcarelogo180.png"/>
+<img alt="Insurance Provider" decoding="async" src="wp-content/uploads/2026/06/wellcarelogo180.png"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="Insurance Provider" decoding="async" src="/wp-content/uploads/2026/06/AmbetterHealth-PrimaryLogox80.png"/>
+<img alt="Insurance Provider" decoding="async" src="wp-content/uploads/2026/06/AmbetterHealth-PrimaryLogox80.png"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="UPMC" decoding="async" src="/wp-content/uploads/2026/06/Humana_Logo_1.png"/>
+<img alt="UPMC" decoding="async" src="wp-content/uploads/2026/06/Humana_Logo_1.png"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="Highmark" decoding="async" src="/wp-content/uploads/2026/06/Aetna_logo_reg_rgb_vio.png"/>
+<img alt="Highmark" decoding="async" src="wp-content/uploads/2026/06/Aetna_logo_reg_rgb_vio.png"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="UPMC" decoding="async" src="/wp-content/uploads/2026/06/CCBH-Berks.png"/>
+<img alt="UPMC" decoding="async" src="wp-content/uploads/2026/06/CCBH-Berks.png"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="Aetna" decoding="async" src="/wp-content/uploads/2026/06/amerihealth-consd-logo.jpg"/>
+<img alt="Aetna" decoding="async" src="wp-content/uploads/2026/06/amerihealth-consd-logo.jpg"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="UPMC" decoding="async" src="/wp-content/uploads/2026/06/Medicare.gov_Logo-scaled.png"/>
+<img alt="UPMC" decoding="async" src="wp-content/uploads/2026/06/Medicare.gov_Logo-scaled.png"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="Aetna" decoding="async" src="/wp-content/uploads/2026/06/HMTC-color.png"/>
+<img alt="Aetna" decoding="async" src="wp-content/uploads/2026/06/HMTC-color.png"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="Insurance Provider" decoding="async" src="/wp-content/uploads/2026/06/Img-IBC_PMS_Blue.png"/>
+<img alt="Insurance Provider" decoding="async" src="wp-content/uploads/2026/06/Img-IBC_PMS_Blue.png"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="UPMC" decoding="async" src="/wp-content/uploads/2026/06/UMPC-Logo.jpeg"/>
+<img alt="UPMC" decoding="async" src="wp-content/uploads/2026/06/UMPC-Logo.jpeg"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="Insurance Provider" decoding="async" src="/wp-content/uploads/2026/06/united.png"/>
+<img alt="Insurance Provider" decoding="async" src="wp-content/uploads/2026/06/united.png"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="Insurance Provider" decoding="async" src="/wp-content/uploads/2026/06/cigna.png"/>
+<img alt="Insurance Provider" decoding="async" src="wp-content/uploads/2026/06/cigna.png"/>
 </div>
 <div class="opt-insurance-logo-item">
-<img alt="Highmark" decoding="async" src="/wp-content/uploads/2026/06/highmark.png"/>
+<img alt="Highmark" decoding="async" src="wp-content/uploads/2026/06/highmark.png"/>
 </div>
 <div class="opt-insurance-reassurance">
 <div class="opt-reassurance-item">
@@ -1474,7 +1474,7 @@ fbq('track', 'PageView');
                         and
                         reclaim your life.</p>
 <div class="opt-cta-buttons">
-<a class="opt-btn opt-btn-primary opt-btn-large" href="/contact">Schedule A Consultation</a>
+<a class="opt-btn opt-btn-primary opt-btn-large" href="contact.php">Schedule A Consultation</a>
 <a class="opt-btn opt-btn-glass opt-btn-large" href="tel:6107416567">Call (610) 741-6567</a>
 </div>
 </div>
@@ -1494,7 +1494,7 @@ fbq('track', 'PageView');
 <div class="opt-testimonial-card-wrapper">
 <div class="opt-testimonial-card">
 <div class="opt-testimonial-patient-info">
-<img alt="Katrina Crump" class="opt-patient-photo" decoding="async" src="/_external/lh3.googleusercontent.com/a-/ALV-UjUJdr50C3rm9dHwQJyqr_KMesCI411CbJcEvW7jNxobfuCuLpxhWA=w72-h72-p-rp-mo-ba3-br100/index.html"/>
+<img alt="Katrina Crump" class="opt-patient-photo" decoding="async" src="_external/lh3.googleusercontent.com/a-/ALV-UjUJdr50C3rm9dHwQJyqr_KMesCI411CbJcEvW7jNxobfuCuLpxhWA=w72-h72-p-rp-mo-ba3-br100/index.html"/>
 <div class="opt-patient-details">
 <h4>Katrina Crump</h4>
 <div class="opt-testimonial-stars">
@@ -1510,7 +1510,7 @@ fbq('track', 'PageView');
 <div class="opt-testimonial-card">
 <div class="opt-testimonial-patient-info">
 <img alt="
-Victoria Brown" class="opt-patient-photo" decoding="async" src="/_external/lh3.googleusercontent.com/a-/ALV-UjUm7PiF8QhYkZ0FDFe_Ts9TLgKurMXcLAtgqSDcxfplwCYbCVdkPQ=w72-h72-p-rp-mo-br100/index.html"/>
+Victoria Brown" class="opt-patient-photo" decoding="async" src="_external/lh3.googleusercontent.com/a-/ALV-UjUm7PiF8QhYkZ0FDFe_Ts9TLgKurMXcLAtgqSDcxfplwCYbCVdkPQ=w72-h72-p-rp-mo-br100/index.html"/>
 <div class="opt-patient-details">
 <h4>
 Victoria Brown</h4>
@@ -1526,7 +1526,7 @@ Victoria Brown</h4>
 <div class="opt-testimonial-card-wrapper">
 <div class="opt-testimonial-card">
 <div class="opt-testimonial-patient-info">
-<img alt="KrxSessions" class="opt-patient-photo" decoding="async" src="/_external/lh3.googleusercontent.com/a-/ALV-UjUV90G7sLeJ3fl0VZlD7UdoZf7LXJepncJrmoTTv33zutqfnmtQsA=w72-h72-p-rp-mo-ba3-br100/index.html"/>
+<img alt="KrxSessions" class="opt-patient-photo" decoding="async" src="_external/lh3.googleusercontent.com/a-/ALV-UjUV90G7sLeJ3fl0VZlD7UdoZf7LXJepncJrmoTTv33zutqfnmtQsA=w72-h72-p-rp-mo-ba3-br100/index.html"/>
 <div class="opt-patient-details">
 <h4>KrxSessions</h4>
 <div class="opt-testimonial-stars">
@@ -1542,7 +1542,7 @@ Victoria Brown</h4>
 <div class="opt-testimonial-card-wrapper">
 <div class="opt-testimonial-card">
 <div class="opt-testimonial-patient-info">
-<img alt="Ashley Price" class="opt-patient-photo" decoding="async" src="/_external/lh3.googleusercontent.com/a/ACg8ocI5XqT6WqlwAZiTsyibW-DDR1kx8v-TxfR47N3RiuoV6C-ZwA=w72-h72-p-rp-mo-br100/index.html"/>
+<img alt="Ashley Price" class="opt-patient-photo" decoding="async" src="_external/lh3.googleusercontent.com/a/ACg8ocI5XqT6WqlwAZiTsyibW-DDR1kx8v-TxfR47N3RiuoV6C-ZwA=w72-h72-p-rp-mo-br100/index.html"/>
 <div class="opt-patient-details">
 <h4>Ashley Price</h4>
 <div class="opt-testimonial-stars">
@@ -1633,7 +1633,7 @@ Victoria Brown</h4>
 </div>
 <!-- Google Maps -->
 <div class="opt-contact-map">
-<iframe allowfullscreen="" height="450" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="/_external/www.google.com/maps/embed/index__qc5a67fa0.html" style="border:0;" width="100%"></iframe>
+<iframe allowfullscreen="" height="450" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="_external/www.google.com/maps/embed/index__qc5a67fa0.html" style="border:0;" width="100%"></iframe>
 </div>
 </div>
 </section></div>
@@ -1661,7 +1661,7 @@ Victoria Brown</h4>
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>TMS therapy (Transcranial Magnetic Stimulation) is a non-invasive treatment that uses magnetic pulses to stimulate areas of the brain involved in mood regulation. Dr. Crawford at Options Psychiatry offers advanced <a href="/tms-therapy-reading" style="color: blue;">TMS therapy in Reading, PA</a> for patients struggling with depression and other mental health conditions.</p>
+<p>TMS therapy (Transcranial Magnetic Stimulation) is a non-invasive treatment that uses magnetic pulses to stimulate areas of the brain involved in mood regulation. Dr. Crawford at Options Psychiatry offers advanced <a href="tms-therapy-reading.php" style="color: blue;">TMS therapy in Reading, PA</a> for patients struggling with depression and other mental health conditions.</p>
 </div>
 </div>
 <div class="opt-faq-item">
@@ -1697,7 +1697,7 @@ Victoria Brown</h4>
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>Options Psychiatry provides comprehensive <a href="/" style="color: blue;">mental health services in Reading, PA</a>, including psychiatric evaluations, medication management, and advanced TMS therapy. Dr. Crawford focuses on individualized treatment to help patients improve their mental well-being and daily functioning.
+<p>Options Psychiatry provides comprehensive <a href="index.php" style="color: blue;">mental health services in Reading, PA</a>, including psychiatric evaluations, medication management, and advanced TMS therapy. Dr. Crawford focuses on individualized treatment to help patients improve their mental well-being and daily functioning.
                             </p>
 </div>
 </div>
@@ -1707,7 +1707,7 @@ Victoria Brown</h4>
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>Yes, Dr. Crawford, a leading psychiatrist in Reading, PA, treats a variety of conditions including <a href="/depression" style="color: blue;">depression</a>, <a href="/anxiety" style="color: blue;">anxiety disorders</a>, and <a href="/adhd" style="color: blue;">ADHD</a>. She uses evidence-based treatments and personalized care to help patients manage symptoms and achieve long-term mental wellness.</p>
+<p>Yes, Dr. Crawford, a leading psychiatrist in Reading, PA, treats a variety of conditions including <a href="depression.php" style="color: blue;">depression</a>, <a href="anxiety.php" style="color: blue;">anxiety disorders</a>, and <a href="adhd.php" style="color: blue;">ADHD</a>. She uses evidence-based treatments and personalized care to help patients manage symptoms and achieve long-term mental wellness.</p>
 </div>
 </div>
 </div>
@@ -2030,27 +2030,27 @@ var kk_star_ratings = {"action":"kk-star-ratings","endpoint":"https://optionspa.
 //# sourceURL=kk-star-ratings-js-extra
 /* ]]> */
 </script>
-<script id="kk-star-ratings-js" src="/wp-content/plugins/kk-star-ratings/src/core/public/js/kk-star-ratings.min__qf503e290.js" type="text/javascript"></script>
-<script id="wpblog-post-layouts-elements-scripts-js" src="/wp-content/plugins/wp-blog-post-layouts/includes/assets/js/elementor-frontend__q8daf52c7.js" type="text/javascript"></script>
-<script id="elementor-webpack-runtime-js" src="/wp-content/plugins/elementor/assets/js/webpack.runtime.min__q5be56f11.js" type="text/javascript"></script>
-<script id="elementor-frontend-modules-js" src="/wp-content/plugins/elementor/assets/js/frontend-modules.min__q5be56f11.js" type="text/javascript"></script>
+<script id="kk-star-ratings-js" src="wp-content/plugins/kk-star-ratings/src/core/public/js/kk-star-ratings.min__qf503e290.js" type="text/javascript"></script>
+<script id="wpblog-post-layouts-elements-scripts-js" src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/elementor-frontend__q8daf52c7.js" type="text/javascript"></script>
+<script id="elementor-webpack-runtime-js" src="wp-content/plugins/elementor/assets/js/webpack.runtime.min__q5be56f11.js" type="text/javascript"></script>
+<script id="elementor-frontend-modules-js" src="wp-content/plugins/elementor/assets/js/frontend-modules.min__q5be56f11.js" type="text/javascript"></script>
 <script id="elementor-frontend-js-before" type="text/javascript">
 /* <![CDATA[ */
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.35.3","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"e_pro_free_trial_popup":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_editor_one":true,"import-export-customization":true},"urls":{"assets":"https:\/\/optionspa.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/optionspa.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/optionspa.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"7448d0d352"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":4735,"title":"Mental%20Health%20Services%20in%20Pennsylvania%20%7C%20Trusted%20Psychiatrists","excerpt":"","featuredImage":false}};
 //# sourceURL=elementor-frontend-js-before
 /* ]]> */
 </script>
-<script id="elementor-frontend-js" src="/wp-content/plugins/elementor/assets/js/frontend.min__q5be56f11.js" type="text/javascript"></script>
-<script id="wpblog-post-layouts-public-script-js" src="/wp-content/plugins/wp-blog-post-layouts/includes/assets/js/frontend__q8daf52c7.js" type="text/javascript"></script>
+<script id="elementor-frontend-js" src="wp-content/plugins/elementor/assets/js/frontend.min__q5be56f11.js" type="text/javascript"></script>
+<script id="wpblog-post-layouts-public-script-js" src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/frontend__q8daf52c7.js" type="text/javascript"></script>
 <script id="tve-dash-frontend-js-extra" type="text/javascript">
 /* <![CDATA[ */
 var tve_dash_front = {"ajaxurl":"https://optionspa.com/wp-admin/admin-ajax.php","force_ajax_send":"1","is_crawler":"","recaptcha":[],"turnstile":[],"post_id":"4735"};
 //# sourceURL=tve-dash-frontend-js-extra
 /* ]]> */
 </script>
-<script id="tve-dash-frontend-js" src="/wp-content/plugins/thrive-ultimatum/thrive-dashboard/js/dist/frontend.min__qe79741bf.js" type="text/javascript"></script>
-<script id="tve_frontend_menu-js" src="/wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/menu.min__q011b470d.js" type="text/javascript"></script>
-<script id="tve_frontend_social-share-js" src="/wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/social-share.min__q011b470d.js" type="text/javascript"></script>
+<script id="tve-dash-frontend-js" src="wp-content/plugins/thrive-ultimatum/thrive-dashboard/js/dist/frontend.min__qe79741bf.js" type="text/javascript"></script>
+<script id="tve_frontend_menu-js" src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/menu.min__q011b470d.js" type="text/javascript"></script>
+<script id="tve_frontend_social-share-js" src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/social-share.min__q011b470d.js" type="text/javascript"></script>
 <script type="text/javascript">var tcb_current_post_lists=JSON.parse('[]'); var tcb_post_lists=tcb_post_lists?[...tcb_post_lists,...tcb_current_post_lists]:tcb_current_post_lists;</script><script id="wp-emoji-settings" type="application/json">
 {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min__q98f937dc.js"}}
 </script>
@@ -2065,10 +2065,10 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
 <!-- Add HTML code to the header or the footer.
 
 For example, you can use the following code for loading the jQuery library from Google CDN:
-<script src="/assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 or the following one for loading the Bootstrap library from jsDelivr:
-<link rel="stylesheet" href="/assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
 -- End of the comment -->
 <script>
@@ -2462,5 +2462,5 @@ document.addEventListener('DOMContentLoaded', () => {
 var TVE_Ult_Data = {"ajaxurl":"https:\/\/optionspa.com\/wp-admin\/admin-ajax.php","ajax_load_action":"tve_ult_ajax_load","conversion_events_action":"tve_ult_conversion_event","shortcode_campaign_ids":[],"matched_display_settings":[],"campaign_ids":[],"post_id":4735,"is_singular":true,"tu_em":"","evergreen_redirects":[]};
 /* ]]> */
 </script>
-<script src="/wp-content/plugins/thrive-ultimatum/js/dist/no-campaign.min__q04f4ffbd.js" type="text/javascript"></script></body>
+<script src="wp-content/plugins/thrive-ultimatum/js/dist/no-campaign.min__q04f4ffbd.js" type="text/javascript"></script></body>
 </html>
