@@ -1633,7 +1633,7 @@ Victoria Brown</h4>
 </div>
 <!-- Google Maps -->
 <div class="opt-contact-map">
-<iframe allowfullscreen="" height="450" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="_external/www.google.com/maps/embed/index__qc5a67fa0.html" style="border:0;" width="100%"></iframe>
+<iframe allowfullscreen="" height="450" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15969.666946397529!2d-76.0139854850817!3d40.34395264874572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c673dc5fa585f5%3A0x22e450b630c45849!2sOptions%20Psychiatry%20-%20TMS%20Therapy!5e1!3m2!1sen!2sin!4v1765883908094!5m2!1sen!2sin" style="border:0;" width="100%"></iframe>
 </div>
 </div>
 </section></div>
