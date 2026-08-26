@@ -1193,13 +1193,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-section-label">Serving Pennsylvania</span>
 <h2 style="margin-bottom:15px;">Bipolar Disorder Treatment Near You in Berks County, PA</h2>
 <p style="max-width:700px;margin:0 auto 30px;">Options Psychiatry provides expert bipolar disorder treatment in Reading, PA and surrounding communities — including West Reading, Wyomissing, Pottstown, Kutztown, Lebanon, Fleetwood, Boyertown, Phoenixville, Norristown, and throughout Berks County, PA. Telehealth medication management and mood disorder care is also available across Pennsylvania.</p>
-<a class="opt-btn-hero-dark" href="contact" style="margin-right:15px;">Schedule Your Free Consultation</a>
-<a class="opt-btn opt-btn-contact-orange" href="tel:6107416567" style="text-decoration:none;margin-right:15px;">Call (610) 741-6567 Now</a>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
+<a class="opt-btn-hero-dark" href="contact" style="text-decoration:none;">Schedule Your Free Consultation</a>
+<a class="opt-btn opt-btn-contact-orange" href="tel:6107416567" style="text-decoration:none;">Call (610) 741-6567 Now</a>
 <a class="opt-btn opt-btn-contact-orange" href="medication-management-options" style="text-decoration:none;">Explore Medication Management</a>
+</div>
 </div>
 <div style="background:#f0f4f8;border-radius:12px;padding:30px;margin-top:30px;">
 <h3 style="margin-bottom:20px;text-align:center;">Related Mental Health Conditions We Treat</h3>
-<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+<div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(250px, 1fr));gap:20px;">
 <a href="depression" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Depression Treatment →</a>
 <a href="anxiety" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">Anxiety Disorders Treatment →</a>
 <a href="ptsd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">PTSD Treatment →</a>

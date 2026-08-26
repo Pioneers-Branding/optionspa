@@ -1211,14 +1211,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-section-label">Serving Pennsylvania</span>
 <h2 style="margin-bottom:15px;">Depression Treatment Near You in Berks County, PA</h2>
 <p style="max-width:700px;margin:0 auto 30px;">Options Psychiatry is conveniently located in Reading, PA and provides expert psychiatrist services for depression across Berks County and beyond — including West Reading, Wyomissing, Pottstown, Kutztown, Lebanon, Fleetwood, Boyertown, Phoenixville, Norristown, and throughout southeastern Pennsylvania. Telehealth options are also available for patients across the state.</p>
-<a class="opt-btn-hero-dark" href="contact" style="margin-right:15px;">Schedule Your Free Consultation</a>
-<a class="opt-btn opt-btn-contact-orange" href="tel:6107416567" style="text-decoration:none;margin-right:15px;">Call (610) 741-6567 Now</a>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
+<a class="opt-btn-hero-dark" href="contact" style="text-decoration:none;">Schedule Your Free Consultation</a>
+<a class="opt-btn opt-btn-contact-orange" href="tel:6107416567" style="text-decoration:none;">Call (610) 741-6567 Now</a>
 <a class="opt-btn opt-btn-contact-orange" href="tms-therapy-reading" style="text-decoration:none;">Explore TMS Therapy</a>
+</div>
 </div>
 <div style="background:#f0f4f8;border-radius:12px;padding:30px;margin-top:30px;">
 <h3 style="margin-bottom:20px;text-align:center;">Related Mental Health Conditions We Treat</h3>
 <p style="text-align:center;margin-bottom:25px;">Depression often co-occurs with other mental health conditions. Our experienced Reading, PA psychiatrists provide comprehensive care for a range of conditions:</p>
-<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+<div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(250px, 1fr));gap:20px;">
 <a href="anxiety" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;transition:box-shadow 0.2s;">Anxiety Disorders Treatment →</a>
 <a href="ptsd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">PTSD &amp; Trauma Treatment →</a>
 <a href="ocd" style="display:block;padding:18px;background:white;border-radius:8px;text-decoration:none;color:#0F2C3A;border:1px solid #e0e0e0;text-align:center;font-weight:600;">OCD Treatment →</a>
