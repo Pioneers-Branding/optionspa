@@ -811,7 +811,7 @@ fbq('track', 'PageView');
 <div class="opt-grand-opening-videos">
 <div class="opt-video-card">
 <div style="position:relative;aspect-ratio:16/9;">
-<iframe allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;" loading="lazy" referrerpolicy="origin" src="_external/play.gumlet.io/embed/6958b51bf3928b38fc444101/index.html" style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" title="Gumlet video player">
+<iframe allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;" loading="lazy" referrerpolicy="origin" src="https://play.gumlet.io/embed/6958b51bf3928b38fc444101" style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" title="Gumlet video player">
 </iframe>
 </div>
 <div class="opt-video-caption">
@@ -821,7 +821,7 @@ fbq('track', 'PageView');
 </div>
 <div class="opt-video-card">
 <div style="position:relative;aspect-ratio:16/9;">
-<iframe allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;" loading="lazy" referrerpolicy="origin" src="_external/play.gumlet.io/embed/6958b51bf3928b38fc444103/index.html" style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" title="Gumlet video player">
+<iframe allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;" loading="lazy" referrerpolicy="origin" src="https://play.gumlet.io/embed/6958b51bf3928b38fc444103" style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" title="Gumlet video player">
 </iframe>
 </div>
 <div class="opt-video-caption">
