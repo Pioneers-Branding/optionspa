@@ -77,126 +77,6 @@
             }
         }
     </script>
-    <style class="tcb-lightspeed-style" id="tcb-style-base-page-4198"
-        onload="typeof window.lightspeedOptimizeStylesheet === 'function' &amp;&amp; window.lightspeedOptimizeStylesheet()"
-        type="text/css">
-        body:not(.tve_editor_page) .thrv_wrapper.thrv_footer,
-        body:not(.tve_editor_page) .thrv_wrapper.thrv_header {
-            padding: 0px;
-        }
-
-        .tcb-post-content.thrv_wrapper {
-            margin-top: 15px;
-            margin-bottom: 15px;
-            padding: 0px;
-        }
-
-        #tve_editor .tcb-post-content p {
-            font-size: 16px;
-            line-height: 1.6em;
-        }
-
-        .notifications-content-wrapper.tcb-permanently-hidden {
-            display: none !important;
-        }
-
-        .tcb-permanently-hidden {
-            display: none !important;
-        }
-
-        .tar-disabled {
-            cursor: default;
-            opacity: 0.4;
-            pointer-events: none;
-        }
-
-        .tve_js_placeholder {
-            background: none !important;
-        }
-
-        html {
-            text-rendering: auto !important;
-        }
-
-        html body {
-            text-rendering: auto !important;
-        }
-
-        .thrv_wrapper {
-            margin-top: 20px;
-            margin-bottom: 20px;
-            padding: 1px;
-        }
-
-        .thrv_wrapper div {
-            box-sizing: content-box;
-        }
-
-        .tve_shortcode_editor h1 {
-            padding: 0px;
-        }
-
-        p {
-            font-size: 1em;
-        }
-
-        :not(#_s):not(#_s) .tcb-conditional-display-placeholder {
-            min-height: var(--tcb-container-height-d, 100px) !important;
-            position: relative;
-        }
-
-        :not(#_s):not(#_s) .tcb-conditional-display-placeholder.thrv-page-section {
-            box-sizing: border-box;
-            margin: 0px;
-        }
-
-        :not(#_s):not(#_s) .tcb-conditional-display-placeholder.thrv-content-box {
-            box-sizing: border-box;
-        }
-
-        :not(#_s):not(#_s) .tcb-conditional-display-placeholder .tve-page-section-out,
-        :not(#_s):not(#_s) .tcb-conditional-display-placeholder .tve-content-box-background {
-            box-sizing: border-box;
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            left: 0px;
-            top: 0px;
-            overflow: hidden;
-        }
-
-        body:not(.ttb-editor-page) .tcb-post-content::before,
-        body:not(.ttb-editor-page) .tcb-post-content::after {
-            display: none;
-        }
-
-        @media (max-width: 1023px) {
-            :not(#_s):not(#_s) .tcb-conditional-display-placeholder {
-                min-height: var(--tcb-container-height-t) !important;
-            }
-        }
-
-        @media (max-width: 767px) {
-            html {
-                overflow-x: hidden !important;
-            }
-
-            html,
-            body {
-                max-width: 100vw !important;
-            }
-
-            :not(#_s):not(#_s) .tcb-conditional-display-placeholder {
-                min-height: var(--tcb-container-height-m) !important;
-            }
-        }
-
-        @media screen and (max-device-width: 480px) {
-            body {
-                text-size-adjust: none;
-            }
-        }
-    </style>
     <link href="wp-content/uploads/thrive/tcb-base-css-32-1633582922.css" id="tcb-style-base-thrive_template-32"
         media="all" rel="stylesheet" type="text/css" />
     <style class="tcb-lightspeed-style" id="tcb-style-template-thrive_template-32"
@@ -416,30 +296,34 @@
     </script>
     <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
     <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-    <title>Quiz - Options Psychiatry</title>
+    <title>Thank You - Options Psychiatry</title>
     <meta
-        content="Take a moment to check in with yourself. This brief assessment can help you understand if professional support might be beneficial."
+        content="We truly appreciate your interest and the time you've taken to connect with us. Our team is reviewing your details and will be in touch with you shortly."
         name="description" />
     <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots" />
-    <link href="tms-quiz" rel="canonical" />
+    <link href="thank-you" rel="canonical" />
     <meta content="en_US" property="og:locale" />
     <meta content="article" property="og:type" />
-    <meta content="Quiz - Options Psychiatry" property="og:title" />
+    <meta content="Thank You - Options Psychiatry" property="og:title" />
     <meta
-        content="Take a moment to check in with yourself. This brief assessment can help you understand if professional support might be beneficial."
+        content="We truly appreciate your interest and the time you've taken to connect with us. Our team is reviewing your details and will be in touch with you shortly."
         property="og:description" />
-    <meta content="tms-quiz" property="og:url" />
+    <meta content="thank-you" property="og:url" />
     <meta content="Options Psychiatry" property="og:site_name" />
-    <meta content="2026-04-11T04:13:27-04:00" property="og:updated_time" />
+    <meta content="2026-04-21T04:27:12-04:00" property="og:updated_time" />
+    <meta content="2026-04-21T04:24:53-04:00" property="article:published_time" />
+    <meta content="2026-04-21T04:27:12-04:00" property="article:modified_time" />
     <meta content="summary_large_image" name="twitter:card" />
-    <meta content="Quiz - Options Psychiatry" name="twitter:title" />
+    <meta content="Thank You - Options Psychiatry" name="twitter:title" />
     <meta
-        content="Take a moment to check in with yourself. This brief assessment can help you understand if professional support might be beneficial."
+        content="We truly appreciate your interest and the time you've taken to connect with us. Our team is reviewing your details and will be in touch with you shortly."
         name="twitter:description" />
     <meta content="Time to read" name="twitter:label1" />
-    <meta content="5 minutes" name="twitter:data1" />
+    <meta content="Less than a minute" name="twitter:data1" />
     <!-- /Rank Math WordPress SEO plugin -->
     <link href="//fonts.googleapis.com" rel="dns-prefetch" />
+
+
 
 
     <style id="wp-img-auto-sizes-contain-inline-css" type="text/css">
@@ -451,6 +335,8 @@
     </style>
     <link href="wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend__qf7ffcae6.css"
         id="hfe-widgets-style-css" media="all" rel="stylesheet" type="text/css" />
+    <link href="wp-content/themes/thrive-theme/inc/assets/dist/theme__q784709ed.css" id="thrive-theme-styles-css"
+        media="all" rel="stylesheet" type="text/css" />
     <style id="wp-emoji-styles-inline-css" type="text/css">
         img.wp-smiley,
         img.emoji {
@@ -467,8 +353,6 @@
 
         /*# sourceURL=wp-emoji-styles-inline-css */
     </style>
-    <link href="wp-includes/css/dist/block-library/style.min__q98f937dc.css" id="wp-block-library-css" media="all"
-        rel="stylesheet" type="text/css" />
     <style id="classic-theme-styles-inline-css" type="text/css">
         /*! This file is auto-generated */
         .wp-block-button__link {
@@ -836,6 +720,8 @@
         media="all" rel="stylesheet" type="text/css" />
     <link href="wp-content/uploads/elementor/css/post-4716__q104fc520.css" id="elementor-post-4716-css" media="all"
         rel="stylesheet" type="text/css" />
+    <link href="wp-content/uploads/elementor/css/post-5968__qf5126593.css" id="elementor-post-5968-css" media="all"
+        rel="stylesheet" type="text/css" />
     <link href="wp-content/uploads/elementor/css/post-4753__q104fc520.css" id="elementor-post-4753-css" media="all"
         rel="stylesheet" type="text/css" />
     <link href="wp-content/uploads/elementor/css/post-4746__q2b585c9b.css" id="elementor-post-4746-css" media="all"
@@ -896,7 +782,7 @@
         type="text/javascript"></script>
     <script id="tve_frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var tve_frontend_options = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "is_editor_page": "", "page_events": [], "is_single": "1", "social_fb_app_id": "", "dash_url": "https://optionspa.com/wp-content/plugins/thrive-ultimatum/thrive-dashboard", "queried_object": { "ID": 4198, "post_author": "4" }, "query_vars": { "page": "", "pagename": "tms-quiz", "certificate_u": "" }, "$_POST": [], "translations": { "Copy": "Copy", "empty_username": "ERROR: The username field is empty.", "empty_password": "ERROR: The password field is empty.", "empty_login": "ERROR: Enter a username or email address.", "min_chars": "At least %s characters are needed", "no_headings": "No headings found", "registration_err": { "required_field": "\u003Cstrong\u003EError\u003C/strong\u003E: This field is required", "required_email": "\u003Cstrong\u003EError\u003C/strong\u003E: Please type your email address", "invalid_email": "\u003Cstrong\u003EError\u003C/strong\u003E: The email address isn&#8217;t correct", "passwordmismatch": "\u003Cstrong\u003EError\u003C/strong\u003E: Password mismatch" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "video_reporting": "https://optionspa.com/wp-json/tcb/v1/video-reporting", "courses": "https://optionspa.com/wp-json/tva/v1/course_list_element", "certificate_search": "https://optionspa.com/wp-json/tva/v1/certificate/search", "assessments": "https://optionspa.com/wp-json/tva/v1/user/assessment", "testimonials": "https://optionspa.com/wp-json/tcb/v1/testimonials" }, "nonce": "52d3aee43c", "allow_video_src": "", "google_client_id": null, "google_api_key": null, "facebook_app_id": null, "lead_generation_custom_tag_apis": ["activecampaign", "aweber", "convertkit", "drip", "klicktipp", "mailchimp", "sendlane", "zapier"], "post_request_data": [], "user_profile_nonce": "4c5041a2b9", "ip": "14.195.188.138", "current_user": [], "post_id": "4198", "post_title": "Quiz", "post_type": "page", "post_url": "https://optionspa.com/tms-quiz/", "is_lp": "", "conditional_display": { "is_tooltip_dismissed": false } };
+        var tve_frontend_options = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "is_editor_page": "", "page_events": "", "is_single": "1", "social_fb_app_id": "", "dash_url": "https://optionspa.com/wp-content/plugins/thrive-ultimatum/thrive-dashboard", "queried_object": { "ID": 5968, "post_author": "4" }, "query_vars": { "page": "", "pagename": "thank-you", "certificate_u": "" }, "$_POST": [], "translations": { "Copy": "Copy", "empty_username": "ERROR: The username field is empty.", "empty_password": "ERROR: The password field is empty.", "empty_login": "ERROR: Enter a username or email address.", "min_chars": "At least %s characters are needed", "no_headings": "No headings found", "registration_err": { "required_field": "\u003Cstrong\u003EError\u003C/strong\u003E: This field is required", "required_email": "\u003Cstrong\u003EError\u003C/strong\u003E: Please type your email address", "invalid_email": "\u003Cstrong\u003EError\u003C/strong\u003E: The email address isn&#8217;t correct", "passwordmismatch": "\u003Cstrong\u003EError\u003C/strong\u003E: Password mismatch" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "video_reporting": "https://optionspa.com/wp-json/tcb/v1/video-reporting", "courses": "https://optionspa.com/wp-json/tva/v1/course_list_element", "certificate_search": "https://optionspa.com/wp-json/tva/v1/certificate/search", "assessments": "https://optionspa.com/wp-json/tva/v1/user/assessment", "testimonials": "https://optionspa.com/wp-json/tcb/v1/testimonials" }, "nonce": "52d3aee43c", "allow_video_src": "", "google_client_id": null, "google_api_key": null, "facebook_app_id": null, "lead_generation_custom_tag_apis": ["activecampaign", "aweber", "convertkit", "drip", "klicktipp", "mailchimp", "sendlane", "zapier"], "post_request_data": [], "user_profile_nonce": "4c5041a2b9", "ip": "14.195.188.138", "current_user": [], "post_id": "5968", "post_title": "Thank You", "post_type": "page", "post_url": "https://optionspa.com/thank-you/", "is_lp": "", "conditional_display": { "is_tooltip_dismissed": false } };
         //# sourceURL=tve_frontend-js-extra
         /* ]]> */
     </script>
@@ -905,7 +791,7 @@
         type="text/javascript"></script>
     <script id="theme-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var thrive_front_localize = { "comments_form": { "error_defaults": { "email": "Email address invalid", "url": "Website address invalid", "required": "Required field missing" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "frontend": "https://optionspa.com/wp-json/ttb/v1/frontend" }, "tar_post_url": "?tve=true&action=architect&from_theme=1", "is_editor": "", "ID": "32", "template_url": "?tve=true&action=architect&from_tar=4198", "pagination_url": { "template": "https://optionspa.com/tms-quiz/page/[thrive_page_number]/", "base": "https://optionspa.com/tms-quiz/" }, "sidebar_visibility": [], "is_singular": "1", "is_user_logged_in": "" };
+        var thrive_front_localize = { "comments_form": { "error_defaults": { "email": "Email address invalid", "url": "Website address invalid", "required": "Required field missing" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "frontend": "https://optionspa.com/wp-json/ttb/v1/frontend" }, "tar_post_url": "?tve=true&action=architect&from_theme=1", "is_editor": "", "ID": "32", "template_url": "?tve=true&action=architect&from_tar=5968", "pagination_url": { "template": "https://optionspa.com/thank-you/page/[thrive_page_number]/", "base": "https://optionspa.com/thank-you/" }, "sidebar_visibility": [], "is_singular": "1", "is_user_logged_in": "" };
         //# sourceURL=theme-frontend-js-extra
         /* ]]> */
     </script>
@@ -923,6 +809,24 @@
         type="text/css" />
     <link href="wp-content/uploads/custom-css-js/2880__q42b25d37.css" id="2880-css" media="all" rel="stylesheet"
         type="text/css" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16883360986"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-16883360986');
+    </script>
+
+
+    <!-- Event snippet for Submit lead formQ conversion page -->
+    <script>
+        gtag('event', 'conversion', { 'send_to': 'AW-16883360986/IJm8CJin2uccENrJzvI-' });
+    </script>
+
+
     <!-- start Simple Custom CSS and JS -->
     <!-- Add HTML code to the header or the footer.
 
@@ -932,7 +836,7 @@ For example, you can use the following code for loading the jQuery library from 
 or the following one for loading the Bootstrap library from jsDelivr:
 <link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
- <!-- Google Fonts -->
+
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
     <link href="_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet" />
@@ -1731,7 +1635,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 </head>
 
 <body
-    class="wp-singular page-template-default page page-id-4198 wp-theme-thrive-theme ehf-header ehf-footer ehf-template-thrive-theme ehf-stylesheet-thrive-theme tve-theme-32 thrive-layout-19 thrive-no-prev-post-in-category thrive-no-next-post-in-category elementor-default elementor-kit-4716">
+    class="wp-singular page-template-default page page-id-5968 wp-theme-thrive-theme ehf-header ehf-footer ehf-template-thrive-theme ehf-stylesheet-thrive-theme tve-theme-32 thrive-layout-19 thrive-no-prev-post-in-category thrive-no-next-post-in-category elementor-default elementor-kit-4716 elementor-page elementor-page-5968">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T79WRWW"
             style="display:none;visibility:hidden" width="0"></iframe></noscript>
@@ -6992,7 +6896,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                         <h1 class="" data-css="tve-u-17178510bfc" style=""><span class="thrive-shortcode-content"
                                 data-attr-link="0" data-attr-rel="0" data-attr-target="0" data-css="tve-u-1707753ab8f"
                                 data-extra_key="" data-option-inline="1" data-shortcode="tcb_post_title"
-                                data-shortcode-name="Post title">Quiz</span></h1>
+                                data-shortcode-name="Post title">Thank You</span></h1>
                     </div>
                 </div>
             </div>
@@ -7002,811 +6906,33 @@ or the following one for loading the Bootstrap library from jsDelivr:
                         <div class="section-background"></div>
                         <div class="section-content">
                             <section class="tcb-post-content tcb-shortcode thrv_wrapper" data-css="tve-u-1711c8af402">
-                                <div class="tve_flt tcb-style-wrap" id="tve_flt">
-                                    <div class="tve_shortcode_editor tar-main-content" data-post-id="4198"
-                                        id="tve_editor">
-                                        <div class="thrv_wrapper thrv_custom_html_shortcode">
-                                            <style>
-                                                /* CSS Variables for easy customization */
-                                                :root {
-                                                    --mhq-primary-color: #4A90E2;
-                                                    --mhq-secondary-color: #f8f9fa;
-                                                    --mhq-text-primary: #2c3e50;
-                                                    --mhq-text-secondary: #6c757d;
-                                                    --mhq-border-color: #e9ecef;
-                                                    --mhq-success-color: #28a745;
-                                                    --mhq-warning-color: #ffc107;
-                                                    --mhq-danger-color: #dc3545;
-                                                    --mhq-white: #ffffff;
-                                                    --mhq-light-gray: #f1f3f4;
-                                                    --mhq-medium-gray: #dee2e6;
-                                                    --mhq-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                                                    --mhq-border-radius: 8px;
-                                                    --mhq-spacing-xs: 4px;
-                                                    --mhq-spacing-sm: 8px;
-                                                    --mhq-spacing-md: 16px;
-                                                    --mhq-spacing-lg: 24px;
-                                                    --mhq-spacing-xl: 32px;
-                                                }
-
-                                                * {
-                                                    margin: 0;
-                                                    padding: 0;
-                                                    box-sizing: border-box;
-                                                }
-
-                                                .mhq-container {
-                                                    font-family: var(--mhq-font-family);
-                                                    max-width: 600px;
-                                                    margin: var(--mhq-spacing-lg) auto;
-                                                    padding: var(--mhq-spacing-lg);
-                                                    background: var(--mhq-white);
-                                                    border-radius: var(--mhq-border-radius);
-                                                    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
-                                                    color: var(--mhq-text-primary);
-                                                    line-height: 1.5;
-                                                }
-
-                                                .mhq-header {
-                                                    text-align: center;
-                                                    margin-bottom: var(--mhq-spacing-xl);
-                                                    padding-bottom: var(--mhq-spacing-md);
-                                                    border-bottom: 2px solid var(--mhq-light-gray);
-                                                }
-
-                                                .mhq-title {
-                                                    font-size: 1.8rem;
-                                                    font-weight: 500;
-                                                    color: var(--mhq-primary-color);
-                                                    margin-bottom: var(--mhq-spacing-sm);
-                                                }
-
-                                                .mhq-subtitle {
-                                                    font-size: 0.95rem;
-                                                    color: var(--mhq-text-secondary);
-                                                    font-weight: 400;
-                                                }
-
-                                                .mhq-progress-container {
-                                                    margin-bottom: var(--mhq-spacing-lg);
-                                                }
-
-                                                .mhq-progress-bar {
-                                                    width: 100%;
-                                                    height: 6px;
-                                                    background: var(--mhq-light-gray);
-                                                    border-radius: 3px;
-                                                    overflow: hidden;
-                                                }
-
-                                                .mhq-progress-fill {
-                                                    height: 100%;
-                                                    background: linear-gradient(90deg, var(--mhq-primary-color), #6bb6ff);
-                                                    transition: width 0.3s ease;
-                                                    border-radius: 3px;
-                                                }
-
-                                                .mhq-progress-text {
-                                                    text-align: center;
-                                                    font-size: 0.85rem;
-                                                    color: var(--mhq-text-secondary);
-                                                    margin-top: var(--mhq-spacing-xs);
-                                                }
-
-                                                .mhq-question-section {
-                                                    display: none;
-                                                    animation: mhq-fadeIn 0.4s ease;
-                                                }
-
-                                                .mhq-question-section.mhq-active {
-                                                    display: block;
-                                                }
-
-                                                .mhq-question-card {
-                                                    background: var(--mhq-secondary-color);
-                                                    padding: var(--mhq-spacing-lg);
-                                                    border-radius: var(--mhq-border-radius);
-                                                    margin-bottom: var(--mhq-spacing-lg);
-                                                    border: 1px solid var(--mhq-border-color);
-                                                }
-
-                                                .mhq-question-text {
-                                                    font-size: 1.1rem;
-                                                    font-weight: 500;
-                                                    margin-bottom: var(--mhq-spacing-lg);
-                                                    color: var(--mhq-text-primary);
-                                                }
-
-                                                .mhq-options-container {
-                                                    display: flex;
-                                                    flex-direction: column;
-                                                    gap: var(--mhq-spacing-sm);
-                                                }
-
-                                                .mhq-option {
-                                                    background: var(--mhq-white);
-                                                    border: 2px solid var(--mhq-border-color);
-                                                    border-radius: var(--mhq-border-radius);
-                                                    padding: var(--mhq-spacing-md);
-                                                    cursor: pointer;
-                                                    transition: all 0.2s ease;
-                                                    font-size: 0.95rem;
-                                                    text-align: center;
-                                                    font-weight: 400;
-                                                }
-
-                                                .mhq-option:hover {
-                                                    border-color: var(--mhq-primary-color);
-                                                    background: #f0f7ff;
-                                                }
-
-                                                .mhq-option.mhq-selected {
-                                                    border-color: var(--mhq-primary-color);
-                                                    background: var(--mhq-primary-color);
-                                                    color: var(--mhq-white);
-                                                }
-
-                                                .mhq-navigation {
-                                                    display: flex;
-                                                    justify-content: space-between;
-                                                    margin-top: var(--mhq-spacing-lg);
-                                                }
-
-                                                .mhq-btn {
-                                                    padding: var(--mhq-spacing-sm) var(--mhq-spacing-lg);
-                                                    border: none;
-                                                    border-radius: var(--mhq-border-radius);
-                                                    cursor: pointer;
-                                                    font-size: 0.9rem;
-                                                    font-weight: 500;
-                                                    transition: all 0.2s ease;
-                                                    min-width: 80px;
-                                                }
-
-                                                .mhq-btn-primary {
-                                                    background: var(--mhq-primary-color);
-                                                    color: var(--mhq-white);
-                                                }
-
-                                                .mhq-btn-primary:hover {
-                                                    background: #3a7bc8;
-                                                }
-
-                                                .mhq-btn-secondary {
-                                                    background: var(--mhq-medium-gray);
-                                                    color: var(--mhq-text-primary);
-                                                }
-
-                                                .mhq-btn-secondary:hover {
-                                                    background: #c6cbd1;
-                                                }
-
-                                                .mhq-btn:disabled {
-                                                    opacity: 0.5;
-                                                    cursor: not-allowed;
-                                                }
-
-                                                .mhq-results-section {
-                                                    display: none;
-                                                    text-align: center;
-                                                    animation: mhq-fadeIn 0.4s ease;
-                                                }
-
-                                                .mhq-results-section.mhq-active {
-                                                    display: block;
-                                                }
-
-                                                .mhq-result-card {
-                                                    background: var(--mhq-secondary-color);
-                                                    padding: var(--mhq-spacing-xl);
-                                                    border-radius: var(--mhq-border-radius);
-                                                    margin-bottom: var(--mhq-spacing-xl);
-                                                    border: 1px solid var(--mhq-border-color);
-                                                }
-
-                                                .mhq-result-icon {
-                                                    font-size: 3rem;
-                                                    margin-bottom: var(--mhq-spacing-md);
-                                                }
-
-                                                .mhq-result-title {
-                                                    font-size: 1.4rem;
-                                                    font-weight: 600;
-                                                    margin-bottom: var(--mhq-spacing-md);
-                                                }
-
-                                                .mhq-result-description {
-                                                    font-size: 0.95rem;
-                                                    color: var(--mhq-text-secondary);
-                                                    line-height: 1.6;
-                                                }
-
-                                                .mhq-consultation-recommended {
-                                                    color: var(--mhq-danger-color);
-                                                }
-
-                                                .mhq-consultation-optional {
-                                                    color: var(--mhq-warning-color);
-                                                }
-
-                                                .mhq-consultation-not-needed {
-                                                    color: var(--mhq-success-color);
-                                                }
-
-                                                .mhq-form-section {
-                                                    background: var(--mhq-white);
-                                                    padding: var(--mhq-spacing-lg);
-                                                    border-radius: var(--mhq-border-radius);
-                                                    border: 1px solid var(--mhq-border-color);
-                                                }
-
-                                                .mhq-form-title {
-                                                    font-size: 1.2rem;
-                                                    font-weight: 500;
-                                                    margin-bottom: var(--mhq-spacing-md);
-                                                    color: var(--mhq-text-primary);
-                                                }
-
-                                                .mhq-form-subtitle {
-                                                    font-size: 0.9rem;
-                                                    color: var(--mhq-text-secondary);
-                                                    margin-bottom: var(--mhq-spacing-lg);
-                                                }
-
-                                                .mhq-form-group {
-                                                    margin-bottom: var(--mhq-spacing-md);
-                                                }
-
-                                                .mhq-form-label {
-                                                    display: block;
-                                                    font-size: 0.9rem;
-                                                    font-weight: 500;
-                                                    color: var(--mhq-text-primary);
-                                                    margin-bottom: var(--mhq-spacing-xs);
-                                                }
-
-                                                .mhq-form-input {
-                                                    width: 100%;
-                                                    padding: var(--mhq-spacing-sm) var(--mhq-spacing-md);
-                                                    border: 1px solid var(--mhq-border-color);
-                                                    border-radius: var(--mhq-border-radius);
-                                                    font-size: 0.9rem;
-                                                    font-family: var(--mhq-font-family);
-                                                    transition: border-color 0.2s ease;
-                                                }
-
-                                                .mhq-form-input:focus {
-                                                    outline: none;
-                                                    border-color: var(--mhq-primary-color);
-                                                }
-
-                                                .mhq-form-textarea {
-                                                    resize: vertical;
-                                                    min-height: 80px;
-                                                }
-
-                                                .mhq-submit-btn {
-                                                    background: var(--mhq-success-color);
-                                                    color: var(--mhq-white);
-                                                    padding: var(--mhq-spacing-md) var(--mhq-spacing-xl);
-                                                    border: none;
-                                                    border-radius: var(--mhq-border-radius);
-                                                    font-size: 1rem;
-                                                    font-weight: 500;
-                                                    cursor: pointer;
-                                                    transition: background 0.2s ease;
-                                                    width: 100%;
-                                                    margin-top: var(--mhq-spacing-md);
-                                                }
-
-                                                .mhq-submit-btn:hover {
-                                                    background: #218838;
-                                                }
-
-                                                .mhq-hidden {
-                                                    display: none !important;
-                                                }
-
-                                                @keyframes mhq-fadeIn {
-                                                    from {
-                                                        opacity: 0;
-                                                        transform: translateY(10px);
-                                                    }
-
-                                                    to {
-                                                        opacity: 1;
-                                                        transform: translateY(0);
-                                                    }
-                                                }
-
-                                                @media (max-width: 768px) {
-                                                    .mhq-container {
-                                                        margin: var(--mhq-spacing-md);
-                                                        padding: var(--mhq-spacing-md);
-                                                    }
-
-                                                    .mhq-title {
-                                                        font-size: 1.5rem;
-                                                    }
-
-                                                    .mhq-question-text {
-                                                        font-size: 1rem;
-                                                    }
-
-                                                    .mhq-navigation {
-                                                        flex-direction: column;
-                                                        gap: var(--mhq-spacing-sm);
-                                                    }
-                                                }
-                                            </style>
-                                            <div class="mhq-container">
-                                                <!-- Header -->
-                                                <div class="mhq-header">
-                                                    <h1 class="mhq-title">Mental Health Assessment</h1>
-                                                    <p class="mhq-subtitle">Take a moment to check in with yourself.
-                                                        This brief assessment can help you
-                                                        understand if professional support might be beneficial.</p>
+                                <div class="elementor elementor-5968" data-elementor-id="5968"
+                                    data-elementor-type="wp-page">
+                                    <div class="elementor-element elementor-element-4d9c7e5 e-flex e-con-boxed e-con e-parent"
+                                        data-e-type="container" data-element_type="container" data-id="4d9c7e5">
+                                        <div class="e-con-inner">
+                                            <div class="elementor-element elementor-element-f99b710 elementor-widget elementor-widget-text-editor"
+                                                data-e-type="widget" data-element_type="widget" data-id="f99b710"
+                                                data-widget_type="text-editor.default">
+                                                <div class="thrv_wrapper thrv_text_element">
+                                                    <h1 data-css="tve-u-19787092281"><span
+                                                            data-css="tve-u-1978709a11b">THANK </span><span
+                                                            data-css="tve-u-1978709a120">YOU</span></h1>
+                                                    <h1 class="" data-css="tve-u-19786fdd862"><span
+                                                            data-css="tve-u-19786fdd863">Your submission has been
+                                                            received.</span></h1>
                                                 </div>
-                                                <!-- Progress Bar -->
-                                                <div class="mhq-progress-container">
-                                                    <div class="mhq-progress-bar">
-                                                        <div class="mhq-progress-fill" id="mhq-progress-fill"></div>
-                                                    </div>
-                                                    <div class="mhq-progress-text" id="mhq-progress-text">Question 1 of
-                                                        6</div>
-                                                </div>
-                                                <!-- Quiz Questions -->
-                                                <div id="mhq-quiz-container">
-                                                    <!-- Question 1 -->
-                                                    <div class="mhq-question-section mhq-active" data-question="0">
-                                                        <div class="mhq-question-card">
-                                                            <h3 class="mhq-question-text">Have you been diagnosed with
-                                                                depression?</h3>
-                                                            <div class="mhq-options-container">
-                                                                <div class="mhq-option" data-value="yes">Yes</div>
-                                                                <div class="mhq-option" data-value="no">No</div>
-                                                                <div class="mhq-option" data-value="unsure">I'm unsure
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="mhq-navigation">
-                                                            <button class="mhq-btn mhq-btn-secondary" disabled=""
-                                                                id="mhq-prev-btn">Previous</button>
-                                                            <button class="mhq-btn mhq-btn-primary" disabled=""
-                                                                id="mhq-next-btn">Next</button>
-                                                        </div>
-                                                    </div>
-                                                    <!-- Question 2 -->
-                                                    <div class="mhq-question-section" data-question="1">
-                                                        <div class="mhq-question-card">
-                                                            <h3 class="mhq-question-text">Have you seen a therapist for
-                                                                your symptoms of depression?</h3>
-                                                            <div class="mhq-options-container">
-                                                                <div class="mhq-option" data-value="yes-current">Yes, I
-                                                                    am seeing someone</div>
-                                                                <div class="mhq-option" data-value="yes-past">Yes, but
-                                                                    not recently</div>
-                                                                <div class="mhq-option" data-value="no">No</div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="mhq-navigation">
-                                                            <button class="mhq-btn mhq-btn-secondary"
-                                                                id="mhq-prev-btn">Previous</button>
-                                                            <button class="mhq-btn mhq-btn-primary" disabled=""
-                                                                id="mhq-next-btn">Next</button>
-                                                        </div>
-                                                    </div>
-                                                    <!-- Question 3 -->
-                                                    <div class="mhq-question-section" data-question="2">
-                                                        <div class="mhq-question-card">
-                                                            <h3 class="mhq-question-text">Have you taken medication for
-                                                                your symptoms of depression?</h3>
-                                                            <div class="mhq-options-container">
-                                                                <div class="mhq-option" data-value="yes-current">Yes, I
-                                                                    am taking something</div>
-                                                                <div class="mhq-option" data-value="yes-past">I have
-                                                                    done so in the past</div>
-                                                                <div class="mhq-option" data-value="no">No</div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="mhq-navigation">
-                                                            <button class="mhq-btn mhq-btn-secondary"
-                                                                id="mhq-prev-btn">Previous</button>
-                                                            <button class="mhq-btn mhq-btn-primary" disabled=""
-                                                                id="mhq-next-btn">Next</button>
-                                                        </div>
-                                                    </div>
-                                                    <!-- Question 4 -->
-                                                    <div class="mhq-question-section" data-question="3">
-                                                        <div class="mhq-question-card">
-                                                            <h3 class="mhq-question-text">Are you still depressed
-                                                                despite your medication and/or therapy?</h3>
-                                                            <div class="mhq-options-container">
-                                                                <div class="mhq-option" data-value="yes">Yes</div>
-                                                                <div class="mhq-option" data-value="no">No</div>
-                                                                <div class="mhq-option" data-value="sometimes">Sometimes
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="mhq-navigation">
-                                                            <button class="mhq-btn mhq-btn-secondary"
-                                                                id="mhq-prev-btn">Previous</button>
-                                                            <button class="mhq-btn mhq-btn-primary" disabled=""
-                                                                id="mhq-next-btn">Next</button>
-                                                        </div>
-                                                    </div>
-                                                    <!-- Question 5 -->
-                                                    <div class="mhq-question-section" data-question="4">
-                                                        <div class="mhq-question-card">
-                                                            <h3 class="mhq-question-text">Have you experienced negative
-                                                                side effects from medication?</h3>
-                                                            <div class="mhq-options-container">
-                                                                <div class="mhq-option" data-value="yes-significant">
-                                                                    Yes, significantly</div>
-                                                                <div class="mhq-option" data-value="occasionally">
-                                                                    Occasionally</div>
-                                                                <div class="mhq-option" data-value="no">No</div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="mhq-navigation">
-                                                            <button class="mhq-btn mhq-btn-secondary"
-                                                                id="mhq-prev-btn">Previous</button>
-                                                            <button class="mhq-btn mhq-btn-primary" disabled=""
-                                                                id="mhq-next-btn">Next</button>
-                                                        </div>
-                                                    </div>
-                                                    <!-- Question 6 -->
-                                                    <div class="mhq-question-section" data-question="5">
-                                                        <div class="mhq-question-card">
-                                                            <h3 class="mhq-question-text">Are depression symptoms having
-                                                                an effect on your ability to earn a
-                                                                living, enjoy leisure activities, or spend time with
-                                                                family and friends?</h3>
-                                                            <div class="mhq-options-container">
-                                                                <div class="mhq-option" data-value="yes">Yes</div>
-                                                                <div class="mhq-option" data-value="some-days">Some days
-                                                                </div>
-                                                                <div class="mhq-option" data-value="occasionally">
-                                                                    Occasionally</div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="mhq-navigation">
-                                                            <button class="mhq-btn mhq-btn-secondary"
-                                                                id="mhq-prev-btn">Previous</button>
-                                                            <button class="mhq-btn mhq-btn-primary" disabled=""
-                                                                id="mhq-finish-btn">View Results</button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- Results Section -->
-                                                <div class="mhq-results-section" id="mhq-results-section">
-                                                    <div class="mhq-result-card" id="mhq-result-card">
-                                                        <!-- Results will be populated by JavaScript -->
-                                                    </div>
-                                                    <!-- Contact Form -->
-                                                    <div class="mhq-form-section">
-                                                        <h3 class="mhq-form-title">Get Connected</h3>
-                                                        <p class="mhq-form-subtitle">Please share your details so we can
-                                                            provide you with appropriate resources
-                                                            and support.</p>
-                                                        <form accept-charset="UTF-8"
-                                                            action="https://app.formester.com/forms/gUVOExiup/submissions"
-                                                            autocomplete="new-password" id="mhq-contact-form"
-                                                            method="POST">
-                                                            <!-- Hidden fields for quiz results -->
-                                                            <input id="mhq-quiz-result-input" name="quiz_result"
-                                                                type="hidden" />
-                                                            <input id="mhq-quiz-answers-input" name="quiz_answers_json"
-                                                                type="hidden" />
-                                                            <!-- Individual question answers -->
-                                                            <input id="mhq-question-1-answer" name="question_1_answer"
-                                                                type="hidden" />
-                                                            <input id="mhq-question-2-answer" name="question_2_answer"
-                                                                type="hidden" />
-                                                            <input id="mhq-question-3-answer" name="question_3_answer"
-                                                                type="hidden" />
-                                                            <input id="mhq-question-4-answer" name="question_4_answer"
-                                                                type="hidden" />
-                                                            <input id="mhq-question-5-answer" name="question_5_answer"
-                                                                type="hidden" />
-                                                            <input id="mhq-question-6-answer" name="question_6_answer"
-                                                                type="hidden" />
-                                                            <!-- Summary counts -->
-                                                            <input id="mhq-positive-count" name="positive_count"
-                                                                type="hidden" />
-                                                            <input id="mhq-negative-count" name="negative_count"
-                                                                type="hidden" />
-                                                            <input id="mhq-neutral-count" name="neutral_count"
-                                                                type="hidden" />
-                                                            <div class="mhq-form-group">
-                                                                <label class="mhq-form-label" for="mhq-name">Full Name
-                                                                    *</label>
-                                                                <input class="mhq-form-input" id="mhq-name" name="name"
-                                                                    required="" type="text" />
-                                                            </div>
-                                                            <div class="mhq-form-group">
-                                                                <label class="mhq-form-label" for="mhq-email">Email
-                                                                    Address *</label>
-                                                                <input class="mhq-form-input" id="mhq-email"
-                                                                    name="email" required="" type="email" />
-                                                            </div>
-                                                            <div class="mhq-form-group">
-                                                                <label class="mhq-form-label" for="mhq-phone">Phone
-                                                                    Number</label>
-                                                                <input class="mhq-form-input" id="mhq-phone"
-                                                                    name="phone" type="tel" />
-                                                            </div>
-                                                            <div class="mhq-form-group">
-                                                                <label class="mhq-form-label"
-                                                                    for="mhq-condition">Additional Information
-                                                                    (Optional)</label>
-                                                                <textarea class="mhq-form-input mhq-form-textarea"
-                                                                    id="mhq-condition" name="condition"
-                                                                    placeholder="Please share any additional information about your current situation or specific concerns..."></textarea>
-                                                            </div>
-                                                            <div class="mhq-form-group">
-                                                                <label class="mhq-form-label">
-                                                                    <input class="mhq-form-input" id="mhq-consent"
-                                                                        name="consent" required="" type="checkbox" />
-                                                                    I consent to be contacted. My information will be
-                                                                    used only for clinic communication.
-                                                                </label>
-                                                            </div>
-                                                            <button class="mhq-submit-btn" type="submit">Submit
-                                                                Assessment</button>
-                                                        </form>
-                                                    </div>
+                                                <div class="thrv_wrapper thrv_text_element"
+                                                    data-css="tve-u-19786fdd864">
+                                                    <p data-css="tve-u-19786fdd865">We truly appreciate your interest
+                                                        and the time you’ve taken to connect with us. Our team is
+                                                        reviewing your details and will be in touch with you shortly.
+                                                    </p>
                                                 </div>
                                             </div>
-                                            <code class="tve_js_placeholder"><script>
-                                                // Mental Health Quiz JavaScript
-                                                (function () {
-                                                    'use strict';
-
-                                                    const MHQ = {
-                                                        currentQuestion: 0,
-                                                        totalQuestions: 6,
-                                                        answers: [],
-
-                                                        elements: {
-                                                            progressFill: document.getElementById('mhq-progress-fill'),
-                                                            progressText: document.getElementById('mhq-progress-text'),
-                                                            quizContainer: document.getElementById('mhq-quiz-container'),
-                                                            resultsSection: document.getElementById('mhq-results-section'),
-                                                            resultCard: document.getElementById('mhq-result-card'),
-                                                            contactForm: document.getElementById('mhq-contact-form'),
-                                                            quizResultInput: document.getElementById('mhq-quiz-result-input'),
-                                                            quizAnswersInput: document.getElementById('mhq-quiz-answers-input')
-                                                        },
-
-                                                        init: function () {
-                                                            this.bindEvents();
-                                                            this.updateProgress();
-                                                        },
-
-                                                        bindEvents: function () {
-                                                            // Option selection
-                                                            document.addEventListener('click', (e) => {
-                                                                if (e.target.classList.contains('mhq-option')) {
-                                                                    this.selectOption(e.target);
-                                                                }
-                                                            });
-
-                                                            // Navigation buttons
-                                                            document.addEventListener('click', (e) => {
-                                                                if (e.target.id === 'mhq-next-btn') {
-                                                                    this.nextQuestion();
-                                                                } else if (e.target.id === 'mhq-prev-btn') {
-                                                                    this.prevQuestion();
-                                                                } else if (e.target.id === 'mhq-finish-btn') {
-                                                                    this.showResults();
-                                                                }
-                                                            });
-
-                                                            // Form submission
-                                                            this.elements.contactForm.addEventListener('submit', (e) => {
-                                                                this.handleFormSubmit(e);
-                                                            });
-                                                        },
-
-                                                        selectOption: function (selectedOption) {
-                                                            const questionSection = selectedOption.closest('.mhq-question-section');
-                                                            const options = questionSection.querySelectorAll('.mhq-option');
-                                                            const nextBtn = questionSection.querySelector('#mhq-next-btn, #mhq-finish-btn');
-
-                                                            // Remove previous selection
-                                                            options.forEach(option => option.classList.remove('mhq-selected'));
-
-                                                            // Add selection to clicked option
-                                                            selectedOption.classList.add('mhq-selected');
-
-                                                            // Store answer
-                                                            this.answers[this.currentQuestion] = selectedOption.dataset.value;
-
-                                                            // Enable next button
-                                                            nextBtn.disabled = false;
-                                                        },
-
-                                                        nextQuestion: function () {
-                                                            if (this.currentQuestion < this.totalQuestions - 1) {
-                                                                this.hideCurrentQuestion();
-                                                                this.currentQuestion++;
-                                                                this.showCurrentQuestion();
-                                                                this.updateProgress();
-                                                            }
-                                                        },
-
-                                                        prevQuestion: function () {
-                                                            if (this.currentQuestion > 0) {
-                                                                this.hideCurrentQuestion();
-                                                                this.currentQuestion--;
-                                                                this.showCurrentQuestion();
-                                                                this.updateProgress();
-                                                            }
-                                                        },
-
-                                                        hideCurrentQuestion: function () {
-                                                            const current = document.querySelector('.mhq-question-section.mhq-active');
-                                                            if (current) {
-                                                                current.classList.remove('mhq-active');
-                                                            }
-                                                        },
-
-                                                        showCurrentQuestion: function () {
-                                                            const next = document.querySelector(`[data-question="${this.currentQuestion}"]`);
-                                                            if (next) {
-                                                                next.classList.add('mhq-active');
-
-                                                                // Update button states
-                                                                const prevBtn = next.querySelector('#mhq-prev-btn');
-                                                                const nextBtn = next.querySelector('#mhq-next-btn, #mhq-finish-btn');
-
-                                                                prevBtn.disabled = this.currentQuestion === 0;
-                                                                nextBtn.disabled = !this.answers[this.currentQuestion];
-                                                            }
-                                                        },
-
-                                                        updateProgress: function () {
-                                                            const progress = ((this.currentQuestion + 1) / this.totalQuestions) * 100;
-                                                            this.elements.progressFill.style.width = `${progress}%`;
-                                                            this.elements.progressText.textContent = `Question ${this.currentQuestion + 1} of ${this.totalQuestions}`;
-                                                        },
-
-                                                        showResults: function () {
-                                                            this.elements.quizContainer.style.display = 'none';
-                                                            this.elements.resultsSection.classList.add('mhq-active');
-
-                                                            const result = this.calculateResult();
-                                                            this.displayResult(result);
-                                                            this.prepareFormData(result);
-                                                        },
-
-                                                        calculateResult: function () {
-                                                            const counts = { positive: 0, negative: 0, neutral: 0 };
-
-                                                            // Count based on new answer patterns
-                                                            this.answers.forEach((answer, index) => {
-                                                                // Question-specific scoring logic
-                                                                switch (index) {
-                                                                    case 0: // Diagnosed with depression
-                                                                        if (answer === 'yes') counts.positive++;
-                                                                        else if (answer === 'no') counts.negative++;
-                                                                        else counts.neutral++;
-                                                                        break;
-                                                                    case 1: // Seen therapist
-                                                                        if (answer === 'yes-current') counts.negative++;
-                                                                        else if (answer === 'yes-past') counts.neutral++;
-                                                                        else counts.positive++;
-                                                                        break;
-                                                                    case 2: // Medication
-                                                                        if (answer === 'yes-current') counts.negative++;
-                                                                        else if (answer === 'yes-past') counts.neutral++;
-                                                                        else counts.positive++;
-                                                                        break;
-                                                                    case 3: // Still depressed
-                                                                        if (answer === 'yes') counts.positive++;
-                                                                        else if (answer === 'no') counts.negative++;
-                                                                        else counts.neutral++;
-                                                                        break;
-                                                                    case 4: // Side effects
-                                                                        if (answer === 'yes-significant') counts.positive++;
-                                                                        else if (answer === 'occasionally') counts.neutral++;
-                                                                        else counts.negative++;
-                                                                        break;
-                                                                    case 5: // Impact on life
-                                                                        if (answer === 'yes') counts.positive++;
-                                                                        else if (answer === 'some-days') counts.neutral++;
-                                                                        else counts.negative++;
-                                                                        break;
-                                                                }
-                                                            });
-
-                                                            if (counts.positive >= 3) {
-                                                                return {
-                                                                    type: 'consultation-recommended',
-                                                                    icon: '🤗',
-                                                                    title: 'Professional Support Recommended',
-                                                                    description: 'Based on your responses, speaking with a mental health professional could be very beneficial. You\'re not alone, and seeking support is a sign of strength. Professional guidance can help you develop effective coping strategies and improve your overall well-being.',
-                                                                    class: 'mhq-consultation-recommended',
-                                                                    counts: counts
-                                                                };
-                                                            } else if (counts.negative >= 4) {
-                                                                return {
-                                                                    type: 'consultation-not-needed',
-                                                                    icon: '😊',
-                                                                    title: 'You\'re Managing Well',
-                                                                    description: 'Your responses suggest you\'re managing your mental health well overall. Continue with your current self-care practices and maintain your support networks. Remember, it\'s always okay to reach out if things change or if you ever need someone to talk to.',
-                                                                    class: 'mhq-consultation-not-needed',
-                                                                    counts: counts
-                                                                };
-                                                            } else {
-                                                                return {
-                                                                    type: 'consultation-optional',
-                                                                    icon: '💭',
-                                                                    title: 'Consider Professional Guidance',
-                                                                    description: 'Your responses show a mixed picture. While you may be coping with some challenges, professional support could help you develop additional strategies for managing stress and improving your mental well-being. Consider reaching out when you feel ready.',
-                                                                    class: 'mhq-consultation-optional',
-                                                                    counts: counts
-                                                                };
-                                                            }
-                                                        },
-
-                                                        displayResult: function (result) {
-                                                            this.elements.resultCard.innerHTML = `
-                        <div class="mhq-result-icon">${result.icon}</div>
-                        <h3 class="mhq-result-title ${result.class}">${result.title}</h3>
-                        <p class="mhq-result-description">${result.description}</p>
-                    `;
-                                                        },
-
-                                                        prepareFormData: function (result) {
-                                                            // Set overall result
-                                                            this.elements.quizResultInput.value = result.type;
-
-                                                            // Set JSON array of all answers
-                                                            this.elements.quizAnswersInput.value = JSON.stringify(this.answers);
-
-                                                            // Set individual question answers
-                                                            for (let i = 0; i < this.answers.length; i++) {
-                                                                const questionInput = document.getElementById(`mhq-question-${i + 1}-answer`);
-                                                                if (questionInput) {
-                                                                    questionInput.value = this.answers[i] || '';
-                                                                }
-                                                            }
-
-                                                            // Set answer counts
-                                                            document.getElementById('mhq-positive-count').value = result.counts.positive;
-                                                            document.getElementById('mhq-negative-count').value = result.counts.negative;
-                                                            document.getElementById('mhq-neutral-count').value = result.counts.neutral;
-                                                        },
-
-                                                        handleFormSubmit: function (e) {
-                                                            // Form will submit normally to the action URL
-                                                            // You can add additional validation or processing here if needed
-
-                                                            // Optional: Show loading state
-                                                            const submitBtn = e.target.querySelector('.mhq-submit-btn');
-                                                            submitBtn.textContent = 'Submitting...';
-                                                            submitBtn.disabled = true;
-
-                                                        }
-                                                    };
-
-                                                    // Initialize the quiz when DOM is loaded
-                                                    if (document.readyState === 'loading') {
-                                                        document.addEventListener('DOMContentLoaded', () => MHQ.init());
-                                                    } else {
-                                                        MHQ.init();
-                                                    }
-
-                                                    // Expose MHQ object globally for debugging (optional)
-                                                    window.MHQ = MHQ;
-                                                })();
-                                            </script></code>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="tcb_flag" style="display: none"></div>
                                 <span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span
                                     class="tve-leads-two-step-trigger tl-2step-trigger-0"></span>
                             </section>
@@ -9482,11 +8608,6 @@ or the following one for loading the Bootstrap library from jsDelivr:
             </defs>
         </svg>
     </div>
-    <script>
-        gtag('event', 'conversion', {
-            'send_to': 'AW-16883360986/uzzhCOnSnZ0bENrJzvI-'
-        });
-    </script>
     <script type="text/javascript">($ => {
             /**
              * Displays toast message from storage, it is used when the user is redirected after login
@@ -11592,9 +10713,10 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                 data-keep-css_id="1" data-settings-id="3954"
                                 data-templateconfig='{"checkbox":{"option":{"data-value":"default"}},"radio":{"option":{"data-value":"style-1"}},"select":{"_class":"","data-show-placeholder":"1","data-style":"style-2","data-icon":"style_1"}}'
                                 id="lg-m65z1506" style="" tcb-template-id="64192" tcb-template-name="Contact Form 02">
-                                <div class="thrive-colors-palette-config" style="display: none !important"></div><input
-                                    class="tve-lg-err-msg" type="hidden"
-                                    value='{"email":"Email address invalid","phone":"Phone number invalid","password":"Password invalid","passwordmismatch":"Password mismatch error","required":"Required field missing"}' />
+                                <div class="thrive-colors-palette-config" style="display: none !important"></div>
+                                <p><input class="tve-lg-err-msg" type="hidden"
+                                        value='{"email":"Email address invalid","phone":"Phone number invalid","password":"Password invalid","passwordmismatch":"Password mismatch error","required":"Required field missing"}' />
+                                </p>
                                 <div class="thrv_lead_generation_container tve_clearfix">
                                     <form _lpchecked="1" action="#" autocomplete="new-password" method="post"
                                         novalidate="novalidate">
@@ -11667,24 +10789,25 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                         data-value="default">
                                                         <div class="thrive-colors-palette-config"
                                                             style="display: none !important"></div>
-                                                        <input data-field="mapping_checkbox" data-label-value="true"
-                                                            data-mapping="YTowOnt9" data-name="Checkbox"
-                                                            data-placeholder="Checkbox" data-required="1"
-                                                            data-validation="" id="tve-lg-checkbox-194871efe05"
-                                                            name="mapping_checkbox_274[]" placeholder="Checkbox"
-                                                            type="checkbox" value="Yes" />
-                                                        <label for="tve-lg-checkbox-194871efe05">
-                                                            <span class="tve-checkmark">
-                                                                <svg viewbox="0 0 512 512"
-                                                                    xmlns="http://www.w3.org/2000/svg">
-                                                                    <path
-                                                                        d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z">
-                                                                    </path>
-                                                                </svg>
-                                                            </span>
-                                                            <span
-                                                                class="tve-input-option-text tcb-plain-text">Yes</span>
-                                                        </label>
+                                                        <p> <input data-field="mapping_checkbox" data-label-value="true"
+                                                                data-mapping="YTowOnt9" data-name="Checkbox"
+                                                                data-placeholder="Checkbox" data-required="1"
+                                                                data-validation="" id="tve-lg-checkbox-194871efe05"
+                                                                name="mapping_checkbox_274[]" placeholder="Checkbox"
+                                                                type="checkbox" value="Yes" /><br />
+                                                            <label for="tve-lg-checkbox-194871efe05"><br />
+                                                                <span class="tve-checkmark"><br />
+                                                                    <svg viewbox="0 0 512 512"
+                                                                        xmlns="http://www.w3.org/2000/svg">
+                                                                        <path
+                                                                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z">
+                                                                        </path>
+                                                                    </svg><br />
+                                                                </span><br />
+                                                                <span
+                                                                    class="tve-input-option-text tcb-plain-text">Yes</span><br />
+                                                            </label>
+                                                        </p>
                                                     </div>
                                                     <div class="tve_lg_checkbox_wrapper tve-updated-dom tcb-local-vars-root"
                                                         data-css="tve-u-1948720260a"
@@ -11692,23 +10815,25 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                         data-value="default">
                                                         <div class="thrive-colors-palette-config"
                                                             style="display: none !important"></div>
-                                                        <input data-field="mapping_checkbox" data-label-value="true"
-                                                            data-mapping="YTowOnt9" data-name="Checkbox"
-                                                            data-placeholder="Checkbox" data-required="1"
-                                                            data-validation="" id="tve-lg-checkbox-194871efe06"
-                                                            name="mapping_checkbox_274[]" placeholder="Checkbox"
-                                                            type="checkbox" value="No" />
-                                                        <label for="tve-lg-checkbox-194871efe06">
-                                                            <span class="tve-checkmark">
-                                                                <svg viewbox="0 0 512 512"
-                                                                    xmlns="http://www.w3.org/2000/svg">
-                                                                    <path
-                                                                        d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z">
-                                                                    </path>
-                                                                </svg>
-                                                            </span>
-                                                            <span class="tve-input-option-text tcb-plain-text">No</span>
-                                                        </label>
+                                                        <p> <input data-field="mapping_checkbox" data-label-value="true"
+                                                                data-mapping="YTowOnt9" data-name="Checkbox"
+                                                                data-placeholder="Checkbox" data-required="1"
+                                                                data-validation="" id="tve-lg-checkbox-194871efe06"
+                                                                name="mapping_checkbox_274[]" placeholder="Checkbox"
+                                                                type="checkbox" value="No" /><br />
+                                                            <label for="tve-lg-checkbox-194871efe06"><br />
+                                                                <span class="tve-checkmark"><br />
+                                                                    <svg viewbox="0 0 512 512"
+                                                                        xmlns="http://www.w3.org/2000/svg">
+                                                                        <path
+                                                                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z">
+                                                                        </path>
+                                                                    </svg><br />
+                                                                </span><br />
+                                                                <span
+                                                                    class="tve-input-option-text tcb-plain-text">No</span><br />
+                                                            </label>
+                                                        </p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -11741,43 +10866,47 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                 data-tcb_hover_state_parent="">
                                                 <div class="thrive-colors-palette-config"
                                                     style="display: none !important"></div>
-                                                <a class="tcb-button-link tve-form-button-submit tcb-plain-text"
-                                                    href="#" style=""><span class="tcb-button-icon">
-                                                        <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                            data-selector="#lg-m65z1506 .tve-form-button .thrv_icon"
-                                                            style=""><svg class="tcb-icon" data-id="icon-send-solid"
-                                                                data-name="" viewbox="0 0 24 24">
-                                                                <path d="M2,21L23,12L2,3V10L17,12L2,14V21Z"></path>
-                                                            </svg></div>
-                                                    </span>
-                                                    <span class="tcb-button-texts"><span
+                                                <p> <a class="tcb-button-link tve-form-button-submit tcb-plain-text"
+                                                        href="#" style=""><span class="tcb-button-icon"></span></a></p>
+                                                <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                                    data-selector="#lg-m65z1506 .tve-form-button .thrv_icon" style="">
+                                                    <svg class="tcb-icon" data-id="icon-send-solid" data-name=""
+                                                        viewbox="0 0 24 24">
+                                                        <path d="M2,21L23,12L2,3V10L17,12L2,14V21Z"></path>
+                                                    </svg>
+                                                </div>
+                                                <p></p>
+                                                <p> <span class="tcb-button-texts"><span
                                                             class="tcb-button-text thrv-inline-text">Request
-                                                            Consultation</span></span>
-                                                </a>
-                                                <input style="display: none !important;" type="submit" />
+                                                            Consultation</span></span><br />
+                                                    <br />
+                                                    <input style="display: none !important;" type="submit" />
+                                                </p>
                                             </div>
                                             <div class="tve-thrive-sp-container tve-sp-tool-container"
                                                 data-tool-name="thrive-sp" id="tve-1948723ebf0"><input
                                                     name="first_name_4n6tj" type="text" /></div>
                                         </div>
-                                        <input id="_submit_option" name="_submit_option" type="hidden"
-                                            value="message" />
-                                        <input id="_sendParams" name="_sendParams" type="hidden" value="1" />
-                                        <input id="_api_custom_fields" name="_api_custom_fields" type="hidden"
-                                            value="YToyOntpOjA7YToyOntzOjI6ImlkIjtzOjQ6Im5hbWUiO3M6MTE6InBsYWNlaG9sZGVyIjtzOjQ6Ik5hbWUiO31pOjE7YToyOntzOjI6ImlkIjtzOjU6InBob25lIjtzOjExOiJwbGFjZWhvbGRlciI7czo1OiJQaG9uZSI7fX0=" /><input
-                                            id="__tcb_lg_msg" name="__tcb_lg_msg" type="hidden"
-                                            value="YToyOntzOjU6ImVycm9yIjtzOjY6IkVycm9yISI7czo3OiJzdWNjZXNzIjtzOjE4OiJTaWduIHVwIHN1Y2Nlc3NmdWwiO30=" /><input
-                                            id="tve_mapping" name="tve_mapping" type="hidden"
-                                            value="YToyOntzOjIyOiJtYXBwaW5nX2NoZWNrYm94XzI3NFtdIjthOjE6e3M6NjoiX2ZpZWxkIjtzOjE2OiJtYXBwaW5nX2NoZWNrYm94Ijt9czoyMDoibWFwcGluZ190ZXh0YXJlYV85MjciO2E6MTp7czo2OiJfZmllbGQiO3M6MTY6Im1hcHBpbmdfdGV4dGFyZWEiO319" /><input
-                                            id="tve_labels" name="tve_labels" type="hidden"
-                                            value="YTo1OntzOjQ6Im5hbWUiO3M6OToiRnVsbCBOYW1lIjtzOjU6InBob25lIjtzOjU6IlBob25lIjtzOjU6ImVtYWlsIjtzOjY6IkVtYWlsKiI7czoyMjoibWFwcGluZ19jaGVja2JveF8yNzRbXSI7czo4OiJDaGVja2JveCI7czoyMDoibWFwcGluZ190ZXh0YXJlYV85MjciO3M6NzoiQ29tbWVudCI7fQ==" />
+                                        <p> <input id="_submit_option" name="_submit_option" type="hidden"
+                                                value="message" /><br />
+                                            <input id="_sendParams" name="_sendParams" type="hidden" value="1" />
+                                        </p>
+                                        <p> <input id="_api_custom_fields" name="_api_custom_fields" type="hidden"
+                                                value="YToyOntpOjA7YToyOntzOjI6ImlkIjtzOjQ6Im5hbWUiO3M6MTE6InBsYWNlaG9sZGVyIjtzOjQ6Ik5hbWUiO31pOjE7YToyOntzOjI6ImlkIjtzOjU6InBob25lIjtzOjExOiJwbGFjZWhvbGRlciI7czo1OiJQaG9uZSI7fX0=" /><input
+                                                id="__tcb_lg_msg" name="__tcb_lg_msg" type="hidden"
+                                                value="YToyOntzOjU6ImVycm9yIjtzOjY6IkVycm9yISI7czo3OiJzdWNjZXNzIjtzOjE4OiJTaWduIHVwIHN1Y2Nlc3NmdWwiO30=" /><input
+                                                id="tve_mapping" name="tve_mapping" type="hidden"
+                                                value="YToyOntzOjIyOiJtYXBwaW5nX2NoZWNrYm94XzI3NFtdIjthOjE6e3M6NjoiX2ZpZWxkIjtzOjE2OiJtYXBwaW5nX2NoZWNrYm94Ijt9czoyMDoibWFwcGluZ190ZXh0YXJlYV85MjciO2E6MTp7czo2OiJfZmllbGQiO3M6MTY6Im1hcHBpbmdfdGV4dGFyZWEiO319" /><input
+                                                id="tve_labels" name="tve_labels" type="hidden"
+                                                value="YTo1OntzOjQ6Im5hbWUiO3M6OToiRnVsbCBOYW1lIjtzOjU6InBob25lIjtzOjU6IlBob25lIjtzOjU6ImVtYWlsIjtzOjY6IkVtYWlsKiI7czoyMjoibWFwcGluZ19jaGVja2JveF8yNzRbXSI7czo4OiJDaGVja2JveCI7czoyMDoibWFwcGluZ190ZXh0YXJlYV85MjciO3M6NzoiQ29tbWVudCI7fQ==" />
+                                        </p>
                                     </form>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="tcb_flag" style="display: none"></div><span
-                        class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span
+                    <div class="tcb_flag" style="display: none"></div>
+                    <span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span
                         class="tve-leads-two-step-trigger tl-2step-trigger-0"></span>
                 </article>
             </div><a class="tve_p_lb_close" href="javascript:void(0)" style="" title="Close">x</a>
@@ -11795,12 +10924,24 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <script id="wpblog-post-layouts-elements-scripts-js"
         src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/elementor-frontend__q8daf52c7.js"
         type="text/javascript"></script>
+    <script id="elementor-webpack-runtime-js"
+        src="wp-content/plugins/elementor/assets/js/webpack.runtime.min__q5be56f11.js" type="text/javascript"></script>
+    <script id="elementor-frontend-modules-js"
+        src="wp-content/plugins/elementor/assets/js/frontend-modules.min__q5be56f11.js" type="text/javascript"></script>
+    <script id="elementor-frontend-js-before" type="text/javascript">
+        /* <![CDATA[ */
+        var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.35.3", "is_static": false, "experimentalFeatures": { "e_font_icon_svg": true, "additional_custom_breakpoints": true, "container": true, "e_optimized_markup": true, "e_pro_free_trial_popup": true, "nested-elements": true, "home_screen": true, "global_classes_should_enforce_capabilities": true, "e_variables": true, "cloud-library": true, "e_opt_in_v4_page": true, "e_components": true, "e_interactions": true, "e_editor_one": true, "import-export-customization": true }, "urls": { "assets": "https:\/\/optionspa.com\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/optionspa.com\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "7448d0d352" }, "swiperClass": "swiper", "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 5968, "title": "Thank%20You%20-%20Options%20Psychiatry", "excerpt": "", "featuredImage": false } };
+        //# sourceURL=elementor-frontend-js-before
+        /* ]]> */
+    </script>
+    <script id="elementor-frontend-js" src="wp-content/plugins/elementor/assets/js/frontend.min__q5be56f11.js"
+        type="text/javascript"></script>
     <script id="wpblog-post-layouts-public-script-js"
         src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/frontend__q8daf52c7.js"
         type="text/javascript"></script>
     <script id="tve-dash-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var tve_dash_front = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "force_ajax_send": "1", "is_crawler": "", "recaptcha": [], "turnstile": [], "post_id": "4198" };
+        var tve_dash_front = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "force_ajax_send": "1", "is_crawler": "", "recaptcha": [], "turnstile": [], "post_id": "5968" };
         //# sourceURL=tve-dash-frontend-js-extra
         /* ]]> */
     </script>
@@ -11812,18 +10953,6 @@ or the following one for loading the Bootstrap library from jsDelivr:
         type="text/javascript"></script>
     <script id="tve_frontend_social-share-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/social-share.min__q011b470d.js"
-        type="text/javascript"></script>
-    <script id="elementor-webpack-runtime-js"
-        src="wp-content/plugins/elementor/assets/js/webpack.runtime.min__q5be56f11.js" type="text/javascript"></script>
-    <script id="elementor-frontend-modules-js"
-        src="wp-content/plugins/elementor/assets/js/frontend-modules.min__q5be56f11.js" type="text/javascript"></script>
-    <script id="elementor-frontend-js-before" type="text/javascript">
-        /* <![CDATA[ */
-        var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.35.3", "is_static": false, "experimentalFeatures": { "e_font_icon_svg": true, "additional_custom_breakpoints": true, "container": true, "e_optimized_markup": true, "e_pro_free_trial_popup": true, "nested-elements": true, "home_screen": true, "global_classes_should_enforce_capabilities": true, "e_variables": true, "cloud-library": true, "e_opt_in_v4_page": true, "e_components": true, "e_interactions": true, "e_editor_one": true, "import-export-customization": true }, "urls": { "assets": "https:\/\/optionspa.com\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/optionspa.com\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "7448d0d352" }, "swiperClass": "swiper", "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 4198, "title": "Quiz%20-%20Options%20Psychiatry", "excerpt": "", "featuredImage": false } };
-        //# sourceURL=elementor-frontend-js-before
-        /* ]]> */
-    </script>
-    <script id="elementor-frontend-js" src="wp-content/plugins/elementor/assets/js/frontend.min__q5be56f11.js"
         type="text/javascript"></script>
     <script id="tve_frontend_lead-generation-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/lead-generation.min__q011b470d.js"
@@ -11844,7 +10973,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         /* ]]> */
     </script>
     <script
-        type="text/javascript">/*<![CDATA[*/if (!window.TL_Const) { var TL_Const = { "security": "ea42a27cef", "ajax_url": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 3, "screen_id": 4198 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }; } else { window.TL_Front && TL_Front.extendConst && TL_Front.extendConst({ "security": "ea42a27cef", "ajax_url": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 3, "screen_id": 4198 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }) } /*]]> */</script>
+        type="text/javascript">/*<![CDATA[*/if (!window.TL_Const) { var TL_Const = { "security": "ea42a27cef", "ajax_url": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 3, "screen_id": 5968 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }; } else { window.TL_Front && TL_Front.extendConst && TL_Front.extendConst({ "security": "ea42a27cef", "ajax_url": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 3, "screen_id": 5968 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }) } /*]]> */</script>
     <div></div><!-- start Simple Custom CSS and JS -->
     <!-- Add HTML code to the header or the footer.
 
@@ -12243,7 +11372,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <!-- end Simple Custom CSS and JS -->
     <script type="text/javascript">
         /* <![CDATA[ */
-        var TVE_Ult_Data = { "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "ajax_load_action": "tve_ult_ajax_load", "conversion_events_action": "tve_ult_conversion_event", "shortcode_campaign_ids": [], "matched_display_settings": [], "campaign_ids": [], "post_id": 4198, "is_singular": true, "tu_em": "", "evergreen_redirects": [] };
+        var TVE_Ult_Data = { "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "ajax_load_action": "tve_ult_ajax_load", "conversion_events_action": "tve_ult_conversion_event", "shortcode_campaign_ids": [], "matched_display_settings": [], "campaign_ids": [], "post_id": 5968, "is_singular": true, "tu_em": "", "evergreen_redirects": [] };
         /* ]]> */
     </script>
     <script src="wp-content/plugins/thrive-ultimatum/js/dist/no-campaign.min__q04f4ffbd.js"
