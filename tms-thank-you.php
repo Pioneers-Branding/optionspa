@@ -289,12 +289,7 @@
             }
         }
     </style>
-    <!-- Google Tag Manager for WordPress by gtm4wp.com -->
-    <script data-cfasync="false" data-pagespeed-no-defer="">
-        var gtm4wp_datalayer_name = "dataLayer";
-        var dataLayer = dataLayer || [];
-    </script>
-    <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+
     <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
     <title>Thank You - Options Psychiatry</title>
     <meta
@@ -810,108 +805,6 @@
     <link href="wp-content/uploads/custom-css-js/2880__q42b25d37.css" id="2880-css" media="all" rel="stylesheet"
         type="text/css" />
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16883360986"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'AW-16883360986');
-    </script>
-
-
-    <!-- Event snippet for Submit lead formQ conversion page -->
-    <script>
-        gtag('event', 'conversion', { 'send_to': 'AW-16883360986/IJm8CJin2uccENrJzvI-' });
-    </script>
-
-
-    <!-- start Simple Custom CSS and JS -->
-    <!-- Add HTML code to the header or the footer.
-
-For example, you can use the following code for loading the jQuery library from Google CDN:
-<script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-
-or the following one for loading the Bootstrap library from jsDelivr:
-<link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
-
-    <link href="https://fonts.googleapis.com" rel="preconnect" />
-    <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
-    <link href="_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet" />
-    <!-- Font Awesome -->
-    <link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet" />
-    <!-- End of the comment -->
-    <!-- end Simple Custom CSS and JS -->
-    <!-- start Simple Custom CSS and JS -->
-    <script type="text/javascript">
-        /* Default comment here */
-
-    </script>
-    <!-- end Simple Custom CSS and JS -->
-    <!-- start Simple Custom CSS and JS -->
-    <script type="text/javascript">
-
-
-        /* Default comment here */
-
-    </script>
-    <!-- end Simple Custom CSS and JS -->
-    <link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-        rel="stylesheet" />
-    <!-- Meta Pixel Code -->
-    <script>
-        !function (f, b, e, v, n, t, s) {
-            if (f.fbq) return; n = f.fbq = function () {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
-            n.queue = []; t = b.createElement(e); t.async = !0;
-            t.src = v; s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '1018652800573698');
-        fbq('track', 'PageView');
-    </script>
-    <noscript><img height="1" src="https://www.facebook.com/tr?id=1018652800573698&amp;ev=PageView&amp;noscript=1"
-            style="display:none" width="1" /></noscript>
-    <!-- End Meta Pixel Code -->
-    <script type="text/javascript">
-        (function () {
-            window.usermaven = window.usermaven || (function () { (window.usermavenQ = window.usermavenQ || []).push(arguments); })
-            var t = document.createElement('script'),
-                s = document.getElementsByTagName('script')[0];
-            t.defer = true;
-            t.id = 'um-tracker';
-            t.setAttribute('data-tracking-host', "https://events.usermaven.com")
-            t.setAttribute('data-key', 'UMn2O1MhLr');
-            t.setAttribute('data-autocapture', 'true');
-            t.src = 'https://t.usermaven.com/lib.js';
-            s.parentNode.insertBefore(t, s);
-        })();
-    </script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-222721405-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-222721405-1');
-    </script>
-    <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-WH4BGL7V');</script>
-    <!-- Google tag (gtag.js) -->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16883360986"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -924,15 +817,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <script>
         gtag('event', 'conversion', { 'send_to': 'AW-16883360986/kOsaCIuwsqAaENrJzvI-' });
     </script>
-    <!-- Google tag (gtag.js) -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-E9TV9LJDWM"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
 
-        gtag('config', 'G-E9TV9LJDWM');
-    </script>
     <style>
         /* for unique landing page accent color values,  put any new css added here inside tcb-bridge/js/editor */
 
@@ -1000,36 +885,8 @@ or the following one for loading the Bootstrap library from jsDelivr:
             background-color: #03a9f4
         }
     </style>
-    <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-T79WRWW');</script>
-    <!-- End Google Tag Manager -->
-    <!-- Google Tag Manager for WordPress by gtm4wp.com -->
-    <!-- GTM Container placement set to off -->
-    <script data-cfasync="false" data-pagespeed-no-defer="">
-        var dataLayer_content = { "pagePostType": "page", "pagePostType2": "single-page", "pagePostAuthor": "Dr. Cyntrell Crawford" };
-        dataLayer.push(dataLayer_content);
-    </script>
-    <script data-cfasync="false" data-pagespeed-no-defer="">
-        console.warn && console.warn("[GTM4WP] Google Tag Manager container code placement set to OFF !!!");
-        console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
-    </script>
-    <!-- End Google Tag Manager for WordPress by gtm4wp.com --><!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-MJC7C7C4');</script>
-    <!-- End Google Tag Manager -->
+
+
     <style id="thrive-theme-layout-css" type="text/css">
         @media (min-width: 300px) {
             .thrive-layout-19 .main-container .sidebar-section {
@@ -1636,18 +1493,11 @@ or the following one for loading the Bootstrap library from jsDelivr:
 
 <body
     class="wp-singular page-template-default page page-id-5968 wp-theme-thrive-theme ehf-header ehf-footer ehf-template-thrive-theme ehf-stylesheet-thrive-theme tve-theme-32 thrive-layout-19 thrive-no-prev-post-in-category thrive-no-next-post-in-category elementor-default elementor-kit-4716 elementor-page elementor-page-5968">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T79WRWW"
-            style="display:none;visibility:hidden" width="0"></iframe></noscript>
+
     <!-- End Google Tag Manager (noscript) -->
     <div class="hfeed site" id="page">
         <?php include __DIR__ . '/includes/header.php'; ?>
-        <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MJC7C7C4"
-                style="display:none;visibility:hidden" width="0"></iframe></noscript>
-        <!-- End Google Tag Manager (noscript) --><!-- Google Tag Manager (noscript) -->
-        <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T79WRWW"
-                style="display:none;visibility:hidden" width="0"></iframe></noscript>
+
         <!-- End Google Tag Manager (noscript) -->
         <style class="tcb-lightspeed-style" id="tcb-style-base-tcb_lightbox-3952"
             onload="typeof window.lightspeedOptimizeStylesheet === 'function' &amp;&amp; window.lightspeedOptimizeStylesheet()"
