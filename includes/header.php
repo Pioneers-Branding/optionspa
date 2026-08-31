@@ -38,11 +38,45 @@ Edit THIS file to change the header on every page. */ ?>
                               <li><a href="adhd">ADHD</a></li>
                            </ul>
                         </li>
-                        <li class="opt-nav-item"><a class="opt-nav-link" href="blog">Blog</a>
-                        </li>
                         <li class="opt-nav-item"><a class="opt-nav-link" href="contact">Contact</a></li>
+                        <li class="opt-nav-item"><a class="opt-nav-link opt-nav-cta"
+                              href="https://apply.optionspsychiatry.com/apply">Get Started</a></li>
                      </ul>
                   </nav>
+                  <style>
+                     .opt-nav-cta {
+                        background: linear-gradient(135deg, #FF7A15 0%, #FF8B2E 100%) !important;
+                        color: #FFFFFF !important;
+                        font-weight: 700 !important;
+                        border: 1.5px solid #FF7A15 !important;
+                        box-shadow: 0 4px 14px rgba(255, 122, 21, 0.35);
+                        text-decoration: none !important;
+                     }
+
+                     .opt-nav-cta::after {
+                        display: none !important;
+                     }
+
+                     .opt-nav-cta:hover {
+                        background: linear-gradient(135deg, #e66a0d 0%, #ff7a15 100%) !important;
+                        color: #FFFFFF !important;
+                        border-color: #e66a0d !important;
+                        box-shadow: 0 6px 20px rgba(255, 122, 21, 0.5);
+                        transform: translateY(-2px);
+                     }
+
+                     @media (max-width: 1023px) {
+                        .opt-nav-cta {
+                           margin: 10px 24px !important;
+                           width: calc(100% - 48px) !important;
+                           text-align: center !important;
+                           justify-content: center !important;
+                           border-radius: 50px !important;
+                           padding: 10px 20px !important;
+                           display: block !important;
+                        }
+                     }
+                  </style>
                   <button aria-label="Toggle menu" class="opt-mobile-menu-toggle">
                      <span></span>
                      <span></span>
