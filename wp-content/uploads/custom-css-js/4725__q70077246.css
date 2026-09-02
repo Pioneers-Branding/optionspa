@@ -262,7 +262,9 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 45px;
+    padding: 8px 28px;
+    max-width: 1420px;
+    width: 95%;
     background: rgb(255 254 254 / 92%);
     /* Darker glass for better contrast on white text */
     backdrop-filter: blur(25px) saturate(180%);
@@ -279,7 +281,7 @@ img {
     margin-top: 0;
     border-radius: 0 0 24px 24px;
     /* Less round when scrolled but still elegant */
-    padding: 8px 45px;
+    padding: 6px 28px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -288,8 +290,9 @@ img {
     font-weight: 800;
     color: var(--primary-dark);
     letter-spacing: 2px;
-    margin-right: 60px;
-    padding-left: 8px;
+    margin-right: 20px;
+    padding-left: 0;
+    flex-shrink: 0;
 }
 
 .opt-nav-menu {
@@ -303,7 +306,9 @@ img {
     list-style: none;
     margin: 0;
     padding: 0;
-    gap: 4px;
+    gap: 6px;
+    align-items: center;
+    flex-wrap: nowrap;
 }
 
 .opt-nav-item {
@@ -314,11 +319,12 @@ img {
     display: flex;
     align-items: center;
     gap: 4px;
-    padding: 4px 20px;
+    padding: 5px 16px;
     color: #000;
     /* Better contrast on white background */
     font-weight: 600;
-    font-size: 1.05rem;
+    font-size: 0.98rem;
+    white-space: nowrap;
     transition: all 0.3s ease;
     position: relative;
     background: linear-gradient(135deg, rgba(15, 44, 58, 0.05) 0%, rgba(15, 44, 58, 0.08) 100%);

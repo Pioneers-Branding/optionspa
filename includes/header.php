@@ -38,12 +38,47 @@ Edit THIS file to change the header on every page. */ ?>
                               <li><a href="adhd">ADHD</a></li>
                            </ul>
                         </li>
+                        <li class="opt-nav-item"><a class="opt-nav-link" href="blog">Blog</a></li>
                         <li class="opt-nav-item"><a class="opt-nav-link" href="contact">Contact</a></li>
                         <li class="opt-nav-item"><a class="opt-nav-link opt-nav-cta"
                               href="https://apply.optionspsychiatry.com/apply">Get Started</a></li>
                      </ul>
                   </nav>
                   <style>
+                     .opt-header-container {
+                        max-width: 1420px !important;
+                        width: 95% !important;
+                        padding: 8px 28px !important;
+                     }
+
+                     .opt-header.opt-scrolled .opt-header-container {
+                        padding: 6px 28px !important;
+                     }
+
+                     .opt-header-logo {
+                        margin-right: 20px !important;
+                        padding-left: 0 !important;
+                        flex-shrink: 0 !important;
+                     }
+
+                     .opt-nav-menu {
+                        flex: 1 !important;
+                        justify-content: flex-end !important;
+                     }
+
+                     .opt-nav-list {
+                        display: flex !important;
+                        flex-wrap: nowrap !important;
+                        align-items: center !important;
+                        gap: 6px !important;
+                     }
+
+                     .opt-nav-link {
+                        padding: 5px 16px !important;
+                        font-size: 0.98rem !important;
+                        white-space: nowrap !important;
+                     }
+
                      .opt-nav-cta {
                         background: linear-gradient(135deg, #FF7A15 0%, #FF8B2E 100%) !important;
                         color: #FFFFFF !important;
@@ -51,6 +86,10 @@ Edit THIS file to change the header on every page. */ ?>
                         border: 1.5px solid #FF7A15 !important;
                         box-shadow: 0 4px 14px rgba(255, 122, 21, 0.35);
                         text-decoration: none !important;
+                        padding: 6px 20px !important;
+                        font-size: 0.98rem !important;
+                        white-space: nowrap !important;
+                        margin-left: 4px !important;
                      }
 
                      .opt-nav-cta::after {
@@ -63,6 +102,36 @@ Edit THIS file to change the header on every page. */ ?>
                         border-color: #e66a0d !important;
                         box-shadow: 0 6px 20px rgba(255, 122, 21, 0.5);
                         transform: translateY(-2px);
+                     }
+
+                     @media (min-width: 1024px) and (max-width: 1366px) {
+                        .opt-header-container {
+                           width: 98% !important;
+                           max-width: 100% !important;
+                           padding: 6px 16px !important;
+                        }
+
+                        .opt-header-logo {
+                           margin-right: 12px !important;
+                        }
+
+                        .opt-header-logo img {
+                           width: 130px !important;
+                        }
+
+                        .opt-nav-list {
+                           gap: 3px !important;
+                        }
+
+                        .opt-nav-link {
+                           padding: 4px 10px !important;
+                           font-size: 0.92rem !important;
+                        }
+
+                        .opt-nav-cta {
+                           padding: 5px 14px !important;
+                           font-size: 0.92rem !important;
+                        }
                      }
 
                      @media (max-width: 1023px) {
