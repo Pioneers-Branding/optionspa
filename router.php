@@ -55,6 +55,7 @@ if (substr($clean, -4) === '.php' && strpos($clean, 'wp-') !== 0) { $go(substr($
 $nested = [
     '2026/05' => '2026-05', '2026/06' => '2026-06',
     '2026/07' => '2026-07', '2026/08' => '2026-08',
+    '2026/09' => '2026-09',
     'category/adhd' => 'category-adhd',
     'category/anxiety' => 'category-anxiety',
     'category/blog' => 'category-blog',
