@@ -8388,7 +8388,172 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                 data-css="tve-u-16eea85aace" data-disabled-links="0"
                                 data-dynamic_filter="{'category':'category','tag':'tag','author':'author','search':'search'}"
                                 data-no_posts_text="" data-pages_near_current="1" data-pagination-type="none"
-                                data-total_post_count="63" data-type="grid" id="main" role="main">
+                                data-total_post_count="64" data-type="grid" id="main" role="main">
+                                <article id="post-8950"
+                                    class="post-8950 post type-post status-publish format-standard has-post-thumbnail hentry category-tms-therapy post-wrapper thrv_wrapper thrive-animated-item "
+                                    tcb_hover_state_parent="" data-id="8950" data-selector=".post-wrapper">
+                                    <style class="tcb-post-list-dynamic-style" type="text/css">
+                                        @media (min-width: 300px) {
+                                            .tve-theme-26 .content-section #main #post-8950 [data-css="tve-u-170aae40f55"] {
+                                                background-image: url("wp-content/uploads/2026/09/is-tms-therapy-covered-by-insurance.jpg") !important;
+                                            }
+
+                                            .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8950 [data-css="tve-u-16eb7cc1def"] {
+                                                background-image: url("wp-content/uploads/2026/09/is-tms-therapy-covered-by-insurance-300x169.jpg") !important;
+                                            }
+
+                                            .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8950 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/09/is-tms-therapy-covered-by-insurance.jpg") !important;
+                                            }
+                                        }
+                                    </style>
+                                    <div class="tcb-clear" data-css="tve-u-16ec6ce9c8e">
+                                        <div class="thrv_wrapper thrv-columns" data-css="tve-u-16ec6ce9bf9"
+                                            style="--tcb-col-el-width:275;">
+                                            <div class="tcb-flex-row tcb--cols--2 tcb-resized v-2 tcb-mobile-no-wrap m-edit"
+                                                style="margin-left: 0px;" data-css="tve-u-16ec6cec0d5">
+                                                <div class="tcb-flex-col" data-css="tve-u-16ec6cef97c"
+                                                    style="padding-left: 0px;">
+                                                    <div class="tcb-col" style="" data-css="tve-u-16ecb0fccee">
+                                                        <div class="thrv_wrapper thrv_text_element tve-froala fr-box"
+                                                            style="" data-css="tve-u-16ec6ce3d3b">
+                                                            <p data-css="tve-u-16ec6ce5e37"><span
+                                                                    class="thrive-shortcode-content" data-attr-css=""
+                                                                    data-attr-date-format="F j, Y"
+                                                                    data-attr-date-format-select="F j, Y"
+                                                                    data-attr-link="1" data-attr-rel="0"
+                                                                    data-attr-show-time="0" data-attr-target="0"
+                                                                    data-attr-time-format=""
+                                                                    data-attr-time-format-select="g:i a"
+                                                                    data-attr-type="published" data-extra_key=""
+                                                                    data-option-inline="1"
+                                                                    data-shortcode="tcb_post_published_date"
+                                                                    data-shortcode-name="Post date"
+                                                                    data-css="tve-u-1708037b30c"><a href="2026-09"
+                                                                        title="September 17, 2026 "
+                                                                        data-css="">September 17, 2026 </a></span></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="tcb-flex-col" data-css="tve-u-16ec6cefa07"
+                                                    style="padding-left: 0px;">
+                                                    <div class="tcb-col" style="">
+                                                        <div class="tcb-clear" data-css="tve-u-16eb7bd89f7"><a
+                                                                href="is-tms-therapy-covered-by-insurance#comments"
+                                                                class="tve-dynamic-link"
+                                                                dynamic-postlink="tcb_post_comments_link"
+                                                                data-shortcode-id="2978"></a>
+                                                            <div class="tcb-clear" data-css="tve-u-16ec6cfd45b"><a
+                                                                    href="is-tms-therapy-covered-by-insurance#comments"
+                                                                    class="tve-dynamic-link"
+                                                                    dynamic-postlink="tcb_post_comments_link"
+                                                                    data-shortcode-id="2978"></a><a
+                                                                    href="is-tms-therapy-covered-by-insurance#comments"
+                                                                    class="tve-dynamic-link"
+                                                                    dynamic-postlink="tcb_post_comments_link"
+                                                                    data-shortcode-id="2978">
+                                                                    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                                                                        data-css="tve-u-16eb7bd89f8" style="">
+                                                                        <div class="tve-content-box-background" style=""
+                                                                            data-css="tve-u-16eb7c2edcd"></div>
+                                                                        <div class="tve-cb" data-css="tve-u-1713132fc67"
+                                                                            data-tcb_hover_state_parent="1" style="">
+                                                                            <div class="tcb-post-comments-number tcb-shortcode thrv_wrapper"
+                                                                                data-css="tve-u-16eb7bd89fa">0</div>
+                                                                            <div class="thrv_wrapper thrv_icon tcb-icon-display"
+                                                                                data-css="tve-u-16eb7bd89fb" style="">
+                                                                                <svg class="tcb-icon"
+                                                                                    viewBox="0 0 512 512"
+                                                                                    data-id="icon-comment-alt-light"
+                                                                                    data-name="" style="">
+                                                                                    <path
+                                                                                        d="M448 0H64C28.7 0 0 28.7 0 64v288c0 35.3 28.7 64 64 64h96v84c0 7.1 5.8 12 12 12 2.4 0 4.9-.7 7.1-2.4L304 416h144c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64zm32 352c0 17.6-14.4 32-32 32H293.3l-8.5 6.4L192 460v-76H64c-17.6 0-32-14.4-32-32V64c0-17.6 14.4-32 32-32h384c17.6 0 32 14.4 32 32v288z">
+                                                                                    </path>
+                                                                                </svg></div>
+                                                                        </div>
+                                                                    </div>
+                                                                </a></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a href="is-tms-therapy-covered-by-insurance" target="_blank" class="tve-dynamic-link"
+                                        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a><a
+                                        href="is-tms-therapy-covered-by-insurance" class="tve-dynamic-link"
+                                        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a>
+                                    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                                        data-css="tve-u-171309e9d70" style="">
+                                        <div class="tve-content-box-background"></div>
+                                        <div class="tve-cb"><a href="is-tms-therapy-covered-by-insurance"
+                                                class="tve-dynamic-link" dynamic-postlink="tcb_post_the_permalink"
+                                                data-shortcode-id="2978">
+                                                <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                                                    style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+                                                    data-css="tve-u-170aae42b46" data-link-wrap="true">
+                                                    <div class="tve-content-box-background" style=""
+                                                        data-css="tve-u-170aae40f55"></div>
+                                                    <div class="tve-cb" data-css="tve-u-170aae452a1"
+                                                        style="--tve-line-height:1px;"></div>
+                                                </div>
+                                            </a>
+                                            <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                                                data-css="tve-u-171309e5dfc" style="">
+                                                <div class="tve-content-box-background" style=""
+                                                    data-css="tve-u-171309ef3fb"></div>
+                                                <div class="tve-cb" style="" data-css="tve-u-171309f04cb">
+                                                    <div class="thrv_wrapper thrv_text_element tve-froala fr-box fr-basic"
+                                                        style="" data-css="tve-u-171309fe664">
+                                                        <p style="" data-css="tve-u-171309f24be"><span
+                                                                class="thrive-shortcode-content" data-attr-link="1"
+                                                                data-attr-rel="0" data-attr-target="0" data-extra_key=""
+                                                                data-option-inline="1"
+                                                                data-shortcode="tcb_post_categories"
+                                                                data-shortcode-name="List of Categories"
+                                                                data-attr-css="tve-u-171309f6482"><a
+                                                                    href="category-tms-therapy" title="TMS Therapy"
+                                                                    data-css="tve-u-171309f6482">TMS Therapy</a></span></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="thrv_wrapper thrv_text_element"
+                                        style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+                                        data-css="tve-u-16ecb55f946">
+                                        <h2 class="" data-css="tve-u-171309d2be7"><a
+                                                class="tve-dynamic-link tve-froala fr-basic"
+                                                data-css="tve-u-16fa868df06" data-dynamic-link="tcb_post_the_permalink"
+                                                data-shortcode-id="2978" data-tcb_hover_state_parent=""
+                                                dynamic-postlink="tcb_post_the_permalink"
+                                                href="is-tms-therapy-covered-by-insurance"
+                                                style="outline: none;"><strong><span class="thrive-shortcode-content"
+                                                        data-attr-link="0" data-attr-rel="0" data-attr-target="1"
+                                                        data-extra_key="" data-option-inline="1"
+                                                        data-shortcode="tcb_post_title" data-shortcode-name="Post Title"
+                                                        data-css="tve-u-171309d2ceb">Is TMS Therapy Covered by Insurance?
+                                                        Complete 2026 Guide</span></strong></a></h2>
+                                    </div>
+                                    <section class="tcb-post-content tcb-shortcode thrv_wrapper"
+                                        data-css="tve-u-1713acf18fa">
+                                        <p>Transcranial Magnetic Stimulation (TMS Therapy) is covered by virtually all major
+                                            commercial insurance providers, Medicare, and TRICARE for treatment-resistant depression.
+                                            Learn about coverage criteria, prior authorization, costs, and guidelines. <a class="more-link"
+                                                href="is-tms-therapy-covered-by-insurance#more-8950">...</a></p>
+                                    </section>
+                                    <div class="tcb-clear tcb-post-read-more-clear">
+                                        <div class="thrv_wrapper tcb-post-read-more" data-css="tve-u-16ec6869692"
+                                            data-tcb_hover_state_parent="" style="">
+                                            <a href="is-tms-therapy-covered-by-insurance"
+                                                class="tcb-button-link tcb-post-read-more-link">
+                                                <span class="tcb-button-texts" style=""><span
+                                                        class="tcb-button-text thrv-inline-text" style=""
+                                                        data-css="tve-u-17859bf38be">Read More</span></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </article>
                                 <article id="post-8940"
                                     class="post-8940 post type-post status-publish format-standard has-post-thumbnail hentry category-anxiety post-wrapper thrv_wrapper thrive-animated-item "
                                     tcb_hover_state_parent="" data-id="8940" data-selector=".post-wrapper">
