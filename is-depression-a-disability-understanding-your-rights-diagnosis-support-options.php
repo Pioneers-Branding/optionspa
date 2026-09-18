@@ -221,87 +221,163 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
 <script id="display-testimonials-tcb-js" src="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/js/display-testimonials-tcb.min__qe79741bf.js" type="text/javascript"></script>
 
 
-<script type="application/ld+json">{
-    "@context": "https://schema.org/",
-    "@type": "CreativeWorkSeries",
-    "name": "Is Depression a Disability? Understanding Your Rights, Diagnosis &amp; Support Options",
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "bestRating": "5",
-        "ratingCount": "1"
-    }
-}</script>
-<script type="application/ld+json">{
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-        {
-            "@type": "Question",
-            "name": "Is depression legally considered a disability?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Yes, depression can be legally recognized as a disability under federal standards such as the Americans with Disabilities Act (ADA) and Social Security Administration (SSA) guidelines if it substantially limits major life activities or prevents substantial gainful work."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "What is the difference between ADA protections and SSDI benefits for depression?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "The ADA protects qualified workers from discrimination and grants reasonable workplace accommodations so they can continue working. SSDI (Social Security Disability Insurance) provides monthly monetary benefits for individuals unable to perform any substantial gainful activity due to a severe, long-term disability."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "What medical evidence is needed to prove depression is a disability?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Comprehensive medical evidence includes formal psychiatric evaluations, DSM-5 diagnostic criteria for Major Depressive Disorder, detailed treatment history, medication trial logs, psychotherapy notes, and objective Residual Functional Capacity (RFC) assessments."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Can you work while receiving disability benefits for depression?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Under SSDI, limited work is permitted if earnings remain below the SSA's Substantial Gainful Activity (SGA) monthly threshold. Programs like SSA's Trial Work Period also allow beneficiaries to test their ability to work without immediately forfeiting cash benefits."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "How does the Social Security Administration (SSA) evaluate depression claims?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "The SSA evaluates depression under Blue Book Listing 12.04. Applicants must document specific depressive symptoms and show either marked limitation in two functional areas (or extreme limitation in one), or a chronic disorder lasting at least two years with ongoing treatment and marginal adjustment."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Can an employer fire you for having depression?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Under ADA Title I, covered employers cannot terminate an employee solely because they have depression or request reasonable accommodations. However, employees must still be able to perform essential job functions with or without reasonable accommodations."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Does high-functioning or mild depression qualify for disability?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Mild depression typically does not meet legal disability criteria because it does not substantially impair major life functions. High-functioning depression may qualify under the ADA if objective evidence proves substantial limitation in key areas, though SSDI approval requires severe work-precluding disability."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "What treatment options are available if standard depression treatments haven't worked?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "For treatment-resistant depression, Options Psychiatry in Reading, PA provides advanced therapies including FDA-cleared Transcranial Magnetic Stimulation (TMS), Spravato® (esketamine) nasal spray, specialized medication management, and evidence-based psychotherapy."
-            }
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://optionspa.com/is-depression-a-disability-understanding-your-rights-diagnosis-support-options#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://optionspa.com/is-depression-a-disability-understanding-your-rights-diagnosis-support-options"
+      },
+      "headline": "Is Depression a Disability? Rights, Benefits & Support",
+      "description": "Is depression a disability? Learn about ADA rights, SSDI benefits, diagnosis, and mental health support from Options Psychiatry in Reading, PA.",
+      "image": "https://optionspa.com/wp-content/uploads/2026/09/is-depression-a-disability-hero.jpg",
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Cyntrell Crawford",
+        "jobTitle": "Psychiatrist",
+        "worksFor": {
+          "@type": "MedicalClinic",
+          "name": "Options Psychiatry",
+          "url": "https://optionspa.com"
         }
-    ]
-}</script><meta content="IQ1dcuJ47hx3D0nkl5e3QOOCEIZ_UU7NBBkRGBNuLN4" name="google-site-verification"/>
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Options Psychiatry",
+        "url": "https://optionspa.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://optionspa.com/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp"
+        }
+      },
+      "datePublished": "2026-04-06T03:02:26-04:00",
+      "dateModified": "2026-09-18T18:12:00-04:00",
+      "mainEntityOfPage": "https://optionspa.com/is-depression-a-disability-understanding-your-rights-diagnosis-support-options",
+      "keywords": [
+        "is depression a disability",
+        "depression disability rights",
+        "ADA depression accommodations",
+        "SSDI for depression",
+        "depression diagnosis Reading PA",
+        "Options Psychiatry",
+        "treatment-resistant depression"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://optionspa.com/is-depression-a-disability-understanding-your-rights-diagnosis-support-options#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is depression legally considered a disability?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, depression can be legally recognized as a disability under federal standards such as the Americans with Disabilities Act (ADA) and Social Security Administration (SSA) guidelines if it substantially limits major life activities or prevents substantial gainful work."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between ADA protections and SSDI benefits for depression?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The ADA protects qualified workers from discrimination and grants reasonable workplace accommodations so they can continue working. SSDI (Social Security Disability Insurance) provides monthly monetary benefits for individuals unable to perform any substantial gainful activity due to a severe, long-term disability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What medical evidence is needed to prove depression is a disability?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Comprehensive medical evidence includes formal psychiatric evaluations, DSM-5 diagnostic criteria for Major Depressive Disorder, detailed treatment history, medication trial logs, psychotherapy notes, and objective Residual Functional Capacity (RFC) assessments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you work while receiving disability benefits for depression?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Under SSDI, limited work is permitted if earnings remain below the SSA's Substantial Gainful Activity (SGA) monthly threshold. Programs like SSA's Trial Work Period also allow beneficiaries to test their ability to work without immediately forfeiting cash benefits."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the Social Security Administration (SSA) evaluate depression claims?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The SSA evaluates depression under Blue Book Listing 12.04. Applicants must document specific depressive symptoms and show either marked limitation in two functional areas (or extreme limitation in one), or a chronic disorder lasting at least two years with ongoing treatment and marginal adjustment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can an employer fire you for having depression?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Under ADA Title I, covered employers cannot terminate an employee solely because they have depression or request reasonable accommodations. However, employees must still be able to perform essential job functions with or without reasonable accommodations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does high-functioning or mild depression qualify for disability?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mild depression typically does not meet legal disability criteria because it does not substantially impair major life functions. High-functioning depression may qualify under the ADA if objective evidence proves substantial limitation in key areas, though SSDI approval requires severe work-precluding disability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What treatment options are available if standard depression treatments haven't worked?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For treatment-resistant depression, Options Psychiatry in Reading, PA provides advanced therapies including FDA-cleared Transcranial Magnetic Stimulation (TMS), Spravato® (esketamine) nasal spray, specialized medication management, and evidence-based psychotherapy."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "MedicalClinic",
+      "@id": "https://optionspa.com/#organization",
+      "name": "Options Psychiatry",
+      "url": "https://optionspa.com",
+      "logo": "https://optionspa.com/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Reading",
+        "addressRegion": "PA",
+        "addressCountry": "US"
+      },
+      "medicalSpecialty": "Psychiatry"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://optionspa.com/is-depression-a-disability-understanding-your-rights-diagnosis-support-options#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://optionspa.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://optionspa.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Is Depression a Disability?",
+          "item": "https://optionspa.com/is-depression-a-disability-understanding-your-rights-diagnosis-support-options"
+        }
+      ]
+    }
+  ]
+}
+</script><meta content="IQ1dcuJ47hx3D0nkl5e3QOOCEIZ_UU7NBBkRGBNuLN4" name="google-site-verification"/>
 <link href="wp-content/uploads/custom-css-js/4734__qec47fe7e.css" id="4734-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="wp-content/uploads/custom-css-js/4725__q70077246.css" id="4725-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="wp-content/uploads/custom-css-js/2880__q42b25d37.css" id="2880-css" media="all" rel="stylesheet" type="text/css"/>
@@ -699,6 +775,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="#temporary">Can Depression Be Temporary?</a></li>
 <li><a href="#recovery">Recovery Is Possible, Even If It Feels Unreachable</a></li>
 <li><a href="#final-thoughts">Final Thoughts</a></li>
+<li><a href="#take-next-step">Take the Next Step: Get Professional Support</a></li>
 <li><a href="#faq">Frequently Asked Questions (FAQs)</a></li>
 </ul>
 </div></div>
@@ -933,6 +1010,147 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>If you’re in Reading, PA and struggling with depression that feels overwhelming or disruptive to your life, seeking professional psychiatric care is a strong and informed step forward.</p>
 <p>At Options Psychiatry, comprehensive evaluations and personalized treatment plans aim to restore balance, stability, and hope. Whether you’re exploring workplace accommodations or simply trying to feel like yourself again, professional support is available to guide you every step of the way. <a href="contact">Contact Options Psychiatry today</a> to schedule a confidential consultation with Dr. Cyntrell Crawford and our experienced clinical team.</p>
 <p>For comprehensive depression care, Options Psychiatry offers <a href="mental-health-relief-effective-treatments-for-anxiety-depression-and-stress">evidence-based treatments for anxiety and depression</a>, as well as advanced options like <a href="how-does-tms-therapy-help-in-the-treatment-of-depression">TMS therapy for treatment-resistant depression</a>.</p>
+
+<!-- Call-To-Action (CTA) Section -->
+<div class="opt-cta-container" id="take-next-step">
+  <div class="opt-cta-badge">Transform Your Mental Health</div>
+  <h3 class="opt-cta-title">Ready for Relief &amp; Professional Depression Support in Reading, PA?</h3>
+  <p class="opt-cta-desc">
+    If depression is impacting your daily life, work performance, or well-being, compassionate care at <strong>Options Psychiatry in Reading, PA</strong> can help you navigate diagnostic evaluation, workplace accommodation documentation, and advanced treatment options.
+  </p>
+  <div class="opt-cta-features">
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> Comprehensive Psychiatric Evaluations
+    </div>
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> Covered by Insurance &amp; Medicare
+    </div>
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> Advanced TMS &amp; Spravato® Therapies
+    </div>
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> Expert Care by Dr. Cyntrell Crawford
+    </div>
+  </div>
+  <div class="opt-cta-actions">
+    <a href="contact" class="opt-cta-btn-primary">Schedule Your Consultation</a>
+    <a href="tel:6107416567" class="opt-cta-btn-secondary">📞 Call (610) 741-6567</a>
+  </div>
+</div>
+
+<style>
+.opt-cta-container {
+  background: linear-gradient(135deg, #163c63 0%, #0f2b48 100%);
+  color: #ffffff;
+  border-radius: 16px;
+  padding: 38px 32px;
+  margin: 40px 0 45px 0;
+  box-shadow: 0 12px 32px rgba(22, 60, 99, 0.25);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.opt-cta-badge {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.15);
+  color: #60a5fa;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 6px 16px;
+  border-radius: 50px;
+  margin-bottom: 16px;
+  border: 1px solid rgba(96, 165, 250, 0.3);
+}
+.opt-cta-title {
+  color: #ffffff !important;
+  font-size: 26px !important;
+  font-weight: 800 !important;
+  margin: 0 0 14px 0 !important;
+  line-height: 1.3 !important;
+}
+.opt-cta-desc {
+  color: #e2e8f0 !important;
+  font-size: 17px !important;
+  line-height: 1.6 !important;
+  max-width: 720px;
+  margin: 0 auto 26px auto !important;
+}
+.opt-cta-features {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px 28px;
+  margin-bottom: 30px;
+}
+.opt-cta-feature-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #f8fafc;
+}
+.opt-cta-check {
+  background: #3b82f6;
+  color: #ffffff;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: bold;
+}
+.opt-cta-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
+.opt-cta-btn-primary {
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  color: #ffffff !important;
+  font-size: 17px !important;
+  font-weight: 700 !important;
+  padding: 14px 32px !important;
+  border-radius: 8px !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4) !important;
+}
+.opt-cta-btn-primary:hover {
+  background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.5) !important;
+}
+.opt-cta-btn-secondary {
+  background: rgba(255, 255, 255, 0.12);
+  color: #ffffff !important;
+  font-size: 17px !important;
+  font-weight: 700 !important;
+  padding: 14px 28px !important;
+  border-radius: 8px !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  transition: all 0.3s ease !important;
+}
+.opt-cta-btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.22);
+  transform: translateY(-2px);
+}
+@media (max-width: 640px) {
+  .opt-cta-container { padding: 28px 20px; }
+  .opt-cta-title { font-size: 22px !important; }
+  .opt-cta-features { flex-direction: column; align-items: flex-start; max-width: 320px; margin: 0 auto 24px auto; }
+  .opt-cta-actions { flex-direction: column; width: 100%; }
+  .opt-cta-btn-primary, .opt-cta-btn-secondary { width: 100%; text-align: center; }
+}
+</style>
 
 <h2 id="faq">Frequently Asked Questions (FAQs)</h2>
 <h3>1. Is depression legally considered a disability?</h3>
