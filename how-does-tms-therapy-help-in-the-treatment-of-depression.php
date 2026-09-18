@@ -603,22 +603,106 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             5/5 - (1 vote)    </div>
 </div>
 <p>Are you exploring options for managing a mental health condition? Transcranial Magnetic Stimulation (TMS) might be the answer. This innovative approach offers hope, especially for those who haven’t found relief through traditional methods. Let’s delve into the world of TMS, understanding how it works and whether it could be the right path for you. If you’re struggling with symptoms of depression and are seeking an effective treatment, TMS therapy is worth exploring with Dr. Cyntrell Crawford.</p>
-<div class="wp-block-group toc-block" style="border-color:#e0e0e0;border-style:solid;border-width:1px;background-color:#f8f9fa;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
-<h3 class="wp-block-heading">📋 Table of Contents</h3>
-<ul class="wp-block-list">
-<li><a href="#tms-mechanism">TMS and Its Mechanism</a></li>
-<li><a href="#tms-work">How Does TMS Work?</a></li>
-<li><a href="#tms-science">The Science Behind TMS Therapy</a></li>
-<li><a href="#tms-depression">TMS Therapy for Treatment of Depression</a></li>
-<li><a href="#tms-treatment-resistant-depression">How Does TMS Help With Treatment-Resistant Depression?</a></li>
-<li><a href="#tms-timeline">How Long Does TMS Take to Work?</a></li>
-<li><a href="#tms-benefits-limitations">Benefits and Limitations of TMS Therapy</a></li>
-<li><a href="#tms-when-not-working">What Happens If TMS Does Not Work?</a></li>
-<li><a href="#receiving-tms">Receiving TMS: What to Expect</a></li>
-<li><a href="#conclusion">Conclusion</a></li>
-<li><a href="#faq">Frequently Asked Questions</a></li>
-</ul>
-</div></div>
+<style>
+.content-section ul.wp-block-list:not(.toc-list),
+.content-section ul:not(.tcb-styled-list):not(.tve_social_items):not(.theme-dynamic-list):not(.tcb-post-list):not(.toc-list),
+:not(#tve) .content-section ul:not(.tcb-styled-list):not(.tve_social_items):not(.theme-dynamic-list):not(.tcb-post-list):not(.toc-list) {
+  list-style-type: disc !important;
+  list-style-position: outside !important;
+  padding-left: 28px !important;
+  margin-top: 15px !important;
+  margin-bottom: 20px !important;
+}
+
+.content-section ol.wp-block-list,
+.content-section ol:not(.tcb-styled-list),
+:not(#tve) .content-section ol:not(.tcb-styled-list) {
+  list-style-type: decimal !important;
+  list-style-position: outside !important;
+  padding-left: 28px !important;
+  margin-top: 15px !important;
+  margin-bottom: 20px !important;
+}
+
+.content-section ul.wp-block-list:not(.toc-list) li,
+.content-section ul:not(.tcb-styled-list):not(.tve_social_items):not(.theme-dynamic-list):not(.tcb-post-list):not(.toc-list) li,
+.content-section ol:not(.tcb-styled-list) li,
+:not(#tve) .content-section ul:not(.tcb-styled-list):not(.tve_social_items):not(.theme-dynamic-list):not(.tcb-post-list):not(.toc-list) li,
+:not(#tve) .content-section ol:not(.tcb-styled-list) li {
+  display: list-item !important;
+  margin-bottom: 10px !important;
+  line-height: 1.65 !important;
+}
+
+/* Custom Table of Contents Styling */
+.toc-container-custom {
+  background-color: #f8f9fa !important;
+  border: 1px solid #e9ecef !important;
+  border-radius: 4px !important;
+  padding: 24px 30px !important;
+  margin: 30px 0 35px 0 !important;
+  box-shadow: none !important;
+}
+.toc-title {
+  color: #000000 !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  margin: 0 0 14px 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  border-bottom: none !important;
+  padding: 0 !important;
+}
+.toc-list {
+  list-style: disc !important;
+  list-style-type: disc !important;
+  list-style-position: outside !important;
+  padding-left: 22px !important;
+  margin: 0 !important;
+}
+.toc-list li {
+  margin-bottom: 7px !important;
+  line-height: 1.35 !important;
+  color: #4a90e2 !important;
+  display: list-item !important;
+}
+.toc-list li:last-child {
+  margin-bottom: 0 !important;
+}
+.toc-list li::marker {
+  color: #4a90e2 !important;
+  font-size: 0.9em !important;
+}
+.toc-list li a {
+  color: #4a90e2 !important;
+  font-size: 18px !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease, text-decoration 0.2s ease !important;
+}
+.toc-list li a:hover {
+  color: #2b6cb0 !important;
+  text-decoration: underline !important;
+}
+</style>
+
+<div class="toc-container-custom">
+  <h3 class="toc-title">📋 Table of Contents</h3>
+  <ul class="toc-list">
+    <li><a href="#tms-mechanism">TMS and Its Mechanism</a></li>
+    <li><a href="#tms-work">How Does TMS Work?</a></li>
+    <li><a href="#tms-science">The Science Behind TMS Therapy</a></li>
+    <li><a href="#tms-depression">TMS Therapy for Treatment of Depression</a></li>
+    <li><a href="#tms-treatment-resistant-depression">How Does TMS Help With Treatment-Resistant Depression?</a></li>
+    <li><a href="#tms-timeline">How Long Does TMS Take to Work?</a></li>
+    <li><a href="#tms-benefits-limitations">Benefits and Limitations of TMS Therapy</a></li>
+    <li><a href="#tms-when-not-working">What Happens If TMS Does Not Work?</a></li>
+    <li><a href="#receiving-tms">Receiving TMS: What to Expect</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+    <li><a href="#faq">Frequently Asked Questions</a></li>
+  </ul>
+</div>
 <h2 class="wp-block-heading" id="tms-mechanism">TMS and Its Mechanism</h2>
 <p>TMS stands for Transcranial Magnetic Stimulation, a non-invasive procedure revolutionizing modern psychiatry. TMS therapy offers a new avenue for individuals seeking relief from severe mental health conditions. Unlike antidepressant medication, TMS uses targeted magnetic pulses to stimulate specific areas of the brain, offering an effective alternative approach to healing. It’s essential to understand the core principles behind TMS to appreciate its potential therapeutic benefits.</p>
 <p>For a scientific overview, the <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" rel="nofollow noopener noreferrer" target="_blank">Wikipedia entry on Transcranial Magnetic Stimulation</a> covers the physics behind magnetic pulses, how they interact with neural tissue, and why this makes TMS an effective, non-invasive psychiatric treatment.</p>
@@ -729,53 +813,195 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2 class="wp-block-heading" id="conclusion">Conclusion</h2>
 <p>Understanding <strong>how does TMS therapy help in the treatment of depression</strong> highlights a transformative pathway for individuals seeking relief from major depressive disorder and treatment-resistant depression. By directly stimulating underactive neural networks in the prefrontal cortex, TMS provides a proven, non-invasive, drug-free alternative to traditional therapies.</p>
 <p>If standard medications have failed to deliver relief or created uncomfortable side effects, <a href="tms-therapy">TMS therapy in Reading, PA</a> at Options Psychiatry offers a safe, FDA-cleared solution tailored to your recovery. Contact our clinic today to schedule a consultation with Dr. Cyntrell Crawford and take the first step toward lasting mental wellness.</p>
+
+<!-- Call-To-Action (CTA) Section -->
+<div class="opt-cta-container">
+  <div class="opt-cta-badge">Transform Your Mental Health</div>
+  <h3 class="opt-cta-title">Ready for Relief from Treatment-Resistant Depression?</h3>
+  <p class="opt-cta-desc">
+    If depression medications haven't worked or caused unwanted side effects, non-invasive FDA-cleared TMS therapy at <strong>Options Psychiatry in Reading, PA</strong> can help reactivate dormant brain pathways and restore your quality of life.
+  </p>
+  <div class="opt-cta-features">
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> FDA-Cleared & Non-Invasive
+    </div>
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> Covered by Insurance & Medicare
+    </div>
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> Zero Downtime & No Sedation
+    </div>
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> Expert Care by Dr. Cyntrell Crawford
+    </div>
+  </div>
+  <div class="opt-cta-actions">
+    <a href="contact" class="opt-cta-btn-primary">Schedule Your TMS Consultation</a>
+    <a href="tel:6107416567" class="opt-cta-btn-secondary">📞 Call (610) 741-6567</a>
+  </div>
+</div>
+
+<style>
+.opt-cta-container {
+  background: linear-gradient(135deg, #163c63 0%, #0f2b48 100%);
+  color: #ffffff;
+  border-radius: 16px;
+  padding: 38px 32px;
+  margin: 40px 0 45px 0;
+  box-shadow: 0 12px 32px rgba(22, 60, 99, 0.25);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.opt-cta-badge {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.15);
+  color: #60a5fa;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 6px 16px;
+  border-radius: 50px;
+  margin-bottom: 16px;
+  border: 1px solid rgba(96, 165, 250, 0.3);
+}
+.opt-cta-title {
+  color: #ffffff !important;
+  font-size: 26px !important;
+  font-weight: 800 !important;
+  margin: 0 0 14px 0 !important;
+  line-height: 1.3 !important;
+}
+.opt-cta-desc {
+  color: #e2e8f0 !important;
+  font-size: 17px !important;
+  line-height: 1.6 !important;
+  max-width: 720px;
+  margin: 0 auto 26px auto !important;
+}
+.opt-cta-features {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px 28px;
+  margin-bottom: 30px;
+}
+.opt-cta-feature-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #f8fafc;
+}
+.opt-cta-check {
+  background: #3b82f6;
+  color: #ffffff;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: bold;
+}
+.opt-cta-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
+.opt-cta-btn-primary {
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  color: #ffffff !important;
+  font-size: 17px !important;
+  font-weight: 700 !important;
+  padding: 14px 32px !important;
+  border-radius: 8px !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4) !important;
+}
+.opt-cta-btn-primary:hover {
+  background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.5) !important;
+}
+.opt-cta-btn-secondary {
+  background: rgba(255, 255, 255, 0.12);
+  color: #ffffff !important;
+  font-size: 17px !important;
+  font-weight: 700 !important;
+  padding: 14px 28px !important;
+  border-radius: 8px !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  transition: all 0.3s ease !important;
+}
+.opt-cta-btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.22);
+  transform: translateY(-2px);
+}
+@media (max-width: 640px) {
+  .opt-cta-container { padding: 28px 20px; }
+  .opt-cta-title { font-size: 22px !important; }
+  .opt-cta-features { flex-direction: column; align-items: flex-start; max-width: 320px; margin: 0 auto 24px auto; }
+  .opt-cta-actions { flex-direction: column; width: 100%; }
+  .opt-cta-btn-primary, .opt-cta-btn-secondary { width: 100%; text-align: center; }
+}
+</style>
+
 <h2 class="wp-block-heading" id="faq"><strong>Frequently Asked Questions</strong></h2>
 <div class="rank-math-block" id="rank-math-faq">
 <div class="rank-math-list">
 <div class="rank-math-list-item" id="faq-question-1">
-<h3 class="rank-math-question">How does TMS therapy help in the treatment of depression?</h3>
+<h3 class="rank-math-question">1. How does TMS therapy help in the treatment of depression?</h3>
 <div class="rank-math-answer">
 <p>TMS therapy helps depression by using targeted electromagnetic pulses to stimulate nerve cells in the left prefrontal cortex—a brain region known to be underactive in people with depression. This stimulation reactivates dormant neural pathways, enhances neurotransmitter activity (serotonin, dopamine, norepinephrine), and promotes neuroplasticity to restore healthy mood regulation without systemic side effects.</p>
 </div>
 </div>
 <div class="rank-math-list-item" id="faq-question-2">
-<h3 class="rank-math-question">Is TMS therapy safe and FDA-cleared?</h3>
+<h3 class="rank-math-question">2. Is TMS therapy safe and FDA-cleared?</h3>
 <div class="rank-math-answer">
 <p>Yes. TMS therapy was FDA-cleared in 2008 for major depressive disorder and treatment-resistant depression. It is non-invasive, requires no anesthesia, memory disruption, or hospitalization, and carries no systemic drug side effects.</p>
 </div>
 </div>
 <div class="rank-math-list-item" id="faq-question-3">
-<h3 class="rank-math-question">How does TMS therapy differ from antidepressant medications?</h3>
+<h3 class="rank-math-question">3. How does TMS therapy differ from antidepressant medications?</h3>
 <div class="rank-math-answer">
 <p>Antidepressant medications circulate throughout the entire body via the bloodstream, which often causes systemic side effects like weight gain, insomnia, fatigue, or digestive issues. TMS is a localized, non-pharmacological treatment that directly targets specific brain regions involved in mood control without affecting the rest of the body.</p>
 </div>
 </div>
 <div class="rank-math-list-item" id="faq-question-4">
-<h3 class="rank-math-question">How long do the benefits of TMS therapy last?</h3>
+<h3 class="rank-math-question">4. How long do the benefits of TMS therapy last?</h3>
 <div class="rank-math-answer">
 <p>Clinical studies show that therapeutic gains from a complete TMS course frequently last 6 to 12 months or longer. For patients who experience a gradual return of symptoms over time, maintenance sessions or periodic booster courses can sustain long-term remission.</p>
 </div>
 </div>
 <div class="rank-math-list-item" id="faq-question-5">
-<h3 class="rank-math-question">Is TMS therapy covered by health insurance in Pennsylvania?</h3>
+<h3 class="rank-math-question">5. Is TMS therapy covered by health insurance in Pennsylvania?</h3>
 <div class="rank-math-answer">
 <p>Yes. Most major insurance plans in Pennsylvania—including Medicare, Aetna, Tricare, Blue Cross Blue Shield, and major commercial providers—cover TMS therapy for patients diagnosed with major depressive disorder who have not responded adequately to prior antidepressant medications.</p>
 </div>
 </div>
 <div class="rank-math-list-item" id="faq-question-6">
-<h3 class="rank-math-question">What does a TMS therapy session feel like?</h3>
+<h3 class="rank-math-question">6. What does a TMS therapy session feel like?</h3>
 <div class="rank-math-answer">
 <p>During a session, you feel a light tapping sensation on your scalp accompanied by a soft clicking sound. The procedure is painless for most patients, and you remain awake and comfortable in a reclining chair throughout the treatment.</p>
 </div>
 </div>
 <div class="rank-math-list-item" id="faq-question-7">
-<h3 class="rank-math-question">Who is an ideal candidate for TMS therapy in Reading, PA?</h3>
+<h3 class="rank-math-question">7. Who is an ideal candidate for TMS therapy in Reading, PA?</h3>
 <div class="rank-math-answer">
 <p>Ideal candidates are adults diagnosed with major depressive disorder who have not achieved adequate relief from medication, experienced intolerable drug side effects, or prefer a non-pharmacological treatment option. A consultation at Options Psychiatry in Reading, PA determines eligibility.</p>
 </div>
 </div>
 <div class="rank-math-list-item" id="faq-question-8">
-<h3 class="rank-math-question">Can TMS therapy be combined with talk therapy or medication?</h3>
+<h3 class="rank-math-question">8. Can TMS therapy be combined with talk therapy or medication?</h3>
 <div class="rank-math-answer">
 <p>Yes. TMS therapy works safely alongside evidence-based psychotherapy and existing medication management plans. Combining TMS with talk therapy often yields optimal long-term mental health outcomes.</p>
 </div>
@@ -787,35 +1013,114 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "MedicalWebPage",
-      "@id": "https://optionspa.com/how-does-tms-therapy-help-in-the-treatment-of-depression/#webpage",
+      "@type": "BlogPosting",
+      "@id": "https://optionspa.com/how-does-tms-therapy-help-in-the-treatment-of-depression/#article",
       "url": "https://optionspa.com/how-does-tms-therapy-help-in-the-treatment-of-depression",
       "name": "How Does TMS Therapy Help in Depression Treatment? Insights",
       "headline": "How Does TMS Therapy Help in Depression Treatment? Insights",
       "description": "Discover how TMS therapy treats depression, including magnetic stimulation, benefits, timelines, and expert care at Options Psychiatry in Reading, PA.",
-      "medicalAudience": "Patient",
-      "aspect": ["Treatment", "Overview", "Benefits", "Diagnosis"],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://optionspa.com/wp-content/uploads/2026/01/tms-hero-apollo.jpg",
+        "width": 1024,
+        "height": 683,
+        "caption": "Apollo TMS Therapy Machine and Chair at Options Psychiatry"
+      },
+      "datePublished": "2026-01-13T06:19:10-05:00",
+      "dateModified": "2026-03-25T08:29:55-04:00",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://optionspa.com/how-does-tms-therapy-help-in-the-treatment-of-depression"
+      },
       "author": {
         "@type": "Person",
+        "@id": "https://optionspa.com/dr-crawford/#person",
         "name": "Dr. Cyntrell Crawford",
-        "jobTitle": "Psychiatrist",
+        "jobTitle": "Board Certified Psychiatrist",
+        "url": "https://optionspa.com/dr-crawford",
         "worksFor": {
-          "@type": "MedicalClinic",
-          "name": "Options Psychiatry",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Reading",
-            "addressRegion": "PA"
-          }
+          "@id": "https://optionspa.com/#organization"
         }
       },
       "publisher": {
-        "@type": "Organization",
+        "@type": "MedicalClinic",
+        "@id": "https://optionspa.com/#organization",
         "name": "Options Psychiatry",
-        "url": "https://optionspa.com"
+        "url": "https://optionspa.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://optionspa.com/wp-content/uploads/2022/04/OPTI.png"
+        },
+        "telephone": "+1-610-741-6567",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2211 Quarry Drive, Suite E56",
+          "addressLocality": "Reading",
+          "addressRegion": "PA",
+          "postalCode": "19609",
+          "addressCountry": "US"
+        }
       },
-      "datePublished": "2026-01-13",
-      "dateModified": "2026-03-25"
+      "articleSection": "TMS Therapy",
+      "keywords": [
+        "TMS therapy for depression",
+        "how does TMS therapy work",
+        "treatment-resistant depression",
+        "transcranial magnetic stimulation",
+        "non-invasive depression treatment",
+        "Options Psychiatry Reading PA"
+      ],
+      "about": [
+        {
+          "@type": "MedicalCondition",
+          "name": "Major Depressive Disorder",
+          "code": {
+            "@type": "MedicalCode",
+            "code": "F33",
+            "codingSystem": "ICD-10"
+          }
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Transcranial Magnetic Stimulation (TMS)"
+        }
+      ]
+    },
+    {
+      "@type": "MedicalTherapy",
+      "@id": "https://optionspa.com/how-does-tms-therapy-help-in-the-treatment-of-depression/#medical-therapy",
+      "name": "Transcranial Magnetic Stimulation (TMS)",
+      "description": "Non-invasive neuro-stimulation procedure using targeted magnetic pulses to activate hypocactive nerve cells in the left prefrontal cortex, helping patients achieve lasting remission from major depressive disorder.",
+      "indication": {
+        "@type": "MedicalIndication",
+        "name": "Treatment-Resistant Major Depressive Disorder"
+      },
+      "contraindication": "Presence of ferromagnetic metal implants in or near the head (excluding dental fillings).",
+      "bodyLocation": "Left prefrontal cortex"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://optionspa.com/how-does-tms-therapy-help-in-the-treatment-of-depression/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://optionspa.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://optionspa.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "How Does TMS Therapy Help in the Treatment of Depression?",
+          "item": "https://optionspa.com/how-does-tms-therapy-help-in-the-treatment-of-depression"
+        }
+      ]
     },
     {
       "@type": "FAQPage",
@@ -823,7 +1128,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "How does TMS therapy help in the treatment of depression?",
+          "name": "1. How does TMS therapy help in the treatment of depression?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "TMS therapy helps depression by using targeted electromagnetic pulses to stimulate nerve cells in the left prefrontal cortex—a brain region known to be underactive in people with depression. This stimulation reactivates dormant neural pathways, enhances neurotransmitter activity (serotonin, dopamine, norepinephrine), and promotes neuroplasticity to restore healthy mood regulation without systemic side effects."
@@ -831,7 +1136,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         },
         {
           "@type": "Question",
-          "name": "Is TMS therapy safe and FDA-cleared?",
+          "name": "2. Is TMS therapy safe and FDA-cleared?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Yes. TMS therapy was FDA-cleared in 2008 for major depressive disorder and treatment-resistant depression. It is non-invasive, requires no anesthesia, memory disruption, or hospitalization, and carries no systemic drug side effects."
@@ -839,7 +1144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         },
         {
           "@type": "Question",
-          "name": "How does TMS therapy differ from antidepressant medications?",
+          "name": "3. How does TMS therapy differ from antidepressant medications?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Antidepressant medications circulate throughout the entire body via the bloodstream, which often causes systemic side effects like weight gain, insomnia, fatigue, or digestive issues. TMS is a localized, non-pharmacological treatment that directly targets specific brain regions involved in mood control without affecting the rest of the body."
@@ -847,7 +1152,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         },
         {
           "@type": "Question",
-          "name": "How long do the benefits of TMS therapy last?",
+          "name": "4. How long do the benefits of TMS therapy last?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Clinical studies show that therapeutic gains from a complete TMS course frequently last 6 to 12 months or longer. For patients who experience a gradual return of symptoms over time, maintenance sessions or periodic booster courses can sustain long-term remission."
@@ -855,7 +1160,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         },
         {
           "@type": "Question",
-          "name": "Is TMS therapy covered by health insurance in Pennsylvania?",
+          "name": "5. Is TMS therapy covered by health insurance in Pennsylvania?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Yes. Most major insurance plans in Pennsylvania—including Medicare, Aetna, Tricare, Blue Cross Blue Shield, and major commercial providers—cover TMS therapy for patients diagnosed with major depressive disorder who have not responded adequately to prior antidepressant medications."
@@ -863,7 +1168,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         },
         {
           "@type": "Question",
-          "name": "What does a TMS therapy session feel like?",
+          "name": "6. What does a TMS therapy session feel like?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "During a session, you feel a light tapping sensation on your scalp accompanied by a soft clicking sound. The procedure is painless for most patients, and you remain awake and comfortable in a reclining chair throughout the treatment."
@@ -871,7 +1176,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         },
         {
           "@type": "Question",
-          "name": "Who is an ideal candidate for TMS therapy in Reading, PA?",
+          "name": "7. Who is an ideal candidate for TMS therapy in Reading, PA?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Ideal candidates are adults diagnosed with major depressive disorder who have not achieved adequate relief from medication, experienced intolerable drug side effects, or prefer a non-pharmacological treatment option. A consultation at Options Psychiatry in Reading, PA determines eligibility."
@@ -879,7 +1184,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         },
         {
           "@type": "Question",
-          "name": "Can TMS therapy be combined with talk therapy or medication?",
+          "name": "8. Can TMS therapy be combined with talk therapy or medication?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Yes. TMS therapy works safely alongside evidence-based psychotherapy and existing medication management plans. Combining TMS with talk therapy often yields optimal long-term mental health outcomes."
