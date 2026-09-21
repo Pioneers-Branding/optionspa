@@ -223,23 +223,149 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
 <script id="libs-frontend-js" src="wp-content/plugins/thrive-comments/assets/js/libs-frontend.min__qe79741bf.js" type="text/javascript"></script>
 <script id="display-testimonials-tcb-js" src="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/js/display-testimonials-tcb.min__qe79741bf.js" type="text/javascript"></script>
 
-
-<script type="application/ld+json">{
-    "@context": "https://schema.org/",
-    "@type": "CreativeWorkSeries",
-    "name": "“TMS Ruined My Life”: Why Some People Feel Worse & How to Recover Safely",
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.5",
-        "bestRating": "5",
-        "ratingCount": "2"
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://optionspa.com/tms-ruined-my-life#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://optionspa.com/tms-ruined-my-life"
+      },
+      "headline": "“TMS Ruined My Life”: Why Some People Feel Worse & How to Recover Safely",
+      "description": "Searching 'TMS ruined my life'? Learn why some patients feel worse, what the TMS dip means, and how Options Psychiatry supports safe recovery in PA.",
+      "image": "https://optionspa.com/wp-content/uploads/2026/02/BV03_TMS.jpg",
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Cyntrell Crawford",
+        "jobTitle": "Psychiatrist",
+        "worksFor": {
+          "@type": "MedicalClinic",
+          "name": "Options Psychiatry",
+          "url": "https://optionspa.com"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Options Psychiatry",
+        "url": "https://optionspa.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://optionspa.com/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp"
+        }
+      },
+      "datePublished": "2026-01-31T01:22:00-05:00",
+      "dateModified": "2026-04-11T02:48:56-04:00",
+      "mainEntityOfPage": "https://optionspa.com/tms-ruined-my-life",
+      "keywords": [
+        "TMS ruined my life",
+        "TMS therapy side effects",
+        "TMS dip phenomenon",
+        "is TMS therapy safe",
+        "TMS therapy Reading PA",
+        "Options Psychiatry",
+        "transcranial magnetic stimulation recovery"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://optionspa.com/tms-ruined-my-life#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is it normal to feel worse during TMS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It can happen temporarily during the TMS dip phase. Persistent worsening should be evaluated immediately by your psychiatrist."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can TMS permanently worsen depression?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Permanent worsening is extremely rare according to current evidence."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why do online reviews sound so extreme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "People who struggle are more likely to post online. Many successful patients never write reviews."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I stop TMS if I feel bad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Do not stop without consulting your provider. Adjustments can often help."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is TMS safe for everyone?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not everyone is an ideal candidate. Proper screening is essential."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can TMS cause permanent brain damage or memory loss?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. FDA safety evaluations and extensive NIH/PubMed clinical research prove that TMS does not cause structural brain damage, neuronal death, or permanent memory loss."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "MedicalClinic",
+      "@id": "https://optionspa.com/#organization",
+      "name": "Options Psychiatry",
+      "url": "https://optionspa.com",
+      "logo": "https://optionspa.com/wp-content/uploads/2025/12/OPTIONS-ADDICTION-RECOVERY-2.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Reading",
+        "addressRegion": "PA",
+        "addressCountry": "US"
+      },
+      "medicalSpecialty": "Psychiatry"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://optionspa.com/tms-ruined-my-life#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://optionspa.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://optionspa.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "“TMS Ruined My Life”: Why Some People Feel Worse & How to Recover Safely",
+          "item": "https://optionspa.com/tms-ruined-my-life"
+        }
+      ]
     }
-}</script><meta content="IQ1dcuJ47hx3D0nkl5e3QOOCEIZ_UU7NBBkRGBNuLN4" name="google-site-verification"/>
-<link href="wp-content/uploads/custom-css-js/4734__qec47fe7e.css" id="4734-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="wp-content/uploads/custom-css-js/4725__q70077246.css" id="4725-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="wp-content/uploads/custom-css-js/2880__q42b25d37.css" id="2880-css" media="all" rel="stylesheet" type="text/css"/>
-<!-- start Simple Custom CSS and JS -->
-<!-- Add HTML code to the header or the footer.
+  ]
+}
+</script>
+<meta content="IQ1dcuJ47hx3D0nkl5e3QOOCEIZ_UU7NBBkRGBNuLN4" name="google-site-verification"/>
+
 
 For example, you can use the following code for loading the jQuery library from Google CDN:
 <script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
@@ -766,6 +892,149 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 <p>When challenges arise, the right clinical support makes all the difference.</p>
 <p>Suppose you’re considering TMS or struggling during treatment; compassionate, experienced care matters. At <a href="./" rel="noopener" target="_blank">Options Psychiatry</a>, our doctors walk with you at every step, listening closely, adjusting care thoughtfully, and ensuring you never feel alone in your mental health journey. Contact us today or <a href="getstarted">get started with a consultation</a>.</p>
+
+
+<!-- Call-To-Action (CTA) Section -->
+<div class="opt-cta-container" id="take-next-step">
+  <div class="opt-cta-badge">Compassionate &amp; Safe Care</div>
+  <h3 class="opt-cta-title">Struggling After a Bad TMS Experience or Seeking Safe Relief in PA?</h3>
+  <p class="opt-cta-desc">
+    If you're feeling overwhelmed, experiencing a TMS dip, or questioning your treatment progress, you don't have to navigate it alone. At <strong>Options Psychiatry in Reading, PA</strong>, Dr. Cyntrell Crawford and our experienced psychiatric team provide comprehensive re-evaluations, tailored protocol adjustments, and integrated mental health support.
+  </p>
+  <div class="opt-cta-features">
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> Specialist Psychiatric Re-Evaluations
+    </div>
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> Covered by Major Insurance &amp; Medicare
+    </div>
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> Safe, Individualized TMS &amp; Spravato® Care
+    </div>
+    <div class="opt-cta-feature-item">
+      <span class="opt-cta-check">✓</span> Compassionate Expert Team in Reading, PA
+    </div>
+  </div>
+  <div class="opt-cta-actions">
+    <a href="contact" class="opt-cta-btn-primary">Schedule a Safe Evaluation</a>
+    <a href="tel:6107416567" class="opt-cta-btn-secondary">📞 Call (610) 741-6567</a>
+  </div>
+</div>
+
+<style>
+.opt-cta-container {
+  background: linear-gradient(135deg, #163c63 0%, #0f2b48 100%);
+  color: #ffffff;
+  border-radius: 16px;
+  padding: 38px 32px;
+  margin: 40px 0 45px 0;
+  box-shadow: 0 12px 32px rgba(22, 60, 99, 0.25);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.opt-cta-badge {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.15);
+  color: #60a5fa;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 6px 16px;
+  border-radius: 50px;
+  margin-bottom: 16px;
+  border: 1px solid rgba(96, 165, 250, 0.3);
+}
+.opt-cta-title {
+  color: #ffffff !important;
+  font-size: 26px !important;
+  font-weight: 800 !important;
+  margin: 0 0 14px 0 !important;
+  line-height: 1.3 !important;
+}
+.opt-cta-desc {
+  color: #e2e8f0 !important;
+  font-size: 17px !important;
+  line-height: 1.6 !important;
+  max-width: 720px;
+  margin: 0 auto 26px auto !important;
+}
+.opt-cta-features {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px 28px;
+  margin-bottom: 30px;
+}
+.opt-cta-feature-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #f8fafc;
+}
+.opt-cta-check {
+  background: #3b82f6;
+  color: #ffffff;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: bold;
+}
+.opt-cta-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
+.opt-cta-btn-primary {
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  color: #ffffff !important;
+  font-size: 17px !important;
+  font-weight: 700 !important;
+  padding: 14px 32px !important;
+  border-radius: 8px !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4) !important;
+}
+.opt-cta-btn-primary:hover {
+  background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.5) !important;
+}
+.opt-cta-btn-secondary {
+  background: rgba(255, 255, 255, 0.12);
+  color: #ffffff !important;
+  font-size: 17px !important;
+  font-weight: 700 !important;
+  padding: 14px 28px !important;
+  border-radius: 8px !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  transition: all 0.3s ease !important;
+}
+.opt-cta-btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.22);
+  transform: translateY(-2px);
+}
+@media (max-width: 640px) {
+  .opt-cta-container { padding: 28px 20px; }
+  .opt-cta-title { font-size: 22px !important; }
+  .opt-cta-features { flex-direction: column; align-items: flex-start; max-width: 320px; margin: 0 auto 24px auto; }
+  .opt-cta-actions { flex-direction: column; width: 100%; }
+  .opt-cta-btn-primary, .opt-cta-btn-secondary { width: 100%; text-align: center; }
+}
+</style>
+
 
 <h2 class="wp-block-heading" id="faq"><strong>FAQs: Answers About Negative TMS Experiences</strong></h2>
 <div class="rank-math-block" id="rank-math-faq">
