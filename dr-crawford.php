@@ -84,30 +84,161 @@
 </script>
 <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
 <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-<title>Top Psychiatrist in Reading, PA | Dr. Cyntrell Crawford - Options Psychiatry</title>
-<meta content="Meet Dr. Cyntrell Crawford, a trusted psychiatrist in Reading, PA and founder of Options Psychiatry. Specializing in TMS therapy and personalized mental health care." name="description"/>
+<title>Dr. Cyntrell Crawford | Psychiatrist &amp; TMS Therapy Specialist in Reading, PA</title>
+<meta content="Meet Dr. Cyntrell Crawford, a board-certified psychiatrist in Reading, PA and founder of Options Psychiatry. Specializing in TMS therapy, medication management, and personalized mental health care." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="dr-crawford" rel="canonical"/>
+<link href="https://optionspa.com/dr-crawford" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
-<meta content="Top Psychiatrist in Reading, PA | Dr. Cyntrell Crawford - Options Psychiatry" property="og:title"/>
-<meta content="Meet Dr. Cyntrell Crawford, a trusted psychiatrist in Reading, PA and founder of Options Psychiatry. Specializing in TMS therapy and personalized mental health care." property="og:description"/>
-<meta content="dr-crawford" property="og:url"/>
+<meta content="Dr. Cyntrell Crawford | Psychiatrist &amp; TMS Therapy Specialist in Reading, PA" property="og:title"/>
+<meta content="Meet Dr. Cyntrell Crawford, a board-certified psychiatrist in Reading, PA and founder of Options Psychiatry. Specializing in TMS therapy, medication management, and personalized mental health care." property="og:description"/>
+<meta content="https://optionspa.com/dr-crawford" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="2026-06-29T02:52:57-04:00" property="og:updated_time"/>
 <meta content="wp-content/uploads/2026/06/neurocare-TMS_v9cdtg.webp" property="og:image"/>
 <meta content="wp-content/uploads/2026/06/neurocare-TMS_v9cdtg.webp" property="og:image:secure_url"/>
 <meta content="1200" property="og:image:width"/>
 <meta content="1138" property="og:image:height"/>
-<meta content="Top Psychiatrist in Reading, PA | Dr. Cyntrell Crawford" property="og:image:alt"/>
+<meta content="Dr. Cyntrell Crawford - Board-Certified Psychiatrist in Reading, PA" property="og:image:alt"/>
 <meta content="image/webp" property="og:image:type"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Top Psychiatrist in Reading, PA | Dr. Cyntrell Crawford - Options Psychiatry" name="twitter:title"/>
-<meta content="Meet Dr. Cyntrell Crawford, a trusted psychiatrist in Reading, PA and founder of Options Psychiatry. Specializing in TMS therapy and personalized mental health care." name="twitter:description"/>
+<meta content="Dr. Cyntrell Crawford | Psychiatrist &amp; TMS Therapy Specialist in Reading, PA" name="twitter:title"/>
+<meta content="Meet Dr. Cyntrell Crawford, a board-certified psychiatrist in Reading, PA and founder of Options Psychiatry. Specializing in TMS therapy, medication management, and personalized mental health care." name="twitter:description"/>
 <meta content="wp-content/uploads/2026/06/neurocare-TMS_v9cdtg.webp" name="twitter:image"/>
 <meta content="Time to read" name="twitter:label1"/>
 <meta content="3 minutes" name="twitter:data1"/>
 <!-- /Rank Math WordPress SEO plugin -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["Physician", "Person"],
+      "@id": "https://optionspa.com/dr-crawford#physician",
+      "name": "Dr. Cyntrell Crawford",
+      "givenName": "Cyntrell",
+      "familyName": "Crawford",
+      "honorificPrefix": "Dr.",
+      "jobTitle": "Chief Medical Officer & Founder, Psychiatrist",
+      "description": "Dr. Cyntrell Crawford is a board-certified psychiatrist in Reading, PA specializing in Transcranial Magnetic Stimulation (TMS therapy), medication management, and addiction psychiatry.",
+      "image": "https://optionspa.com/wp-content/uploads/2022/04/Cyntrell-768x825.jpg",
+      "url": "https://optionspa.com/dr-crawford",
+      "telephone": "(610) 741-6567",
+      "email": "help@optionspsychiatry.com",
+      "medicalSpecialty": [
+        "Psychiatry",
+        "Addiction Medicine"
+      ],
+      "knowsAbout": [
+        "TMS Therapy",
+        "Transcranial Magnetic Stimulation",
+        "Treatment-Resistant Depression",
+        "Psychiatric Medication Management",
+        "Addiction Psychiatry",
+        "Anxiety Disorders",
+        "PTSD",
+        "Bipolar Disorder"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Reading",
+        "addressRegion": "PA",
+        "addressCountry": "US"
+      },
+      "worksFor": {
+        "@type": "MedicalClinic",
+        "name": "Options Psychiatry",
+        "url": "https://optionspa.com/",
+        "telephone": "(610) 741-6567",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Reading",
+          "addressRegion": "PA",
+          "addressCountry": "US"
+        }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://optionspa.com/dr-crawford#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Dr. Crawford's background and qualifications?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dr. Cyntrell Crawford is a board-certified physician specializing in Psychiatry and Addiction Medicine with over 10 years of clinical experience. She is the Chief Medical Officer and Founder of Options Psychiatry in Reading, PA, with specialized expertise in advanced TMS therapy, medication management, and integrative mental health care."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is TMS Therapy and does Dr. Crawford offer it in Reading, PA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Transcranial Magnetic Stimulation (TMS) is an FDA-cleared, non-invasive treatment that uses magnetic pulses to stimulate brain areas involved in mood regulation. Dr. Cyntrell Crawford offers TMS therapy at Options Psychiatry in Reading, PA, primarily for patients with treatment-resistant depression and major depressive disorder."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What makes Dr. Cyntrell Crawford's psychiatric approach unique?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dr. Crawford combines evidence-based psychiatric medicine with a compassionate, patient-centered approach. By integrating innovative therapies like TMS with personalized medication management and addiction recovery care, she empowers patients to achieve long-term mental wellness in a supportive, judgment-free environment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you accept insurance for mental health treatment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! Options Psychiatry accepts most major insurance plans, including Medicare. Our team assists with insurance verification and pre-authorization for treatments like TMS therapy to make care accessible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What conditions do you treat at Options Psychiatry?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We treat major depression, treatment-resistant depression, anxiety disorders, PTSD, OCD, bipolar disorder, ADHD, and substance use disorders. We provide both outpatient psychiatric care and advanced TMS therapy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I schedule my first appointment with Dr. Crawford?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Scheduling an appointment is easy! Call us at (610) 741-6567 or email help@optionspsychiatry.com. Our friendly staff will verify your insurance and schedule your initial consultation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I expect during my first visit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "During your initial 60 to 90-minute visit, Dr. Crawford conducts a comprehensive evaluation of your symptoms, medical history, and goals to develop a personalized care plan tailored to your needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is Options Psychiatry located in Reading, PA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We are conveniently located in Reading, PA, offering a comfortable and supportive environment for psychiatric care and TMS therapy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Dr. Cyntrell Crawford currently accepting new patients?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! Dr. Cyntrell Crawford and Options Psychiatry are currently accepting new patients in Reading, PA."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
 
 
@@ -466,10 +597,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="./"><i class="fa fa-home"></i> Home</a>
 </li>
 <li class="opt-breadcrumb-separator">/</li>
-<li aria-current="page" class="opt-breadcrumb-item opt-active">About Us</li>
+<li aria-current="page" class="opt-breadcrumb-item opt-active">Dr. Cyntrell Crawford</li>
 </ul>
 </nav>
-<h1 class="opt-page-title">About Options Psychiatry</h1>
+<h1 class="opt-page-title">Dr. Cyntrell Crawford | Psychiatrist &amp; TMS Specialist in Reading, PA</h1>
 </div>
 </section>
 <!-- Who We Are Section -->
@@ -478,16 +609,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="opt-who-we-are-grid">
 <div class="opt-who-we-are-content">
 <span class="opt-section-label">Our Story</span>
-<h2>Who We Are</h2>
+<h2>About Dr. Cyntrell Crawford &amp; Options Psychiatry</h2>
 <p class="opt-intro-text">Options Psychiatry is a leading mental health care provider in
                             Reading,
                             PA, dedicated to transforming lives through compassionate, evidence-based treatment.</p>
-<p>Founded by Dr. Cyntrell Crawford, our practice was born from a simple yet powerful vision: to
+<p>Founded by Dr. Cyntrell Crawford, a trusted <a href="psychiatrist-in-reading">psychiatrist in Reading, PA</a>, our practice was born from a simple yet powerful vision: to
                             create a safe, judgment-free space where individuals struggling with mental health
                             challenges can find hope, healing, and lasting recovery.</p>
-<p>We specialize in cutting-edge treatments like Transcranial Magnetic Stimulation (TMS)
-                            therapy, combined with traditional psychiatric care, to offer our patients the most
-                            comprehensive and effective treatment options available.</p>
+<p>We specialize in cutting-edge treatments like <a href="tms-therapy-reading">Transcranial Magnetic Stimulation (TMS) therapy</a>, combined with comprehensive <a href="medication-management-options">psychiatric care and medication management</a>, to offer our patients the most
+                            effective treatment options available.</p>
 <div class="opt-stats-grid">
 <div class="opt-stat-item">
 <div class="opt-stat-number">10+</div>
@@ -499,12 +629,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="opt-stat-item">
 <div class="opt-stat-number">95%</div>
-<div class="opt-stat-label">Success Rate</div>
+<div class="opt-stat-label">Patient Satisfaction</div>
 </div>
 </div>
 </div>
 <div class="opt-who-we-are-image">
-<img alt="Options Psychiatry Clinic" decoding="async" src="wp-content/uploads/2026/06/neurocare-TMS_v9cdtg.webp"/>
+<img alt="Options Psychiatry Clinic - Psychiatrist Office in Reading, PA" decoding="async" src="wp-content/uploads/2026/06/neurocare-TMS_v9cdtg.webp"/>
 </div>
 </div>
 </div>
@@ -515,11 +645,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="opt-doctor-profile-wrapper">
 <div class="opt-doctor-image-container">
 <div class="opt-doctor-profile-image">
-<img alt="Dr. Cyntrell Crawford" decoding="async" src="wp-content/uploads/2022/04/Cyntrell-768x825.jpg"/>
+<img alt="Dr. Cyntrell Crawford - Board-Certified Psychiatrist in Reading, PA" decoding="async" src="wp-content/uploads/2022/04/Cyntrell-768x825.jpg"/>
 </div>
 </div>
 <div class="opt-doctor-profile-content">
-<h2>Dr. Cyntrell Crawford</h2>
+<h2>Dr. Cyntrell Crawford - Leading Psychiatrist in Reading, PA</h2>
 <p class="opt-doctor-subtitle">Chief Medical Officer &amp; Founder</p>
 <div class="opt-doctor-badges-row">
 <span class="opt-doc-badge opt-doc-badge-orange"><i class="fas fa-brain"></i> TMS
@@ -529,17 +659,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-doc-badge opt-doc-badge-blue"><i class="fas fa-history"></i> 10+ Years
                                 Experience</span>
 </div>
-<p class="opt-doctor-bio">Dr. Crawford is a compassionate, Chief Medical Officer &amp; Founder
+<p class="opt-doctor-bio">Dr. Cyntrell Crawford is a compassionate Chief Medical Officer &amp; Founder
                             at Options Psychiatry with
-                            over 10 years of experience treating complex mental health conditions. She founded Options
+                            over 10 years of experience treating complex mental health conditions. As a leading <a href="psychiatrist-in-reading">psychiatrist in Reading, PA</a>, she founded Options
                             Psychiatry to provide a judgment-free, supportive environment where patients feel truly
                             heard and valued.</p>
-<p class="opt-doctor-bio">Specializing in TMS Therapy, medication management, and addiction
-                            psychiatry, Dr. Crawford combines evidence-based medicine with a personalized approach to
+<p class="opt-doctor-bio">Specializing in <a href="tms-therapy-reading">TMS Therapy in Reading, PA</a>, <a href="medication-management-options">medication management</a>, and addiction psychiatry, Dr. Crawford combines evidence-based medicine with a personalized approach to
                             help each patient find their unique path to recovery.</p>
 <div class="opt-doctor-actions">
-<a class="opt-btn opt-btn-primary" href="contact">Schedule A
-                                consultation</a>
+<a class="opt-btn opt-btn-primary" href="contact">Schedule a Consultation with Dr. Crawford</a>
 </div>
 </div>
 </div>
@@ -550,8 +678,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="opt-container">
 <div class="opt-section-header opt-text-center">
 <span class="opt-section-label">Our Purpose</span>
-<h2>Mission &amp; Vision</h2>
-<p>Guiding principles that drive everything we do</p>
+<h2>Our Mission &amp; Vision for Patient-Centered Care</h2>
+<p>Guiding principles that drive everything we do at Options Psychiatry</p>
 </div>
 <div class="opt-mission-vision-grid">
 <div class="opt-mission-card">
@@ -561,7 +689,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3>Our Mission</h3>
 <p>To provide accessible, evidence-based mental health care that empowers individuals to
                             overcome their challenges and reclaim their lives. We are committed to delivering
-                            compassionate treatment using the latest innovations in psychiatry, including TMS therapy,
+                            compassionate treatment using the latest innovations in psychiatry, including <a href="tms-therapy-reading">TMS therapy</a>,
                             while maintaining the highest standards of clinical excellence.</p>
 <div class="opt-mission-points">
 <div class="opt-mission-point">
@@ -611,6 +739,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 </div>
+</div>
 <!-- Core Values -->
 <div class="opt-core-values">
 <h3>Our Core Values</h3>
@@ -646,9 +775,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="opt-container">
 <div class="opt-cta-banner-content">
 <div class="opt-cta-message">
-<h2>Ready to Begin Your Journey to Wellness?</h2>
+<h2>Ready to Begin Your Journey to Mental Wellness?</h2>
 <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.1rem; margin-top: 16px;">Take the first
-                            step towards better mental health today. Our compassionate team is here to help.</p>
+                            step towards better mental health in Reading, PA. Dr. Cyntrell Crawford and our compassionate team are here to help you heal.</p>
 </div>
 <div class="opt-cta-rating">
 <div class="opt-rating-number">5.0</div>
@@ -657,8 +786,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 <div class="opt-cta-button-wrapper">
-<a class="opt-btn opt-btn-cta-appointment" href="contact">Schedule An
-                            Appointment</a>
+<a class="opt-btn opt-btn-cta-appointment" href="contact">Schedule Your Consultation Today</a>
 </div>
 </div>
 </div>
@@ -668,8 +796,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="opt-container">
 <div class="opt-section-header opt-text-center">
 <span class="opt-section-label">Got Questions?</span>
-<h2>Frequently Asked Questions</h2>
-<p>Find answers to common questions about Options Psychiatry</p>
+<h2>Frequently Asked Questions About Dr. Crawford &amp; Options Psychiatry</h2>
+<p>Find clear answers to common questions about our psychiatric services in Reading, PA</p>
 </div>
 <div class="opt-faq-accordion">
 <div class="opt-faq-item">
@@ -678,22 +806,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>Dr. Cyntrell Crawford is in Psychiatry and Addiction Medicine. She
-                                has over 10 years of experience treating complex mental health conditions and is
-                                specially trained in advanced TMS therapy. Her expertise spans depression, anxiety,
-                                PTSD, OCD, bipolar disorder, ADHD, and substance use disorders.</p>
+<p>Dr. Cyntrell Crawford is a board-certified physician specializing in Psychiatry and Addiction Medicine with over 10 years of clinical experience. She is the Chief Medical Officer and Founder of Options Psychiatry in Reading, PA, with specialized expertise in advanced <a href="tms-therapy-reading">TMS therapy</a>, medication management, and integrative mental health care. Her expertise covers <a href="depression">depression</a>, <a href="anxiety">anxiety</a>, <a href="ptsd">PTSD</a>, <a href="ocd">OCD</a>, <a href="bipolar-disorder">bipolar disorder</a>, <a href="adhd">ADHD</a>, and addiction recovery.</p>
 </div>
 </div>
 <div class="opt-faq-item">
 <button class="opt-faq-question">
-<span>Do you accept insurance?</span>
+<span>What is TMS Therapy and does Dr. Crawford offer it in Reading, PA?</span>
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>Yes! We accept most major insurance plans, including Medicare. Our team will work with
-                                your insurance provider to verify coverage and obtain pre-authorization for treatments
-                                like TMS therapy. We're committed to making mental health care accessible and
-                                affordable.</p>
+<p>Transcranial Magnetic Stimulation (<a href="tms-therapy-reading">TMS Therapy</a>) is an FDA-cleared, non-invasive treatment that uses targeted magnetic pulses to stimulate brain regions involved in mood regulation. Dr. Cyntrell Crawford offers TMS therapy at Options Psychiatry in Reading, PA, providing a highly effective alternative for patients with treatment-resistant depression who have not achieved relief through standard medications.</p>
+</div>
+</div>
+<div class="opt-faq-item">
+<button class="opt-faq-question">
+<span>What makes Dr. Cyntrell Crawford's psychiatric approach unique?</span>
+<span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
+</button>
+<div class="opt-faq-answer">
+<p>Dr. Crawford combines evidence-based psychiatric care with a compassionate, patient-centered model. By offering advanced options like TMS therapy alongside personalized <a href="medication-management-options">medication management</a> and holistic support, Dr. Crawford ensures each patient receives a tailored treatment plan designed for long-term mental health recovery.</p>
+</div>
+</div>
+<div class="opt-faq-item">
+<button class="opt-faq-question">
+<span>Do you accept insurance for mental health treatment?</span>
+<span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
+</button>
+<div class="opt-faq-answer">
+<p>Yes! Options Psychiatry accepts most major insurance plans, including Medicare. Our administrative team works directly with your insurance provider to verify coverage and complete pre-authorization for services including <a href="tms-therapy-reading">TMS therapy</a> and psychiatric consultations.</p>
 </div>
 </div>
 <div class="opt-faq-item">
@@ -702,57 +842,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>We treat a wide range of mental health conditions, including major depression,
-                                treatment-resistant depression, anxiety disorders, PTSD, OCD, bipolar disorder, ADHD,
-                                and bipolar disorder. We also specialize in addiction psychiatry and dual diagnosis
-                                treatment.</p>
+<p>We treat a comprehensive spectrum of conditions including major <a href="depression">depression</a>, treatment-resistant depression, <a href="anxiety">anxiety disorders</a>, <a href="ptsd">PTSD</a>, <a href="ocd">OCD</a>, <a href="bipolar-disorder">bipolar disorder</a>, and <a href="adhd">ADHD</a>. We also specialize in addiction psychiatry and dual-diagnosis care.</p>
 </div>
 </div>
 <div class="opt-faq-item">
 <button class="opt-faq-question">
-<span>How do I schedule my first appointment?</span>
+<span>How do I schedule my first appointment with Dr. Crawford?</span>
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>Scheduling your first appointment is easy! You can call us at <a href="tel:6107416567">(610) 741-6567</a> or email us
-                                at <a href="mailto:help@optionspsychiatry.com">help@optionspsychiatry.com</a>. Our
-                                friendly staff will answer your questions, verify
-                                your insurance, and help you find a convenient appointment time.</p>
+<p>Scheduling your first appointment is simple! Call our office at <a href="tel:6107416567">(610) 741-6567</a>, email <a href="mailto:help@optionspsychiatry.com">help@optionspsychiatry.com</a>, or complete our <a href="contact">online contact form</a>. Our friendly team will verify your insurance and arrange a convenient evaluation time.</p>
 </div>
 </div>
 <div class="opt-faq-item">
 <button class="opt-faq-question">
-<span>What should I expect during my first visit?</span>
+<span>What should I expect during my initial psychiatric evaluation?</span>
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>During your first visit, Dr. Crawford will conduct a comprehensive evaluation to
-                                understand your symptoms, medical history, and treatment goals. This typically takes
-                                60-90 minutes. She'll discuss treatment options, answer your questions, and work with
-                                you to develop a personalized care plan. Our goal is to make you feel comfortable and
-                                heard from the very first visit.</p>
+<p>During your 60 to 90-minute initial consultation, Dr. Crawford conducts a comprehensive clinical evaluation to discuss your medical history, current symptoms, and recovery goals. She will explain personalized treatment recommendations, which may include <a href="medication-management-options">medication management</a> or <a href="tms-therapy-reading">TMS therapy</a>.</p>
 </div>
 </div>
 <div class="opt-faq-item">
 <button class="opt-faq-question">
-<span>Where is Options Psychiatry located?</span>
+<span>Where is Options Psychiatry located in Reading, PA?</span>
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>We're conveniently located in Reading, PA. Our state-of-the-art facility is designed to
-                                provide a comfortable, welcoming environment where you can focus on your mental health
-                                journey. Contact us for specific directions and parking information.</p>
+<p>Our office is conveniently located in Reading, PA. We offer a modern, welcoming, and confidential environment for patients across Berks County seeking expert psychiatric care and TMS therapy.</p>
 </div>
 </div>
 <div class="opt-faq-item">
 <button class="opt-faq-question">
-<span>Are you accepting new patients?</span>
+<span>Is Dr. Cyntrell Crawford currently accepting new patients?</span>
 <span class="opt-faq-toggle"><i class="fas fa-chevron-down"></i></span>
 </button>
 <div class="opt-faq-answer">
-<p>Yes! We are currently accepting new patients. We understand that starting mental health
-                                treatment can feel overwhelming, and we're here to make the process as smooth as
-                                possible. Reach out today to schedule your consultation.</p>
+<p>Yes, Dr. Cyntrell Crawford and the clinical team at Options Psychiatry are currently accepting new patients in Reading, PA. <a href="contact">Contact us today</a> to get started.</p>
 </div>
 </div>
 </div>
