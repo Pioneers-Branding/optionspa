@@ -3,6 +3,34 @@
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16883360986"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'AW-16883360986');
+    </script>
+
+    <!-- Event snippet for Submit lead formQ conversion page
+    In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+    <script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-16883360986/IJm8CJin2uccENrJzvI-',
+          'event_callback': callback
+      });
+      return false;
+    }
+    gtag_report_conversion();
+    </script>
+
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <link href="_external/gmpg.org/xfn/11/index.html" rel="profile" />
