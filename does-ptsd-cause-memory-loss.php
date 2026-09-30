@@ -84,13 +84,13 @@
 </script>
 <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
 <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-<title>Does PTSD Cause Memory Loss? Causes, Symptoms &amp; Recovery</title>
+<title>Does PTSD Cause Memory Loss? Causes &amp; Recovery</title>
 <meta content="Does PTSD cause memory loss? Discover how trauma impacts the hippocampus, triggers dissociative amnesia and brain fog, and how psychiatric care restores memory." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
 <link href="does-ptsd-cause-memory-loss" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
-<meta content="Does PTSD Cause Memory Loss? Causes, Symptoms &amp; Recovery" property="og:title"/>
+<meta content="Does PTSD Cause Memory Loss? Causes &amp; Recovery" property="og:title"/>
 <meta content="Does PTSD cause memory loss? Discover how trauma impacts the hippocampus, triggers dissociative amnesia and brain fog, and how psychiatric care restores memory." property="og:description"/>
 <meta content="does-ptsd-cause-memory-loss" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
@@ -105,7 +105,7 @@
 <meta content="2026-09-23T08:00:00-04:00" property="article:published_time"/>
 <meta content="2026-09-23T08:00:00-04:00" property="article:modified_time"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Does PTSD Cause Memory Loss? Causes, Symptoms &amp; Recovery" name="twitter:title"/>
+<meta content="Does PTSD Cause Memory Loss? Causes &amp; Recovery" name="twitter:title"/>
 <meta content="Does PTSD cause memory loss? Discover how trauma impacts the hippocampus, triggers dissociative amnesia and brain fog, and how psychiatric care restores memory." name="twitter:description"/>
 <meta content="wp-content/uploads/2026/09/does-ptsd-cause-memory-loss.jpg" name="twitter:image"/>
 <meta content="Written by" name="twitter:label1"/>
@@ -232,7 +232,7 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
         "@type": "WebPage",
         "@id": "https://optionspa.com/does-ptsd-cause-memory-loss"
       },
-      "headline": "Does PTSD Cause Memory Loss? Causes, Symptoms & Recovery",
+      "headline": "Does PTSD Cause Memory Loss? Causes & Recovery",
       "description": "Does PTSD cause memory loss? Learn how psychological trauma alters the hippocampus, triggers dissociative amnesia, and how evidence-based psychiatric treatment restores memory.",
       "mainEntityOfPage": "https://optionspa.com/does-ptsd-cause-memory-loss",
       "datePublished": "2026-09-23T08:00:00-04:00",
