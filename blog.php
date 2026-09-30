@@ -8533,7 +8533,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                         data-attr-link="0" data-attr-rel="0" data-attr-target="1"
                         data-extra_key="" data-option-inline="1"
                         data-shortcode="tcb_post_title" data-shortcode-name="Post Title"
-                        data-css="tve-u-171309d2ceb">Does Spravato Help with Anxiety? Benefits, Off-Label Use &amp; What to Expect</span></strong></a></h2>
+                        data-css="tve-u-171309d2ceb">Does Spravato Help with Anxiety? What to Expect</span></strong></a></h2>
     </div>
     <section class="tcb-post-content tcb-shortcode thrv_wrapper"
         data-css="tve-u-1713acf18fa">

@@ -84,14 +84,14 @@
 </script>
 <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
 <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-<title>Does Spravato Help with Anxiety? Benefits, Off-Label Use &amp; What to Expect</title>
-<meta content="Does Spravato help with anxiety? Explore clinical evidence on esketamine for anxiety symptoms, off-label benefits, NMDA receptor mechanisms, and treatment options." name="description"/>
+<title>Does Spravato Help with Anxiety? What to Expect</title>
+<meta content="Does Spravato help with anxiety? Learn how esketamine treats severe anxiety at Options Psychiatry in Reading, PA. Book a confidential consultation today." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
 <link href="does-spravato-help-with-anxiety" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
-<meta content="Does Spravato Help with Anxiety? Benefits, Off-Label Use & What to Expect" property="og:title"/>
-<meta content="Does Spravato help with anxiety? Explore clinical evidence on esketamine for anxiety symptoms, off-label benefits, NMDA receptor mechanisms, and treatment options." property="og:description"/>
+<meta content="Does Spravato Help with Anxiety? What to Expect" property="og:title"/>
+<meta content="Does Spravato help with anxiety? Learn how esketamine treats severe anxiety at Options Psychiatry in Reading, PA. Book a confidential consultation today." property="og:description"/>
 <meta content="does-spravato-help-with-anxiety" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="Spravato" property="article:section"/>
@@ -105,8 +105,8 @@
 <meta content="2026-09-26T08:00:00-04:00" property="article:published_time"/>
 <meta content="2026-09-26T08:00:00-04:00" property="article:modified_time"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Does Spravato Help with Anxiety? Benefits, Off-Label Use & What to Expect" name="twitter:title"/>
-<meta content="Does Spravato help with anxiety? Explore clinical evidence on esketamine for anxiety symptoms, off-label benefits, NMDA receptor mechanisms, and treatment options." name="twitter:description"/>
+<meta content="Does Spravato Help with Anxiety? What to Expect" name="twitter:title"/>
+<meta content="Does Spravato help with anxiety? Learn how esketamine treats severe anxiety at Options Psychiatry in Reading, PA. Book a confidential consultation today." name="twitter:description"/>
 <meta content="wp-content/uploads/2026/09/does-spravato-help-with-anxiety.jpg" name="twitter:image"/>
 <meta content="Written by" name="twitter:label1"/>
 <meta content="Dr. Cyntrell Crawford" name="twitter:data1"/>
@@ -232,8 +232,8 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
         "@type": "WebPage",
         "@id": "https://optionspa.com/does-spravato-help-with-anxiety"
       },
-      "headline": "Does Spravato Help with Anxiety? Benefits, Off-Label Use & What to Expect",
-      "description": "Does Spravato help with anxiety? Explore clinical evidence on esketamine for anxiety symptoms, off-label benefits, NMDA receptor mechanisms, and treatment options.",
+      "headline": "Does Spravato Help with Anxiety? What to Expect",
+      "description": "Does Spravato help with anxiety? Learn how esketamine treats severe anxiety at Options Psychiatry in Reading, PA. Book a confidential consultation today.",
       "mainEntityOfPage": "https://optionspa.com/does-spravato-help-with-anxiety",
       "datePublished": "2026-09-26T08:00:00-04:00",
       "dateModified": "2026-09-26T08:00:00-04:00",
