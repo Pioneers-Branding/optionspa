@@ -100,7 +100,7 @@
 <meta content="wp-content/uploads/2026/09/does-spravato-help-with-anxiety.jpg" property="og:image:secure_url"/>
 <meta content="1376" property="og:image:width"/>
 <meta content="768" property="og:image:height"/>
-<meta content="A woman resting calmly with eyes closed in a serene clinical consultation room, experiencing relief from anxiety and treatment-resistant depression through Spravato therapy at Options Psychiatry in Reading, PA" property="og:image:alt"/>
+<meta content="A woman sitting peacefully alone on a wooden bench on park grounds beside a calm lake, experiencing relief from anxiety through Spravato treatment at Options Psychiatry in Reading, PA" property="og:image:alt"/>
 <meta content="image/jpeg" property="og:image:type"/>
 <meta content="2026-09-26T08:00:00-04:00" property="article:published_time"/>
 <meta content="2026-09-26T08:00:00-04:00" property="article:modified_time"/>
@@ -262,7 +262,7 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
       "image": {
         "@type": "ImageObject",
         "url": "https://optionspa.com/wp-content/uploads/2026/09/does-spravato-help-with-anxiety.jpg",
-        "caption": "A woman resting calmly with eyes closed in a serene clinical consultation room, experiencing relief from anxiety and treatment-resistant depression through Spravato therapy at Options Psychiatry in Reading, PA"
+        "caption": "A woman sitting peacefully alone on a wooden bench on park grounds beside a calm lake, experiencing relief from anxiety through Spravato treatment at Options Psychiatry in Reading, PA"
       },
       "keywords": [
         "does spravato help with anxiety",
