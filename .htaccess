@@ -69,6 +69,7 @@ RewriteRule ^(19|20)[0-9]{2}/[0-9]{2}/?$ ./ [R=301,L]
 RewriteRule ^blog/page/[0-9]+/?$ blog [R=301,L]
 
 # Thrive pagination placeholder / single post pagination -> canonical post
+RewriteRule ^counseling-center-in-reading/page(/.*)?$ counseling-center-in-reading [R=301,L]
 RewriteRule ^does-tricare-cover-tms-therapy-in-reading-pa/page(/.*)?$ does-tricare-cover-tms-therapy-in-reading-pa [R=301,L]
 RewriteRule ^top-10-psychiatrists-in-pennsylvania/page(/.*)?$ top-10-psychiatrists-in-pennsylvania [R=301,L]
 RewriteRule ^(.*)/page(?:/.*)?$ $1 [R=301,L,NC]
