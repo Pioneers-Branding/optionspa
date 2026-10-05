@@ -80,6 +80,13 @@ if (preg_match('#^(?:19|20)\d{2}/\d{2}$#', $clean)) { $go(''); }
 // /blog/page/N -> blog
 if (preg_match('#^blog/page/\d+$#', $clean)) { $go('blog'); }
 
+// Thrive pagination placeholder / single post pagination -> canonical post
+if (preg_match('#^(.*?)/page(?:/.*)?$#i', urldecode($clean), $m)) {
+    if (!isset($nested[$clean])) {
+        $go($m[1]);
+    }
+}
+
 // retired URLs -> nearest live page
 $retired = [
     'anxiety-treatment-reading-pa' => 'anxiety-treatment',
