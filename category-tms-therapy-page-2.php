@@ -479,7 +479,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </span>
 <span class="tve-disabled-text-inner">Patients</span><span class="tve-item-dropdown-trigger"><svg class="tve-dropdown-icon-up" viewbox="0 0 320 512"><path d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path></svg></span></a>
 <ul class="sub-menu menu-item-3756-ul">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3751 lvl-1" data-id="3751" data-item-display-desktop="text" id="menu-item-3751"><a href="get-started"><span class="tve-disabled-text-inner">Get Started</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3751 lvl-1" data-id="3751" data-item-display-desktop="text" id="menu-item-3751"><a href="getstarted"><span class="tve-disabled-text-inner">Get Started</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3755 lvl-1" data-id="3755" data-item-display-desktop="text" id="menu-item-3755"><a href="insurances-accepted"><span class="tve-disabled-text-inner">Insurances Accepted</span></a></li>
 </ul>
 </li>

@@ -86,6 +86,7 @@ $retired = [
     'contact-us'                   => 'contact',
     'depression-treatment-reading-pa' => 'depression',
     'depression-treatment'         => 'depression',
+    'get-started'                  => 'getstarted',
     'how-tms-therapy-helps-treat-depression' => 'how-does-tms-therapy-help-in-the-treatment-of-depression',
     'insurance-coverage'           => 'insurances-accepted',
     'insurance-plans'              => 'insurances-accepted',
