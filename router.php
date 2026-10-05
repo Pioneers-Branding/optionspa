@@ -80,16 +80,6 @@ if (preg_match('#^(?:19|20)\d{2}/\d{2}$#', $clean)) { $go(''); }
 // /blog/page/N -> blog
 if (preg_match('#^blog/page/\d+$#', $clean)) { $go('blog'); }
 
-// Thrive pagination placeholder / single post pagination -> canonical post
-if (preg_match('#^(.*?)/page(?:/.*)?$#i', urldecode($clean), $m)) {
-    if (!isset($nested[$clean])) {
-        $go($m[1]);
-    }
-}
-
-// defunct WordPress REST API -> home
-if (preg_match('#^wp-json(?:/.*)?$#i', $clean)) { $go(''); }
-
 // retired URLs -> nearest live page
 $retired = [
     'anxiety-treatment-reading-pa' => 'anxiety-treatment',
@@ -109,6 +99,20 @@ $retired = [
     'tms-therapy-reading-pa'       => 'tms-therapy-reading',
 ];
 if (isset($retired[$clean])) { $go($retired[$clean]); }
+
+// Thrive pagination placeholder / single post pagination -> canonical post
+if (preg_match('#^(.*?)/page(?:/.*)?$#i', urldecode($clean), $m)) {
+    if (!isset($nested[$clean])) {
+        $target = $m[1];
+        if (isset($retired[$target])) {
+            $target = $retired[$target];
+        }
+        $go($target);
+    }
+}
+
+// defunct WordPress REST API -> home
+if (preg_match('#^wp-json(?:/.*)?$#i', $clean)) { $go(''); }
 
 // drop a trailing slash
 if ($hadSlash) { $go($clean); }
