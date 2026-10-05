@@ -905,7 +905,7 @@
         type="text/javascript"></script>
     <script id="theme-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var thrive_front_localize = { "comments_form": { "error_defaults": { "email": "Email address invalid", "url": "Website address invalid", "required": "Required field missing" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "frontend": "https://optionspa.com/wp-json/ttb/v1/frontend" }, "tar_post_url": "?tve=true&action=architect&from_theme=1", "is_editor": "", "ID": "32", "template_url": "?tve=true&action=architect&from_tar=4198", "pagination_url": { "template": "https://optionspa.com/tms-quiz/page/[thrive_page_number]/", "base": "https://optionspa.com/tms-quiz/" }, "sidebar_visibility": [], "is_singular": "1", "is_user_logged_in": "" };
+        var thrive_front_localize = { "comments_form": { "error_defaults": { "email": "Email address invalid", "url": "Website address invalid", "required": "Required field missing" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "frontend": "https://optionspa.com/wp-json/ttb/v1/frontend" }, "tar_post_url": "?tve=true&action=architect&from_theme=1", "is_editor": "", "ID": "32", "template_url": "?tve=true&action=architect&from_tar=4198", "pagination_url": { "template": "https://optionspa.com/tms-quiz/", "base": "https://optionspa.com/tms-quiz/" }, "sidebar_visibility": [], "is_singular": "1", "is_user_logged_in": "" };
         //# sourceURL=theme-frontend-js-extra
         /* ]]> */
     </script>

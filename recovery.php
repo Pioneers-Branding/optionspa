@@ -211,7 +211,7 @@ var tve_frontend_options = {"ajaxurl":"https://optionspa.com/wp-admin/admin-ajax
 <script id="tve_frontend_post-list-js" src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/post-list.min__q011b470d.js" type="text/javascript"></script>
 <script id="theme-frontend-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email address invalid","url":"Website address invalid","required":"Required field missing"}},"routes":{"posts":"https://optionspa.com/wp-json/tcb/v1/posts","frontend":"https://optionspa.com/wp-json/ttb/v1/frontend"},"tar_post_url":"?tve=true&action=architect&from_theme=1","is_editor":"","ID":"2972","template_url":"?tve=true&action=architect&from_tar=3272","pagination_url":{"template":"https://optionspa.com/recovery/page/[thrive_page_number]/","base":"https://optionspa.com/recovery/"},"sidebar_visibility":[],"is_singular":"1","is_user_logged_in":""};
+var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email address invalid","url":"Website address invalid","required":"Required field missing"}},"routes":{"posts":"https://optionspa.com/wp-json/tcb/v1/posts","frontend":"https://optionspa.com/wp-json/ttb/v1/frontend"},"tar_post_url":"?tve=true&action=architect&from_theme=1","is_editor":"","ID":"2972","template_url":"?tve=true&action=architect&from_tar=3272","pagination_url":{"template":"https://optionspa.com/recovery/","base":"https://optionspa.com/recovery/"},"sidebar_visibility":[],"is_singular":"1","is_user_logged_in":""};
 //# sourceURL=theme-frontend-js-extra
 /* ]]> */
 </script>

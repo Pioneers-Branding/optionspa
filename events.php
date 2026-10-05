@@ -195,7 +195,7 @@ var tve_frontend_options = {"ajaxurl":"https://optionspa.com/wp-admin/admin-ajax
 <script id="tve_frontend-js" src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/general.min__qe79741bf.js" type="text/javascript"></script>
 <script id="theme-frontend-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email address invalid","url":"Website address invalid","required":"Required field missing"}},"routes":{"posts":"https://optionspa.com/wp-json/tcb/v1/posts","frontend":"https://optionspa.com/wp-json/ttb/v1/frontend"},"tar_post_url":"?tve=true&action=architect&from_theme=1","is_editor":"","ID":"32","template_url":"?tve=true&action=architect&from_tar=3169","pagination_url":{"template":"https://optionspa.com/events/page/[thrive_page_number]/","base":"https://optionspa.com/events/"},"sidebar_visibility":[],"is_singular":"1","is_user_logged_in":""};
+var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email address invalid","url":"Website address invalid","required":"Required field missing"}},"routes":{"posts":"https://optionspa.com/wp-json/tcb/v1/posts","frontend":"https://optionspa.com/wp-json/ttb/v1/frontend"},"tar_post_url":"?tve=true&action=architect&from_theme=1","is_editor":"","ID":"32","template_url":"?tve=true&action=architect&from_tar=3169","pagination_url":{"template":"https://optionspa.com/events/","base":"https://optionspa.com/events/"},"sidebar_visibility":[],"is_singular":"1","is_user_logged_in":""};
 //# sourceURL=theme-frontend-js-extra
 /* ]]> */
 </script>
