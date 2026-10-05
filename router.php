@@ -64,6 +64,7 @@ $nested = [
     'category/mental-health' => 'category-mental-health',
     'category/mental-health/page/2' => 'category-mental-health-page-2',
     'category/ocd' => 'category-ocd',
+    'category/psychotherapy' => 'therapist-in-reading-pa',
     'category/spravato' => 'category-spravato',
     'category/tms-therapy' => 'category-tms-therapy',
     'category/tms-therapy/page/2' => 'category-tms-therapy-page-2',
