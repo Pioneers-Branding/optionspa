@@ -73,6 +73,9 @@ RewriteRule ^does-tricare-cover-tms-therapy-in-reading-pa/page(/.*)?$ does-trica
 RewriteRule ^top-10-psychiatrists-in-pennsylvania/page(/.*)?$ top-10-psychiatrists-in-pennsylvania [R=301,L]
 RewriteRule ^(.*)/page(?:/.*)?$ $1 [R=301,L,NC]
 
+# defunct WordPress REST API -> home
+RewriteRule ^wp-json(?:/.*)?$ ./ [R=301,L]
+
 # --- retired urls -> nearest live page --------------------------------
 RewriteRule ^anxiety-treatment-reading-pa/?$ anxiety-treatment [R=301,L]
 RewriteRule ^bipolar-affective-disorder/?$ bipolar-disorder [R=301,L]

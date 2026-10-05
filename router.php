@@ -87,6 +87,9 @@ if (preg_match('#^(.*?)/page(?:/.*)?$#i', urldecode($clean), $m)) {
     }
 }
 
+// defunct WordPress REST API -> home
+if (preg_match('#^wp-json(?:/.*)?$#i', $clean)) { $go(''); }
+
 // retired URLs -> nearest live page
 $retired = [
     'anxiety-treatment-reading-pa' => 'anxiety-treatment',
