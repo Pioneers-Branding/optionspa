@@ -91,6 +91,7 @@ $retired = [
     'how-tms-therapy-helps-treat-depression' => 'how-does-tms-therapy-help-in-the-treatment-of-depression',
     'insurance-coverage'           => 'insurances-accepted',
     'insurance-plans'              => 'insurances-accepted',
+    'new-blog-layout'              => 'blog',
     'ocd-treatment'                => 'ocd',
     'preimushchestva-i-nedostatki-1xbet-zerkalo-rabochee-na-segodnia-9' => '',
     'psychiatrist-in-reading-pa'   => 'location-reading',
