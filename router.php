@@ -90,6 +90,7 @@ $retired = [
     'insurance-coverage'           => 'insurances-accepted',
     'insurance-plans'              => 'insurances-accepted',
     'ocd-treatment'                => 'ocd',
+    'preimushchestva-i-nedostatki-1xbet-zerkalo-rabochee-na-segodnia-9' => '',
     'psychiatrist-in-reading-pa'   => 'location-reading',
     'ptsd-treatment'               => 'ptsd',
     'tms-therapy-reading-pa'       => 'tms-therapy-reading',
