@@ -2697,6 +2697,82 @@ Victoria Brown" class="opt-patient-photo" decoding="async" src="_external/lh3.go
                                         </div>
                                     </div>
                                 </section>
+                                <!-- Section 8b: Video Testimonials -->
+                                <style>
+                                    .opt-section-video-testimonials {
+                                        padding: 60px 0;
+                                        background-color: #FAFBFC;
+                                    }
+
+                                    .opt-video-testimonials-grid {
+                                        display: grid;
+                                        grid-template-columns: repeat(2, minmax(0, 1fr));
+                                        gap: 30px;
+                                        max-width: 1100px;
+                                        margin: 30px auto 0;
+                                    }
+
+                                    .opt-video-testimonial-card {
+                                        background: #fff;
+                                        border-radius: 16px;
+                                        overflow: hidden;
+                                        box-shadow: 0 10px 30px rgba(15, 44, 58, 0.08);
+                                    }
+
+                                    .opt-video-testimonial-frame {
+                                        position: relative;
+                                        aspect-ratio: 16 / 9;
+                                        background: #0F2C3A;
+                                    }
+
+                                    .opt-video-testimonial-frame iframe {
+                                        border: none;
+                                        position: absolute;
+                                        top: 0;
+                                        left: 0;
+                                        width: 100%;
+                                        height: 100%;
+                                    }
+
+                                    @media (max-width: 768px) {
+                                        .opt-section-video-testimonials {
+                                            padding: 40px 0;
+                                        }
+
+                                        .opt-video-testimonials-grid {
+                                            grid-template-columns: 1fr;
+                                            gap: 20px;
+                                        }
+                                    }
+                                </style>
+                                <section class="opt-section-video-testimonials" id="video-testimonials">
+                                    <div class="opt-container">
+                                        <div class="opt-section-header opt-text-center">
+                                            <h2>Video Testimonials</h2>
+                                            <p>Watch our patients share their experiences in their own words</p>
+                                        </div>
+                                        <div class="opt-video-testimonials-grid">
+                                            <div class="opt-video-testimonial-card">
+                                                <div class="opt-video-testimonial-frame">
+                                                    <iframe loading="lazy" title="Patient Video Testimonial 1"
+                                                        src="https://play.gumlet.io/embed/6ac384495599ef1e51a5ceef?background=false&autoplay=false&loop=false&disable_player_controls=true"
+                                                        referrerpolicy="origin"
+                                                        allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;clipboard-write;">
+                                                    </iframe>
+                                                </div>
+                                            </div>
+                                            <div class="opt-video-testimonial-card">
+                                                <div class="opt-video-testimonial-frame">
+                                                    <iframe loading="lazy" title="Patient Video Testimonial 2"
+                                                        src="https://play.gumlet.io/embed/6ac3848ad00ed21e8bc0b694?background=false&autoplay=false&loop=false&disable_player_controls=true"
+                                                        referrerpolicy="origin"
+                                                        allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;clipboard-write;">
+                                                    </iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
                                 <!-- Section 9: Contact (Form Left, Info Right) -->
                                 <section class="opt-section-contact" id="contact">
                                     <div class="opt-container">
