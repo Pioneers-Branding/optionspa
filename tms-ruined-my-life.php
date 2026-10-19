@@ -5,7 +5,7 @@
 function fire(){if(fired)return;fired=true;while(q.length){try{q.shift()()}catch(e){}}}
 ['scroll','click','touchstart','keydown','pointerdown'].forEach(function(e){W.addEventListener(e,fire,{once:true,passive:true})});
 W.addEventListener('visibilitychange',function(){if(D.visibilityState==='hidden')fire()});
-setTimeout(fire,30000);
+
 function isTag(el){return el&&el.tagName==='SCRIPT'&&el.src&&/googletagmanager\.com\/(gtm|gtag)\.js|connect\.facebook\.net|usermaven\.com|leadconnectorhq|link\.msgsndr/.test(el.src)}
 var ib=Node.prototype.insertBefore,ac=Node.prototype.appendChild;
 Node.prototype.insertBefore=function(el){if(isTag(el)){var s=this,a=arguments;q.push(function(){ib.apply(s,a)});return el}return ib.apply(this,arguments)};
@@ -382,7 +382,7 @@ var thrive_front_localize = {"comments_form":{"error_defaults":{"email":"Email a
 
 <!-- start Simple Custom CSS and JS -->
 <!-- Google Fonts -->
-<link href="https://fonts.googleapis.com" rel="preconnect"/>
+
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet"/>
 <!-- Font Awesome -->

@@ -5,7 +5,7 @@
 function fire(){if(fired)return;fired=true;while(q.length){try{q.shift()()}catch(e){}}}
 ['scroll','click','touchstart','keydown','pointerdown'].forEach(function(e){W.addEventListener(e,fire,{once:true,passive:true})});
 W.addEventListener('visibilitychange',function(){if(D.visibilityState==='hidden')fire()});
-setTimeout(fire,30000);
+
 function isTag(el){return el&&el.tagName==='SCRIPT'&&el.src&&/googletagmanager\.com\/(gtm|gtag)\.js|connect\.facebook\.net|usermaven\.com|leadconnectorhq|link\.msgsndr/.test(el.src)}
 var ib=Node.prototype.insertBefore,ac=Node.prototype.appendChild;
 Node.prototype.insertBefore=function(el){if(isTag(el)){var s=this,a=arguments;q.push(function(){ib.apply(s,a)});return el}return ib.apply(this,arguments)};
@@ -591,7 +591,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 <link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
  <!-- Google Fonts -->
-<link href="https://fonts.googleapis.com" rel="preconnect"/>
+
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet"/>
 <!-- Font Awesome -->

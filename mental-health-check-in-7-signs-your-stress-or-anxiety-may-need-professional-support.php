@@ -116,7 +116,7 @@
 <!-- /Rank Math WordPress SEO plugin -->
 <!-- start Simple Custom CSS and JS -->
 <!-- Google Fonts -->
-<link href="https://fonts.googleapis.com" rel="preconnect"/>
+
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet"/>
 <!-- Font Awesome -->
