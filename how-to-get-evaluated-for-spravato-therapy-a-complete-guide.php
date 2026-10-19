@@ -2,7 +2,17 @@
 
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
 
-<head>
+<head><script>(function(){var q=[],fired=false,W=window,D=document;
+function fire(){if(fired)return;fired=true;while(q.length){try{q.shift()()}catch(e){}}}
+['scroll','click','touchstart','keydown','pointerdown'].forEach(function(e){W.addEventListener(e,fire,{once:true,passive:true})});
+W.addEventListener('visibilitychange',function(){if(D.visibilityState==='hidden')fire()});
+setTimeout(fire,30000);
+function isTag(el){return el&&el.tagName==='SCRIPT'&&el.src&&/googletagmanager\.com\/(gtm|gtag)\.js|connect\.facebook\.net|usermaven\.com|leadconnectorhq|link\.msgsndr/.test(el.src)}
+var ib=Node.prototype.insertBefore,ac=Node.prototype.appendChild;
+Node.prototype.insertBefore=function(el){if(isTag(el)){var s=this,a=arguments;q.push(function(){ib.apply(s,a)});return el}return ib.apply(this,arguments)};
+Node.prototype.appendChild=function(el){if(isTag(el)){var s=this,a=arguments;q.push(function(){ac.apply(s,a)});return el}return ac.apply(this,arguments)};
+q.push(function(){var s=D.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-E9TV9LJDWM';ac.call(D.head,s)});
+})();</script>
 	<meta charset="utf-8" />
 	<meta content="width=device-width, initial-scale=1" name="viewport" />
 	<link href="_external/gmpg.org/xfn/11/index.html" rel="profile" />
@@ -845,8 +855,8 @@
 	<meta content="Options Psychiatry" property="og:site_name" />
 	<meta content="Spravato" property="article:section" />
 	<meta content="2026-08-14T08:12:14-04:00" property="og:updated_time" />
-	<meta content="wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.png" property="og:image" />
-	<meta content="wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.png"
+	<meta content="wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.webp" property="og:image" />
+	<meta content="wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.webp"
 		property="og:image:secure_url" />
 	<meta content="1672" property="og:image:width" />
 	<meta content="940" property="og:image:height" />
@@ -859,7 +869,7 @@
 	<meta
 		content="Discover how to get evaluated for Spravato therapy and what providers consider, from treatment-resistant depression and medications to safety and insurance."
 		name="twitter:description" />
-	<meta content="wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.png" name="twitter:image" />
+	<meta content="wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.webp" name="twitter:image" />
 	<meta content="Written by" name="twitter:label1" />
 	<meta content="Dr. Cyntrell Crawford" name="twitter:data1" />
 	<meta content="Time to read" name="twitter:label2" />
@@ -878,10 +888,8 @@
 
 		/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
 	</style>
-	<link href="wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend__qf7ffcae6.css"
-		id="hfe-widgets-style-css" media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/themes/thrive-theme/inc/assets/dist/theme__q784709ed.css" id="thrive-theme-styles-css"
-		media="all" rel="stylesheet" type="text/css" />
+	<link data-perf-bundle="1" href="wp-content/cache/perf/css/b_6c8df40a.css" rel="stylesheet" type="text/css"/>
+	
 	<style id="wp-emoji-styles-inline-css" type="text/css">
 		img.wp-smiley,
 		img.emoji {
@@ -1257,80 +1265,60 @@
 
 		/*# sourceURL=global-styles-inline-css */
 	</style>
-	<link href="wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css"
-		id="kk-star-ratings-css" media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css"
-		id="tve-ult-main-frame-css-css" media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css"
-		id="hfe-style-css" media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css" id="elementor-frontend-css"
-		media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/uploads/elementor/css/post-4716__q104fc520.css" id="elementor-post-4716-css" media="all"
-		rel="stylesheet" type="text/css" />
-	<link href="wp-content/uploads/elementor/css/post-4753__q104fc520.css" id="elementor-post-4753-css" media="all"
-		rel="stylesheet" type="text/css" />
-	<link href="wp-content/uploads/elementor/css/post-4746__q2b585c9b.css" id="elementor-post-4746-css" media="all"
-		rel="stylesheet" type="text/css" />
-	<link href="_external/fonts.googleapis.com/css/index__qe78199b5.html#038;subset=latin%2Clatin-ext"
-		id="wpblog-post-layouts-google-fonts-css" media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css"
-		id="fontawesome-css" media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css" id="tvo-frontend-css"
-		media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/themes/thrive-theme/style__q784709ed.css" id="thrive-theme-css" media="all" rel="stylesheet"
-		type="text/css" />
-	<link href="wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css"
-		id="hfe-elementor-icons-css" media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css" id="hfe-icons-list-css"
-		media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css"
-		id="hfe-social-icons-css" media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css"
-		id="hfe-social-share-icons-brands-css" media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css"
-		id="hfe-social-share-icons-fontawesome-css" media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css"
-		id="hfe-nav-menu-icons-css" media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-content/plugins/thrive-comments/assets/css/styles__qe79741bf.css" id="tcm-front-styles-css-css"
-		media="all" rel="stylesheet" type="text/css" />
-	<link href="wp-includes/css/dashicons.min__q98f937dc.css" id="dashicons-css" media="all" rel="stylesheet"
-		type="text/css" />
-	<link href="wp-includes/css/wp-auth-check.min__q98f937dc.css" id="wp-auth-check-css" media="all" rel="stylesheet"
-		type="text/css" />
-	<link href="_external/fonts.googleapis.com/css/index__q65d37b7f.html" id="elementor-gf-roboto-css" media="all"
-		rel="stylesheet" type="text/css" />
-	<link href="_external/fonts.googleapis.com/css/index__qb6c5de83.html" id="elementor-gf-robotoslab-css" media="all"
-		rel="stylesheet" type="text/css" />
-	<script id="jquery-core-js" src="wp-includes/js/jquery/jquery.min__qf43b551b.js" type="text/javascript"></script>
+	<link data-perf-bundle="1" href="wp-content/cache/perf/css/b_53dc18b2.css" rel="stylesheet" type="text/css"/>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<script id="jquery-core-js" src="wp-includes/js/jquery/jquery.min__qf43b551b.js" type="text/javascript" defer></script>
 	<script id="jquery-migrate-js" src="wp-includes/js/jquery/jquery-migrate.min__q558973c0.js"
-		type="text/javascript"></script>
-	<script id="jquery-js-after" type="text/javascript">
+		type="text/javascript" defer></script>
+	<script id="jquery-js-after" type="text/javascript">document.addEventListener('DOMContentLoaded',function(){
 		/* <![CDATA[ */
 		!function ($) { "use strict"; $(document).ready(function () { $(this).scrollTop() > 100 && $(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"), $(window).scroll(function () { $(this).scrollTop() < 100 ? $(".hfe-scroll-to-top-wrap").fadeOut(300) : $(".hfe-scroll-to-top-wrap").fadeIn(300) }), $(".hfe-scroll-to-top-wrap").on("click", function () { $("html, body").animate({ scrollTop: 0 }, 300); return !1 }) }) }(jQuery);
 		!function ($) { 'use strict'; $(document).ready(function () { var bar = $('.hfe-reading-progress-bar'); if (!bar.length) return; $(window).on('scroll', function () { var s = $(window).scrollTop(), d = $(document).height() - $(window).height(), p = d ? s / d * 100 : 0; bar.css('width', p + '%') }); }); }(jQuery);
-		//# sourceURL=jquery-js-after
+
 		/* ]]> */
-	</script>
+	
+});</script>
 	<script id="jquery-ui-core-js" src="wp-includes/js/jquery/ui/core.min__qb37ee774.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="jquery-ui-menu-js" src="wp-includes/js/jquery/ui/menu.min__qb37ee774.js"
-		type="text/javascript"></script>
-	<script id="wp-dom-ready-js" src="wp-includes/js/dist/dom-ready.min__q5346137b.js" type="text/javascript"></script>
-	<script id="wp-hooks-js" src="wp-includes/js/dist/hooks.min__qaf5f3db4.js" type="text/javascript"></script>
-	<script id="wp-i18n-js" src="wp-includes/js/dist/i18n.min__q1cde93bb.js" type="text/javascript"></script>
-	<script id="wp-i18n-js-after" type="text/javascript">
+		type="text/javascript" defer></script>
+	<script id="wp-dom-ready-js" src="wp-includes/js/dist/dom-ready.min__q5346137b.js" type="text/javascript" defer></script>
+	<script id="wp-hooks-js" src="wp-includes/js/dist/hooks.min__qaf5f3db4.js" type="text/javascript" defer></script>
+	<script id="wp-i18n-js" src="wp-includes/js/dist/i18n.min__q1cde93bb.js" type="text/javascript" defer></script>
+	<script id="wp-i18n-js-after" type="text/javascript">document.addEventListener('DOMContentLoaded',function(){
 		/* <![CDATA[ */
 		wp.i18n.setLocaleData({ 'text direction\u0004ltr': ['ltr'] });
-		//# sourceURL=wp-i18n-js-after
+
 		/* ]]> */
-	</script>
-	<script id="wp-a11y-js" src="wp-includes/js/dist/a11y.min__q1b1cf71c.js" type="text/javascript"></script>
+	
+});</script>
+	<script id="wp-a11y-js" src="wp-includes/js/dist/a11y.min__q1b1cf71c.js" type="text/javascript" defer></script>
 	<script id="jquery-ui-autocomplete-js" src="wp-includes/js/jquery/ui/autocomplete.min__qb37ee774.js"
-		type="text/javascript"></script>
-	<script id="imagesloaded-js" src="wp-includes/js/imagesloaded.min__qbb938083.js" type="text/javascript"></script>
-	<script id="masonry-js" src="wp-includes/js/masonry.min__q3a0508bb.js" type="text/javascript"></script>
+		type="text/javascript" defer></script>
+	<script id="imagesloaded-js" src="wp-includes/js/imagesloaded.min__qbb938083.js" type="text/javascript" defer></script>
+	<script id="masonry-js" src="wp-includes/js/masonry.min__q3a0508bb.js" type="text/javascript" defer></script>
 	<script id="jquery-masonry-js" src="wp-includes/js/jquery/jquery.masonry.min__qef703437.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="tve_frontend-js-extra" type="text/javascript">
 		/* <![CDATA[ */
 		var tve_frontend_options = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "is_editor_page": "", "page_events": "", "is_single": "1", "social_fb_app_id": "", "dash_url": "https://optionspa.com/wp-content/plugins/thrive-ultimatum/thrive-dashboard", "queried_object": { "ID": 8924, "post_author": "4" }, "query_vars": { "page": "", "name": "how-to-get-evaluated-for-spravato-therapy-a-complete-guide", "certificate_u": "" }, "$_POST": [], "translations": { "Copy": "Copy", "empty_username": "ERROR: The username field is empty.", "empty_password": "ERROR: The password field is empty.", "empty_login": "ERROR: Enter a username or email address.", "min_chars": "At least %s characters are needed", "no_headings": "No headings found", "registration_err": { "required_field": "\u003Cstrong\u003EError\u003C/strong\u003E: This field is required", "required_email": "\u003Cstrong\u003EError\u003C/strong\u003E: Please type your email address", "invalid_email": "\u003Cstrong\u003EError\u003C/strong\u003E: The email address isn&#8217;t correct", "passwordmismatch": "\u003Cstrong\u003EError\u003C/strong\u003E: Password mismatch" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "video_reporting": "https://optionspa.com/wp-json/tcb/v1/video-reporting", "courses": "https://optionspa.com/wp-json/tva/v1/course_list_element", "certificate_search": "https://optionspa.com/wp-json/tva/v1/certificate/search", "assessments": "https://optionspa.com/wp-json/tva/v1/user/assessment", "testimonials": "https://optionspa.com/wp-json/tcb/v1/testimonials" }, "nonce": "52d3aee43c", "allow_video_src": "", "google_client_id": null, "google_api_key": null, "facebook_app_id": null, "lead_generation_custom_tag_apis": ["activecampaign", "aweber", "convertkit", "drip", "klicktipp", "mailchimp", "sendlane", "zapier"], "post_request_data": [], "user_profile_nonce": "4c5041a2b9", "ip": "14.195.188.138", "current_user": [], "post_id": "8924", "post_title": "How to Get Evaluated for Spravato Therapy: A Complete Guide", "post_type": "post", "post_url": "https://optionspa.com/how-to-get-evaluated-for-spravato-therapy-a-complete-guide/", "is_lp": "", "conditional_display": { "is_tooltip_dismissed": false } };
@@ -1339,10 +1327,10 @@
 	</script>
 	<script id="tve_frontend-js"
 		src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/general.min__qe79741bf.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="tve_frontend_post-list-js"
 		src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/post-list.min__q011b470d.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="theme-frontend-js-extra" type="text/javascript">
 		/* <![CDATA[ */
 		var thrive_front_localize = { "comments_form": { "error_defaults": { "email": "Email address invalid", "url": "Website address invalid", "required": "Required field missing" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "frontend": "https://optionspa.com/wp-json/ttb/v1/frontend" }, "tar_post_url": "?tve=true&action=architect&from_theme=1", "is_editor": "", "ID": "2972", "template_url": "?tve=true&action=architect&from_tar=8924", "pagination_url": { "template": "https://optionspa.com/how-to-get-evaluated-for-spravato-therapy-a-complete-guide/", "base": "https://optionspa.com/how-to-get-evaluated-for-spravato-therapy-a-complete-guide/" }, "sidebar_visibility": [], "is_singular": "1", "is_user_logged_in": "" };
@@ -1350,12 +1338,12 @@
 		/* ]]> */
 	</script>
 	<script id="theme-frontend-js" src="wp-content/themes/thrive-theme/inc/assets/dist/frontend.min__q784709ed.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="libs-frontend-js" src="wp-content/plugins/thrive-comments/assets/js/libs-frontend.min__qe79741bf.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="display-testimonials-tcb-js"
 		src="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/js/display-testimonials-tcb.min__qe79741bf.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 
 
 	<script type="application/ld+json">{
@@ -1370,17 +1358,14 @@
     }
 }</script>
 	<meta content="IQ1dcuJ47hx3D0nkl5e3QOOCEIZ_UU7NBBkRGBNuLN4" name="google-site-verification" />
-	<link href="wp-content/uploads/custom-css-js/4734__qec47fe7e.css" id="4734-css" media="all" rel="stylesheet"
-		type="text/css" />
-	<link href="wp-content/uploads/custom-css-js/4725__q70077246.css" id="4725-css" media="all" rel="stylesheet"
-		type="text/css" />
-	<link href="wp-content/uploads/custom-css-js/2880__q42b25d37.css" id="2880-css" media="all" rel="stylesheet"
-		type="text/css" />
+	<link data-perf-bundle="1" href="wp-content/cache/perf/css/b_e8c549ae.css" rel="stylesheet" type="text/css"/>
+	
+	
 	<!-- start Simple Custom CSS and JS -->
 	<!-- Add HTML code to the header or the footer.
 
 For example, you can use the following code for loading the jQuery library from Google CDN:
-<script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
 
 or the following one for loading the Bootstrap library from jsDelivr:
 <link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -1390,7 +1375,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 	<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
 	<link href="_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet" />
 	<!-- Font Awesome -->
-	<link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet" />
+	<link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet" media="print" onload="this.media='all'" />
 	<!-- End of the comment -->
 	<!-- end Simple Custom CSS and JS -->
 	<!-- start Simple Custom CSS and JS -->
@@ -1408,7 +1393,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 	</script>
 	<!-- end Simple Custom CSS and JS -->
 	<link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-		rel="stylesheet" />
+		rel="stylesheet" media="print" onload="this.media='all'" />
 	<!-- Meta Pixel Code -->
 	<script>
 		!function (f, b, e, v, n, t, s) {
@@ -1443,25 +1428,12 @@ or the following one for loading the Bootstrap library from jsDelivr:
 		})();
 	</script>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-222721405-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
-
-		gtag('config', 'UA-222721405-1');
-	</script>
+	
+	
 	<!-- Google Tag Manager -->
-	<script>(function (w, d, s, l, i) {
-			w[l] = w[l] || []; w[l].push({
-				'gtm.start':
-					new Date().getTime(), event: 'gtm.js'
-			}); var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-					'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-WH4BGL7V');</script>
+	
 	<!-- Google tag (gtag.js) -->
-	<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16883360986"></script>
+	
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag() { dataLayer.push(arguments); }
@@ -1474,7 +1446,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 		gtag('event', 'conversion', { 'send_to': 'AW-16883360986/kOsaCIuwsqAaENrJzvI-' });
 	</script>
 	<!-- Google tag (gtag.js) -->
-	<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-E9TV9LJDWM"></script>
+	
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag() { dataLayer.push(arguments); }
@@ -1570,19 +1542,12 @@ or the following one for loading the Bootstrap library from jsDelivr:
 		console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
 	</script>
 	<!-- End Google Tag Manager for WordPress by gtm4wp.com --><!-- Google Tag Manager -->
-	<script>(function (w, d, s, l, i) {
-			w[l] = w[l] || []; w[l].push({
-				'gtm.start':
-					new Date().getTime(), event: 'gtm.js'
-			}); var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-					'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-MJC7C7C4');</script>
+	
 	<!-- End Google Tag Manager -->
 	<style id="thrive-dynamic-css" type="text/css">
 		@media (min-width: 300px) {
 			.tve-theme-2972 .top-section .section-background {
-				background-image: linear-gradient(rgba(2, 3, 4, 0.14) 22%, rgba(2, 3, 4, 0.65) 100%), url("wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.png") !important;
+				background-image: linear-gradient(rgba(2, 3, 4, 0.14) 22%, rgba(2, 3, 4, 0.65) 100%), url("wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.webp") !important;
 			}
 		}
 	</style>
@@ -1590,7 +1555,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 		:root {
 			--tcb-background-author-image: url("_external/secure.gravatar.com/avatar/0047baa95022e0117a11fdd310da4521de7ab91557a0210496da6c384c404e52/index__qb7b91a31.html");
 			--tcb-background-user-image: url();
-			--tcb-background-featured-image-thumbnail: url("wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.png");
+			--tcb-background-featured-image-thumbnail: url("wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.webp");
 			--tcb-skin-color-0: hsla(var(--tcb-theme-main-master-h, 210), var(--tcb-theme-main-master-s, 77%), var(--tcb-theme-main-master-l, 54%), var(--tcb-theme-main-master-a, 1));
 			--tcb-skin-color-0-h: var(--tcb-theme-main-master-h, 210);
 			--tcb-skin-color-0-s: var(--tcb-theme-main-master-s, 77%);
@@ -1751,12 +1716,9 @@ or the following one for loading the Bootstrap library from jsDelivr:
 			}
 		}
 	</style>
-	<link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__q1713ae60.html" rel="stylesheet"
-		type="text/css" />
-	<link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__qa8ca4c22.html" rel="stylesheet"
-		type="text/css" />
-	<link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__qbe0afaa7.html" rel="stylesheet"
-		type="text/css" />
+	<link data-perf-bundle="1" href="wp-content/cache/perf/css/b_3be575df.css" rel="stylesheet" type="text/css"/>
+	
+	
 	<style id="thrive-default-styles" type="text/css">
 		@media (min-width: 300px) {
 			.tcb-style-wrap h1 {
@@ -2158,16 +2120,15 @@ or the following one for loading the Bootstrap library from jsDelivr:
 <body
 	class="wp-singular post-template-default single single-post postid-8924 single-format-standard wp-theme-thrive-theme ehf-header ehf-footer ehf-template-thrive-theme ehf-stylesheet-thrive-theme tve-theme-2972 thrive-layout-20 thrive-no-next-post thrive-no-next-post-in-category elementor-default elementor-kit-4716">
 	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T79WRWW"
+	<noscript><iframe loading="lazy" height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T79WRWW"
 			style="display:none;visibility:hidden" width="0"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 	<div class="hfeed site" id="page">
 		<?php include __DIR__ . '/includes/header.php'; ?>
 		<!-- Google Tag Manager (noscript) -->
-		<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MJC7C7C4"
-				style="display:none;visibility:hidden" width="0"></iframe></noscript>
+		
 		<!-- End Google Tag Manager (noscript) --><!-- Google Tag Manager (noscript) -->
-		<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T79WRWW"
+		<noscript><iframe loading="lazy" height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T79WRWW"
 				style="display:none;visibility:hidden" width="0"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
 		<style class="tcb-lightspeed-style" id="tcb-style-base-tcb_lightbox-3952"
@@ -7207,7 +7168,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 											<picture>
 												<source media="(min-width:1024px)"
 													srcset="wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY-300x112.png 300w, wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png 463w" />
-												<img alt="options logo" height="173" loading="lazy"
+												<img decoding="async" alt="options logo" height="173" loading="lazy"
 													src="wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
 													style="width: 100%;" width="463" />
 											</picture>
@@ -9497,7 +9458,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 								<div class="tcb-flex-col" data-css="tve-u-17c5a123d1b" style="">
 									<div class="tcb-col">
 										<div class="thrv_wrapper tve_image_caption" data-css="tve-u-17c5a0d61bd"
-											style=""><span class="tve_image_frame"><a href="./"><img alt=""
+											style=""><span class="tve_image_frame"><a href="./"><img decoding="async" alt=""
 														class="tve_image wp-image-3085" data-css="tve-u-17c5a0d7558"
 														data-height="66" data-id="3085" data-init-height="159"
 														data-init-width="420" data-link-wrap="true" data-width="175"
@@ -10509,7 +10470,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 			</defs>
 		</svg>
 	</div>
-	<script type="text/javascript">($ => {
+	<script type="text/javascript">document.addEventListener('DOMContentLoaded',function(){($ => {
 			/**
 			 * Displays toast message from storage, it is used when the user is redirected after login
 			 */
@@ -10542,7 +10503,8 @@ or the following one for loading the Bootstrap library from jsDelivr:
 				TCB_Front.notificationElement.toggle(message, error ? 'error' : 'success', callback);
 			}
 		})(typeof ThriveGlobal === 'undefined' ? jQuery : ThriveGlobal.$j);
-	</script>
+	
+});</script>
 	<style id="tve_notification_styles" type="text/css"></style>
 	<div class="tvd-toast tve-fe-message" style="display: none">
 		<div class="tve-toast-message tve-success-message">
@@ -10578,7 +10540,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 			document.addEventListener(event, lazyloadRunObserver);
 		});
 	</script>
-	<script type="text/javascript">window.TVE_Event_Manager_Registered_Callbacks = window.TVE_Event_Manager_Registered_Callbacks || {}; window.TVE_Event_Manager_Registered_Callbacks.thrive_lightbox = function (t, a, c) { var $t = jQuery("#tve_thrive_lightbox_" + c.l_id); if (t === "exit" && $t.data("shown-on-exit")) { return; } $t.css("display", ""); $t.data("shown-on-" + t, true); var a = c.l_anim || "instant"; TCB_Front.openLightbox($t, a); return false; };; window.TVE_Event_Manager_Registered_Callbacks.thrive_animation = function (trigger, action, config) {
+	<script type="text/javascript">document.addEventListener('DOMContentLoaded',function(){window.TVE_Event_Manager_Registered_Callbacks = window.TVE_Event_Manager_Registered_Callbacks || {}; window.TVE_Event_Manager_Registered_Callbacks.thrive_lightbox = function (t, a, c) { var $t = jQuery("#tve_thrive_lightbox_" + c.l_id); if (t === "exit" && $t.data("shown-on-exit")) { return; } $t.css("display", ""); $t.data("shown-on-" + t, true); var a = c.l_anim || "instant"; TCB_Front.openLightbox($t, a); return false; };; window.TVE_Event_Manager_Registered_Callbacks.thrive_animation = function (trigger, action, config) {
 			var $element = jQuery(this),
 			$at = $element.closest('.tcb-col, .thrv_wrapper');
 			if ($at.length === 0) {
@@ -10620,7 +10582,8 @@ or the following one for loading the Bootstrap library from jsDelivr:
 				}, 50);
 			}
 			return false;
-		};</script>
+		};
+});</script>
 	<style class="tcb-lightspeed-style" id="tcb-style-base-tcb_lightbox-3952"
 		onload="typeof window.lightspeedOptimizeStylesheet === 'function' &amp;&amp; window.lightspeedOptimizeStylesheet()"
 		type="text/css">
@@ -12810,13 +12773,13 @@ or the following one for loading the Bootstrap library from jsDelivr:
 	</script>
 	<script id="kk-star-ratings-js"
 		src="wp-content/plugins/kk-star-ratings/src/core/public/js/kk-star-ratings.min__qf503e290.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="wpblog-post-layouts-elements-scripts-js"
 		src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/elementor-frontend__q8daf52c7.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="wpblog-post-layouts-public-script-js"
 		src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/frontend__q8daf52c7.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="tve-dash-frontend-js-extra" type="text/javascript">
 		/* <![CDATA[ */
 		var tve_dash_front = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "force_ajax_send": "1", "is_crawler": "", "recaptcha": [], "turnstile": [], "post_id": "8924" };
@@ -12825,54 +12788,54 @@ or the following one for loading the Bootstrap library from jsDelivr:
 	</script>
 	<script id="tve-dash-frontend-js"
 		src="wp-content/plugins/thrive-ultimatum/thrive-dashboard/js/dist/frontend.min__qe79741bf.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="tve_frontend_search-form-js"
 		src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/search-form.min__q011b470d.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="tve_frontend_divider-js"
 		src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/divider.min__q011b470d.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="tve_frontend_social-share-js"
 		src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/social-share.min__q011b470d.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="tve_frontend_post-grid-compat-js"
 		src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/post-grid-compat.min__q011b470d.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="tve_frontend_dropdown-js"
 		src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/dropdown.min__q011b470d.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="tve_frontend_menu-js"
 		src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/menu.min__q011b470d.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script async="async" data-wp-strategy="async" fetchpriority="low" id="comment-reply-js"
 		src="wp-includes/js/comment-reply.min__q98f937dc.js" type="text/javascript"></script>
-	<script id="underscore-js" src="wp-includes/js/underscore.min__q3ab81072.js" type="text/javascript"></script>
-	<script id="backbone-js" src="wp-includes/js/backbone.min__qaff7fff4.js" type="text/javascript"></script>
+	<script id="underscore-js" src="wp-includes/js/underscore.min__q3ab81072.js" type="text/javascript" defer></script>
+	<script id="backbone-js" src="wp-includes/js/backbone.min__qaff7fff4.js" type="text/javascript" defer></script>
 	<script id="tcm-frontend-js-js-extra" type="text/javascript">
 		/* <![CDATA[ */
-		var ThriveComments = { "current_user": { "photo_url": "wp-content/plugins/thrive-comments/assets/images/placeholder_avatar_icon.svg", "is_admin": false }, "translations": { "isRequired": "Please enter a valid email address", "author_name_required": "Please add your name before submitting the comment", "comment_content_missing": "Please add your comment text in the field below", "choose_avatar": "Choose an avatar", "choose_avatar_button": "Select", "settings_saved_success_toast": "Settings saved successfully.", "settings_saved_fail_toast": "There seems to be a problem in changing the settings. Please, try again and if the error persists contact our support team.", "options_saved_success_toast": "Option changed successfully.", "options_saved_fail_toast": "There seems to be a problem in changing this option. Please, try again and if the error persists contact our support team.", "comments_saved_error": "There was a problem in saving your comment. Please, try again!.", "tcm_duplicate_comment_error": "Duplicate comment detected, it looks as though you've already said that!", "tcm_get_comments_error": "The comments could not be retrieved", "change_image": "Change image", "choose_image": "Choose image", "default_avatar": "Selected image: default placeholder", "selected_image": "Selected image", "comment_to_fast": "You are posting comments too quickly. Slow down.", "link_copied": "Link copied to clipboard", "conversion_leads_availabe": "Option available only if you have ", "conversion_leads_installed": "installed", "badge_default_title": "Badge title", "badge_no_empty_name": "Badge name field can't be empty", "badge_reaches_only_number": "Reaches input can only be a positive number and can't be empty.", "badge_select_image": "Please select a badge image before saving", "badge_same_settings": "You have already set a badge with the same conditions.", "approved": "Approved", "unapproved": "Unapproved", "reply_needed": "Reply Needed", "not_reply_needed": "No Reply Needed", "spam": "spam", "trash": "trash", "entire_website": "Entire Website", "reply_failed": "Failed to submit reply!", "label_enabled": "Enabled", "label_disabled": "Disabled", "invalid_website_url": "Invalid website url", "accept_privacy_checkbox": "Please accept the privacy checkbox", "email_copied": "Email copied to clipboard", "autolink_added": "Auto-Link added successfully!", "autolink_changed": "Changes on Auto-Link were saved successfully!", "autolink_error": "Error while creating Auto-Link!", "copy_input": "Copied", "tcb_prevent_insert_element": "You cannot add two Thrive Comments sections on the same page", "comment_by": "Comment by", "moderation_approved": "was approved", "moderation_unapproved": "was unapproved", "moderation_no_replied": "was marked as No Reply Needed", "moderation_replied": "was replied", "moderation_featured": "was marked as Featured comment", "moderation_no_featured": "is no longer featured", "moderation_delegate": "was delegated to", "moderation_not_spam": "is not spam", "moderation_spam": "was marked as spam", "moderation_trash": "was marked as trash", "moderation_restored": "was restored", "approve_text": "Approve", "unapprove_text": "Unapprove", "feature_text": "Feature", "stop_feature_text": "Stop Featuring", "spam_text": "Mark as Spam", "trash_text": "Mark as Trash", "comment_sending": "Sending...", "comment_pending": "Pending...", "nr_votes": "Number of Votes", "nr_comments": "Number of Comments", "moderation_expand": "Expand", "moderation_error": "Error encountered for the following action", "edit": "Edit", "delegate": "Delegate", "reply": "Reply", "no_reply_needed": "No Reply Needed", "error": "Error", "see_comment_reply": "Click here to see the reply.", "see_comment_edit": "Click here to see the edited comment." }, "nonce": "52d3aee43c", "routes": { "comments": "https://optionspa.com/wp-json/tcm/v1/comments", "gravatar": "https://optionspa.com/wp-json/tcm/v1/comments/gravatar", "live_update": "https://optionspa.com/wp-json/tcm/v1/comments/live_update", "update_post_subscriber": "https://optionspa.com/wp-json/tcm/v1/comments/update_post_subscriber", "generate_nonce": "https://optionspa.com/wp-admin/admin-ajax.php" }, "post": { "ID": 8924, "post_author": "4", "post_date": "2026-08-14 06:07:51", "post_title": "How to Get Evaluated for Spravato Therapy: A Complete Guide", "post_excerpt": "", "post_status": "publish", "comment_status": "open", "post_name": "how-to-get-evaluated-for-spravato-therapy-a-complete-guide", "to_ping": "", "pinged": "", "post_parent": 0, "guid": "https://optionspa.com/?p=8924", "menu_order": 0, "post_type": "post", "post_mime_type": "", "comment_count": "0", "filter": "raw", "featured_image": "wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.png", "permalink": "https://optionspa.com/how-to-get-evaluated-for-spravato-therapy-a-complete-guide/", "ancestors": [], "post_category": [233], "tags_input": [] }, "related_posts": [{ "post_id": 8798, "post_title": "Is Spravato\u00ae Covered by Insurance? Complete 2026 Guide", "guid": "https://optionspa.com/?p=8798", "featured_image": "wp-content/uploads/2026/07/Screenshot-2026-07-14-142503.png" }, { "post_id": 8629, "post_title": "TMS Therapy vs. Spravato: Which Depression Treatment Is Right for You?", "guid": "https://optionspa.com/?p=8629", "featured_image": "wp-content/uploads/2026/06/Jun-12-2026-02_07_51-PM.png" }, { "post_id": 8867, "post_title": "Is Bipolar Disorder a Permanent Disability? Complete Guide", "guid": "https://optionspa.com/?p=8867", "featured_image": "wp-content/uploads/2026/08/WhatsApp-Image-2026-08-06-at-3.24.23-PM.jpeg" }, { "post_id": 8814, "post_title": "Is OCD a Disability? See What Expert Says", "guid": "https://optionspa.com/?p=8814", "featured_image": "wp-content/uploads/2026/07/ChatGPT-Image-Jul-14-2026-02_41_21-PM.png" }], "const": { "toast_timeout": 4000, "wp_content": "https://optionspa.com/wp-content/", "ajax_dash": ["tcm_ajax_dash"], "site_url": "https://optionspa.com", "post_url": "https://optionspa.com/how-to-get-evaluated-for-spravato-therapy-a-complete-guide/", "moderation": { "approve": "approved", "unapprove": "hold", "spam": "spam", "unspam": "unspam", "trash": "trash", "untrash": "untrash", "unreplied": "tcm_unreplied", "tcm_delegate": "tcm_delegate", "tcm_featured": "tcm_featured", "tcm_keyboard_tooltip": "tcm_display_keyboard_notification_tooltip", "featured": 1, "not_featured": 0 } }, "settings": { "activate_comments": 1, "comment_registration": "0", "close_comments_for_old_posts": "0", "close_comments_days_old": "14", "comments_per_page": "50", "page_comments": "0", "is_dynamic": 0, "comment_order": "asc", "gravatar_active": 1, "tcm_default_picture": "", "powered_by": 1, "comment_date": "1", "share_individual_comments": 1, "comment_style_template": 1, "lazy_load": 1, "lazy_load_avatar": 0, "tcm_labels_option": { "number_of_comments": { "default": "{number_of_comments} comments", "text": "{number_of_comments} comments" }, "show_comments_first": { "default": "{dropdown_option} comments first", "text": "{dropdown_option} comments first" }, "newest": { "default": "Newest", "text": "Newest" }, "oldest": { "default": "Oldest", "text": "Oldest" }, "top_rated": { "default": "Top rated", "text": "Top rated" }, "enter_comment": { "default": "Enter your comment...", "text": "Enter your comment..." }, "load_comments": { "default": "Load more comments", "text": "Load more comments" }, "add_comment": { "default": "Add your comment...", "text": "Add your comment..." }, "reply_to_user": { "default": "Reply to {username}", "text": "Reply to {username}" }, "commenting_as": { "default": "Commenting as {username}", "text": "Commenting as {username}" }, "social_account": { "default": "Log in with:", "text": "Log in with:" }, "guest_comment": { "default": "Comment as a guest:", "text": "Comment as a guest:" }, "name": { "default": "Name", "text": "Name" }, "email": { "default": "Email (not displayed publicly)", "text": "Email (not displayed publicly)" }, "website": { "default": "Website", "text": "Website" }, "submit_comment": { "default": "Submit comment", "text": "Submit comment" }, "vote": { "default": "Vote:", "text": "Vote:" }, "share": { "default": "Share", "text": "Share" }, "copy_url": { "default": "Copy link to comment", "text": "Copy link to comment" }, "close_comments": { "default": "Comments are closed", "text": "Comments are closed" }, "email_address": { "default": "Email address", "text": "Email address" }, "subscribe": { "default": "Subscribe to comments", "text": "Subscribe to comments" }, "unsubscribe": { "default": "Unsubscribe", "text": "Unsubscribe" }, "logout_change": { "default": "Logout/Change", "text": "Logout/Change" }, "login_on_website": { "default": "Login on website", "text": "Login on website" }, "signin_facebook": { "default": "Sign in with Facebook", "text": "Sign in with Facebook" }, "signin_google": { "default": "Sign in with Google", "text": "Sign in with Google" }, "comment_content_missing": { "default": "Please add your comment text in the field below", "text": "Please add your comment text in the field below" }, "author_name_required": { "default": "Please add your name before submitting the comment", "text": "Please add your name before submitting the comment" }, "isRequired": { "default": "Please enter a valid email address", "text": "Please enter a valid email address" }, "need_register": { "default": "The comment could not be saved. You must be registered in order to comment", "text": "The comment could not be saved. You must be registered in order to comment" }, "login_submit_comment": { "default": "You need to be logged in to submit a comment", "text": "You need to be logged in to submit a comment" }, "comment_duplicate": { "default": "Duplicate comment detected, it looks as though you've already said that!", "text": "Duplicate comment detected, it looks as though you've already said that!" }, "comment_flood": { "default": "You are posting comments too quickly. Slow down.", "text": "You are posting comments too quickly. Slow down." }, "spam_comment": { "default": "Your comment was marked as spam", "text": "Your comment was marked as spam" }, "rest_cookie_invalid_nonce": { "default": "Cookie nonce is invalid", "text": "Cookie nonce is invalid" }, "tcm_receive_notifications": { "default": "Notify me when someone replies to my comment", "text": "Notify me when someone replies to my comment" }, "remember_me": { "default": "Save the details above in this browser for the next time I comment", "text": "Save the details above in this browser for the next time I comment" }, "storing_consent": { "default": "By using this form you agree with the storage and handling of your data by this website", "text": "By using this form you agree with the storage and handling of your data by this website" } }, "tcm_color_picker_value": "#03a9f4", "tcm_notification_labels": { "email_subject": { "default": "New reply to your comment {comment_start}", "text": "New reply to your comment {comment_start}" }, "content_title": { "default": "A reply to your comment was posted on {site_title}", "text": "A reply to your comment was posted on {site_title}" }, "comment_posted": { "default": "Comment posted on {site_title}", "text": "Comment posted on {site_title}" }, "reply_to": { "default": "Reply to {source_commenter_name}", "text": "Reply to {source_commenter_name}" }, "signed_up": { "default": "You are signed up to be notified of replies to your comment on {source_page}", "text": "You are signed up to be notified of replies to your comment on {source_page}" }, "unsubscribe": { "default": "You can {unsubscribe_link} from these notifications. Please note that this will unsubscribe you only from this notification thread. If you have signed up to receive notifications to other comments or comment threads on {site_title}, you will still receive those.", "text": "You can {unsubscribe_link} from these notifications. Please note that this will unsubscribe you only from this notification thread. If you have signed up to receive notifications to other comments or comment threads on {site_title}, you will still receive those." }, "replied_comment": { "default": "{source_commenter_name} wrote this reply in response to the comment by {comment_author} on {source_page}", "text": "{source_commenter_name} wrote this reply in response to the comment by {comment_author} on {source_page}" }, "unsubscribe_text": { "default": "click here to unsubscribe", "text": "click here to unsubscribe" }, "post_email_subject": { "default": "New comment posted on {source_page}", "text": "New comment posted on {source_page}" }, "post_content_title": { "default": "A new comment was posted on {site_title}", "text": "A new comment was posted on {site_title}" }, "post_comment_posted": { "default": "Comment posted on {site_title}", "text": "Comment posted on {site_title}" }, "post_reply_to": { "default": "Reply to {source_commenter_name}", "text": "Reply to {source_commenter_name}" }, "post_signed_up": { "default": "You are signed up to be notified of replies to your comment on {source_page}", "text": "You are signed up to be notified of replies to your comment on {source_page}" }, "post_unsubscribe": { "default": "You can {unsubscribe_link} from these notifications. Please note that this will unsubscribe you only from this notification  thread. If you have signed up to receive notifications to other comments or comment threads on {site_title}, you will still receive those.", "text": "You can {unsubscribe_link} from these notifications. Please note that this will unsubscribe you only from this notification  thread. If you have signed up to receive notifications to other comments or comment threads on {site_title}, you will still receive those." }, "post_unsubscribe_text": { "default": "click here to unsubscribe", "text": "click here to unsubscribe" } }, "tcm_keywords": "", "tcm_live_update": 0, "tcm_live_update_refresh_rate": 20, "tcm_enable_social_signin": 0, "tcm_show_url": 1, "login_activation": 0, "tcm_badges": "", "tcm_badges_option": false, "tcm_badges_custom_images": "", "tcm_voting_only_register": false, "tcm_conversion": "", "tcm_roles": "", "tcm_mod_administrator": "1", "tcm_mod_editor": "1", "tcm_mod_author": "1", "tcm_mod_contributor": "0", "tcm_mod_subscriber": "0", "tcm_exclude_moderators": 0, "tcm_vote_type": "no_vote", "tcm_email_service": "", "tcm_api_status": { "facebook": 1, "google": 1, "facebook_api": 0, "google_api": 0 }, "badges_to_moderators": 1, "tcm_mark_upvoted": 1, "comment_moderation": "0", "comment_max_links": "2", "moderation_keys": "", "tcm_meta_tags": 0, "tcm_moderators_notifications": 1, "remember_me": 0, "storing_consent": 0, "comment_previously_approved": "1", "disallowed_keys": "" }, "close_comments": "", "sorting": { "sort_name": "oldest", "sort_field": "comment_ID", "order": 1 }, "tcm_customize_labels": { "number_of_comments": { "default": "{number_of_comments} comments", "text": "{number_of_comments} comments" }, "show_comments_first": { "default": "{dropdown_option} comments first", "text": "{dropdown_option} comments first" }, "newest": { "default": "Newest", "text": "Newest" }, "oldest": { "default": "Oldest", "text": "Oldest" }, "top_rated": { "default": "Top rated", "text": "Top rated" }, "enter_comment": { "default": "Enter your comment...", "text": "Enter your comment..." }, "load_comments": { "default": "Load more comments", "text": "Load more comments" }, "add_comment": { "default": "Add your comment...", "text": "Add your comment..." }, "reply_to_user": { "default": "Reply to {username}", "text": "Reply to {username}" }, "commenting_as": { "default": "Commenting as {username}", "text": "Commenting as {username}" }, "social_account": { "default": "Log in with:", "text": "Log in with:" }, "guest_comment": { "default": "Comment as a guest:", "text": "Comment as a guest:" }, "name": { "default": "Name", "text": "Name" }, "email": { "default": "Email (not displayed publicly)", "text": "Email (not displayed publicly)" }, "website": { "default": "Website", "text": "Website" }, "submit_comment": { "default": "Submit comment", "text": "Submit comment" }, "vote": { "default": "Vote:", "text": "Vote:" }, "share": { "default": "Share", "text": "Share" }, "copy_url": { "default": "Copy link to comment", "text": "Copy link to comment" }, "close_comments": { "default": "Comments are closed", "text": "Comments are closed" }, "email_address": { "default": "Email address", "text": "Email address" }, "subscribe": { "default": "Subscribe to comments", "text": "Subscribe to comments" }, "unsubscribe": { "default": "Unsubscribe", "text": "Unsubscribe" }, "logout_change": { "default": "Logout/Change", "text": "Logout/Change" }, "login_on_website": { "default": "Login on website", "text": "Login on website" }, "signin_facebook": { "default": "Sign in with Facebook", "text": "Sign in with Facebook" }, "signin_google": { "default": "Sign in with Google", "text": "Sign in with Google" }, "comment_content_missing": { "default": "Please add your comment text in the field below", "text": "Please add your comment text in the field below" }, "author_name_required": { "default": "Please add your name before submitting the comment", "text": "Please add your name before submitting the comment" }, "isRequired": { "default": "Please enter a valid email address", "text": "Please enter a valid email address" }, "need_register": { "default": "The comment could not be saved. You must be registered in order to comment", "text": "The comment could not be saved. You must be registered in order to comment" }, "login_submit_comment": { "default": "You need to be logged in to submit a comment", "text": "You need to be logged in to submit a comment" }, "comment_duplicate": { "default": "Duplicate comment detected, it looks as though you've already said that!", "text": "Duplicate comment detected, it looks as though you've already said that!" }, "comment_flood": { "default": "You are posting comments too quickly. Slow down.", "text": "You are posting comments too quickly. Slow down." }, "spam_comment": { "default": "Your comment was marked as spam", "text": "Your comment was marked as spam" }, "rest_cookie_invalid_nonce": { "default": "Cookie nonce is invalid", "text": "Cookie nonce is invalid" }, "tcm_receive_notifications": { "default": "Notify me when someone replies to my comment", "text": "Notify me when someone replies to my comment" }, "remember_me": { "default": "Save the details above in this browser for the next time I comment", "text": "Save the details above in this browser for the next time I comment" }, "storing_consent": { "default": "By using this form you agree with the storage and handling of your data by this website", "text": "By using this form you agree with the storage and handling of your data by this website" } }, "tcm_social_apis": { "facebook": [], "google": [] }, "email_services": [], "tcm_accent_color": "#03a9f4", "has_plugin_cache": "thrive-leads", "default_author_picture_url": "wp-content/plugins/thrive-comments/assets/images/placeholder_avatar_icon.svg", "recaptcha_enabled": "", "recaptcha": { "site_key": "" } };
+		var ThriveComments = { "current_user": { "photo_url": "wp-content/plugins/thrive-comments/assets/images/placeholder_avatar_icon.svg", "is_admin": false }, "translations": { "isRequired": "Please enter a valid email address", "author_name_required": "Please add your name before submitting the comment", "comment_content_missing": "Please add your comment text in the field below", "choose_avatar": "Choose an avatar", "choose_avatar_button": "Select", "settings_saved_success_toast": "Settings saved successfully.", "settings_saved_fail_toast": "There seems to be a problem in changing the settings. Please, try again and if the error persists contact our support team.", "options_saved_success_toast": "Option changed successfully.", "options_saved_fail_toast": "There seems to be a problem in changing this option. Please, try again and if the error persists contact our support team.", "comments_saved_error": "There was a problem in saving your comment. Please, try again!.", "tcm_duplicate_comment_error": "Duplicate comment detected, it looks as though you've already said that!", "tcm_get_comments_error": "The comments could not be retrieved", "change_image": "Change image", "choose_image": "Choose image", "default_avatar": "Selected image: default placeholder", "selected_image": "Selected image", "comment_to_fast": "You are posting comments too quickly. Slow down.", "link_copied": "Link copied to clipboard", "conversion_leads_availabe": "Option available only if you have ", "conversion_leads_installed": "installed", "badge_default_title": "Badge title", "badge_no_empty_name": "Badge name field can't be empty", "badge_reaches_only_number": "Reaches input can only be a positive number and can't be empty.", "badge_select_image": "Please select a badge image before saving", "badge_same_settings": "You have already set a badge with the same conditions.", "approved": "Approved", "unapproved": "Unapproved", "reply_needed": "Reply Needed", "not_reply_needed": "No Reply Needed", "spam": "spam", "trash": "trash", "entire_website": "Entire Website", "reply_failed": "Failed to submit reply!", "label_enabled": "Enabled", "label_disabled": "Disabled", "invalid_website_url": "Invalid website url", "accept_privacy_checkbox": "Please accept the privacy checkbox", "email_copied": "Email copied to clipboard", "autolink_added": "Auto-Link added successfully!", "autolink_changed": "Changes on Auto-Link were saved successfully!", "autolink_error": "Error while creating Auto-Link!", "copy_input": "Copied", "tcb_prevent_insert_element": "You cannot add two Thrive Comments sections on the same page", "comment_by": "Comment by", "moderation_approved": "was approved", "moderation_unapproved": "was unapproved", "moderation_no_replied": "was marked as No Reply Needed", "moderation_replied": "was replied", "moderation_featured": "was marked as Featured comment", "moderation_no_featured": "is no longer featured", "moderation_delegate": "was delegated to", "moderation_not_spam": "is not spam", "moderation_spam": "was marked as spam", "moderation_trash": "was marked as trash", "moderation_restored": "was restored", "approve_text": "Approve", "unapprove_text": "Unapprove", "feature_text": "Feature", "stop_feature_text": "Stop Featuring", "spam_text": "Mark as Spam", "trash_text": "Mark as Trash", "comment_sending": "Sending...", "comment_pending": "Pending...", "nr_votes": "Number of Votes", "nr_comments": "Number of Comments", "moderation_expand": "Expand", "moderation_error": "Error encountered for the following action", "edit": "Edit", "delegate": "Delegate", "reply": "Reply", "no_reply_needed": "No Reply Needed", "error": "Error", "see_comment_reply": "Click here to see the reply.", "see_comment_edit": "Click here to see the edited comment." }, "nonce": "52d3aee43c", "routes": { "comments": "https://optionspa.com/wp-json/tcm/v1/comments", "gravatar": "https://optionspa.com/wp-json/tcm/v1/comments/gravatar", "live_update": "https://optionspa.com/wp-json/tcm/v1/comments/live_update", "update_post_subscriber": "https://optionspa.com/wp-json/tcm/v1/comments/update_post_subscriber", "generate_nonce": "https://optionspa.com/wp-admin/admin-ajax.php" }, "post": { "ID": 8924, "post_author": "4", "post_date": "2026-08-14 06:07:51", "post_title": "How to Get Evaluated for Spravato Therapy: A Complete Guide", "post_excerpt": "", "post_status": "publish", "comment_status": "open", "post_name": "how-to-get-evaluated-for-spravato-therapy-a-complete-guide", "to_ping": "", "pinged": "", "post_parent": 0, "guid": "https://optionspa.com/?p=8924", "menu_order": 0, "post_type": "post", "post_mime_type": "", "comment_count": "0", "filter": "raw", "featured_image": "wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.webp", "permalink": "https://optionspa.com/how-to-get-evaluated-for-spravato-therapy-a-complete-guide/", "ancestors": [], "post_category": [233], "tags_input": [] }, "related_posts": [{ "post_id": 8798, "post_title": "Is Spravato\u00ae Covered by Insurance? Complete 2026 Guide", "guid": "https://optionspa.com/?p=8798", "featured_image": "wp-content/uploads/2026/07/Screenshot-2026-07-14-142503.webp" }, { "post_id": 8629, "post_title": "TMS Therapy vs. Spravato: Which Depression Treatment Is Right for You?", "guid": "https://optionspa.com/?p=8629", "featured_image": "wp-content/uploads/2026/06/Jun-12-2026-02_07_51-PM.webp" }, { "post_id": 8867, "post_title": "Is Bipolar Disorder a Permanent Disability? Complete Guide", "guid": "https://optionspa.com/?p=8867", "featured_image": "wp-content/uploads/2026/08/WhatsApp-Image-2026-08-06-at-3.24.23-PM.jpeg" }, { "post_id": 8814, "post_title": "Is OCD a Disability? See What Expert Says", "guid": "https://optionspa.com/?p=8814", "featured_image": "wp-content/uploads/2026/07/ChatGPT-Image-Jul-14-2026-02_41_21-PM.webp" }], "const": { "toast_timeout": 4000, "wp_content": "https://optionspa.com/wp-content/", "ajax_dash": ["tcm_ajax_dash"], "site_url": "https://optionspa.com", "post_url": "https://optionspa.com/how-to-get-evaluated-for-spravato-therapy-a-complete-guide/", "moderation": { "approve": "approved", "unapprove": "hold", "spam": "spam", "unspam": "unspam", "trash": "trash", "untrash": "untrash", "unreplied": "tcm_unreplied", "tcm_delegate": "tcm_delegate", "tcm_featured": "tcm_featured", "tcm_keyboard_tooltip": "tcm_display_keyboard_notification_tooltip", "featured": 1, "not_featured": 0 } }, "settings": { "activate_comments": 1, "comment_registration": "0", "close_comments_for_old_posts": "0", "close_comments_days_old": "14", "comments_per_page": "50", "page_comments": "0", "is_dynamic": 0, "comment_order": "asc", "gravatar_active": 1, "tcm_default_picture": "", "powered_by": 1, "comment_date": "1", "share_individual_comments": 1, "comment_style_template": 1, "lazy_load": 1, "lazy_load_avatar": 0, "tcm_labels_option": { "number_of_comments": { "default": "{number_of_comments} comments", "text": "{number_of_comments} comments" }, "show_comments_first": { "default": "{dropdown_option} comments first", "text": "{dropdown_option} comments first" }, "newest": { "default": "Newest", "text": "Newest" }, "oldest": { "default": "Oldest", "text": "Oldest" }, "top_rated": { "default": "Top rated", "text": "Top rated" }, "enter_comment": { "default": "Enter your comment...", "text": "Enter your comment..." }, "load_comments": { "default": "Load more comments", "text": "Load more comments" }, "add_comment": { "default": "Add your comment...", "text": "Add your comment..." }, "reply_to_user": { "default": "Reply to {username}", "text": "Reply to {username}" }, "commenting_as": { "default": "Commenting as {username}", "text": "Commenting as {username}" }, "social_account": { "default": "Log in with:", "text": "Log in with:" }, "guest_comment": { "default": "Comment as a guest:", "text": "Comment as a guest:" }, "name": { "default": "Name", "text": "Name" }, "email": { "default": "Email (not displayed publicly)", "text": "Email (not displayed publicly)" }, "website": { "default": "Website", "text": "Website" }, "submit_comment": { "default": "Submit comment", "text": "Submit comment" }, "vote": { "default": "Vote:", "text": "Vote:" }, "share": { "default": "Share", "text": "Share" }, "copy_url": { "default": "Copy link to comment", "text": "Copy link to comment" }, "close_comments": { "default": "Comments are closed", "text": "Comments are closed" }, "email_address": { "default": "Email address", "text": "Email address" }, "subscribe": { "default": "Subscribe to comments", "text": "Subscribe to comments" }, "unsubscribe": { "default": "Unsubscribe", "text": "Unsubscribe" }, "logout_change": { "default": "Logout/Change", "text": "Logout/Change" }, "login_on_website": { "default": "Login on website", "text": "Login on website" }, "signin_facebook": { "default": "Sign in with Facebook", "text": "Sign in with Facebook" }, "signin_google": { "default": "Sign in with Google", "text": "Sign in with Google" }, "comment_content_missing": { "default": "Please add your comment text in the field below", "text": "Please add your comment text in the field below" }, "author_name_required": { "default": "Please add your name before submitting the comment", "text": "Please add your name before submitting the comment" }, "isRequired": { "default": "Please enter a valid email address", "text": "Please enter a valid email address" }, "need_register": { "default": "The comment could not be saved. You must be registered in order to comment", "text": "The comment could not be saved. You must be registered in order to comment" }, "login_submit_comment": { "default": "You need to be logged in to submit a comment", "text": "You need to be logged in to submit a comment" }, "comment_duplicate": { "default": "Duplicate comment detected, it looks as though you've already said that!", "text": "Duplicate comment detected, it looks as though you've already said that!" }, "comment_flood": { "default": "You are posting comments too quickly. Slow down.", "text": "You are posting comments too quickly. Slow down." }, "spam_comment": { "default": "Your comment was marked as spam", "text": "Your comment was marked as spam" }, "rest_cookie_invalid_nonce": { "default": "Cookie nonce is invalid", "text": "Cookie nonce is invalid" }, "tcm_receive_notifications": { "default": "Notify me when someone replies to my comment", "text": "Notify me when someone replies to my comment" }, "remember_me": { "default": "Save the details above in this browser for the next time I comment", "text": "Save the details above in this browser for the next time I comment" }, "storing_consent": { "default": "By using this form you agree with the storage and handling of your data by this website", "text": "By using this form you agree with the storage and handling of your data by this website" } }, "tcm_color_picker_value": "#03a9f4", "tcm_notification_labels": { "email_subject": { "default": "New reply to your comment {comment_start}", "text": "New reply to your comment {comment_start}" }, "content_title": { "default": "A reply to your comment was posted on {site_title}", "text": "A reply to your comment was posted on {site_title}" }, "comment_posted": { "default": "Comment posted on {site_title}", "text": "Comment posted on {site_title}" }, "reply_to": { "default": "Reply to {source_commenter_name}", "text": "Reply to {source_commenter_name}" }, "signed_up": { "default": "You are signed up to be notified of replies to your comment on {source_page}", "text": "You are signed up to be notified of replies to your comment on {source_page}" }, "unsubscribe": { "default": "You can {unsubscribe_link} from these notifications. Please note that this will unsubscribe you only from this notification thread. If you have signed up to receive notifications to other comments or comment threads on {site_title}, you will still receive those.", "text": "You can {unsubscribe_link} from these notifications. Please note that this will unsubscribe you only from this notification thread. If you have signed up to receive notifications to other comments or comment threads on {site_title}, you will still receive those." }, "replied_comment": { "default": "{source_commenter_name} wrote this reply in response to the comment by {comment_author} on {source_page}", "text": "{source_commenter_name} wrote this reply in response to the comment by {comment_author} on {source_page}" }, "unsubscribe_text": { "default": "click here to unsubscribe", "text": "click here to unsubscribe" }, "post_email_subject": { "default": "New comment posted on {source_page}", "text": "New comment posted on {source_page}" }, "post_content_title": { "default": "A new comment was posted on {site_title}", "text": "A new comment was posted on {site_title}" }, "post_comment_posted": { "default": "Comment posted on {site_title}", "text": "Comment posted on {site_title}" }, "post_reply_to": { "default": "Reply to {source_commenter_name}", "text": "Reply to {source_commenter_name}" }, "post_signed_up": { "default": "You are signed up to be notified of replies to your comment on {source_page}", "text": "You are signed up to be notified of replies to your comment on {source_page}" }, "post_unsubscribe": { "default": "You can {unsubscribe_link} from these notifications. Please note that this will unsubscribe you only from this notification  thread. If you have signed up to receive notifications to other comments or comment threads on {site_title}, you will still receive those.", "text": "You can {unsubscribe_link} from these notifications. Please note that this will unsubscribe you only from this notification  thread. If you have signed up to receive notifications to other comments or comment threads on {site_title}, you will still receive those." }, "post_unsubscribe_text": { "default": "click here to unsubscribe", "text": "click here to unsubscribe" } }, "tcm_keywords": "", "tcm_live_update": 0, "tcm_live_update_refresh_rate": 20, "tcm_enable_social_signin": 0, "tcm_show_url": 1, "login_activation": 0, "tcm_badges": "", "tcm_badges_option": false, "tcm_badges_custom_images": "", "tcm_voting_only_register": false, "tcm_conversion": "", "tcm_roles": "", "tcm_mod_administrator": "1", "tcm_mod_editor": "1", "tcm_mod_author": "1", "tcm_mod_contributor": "0", "tcm_mod_subscriber": "0", "tcm_exclude_moderators": 0, "tcm_vote_type": "no_vote", "tcm_email_service": "", "tcm_api_status": { "facebook": 1, "google": 1, "facebook_api": 0, "google_api": 0 }, "badges_to_moderators": 1, "tcm_mark_upvoted": 1, "comment_moderation": "0", "comment_max_links": "2", "moderation_keys": "", "tcm_meta_tags": 0, "tcm_moderators_notifications": 1, "remember_me": 0, "storing_consent": 0, "comment_previously_approved": "1", "disallowed_keys": "" }, "close_comments": "", "sorting": { "sort_name": "oldest", "sort_field": "comment_ID", "order": 1 }, "tcm_customize_labels": { "number_of_comments": { "default": "{number_of_comments} comments", "text": "{number_of_comments} comments" }, "show_comments_first": { "default": "{dropdown_option} comments first", "text": "{dropdown_option} comments first" }, "newest": { "default": "Newest", "text": "Newest" }, "oldest": { "default": "Oldest", "text": "Oldest" }, "top_rated": { "default": "Top rated", "text": "Top rated" }, "enter_comment": { "default": "Enter your comment...", "text": "Enter your comment..." }, "load_comments": { "default": "Load more comments", "text": "Load more comments" }, "add_comment": { "default": "Add your comment...", "text": "Add your comment..." }, "reply_to_user": { "default": "Reply to {username}", "text": "Reply to {username}" }, "commenting_as": { "default": "Commenting as {username}", "text": "Commenting as {username}" }, "social_account": { "default": "Log in with:", "text": "Log in with:" }, "guest_comment": { "default": "Comment as a guest:", "text": "Comment as a guest:" }, "name": { "default": "Name", "text": "Name" }, "email": { "default": "Email (not displayed publicly)", "text": "Email (not displayed publicly)" }, "website": { "default": "Website", "text": "Website" }, "submit_comment": { "default": "Submit comment", "text": "Submit comment" }, "vote": { "default": "Vote:", "text": "Vote:" }, "share": { "default": "Share", "text": "Share" }, "copy_url": { "default": "Copy link to comment", "text": "Copy link to comment" }, "close_comments": { "default": "Comments are closed", "text": "Comments are closed" }, "email_address": { "default": "Email address", "text": "Email address" }, "subscribe": { "default": "Subscribe to comments", "text": "Subscribe to comments" }, "unsubscribe": { "default": "Unsubscribe", "text": "Unsubscribe" }, "logout_change": { "default": "Logout/Change", "text": "Logout/Change" }, "login_on_website": { "default": "Login on website", "text": "Login on website" }, "signin_facebook": { "default": "Sign in with Facebook", "text": "Sign in with Facebook" }, "signin_google": { "default": "Sign in with Google", "text": "Sign in with Google" }, "comment_content_missing": { "default": "Please add your comment text in the field below", "text": "Please add your comment text in the field below" }, "author_name_required": { "default": "Please add your name before submitting the comment", "text": "Please add your name before submitting the comment" }, "isRequired": { "default": "Please enter a valid email address", "text": "Please enter a valid email address" }, "need_register": { "default": "The comment could not be saved. You must be registered in order to comment", "text": "The comment could not be saved. You must be registered in order to comment" }, "login_submit_comment": { "default": "You need to be logged in to submit a comment", "text": "You need to be logged in to submit a comment" }, "comment_duplicate": { "default": "Duplicate comment detected, it looks as though you've already said that!", "text": "Duplicate comment detected, it looks as though you've already said that!" }, "comment_flood": { "default": "You are posting comments too quickly. Slow down.", "text": "You are posting comments too quickly. Slow down." }, "spam_comment": { "default": "Your comment was marked as spam", "text": "Your comment was marked as spam" }, "rest_cookie_invalid_nonce": { "default": "Cookie nonce is invalid", "text": "Cookie nonce is invalid" }, "tcm_receive_notifications": { "default": "Notify me when someone replies to my comment", "text": "Notify me when someone replies to my comment" }, "remember_me": { "default": "Save the details above in this browser for the next time I comment", "text": "Save the details above in this browser for the next time I comment" }, "storing_consent": { "default": "By using this form you agree with the storage and handling of your data by this website", "text": "By using this form you agree with the storage and handling of your data by this website" } }, "tcm_social_apis": { "facebook": [], "google": [] }, "email_services": [], "tcm_accent_color": "#03a9f4", "has_plugin_cache": "thrive-leads", "default_author_picture_url": "wp-content/plugins/thrive-comments/assets/images/placeholder_avatar_icon.svg", "recaptcha_enabled": "", "recaptcha": { "site_key": "" } };
 		//# sourceURL=tcm-frontend-js-js-extra
 		/* ]]> */
 	</script>
 	<script id="tcm-frontend-js-js" src="wp-content/plugins/thrive-comments/assets/js/frontend.min__qe79741bf.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="tve_leads_frontend-js" src="wp-content/plugins/thrive-leads/js/frontend.min__qe79741bf.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="elementor-webpack-runtime-js"
-		src="wp-content/plugins/elementor/assets/js/webpack.runtime.min__q5be56f11.js" type="text/javascript"></script>
+		src="wp-content/plugins/elementor/assets/js/webpack.runtime.min__q5be56f11.js" type="text/javascript" defer></script>
 	<script id="elementor-frontend-modules-js"
-		src="wp-content/plugins/elementor/assets/js/frontend-modules.min__q5be56f11.js" type="text/javascript"></script>
+		src="wp-content/plugins/elementor/assets/js/frontend-modules.min__q5be56f11.js" type="text/javascript" defer></script>
 	<script id="elementor-frontend-js-before" type="text/javascript">
 		/* <![CDATA[ */
-		var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.35.3", "is_static": false, "experimentalFeatures": { "e_font_icon_svg": true, "additional_custom_breakpoints": true, "container": true, "e_optimized_markup": true, "e_pro_free_trial_popup": true, "nested-elements": true, "home_screen": true, "global_classes_should_enforce_capabilities": true, "e_variables": true, "cloud-library": true, "e_opt_in_v4_page": true, "e_components": true, "e_interactions": true, "e_editor_one": true, "import-export-customization": true }, "urls": { "assets": "https:\/\/optionspa.com\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/optionspa.com\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "7448d0d352" }, "swiperClass": "swiper", "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 8924, "title": "How%20to%20Get%20Evaluated%20for%20Spravato%20Therapy%3A%20A%20Complete%20Guide", "excerpt": "", "featuredImage": "wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe-1024x576.png" } };
+		var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.35.3", "is_static": false, "experimentalFeatures": { "e_font_icon_svg": true, "additional_custom_breakpoints": true, "container": true, "e_optimized_markup": true, "e_pro_free_trial_popup": true, "nested-elements": true, "home_screen": true, "global_classes_should_enforce_capabilities": true, "e_variables": true, "cloud-library": true, "e_opt_in_v4_page": true, "e_components": true, "e_interactions": true, "e_editor_one": true, "import-export-customization": true }, "urls": { "assets": "https:\/\/optionspa.com\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/optionspa.com\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "7448d0d352" }, "swiperClass": "swiper", "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 8924, "title": "How%20to%20Get%20Evaluated%20for%20Spravato%20Therapy%3A%20A%20Complete%20Guide", "excerpt": "", "featuredImage": "wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe-1024x576.webp" } };
 		//# sourceURL=elementor-frontend-js-before
 		/* ]]> */
 	</script>
 	<script id="elementor-frontend-js" src="wp-content/plugins/elementor/assets/js/frontend.min__q5be56f11.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script id="tve_frontend_lead-generation-js"
 		src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/lead-generation.min__q011b470d.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 	<script class="tcb-post-list-template" data-identifier="tve-u-16f8a014a2f" type="text/template">{({tcb_post_list_dynamic_style})}@media (min-width: 300px){.tve-theme-2972 .content-section {({data-css="tve-u-16f8a014a2f"})}.tcb-post-list #post-{({tcb_the_id})} {({data-css="tve-u-16f8a014a35"})}{background-image: url("{({tcb_featured_image_url size=medium}")}") !important;}}{({/tcb_post_list_dynamic_style})}
 <div class="thrv_wrapper thrv-columns" data-css="tve-u-16f8a014a32" style="--tcb-col-el-width: 0;"><div class="tcb-flex-row v-2 tcb-mobile-no-wrap m-edit tcb--cols--2" data-css="tve-u-16f8a014a33"><div class="tcb-flex-col"><div class="tcb-col"><a href="{({tcb_post_the_permalink})}" class="tve-dynamic-link" dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="4187"><div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad tcb-local-vars-root" data-css="tve-u-16f8a014a34">
 <div class="tve-content-box-background" data-css="tve-u-16f8a014a35" style=""></div>
@@ -12910,7 +12873,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 	<!-- Add HTML code to the header or the footer.
 
 For example, you can use the following code for loading the jQuery library from Google CDN:
-<script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
 
 or the following one for loading the Bootstrap library from jsDelivr:
 <link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -13308,7 +13271,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 		/* ]]> */
 	</script>
 	<script src="wp-content/plugins/thrive-ultimatum/js/dist/no-campaign.min__q04f4ffbd.js"
-		type="text/javascript"></script>
+		type="text/javascript" defer></script>
 </body>
 
 </html>

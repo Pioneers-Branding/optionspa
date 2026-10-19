@@ -111,3 +111,34 @@ RewriteRule ^(.+)$ $1.php [L]
 
 # ErrorDocument needs a root-absolute path, which would point outside a
 # subfolder install. For a domain-root deploy add:  ErrorDocument 404 /404.php
+
+# ---------------------------------------------------------------------
+# Performance: compression + far-future caching
+# (On LiteSpeed these are also handled server-side; enabling Brotli in
+#  CyberPanel > Server > Tweak Settings > Compression gives the best
+#  results. These rules are the portable/fallback layer.)
+# ---------------------------------------------------------------------
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml
+AddOutputFilterByType DEFLATE application/javascript application/x-javascript text/javascript
+AddOutputFilterByType DEFLATE application/json application/xml image/svg+xml
+AddOutputFilterByType DEFLATE font/woff2 font/woff application/font-woff
+</IfModule>
+
+<IfModule mod_headers.c>
+# Static assets: 30 days by default...
+<FilesMatch "\.(css|js|mjs|woff2?|ttf|otf|eot|svg|webp|avif|png|jpe?g|gif|ico|mp4|webm|webmanifest)$">
+Header set Cache-Control "public, max-age=2592000"
+</FilesMatch>
+# ...but content-hashed build artifacts never change under the same name:
+<FilesMatch "__q[0-9a-f]{6,}\.(css|js)$">
+Header set Cache-Control "public, max-age=31536000, immutable"
+</FilesMatch>
+<FilesMatch "^b_[0-9a-f]{8}\.css$">
+Header set Cache-Control "public, max-age=31536000, immutable"
+</FilesMatch>
+# HTML should always revalidate (pages change; no stale marketing copy)
+<FilesMatch "\.(html|php)$">
+Header set Cache-Control "no-cache"
+</FilesMatch>
+</IfModule>

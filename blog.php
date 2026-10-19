@@ -2,7 +2,17 @@
 
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
 
-<head>
+<head><script>(function(){var q=[],fired=false,W=window,D=document;
+function fire(){if(fired)return;fired=true;while(q.length){try{q.shift()()}catch(e){}}}
+['scroll','click','touchstart','keydown','pointerdown'].forEach(function(e){W.addEventListener(e,fire,{once:true,passive:true})});
+W.addEventListener('visibilitychange',function(){if(D.visibilityState==='hidden')fire()});
+setTimeout(fire,30000);
+function isTag(el){return el&&el.tagName==='SCRIPT'&&el.src&&/googletagmanager\.com\/(gtm|gtag)\.js|connect\.facebook\.net|usermaven\.com|leadconnectorhq|link\.msgsndr/.test(el.src)}
+var ib=Node.prototype.insertBefore,ac=Node.prototype.appendChild;
+Node.prototype.insertBefore=function(el){if(isTag(el)){var s=this,a=arguments;q.push(function(){ib.apply(s,a)});return el}return ib.apply(this,arguments)};
+Node.prototype.appendChild=function(el){if(isTag(el)){var s=this,a=arguments;q.push(function(){ac.apply(s,a)});return el}return ac.apply(this,arguments)};
+q.push(function(){var s=D.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-E9TV9LJDWM';ac.call(D.head,s)});
+})();</script>
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <link href="_external/gmpg.org/xfn/11/index.html" rel="profile" />
@@ -982,7 +992,7 @@
 
         .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
             filter: grayscale(0) blur(0px) !important;
-            background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/thrive-theme/images/Post-06-_featured-4__q426db351.jpg") !important;
+            background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/thrive-theme/images/Post-06-_featured-4__q426db351.webp") !important;
             background-size: auto, cover !important;
             background-position: 50% 50%, 50% 50% !important;
             background-attachment: scroll, scroll !important;
@@ -1830,10 +1840,8 @@
 
         /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
     </style>
-    <link href="wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend__qf7ffcae6.css"
-        id="hfe-widgets-style-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/themes/thrive-theme/inc/assets/dist/theme__q784709ed.css" id="thrive-theme-styles-css"
-        media="all" rel="stylesheet" type="text/css" />
+    <link data-perf-bundle="1" href="wp-content/cache/perf/css/b_6c8df40a.css" rel="stylesheet" type="text/css"/>
+    
     <style id="wp-emoji-styles-inline-css" type="text/css">
         img.wp-smiley,
         img.emoji {
@@ -2209,74 +2217,57 @@
 
         /*# sourceURL=global-styles-inline-css */
     </style>
-    <link href="wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css"
-        id="kk-star-ratings-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css"
-        id="tve-ult-main-frame-css-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css"
-        id="hfe-style-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css" id="elementor-frontend-css"
-        media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/uploads/elementor/css/post-4716__q104fc520.css" id="elementor-post-4716-css" media="all"
-        rel="stylesheet" type="text/css" />
-    <link href="wp-content/uploads/elementor/css/post-4753__q104fc520.css" id="elementor-post-4753-css" media="all"
-        rel="stylesheet" type="text/css" />
-    <link href="wp-content/uploads/elementor/css/post-4746__q2b585c9b.css" id="elementor-post-4746-css" media="all"
-        rel="stylesheet" type="text/css" />
-    <link href="_external/fonts.googleapis.com/css/index__qe78199b5.html#038;subset=latin%2Clatin-ext"
-        id="wpblog-post-layouts-google-fonts-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css"
-        id="fontawesome-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css" id="tvo-frontend-css"
-        media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/themes/thrive-theme/style__q784709ed.css" id="thrive-theme-css" media="all" rel="stylesheet"
-        type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css"
-        id="hfe-elementor-icons-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css" id="hfe-icons-list-css"
-        media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css"
-        id="hfe-social-icons-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css"
-        id="hfe-social-share-icons-brands-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css"
-        id="hfe-social-share-icons-fontawesome-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css"
-        id="hfe-nav-menu-icons-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="_external/fonts.googleapis.com/css/index__q65d37b7f.html" id="elementor-gf-roboto-css" media="all"
-        rel="stylesheet" type="text/css" />
-    <link href="_external/fonts.googleapis.com/css/index__qb6c5de83.html" id="elementor-gf-robotoslab-css" media="all"
-        rel="stylesheet" type="text/css" />
-    <script id="jquery-core-js" src="wp-includes/js/jquery/jquery.min__qf43b551b.js" type="text/javascript"></script>
+    <link data-perf-bundle="1" href="wp-content/cache/perf/css/b_491ed5a7.css" rel="stylesheet" type="text/css"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script id="jquery-core-js" src="wp-includes/js/jquery/jquery.min__qf43b551b.js" type="text/javascript" defer></script>
     <script id="jquery-migrate-js" src="wp-includes/js/jquery/jquery-migrate.min__q558973c0.js"
-        type="text/javascript"></script>
-    <script id="jquery-js-after" type="text/javascript">
+        type="text/javascript" defer></script>
+    <script id="jquery-js-after" type="text/javascript">document.addEventListener('DOMContentLoaded',function(){
         /* <![CDATA[ */
         !function ($) { "use strict"; $(document).ready(function () { $(this).scrollTop() > 100 && $(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"), $(window).scroll(function () { $(this).scrollTop() < 100 ? $(".hfe-scroll-to-top-wrap").fadeOut(300) : $(".hfe-scroll-to-top-wrap").fadeIn(300) }), $(".hfe-scroll-to-top-wrap").on("click", function () { $("html, body").animate({ scrollTop: 0 }, 300); return !1 }) }) }(jQuery);
         !function ($) { 'use strict'; $(document).ready(function () { var bar = $('.hfe-reading-progress-bar'); if (!bar.length) return; $(window).on('scroll', function () { var s = $(window).scrollTop(), d = $(document).height() - $(window).height(), p = d ? s / d * 100 : 0; bar.css('width', p + '%') }); }); }(jQuery);
-        //# sourceURL=jquery-js-after
+
         /* ]]> */
-    </script>
+    
+});</script>
     <script id="jquery-ui-core-js" src="wp-includes/js/jquery/ui/core.min__qb37ee774.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="jquery-ui-menu-js" src="wp-includes/js/jquery/ui/menu.min__qb37ee774.js"
-        type="text/javascript"></script>
-    <script id="wp-dom-ready-js" src="wp-includes/js/dist/dom-ready.min__q5346137b.js" type="text/javascript"></script>
-    <script id="wp-hooks-js" src="wp-includes/js/dist/hooks.min__qaf5f3db4.js" type="text/javascript"></script>
-    <script id="wp-i18n-js" src="wp-includes/js/dist/i18n.min__q1cde93bb.js" type="text/javascript"></script>
-    <script id="wp-i18n-js-after" type="text/javascript">
+        type="text/javascript" defer></script>
+    <script id="wp-dom-ready-js" src="wp-includes/js/dist/dom-ready.min__q5346137b.js" type="text/javascript" defer></script>
+    <script id="wp-hooks-js" src="wp-includes/js/dist/hooks.min__qaf5f3db4.js" type="text/javascript" defer></script>
+    <script id="wp-i18n-js" src="wp-includes/js/dist/i18n.min__q1cde93bb.js" type="text/javascript" defer></script>
+    <script id="wp-i18n-js-after" type="text/javascript">document.addEventListener('DOMContentLoaded',function(){
         /* <![CDATA[ */
         wp.i18n.setLocaleData({ 'text direction\u0004ltr': ['ltr'] });
-        //# sourceURL=wp-i18n-js-after
+
         /* ]]> */
-    </script>
-    <script id="wp-a11y-js" src="wp-includes/js/dist/a11y.min__q1b1cf71c.js" type="text/javascript"></script>
+    
+});</script>
+    <script id="wp-a11y-js" src="wp-includes/js/dist/a11y.min__q1b1cf71c.js" type="text/javascript" defer></script>
     <script id="jquery-ui-autocomplete-js" src="wp-includes/js/jquery/ui/autocomplete.min__qb37ee774.js"
-        type="text/javascript"></script>
-    <script id="imagesloaded-js" src="wp-includes/js/imagesloaded.min__qbb938083.js" type="text/javascript"></script>
-    <script id="masonry-js" src="wp-includes/js/masonry.min__q3a0508bb.js" type="text/javascript"></script>
+        type="text/javascript" defer></script>
+    <script id="imagesloaded-js" src="wp-includes/js/imagesloaded.min__qbb938083.js" type="text/javascript" defer></script>
+    <script id="masonry-js" src="wp-includes/js/masonry.min__q3a0508bb.js" type="text/javascript" defer></script>
     <script id="jquery-masonry-js" src="wp-includes/js/jquery/jquery.masonry.min__qef703437.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
         var tve_frontend_options = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "is_editor_page": "", "page_events": [], "is_single": "0", "social_fb_app_id": "", "dash_url": "https://optionspa.com/wp-content/plugins/thrive-ultimatum/thrive-dashboard", "queried_object": { "ID": 4995, "post_author": "4" }, "query_vars": { "page": "", "pagename": "blog", "certificate_u": "" }, "$_POST": [], "translations": { "Copy": "Copy", "empty_username": "ERROR: The username field is empty.", "empty_password": "ERROR: The password field is empty.", "empty_login": "ERROR: Enter a username or email address.", "min_chars": "At least %s characters are needed", "no_headings": "No headings found", "registration_err": { "required_field": "\u003Cstrong\u003EError\u003C/strong\u003E: This field is required", "required_email": "\u003Cstrong\u003EError\u003C/strong\u003E: Please type your email address", "invalid_email": "\u003Cstrong\u003EError\u003C/strong\u003E: The email address isn&#8217;t correct", "passwordmismatch": "\u003Cstrong\u003EError\u003C/strong\u003E: Password mismatch" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "video_reporting": "https://optionspa.com/wp-json/tcb/v1/video-reporting", "courses": "https://optionspa.com/wp-json/tva/v1/course_list_element", "certificate_search": "https://optionspa.com/wp-json/tva/v1/certificate/search", "assessments": "https://optionspa.com/wp-json/tva/v1/user/assessment", "testimonials": "https://optionspa.com/wp-json/tcb/v1/testimonials" }, "nonce": "52d3aee43c", "allow_video_src": "", "google_client_id": null, "google_api_key": null, "facebook_app_id": null, "lead_generation_custom_tag_apis": ["activecampaign", "aweber", "convertkit", "drip", "klicktipp", "mailchimp", "sendlane", "zapier"], "post_request_data": [], "user_profile_nonce": "4c5041a2b9", "ip": "14.195.188.138", "current_user": [], "conditional_display": { "is_tooltip_dismissed": false } };
@@ -2285,10 +2276,10 @@
     </script>
     <script id="tve_frontend-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/general.min__qe79741bf.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend_post-list-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/post-list.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="theme-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
         var thrive_front_localize = { "comments_form": { "error_defaults": { "email": "Email address invalid", "url": "Website address invalid", "required": "Required field missing" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "frontend": "https://optionspa.com/wp-json/ttb/v1/frontend" }, "tar_post_url": "?tve=true&action=architect&from_theme=1", "is_editor": "", "ID": "26", "template_url": "?tve=true&action=architect&from_tar=8924", "pagination_url": { "template": "https://optionspa.com/blog/", "base": "https://optionspa.com/blog/" }, "sidebar_visibility": [], "is_singular": "", "is_user_logged_in": "" };
@@ -2296,23 +2287,20 @@
         /* ]]> */
     </script>
     <script id="theme-frontend-js" src="wp-content/themes/thrive-theme/inc/assets/dist/frontend.min__q784709ed.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="display-testimonials-tcb-js"
         src="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/js/display-testimonials-tcb.min__qe79741bf.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
 
     <meta content="IQ1dcuJ47hx3D0nkl5e3QOOCEIZ_UU7NBBkRGBNuLN4" name="google-site-verification" />
-    <link href="wp-content/uploads/custom-css-js/4734__qec47fe7e.css" id="4734-css" media="all" rel="stylesheet"
-        type="text/css" />
-    <link href="wp-content/uploads/custom-css-js/4725__q70077246.css" id="4725-css" media="all" rel="stylesheet"
-        type="text/css" />
-    <link href="wp-content/uploads/custom-css-js/2880__q42b25d37.css" id="2880-css" media="all" rel="stylesheet"
-        type="text/css" />
+    <link data-perf-bundle="1" href="wp-content/cache/perf/css/b_e8c549ae.css" rel="stylesheet" type="text/css"/>
+    
+    
     <!-- start Simple Custom CSS and JS -->
     <!-- Add HTML code to the header or the footer.
 
 For example, you can use the following code for loading the jQuery library from Google CDN:
-<script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
 
 or the following one for loading the Bootstrap library from jsDelivr:
 <link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -2322,7 +2310,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
     <link href="_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet" />
     <!-- Font Awesome -->
-    <link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet" />
+    <link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet" media="print" onload="this.media='all'" />
     <!-- End of the comment -->
     <!-- end Simple Custom CSS and JS -->
     <!-- start Simple Custom CSS and JS -->
@@ -2340,7 +2328,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     </script>
     <!-- end Simple Custom CSS and JS -->
     <link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-        rel="stylesheet" />
+        rel="stylesheet" media="print" onload="this.media='all'" />
     <!-- Meta Pixel Code -->
     <script>
         !function (f, b, e, v, n, t, s) {
@@ -2375,25 +2363,12 @@ or the following one for loading the Bootstrap library from jsDelivr:
         })();
     </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-222721405-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-222721405-1');
-    </script>
+    
+    
     <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-WH4BGL7V');</script>
+    
     <!-- Google tag (gtag.js) -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16883360986"></script>
+    
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
@@ -2406,7 +2381,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         gtag('event', 'conversion', { 'send_to': 'AW-16883360986/kOsaCIuwsqAaENrJzvI-' });
     </script>
     <!-- Google tag (gtag.js) -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-E9TV9LJDWM"></script>
+    
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
@@ -2502,20 +2477,13 @@ or the following one for loading the Bootstrap library from jsDelivr:
         console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
     </script>
     <!-- End Google Tag Manager for WordPress by gtm4wp.com --><!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-MJC7C7C4');</script>
+    
     <!-- End Google Tag Manager -->
     <style id="tve_global_variables" type="text/css">
         :root {
             --tcb-background-author-image: url("_external/secure.gravatar.com/avatar/0047baa95022e0117a11fdd310da4521de7ab91557a0210496da6c384c404e52/index__qb7b91a31.html");
             --tcb-background-user-image: url();
-            --tcb-background-featured-image-thumbnail: url("wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.png");
+            --tcb-background-featured-image-thumbnail: url("wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.webp");
             --tcb-skin-color-0: hsla(var(--tcb-theme-main-master-h, 210), var(--tcb-theme-main-master-s, 77%), var(--tcb-theme-main-master-l, 54%), var(--tcb-theme-main-master-a, 1));
             --tcb-skin-color-0-h: var(--tcb-theme-main-master-h, 210);
             --tcb-skin-color-0-s: var(--tcb-theme-main-master-s, 77%);
@@ -2680,14 +2648,10 @@ or the following one for loading the Bootstrap library from jsDelivr:
             }
         }
     </style>
-    <link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__q1713ae60.html" rel="stylesheet"
-        type="text/css" />
-    <link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__q20a18c1a.html" rel="stylesheet"
-        type="text/css" />
-    <link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__qaf0ac27c.html" rel="stylesheet"
-        type="text/css" />
-    <link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__qbe0afaa7.html" rel="stylesheet"
-        type="text/css" />
+    <link data-perf-bundle="1" href="wp-content/cache/perf/css/b_6f797e58.css" rel="stylesheet" type="text/css"/>
+    
+    
+    
     <style id="thrive-default-styles" type="text/css">
         @media (min-width: 300px) {
             .tcb-style-wrap h1 {
@@ -3089,16 +3053,15 @@ or the following one for loading the Bootstrap library from jsDelivr:
 <body
     class="blog wp-theme-thrive-theme ehf-header ehf-footer ehf-template-thrive-theme ehf-stylesheet-thrive-theme tve-theme-26 thrive-layout-20 elementor-default elementor-kit-4716">
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T79WRWW"
+    <noscript><iframe loading="lazy" height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T79WRWW"
             style="display:none;visibility:hidden" width="0"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <div class="hfeed site" id="page">
         <?php include __DIR__ . '/includes/header.php'; ?>
         <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MJC7C7C4"
-                style="display:none;visibility:hidden" width="0"></iframe></noscript>
+        
         <!-- End Google Tag Manager (noscript) --><!-- Google Tag Manager (noscript) -->
-        <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T79WRWW"
+        <noscript><iframe loading="lazy" height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T79WRWW"
                 style="display:none;visibility:hidden" width="0"></iframe></noscript>
         <!-- End Google Tag Manager (noscript) -->
         <style class="tcb-lightspeed-style" id="tcb-style-base-tcb_lightbox-3952"
@@ -8138,7 +8101,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             <picture>
                                                 <source media="(min-width:1024px)"
                                                     srcset="wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY-300x112.png 300w, wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png 463w" />
-                                                <img alt="options logo" height="173" loading="lazy"
+                                                <img decoding="async" alt="options logo" height="173" loading="lazy"
                                                     src="wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
                                                     style="width: 100%;" width="463" />
                                             </picture>
@@ -8395,15 +8358,15 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <style class="tcb-post-list-dynamic-style" type="text/css">
         @media (min-width: 300px) {
             .tve-theme-26 .content-section #main #post-5524 [data-css="tve-u-170aae40f55"] {
-                background-image: url("wp-content/uploads/2026/10/mental-health-check-in-7-signs-your-stress-or-anxiety-may-need-professional-support.jpg") !important;
+                background-image: url("wp-content/uploads/2026/10/mental-health-check-in-7-signs-your-stress-or-anxiety-may-need-professional-support.webp") !important;
             }
 
             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5524 [data-css="tve-u-16eb7cc1def"] {
-                background-image: url("wp-content/uploads/2026/10/mental-health-check-in-7-signs-your-stress-or-anxiety-may-need-professional-support.jpg") !important;
+                background-image: url("wp-content/uploads/2026/10/mental-health-check-in-7-signs-your-stress-or-anxiety-may-need-professional-support.webp") !important;
             }
 
             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5524 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/10/mental-health-check-in-7-signs-your-stress-or-anxiety-may-need-professional-support.jpg") !important;
+                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/10/mental-health-check-in-7-signs-your-stress-or-anxiety-may-need-professional-support.webp") !important;
             }
         }
     </style>
@@ -8721,15 +8684,15 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <style class="tcb-post-list-dynamic-style" type="text/css">
         @media (min-width: 300px) {
             .tve-theme-26 .content-section #main #post-5522 [data-css="tve-u-170aae40f55"] {
-                background-image: url("wp-content/uploads/2026/09/does-ptsd-cause-memory-loss.jpg") !important;
+                background-image: url("wp-content/uploads/2026/09/does-ptsd-cause-memory-loss.webp") !important;
             }
 
             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5522 [data-css="tve-u-16eb7cc1def"] {
-                background-image: url("wp-content/uploads/2026/09/does-ptsd-cause-memory-loss.jpg") !important;
+                background-image: url("wp-content/uploads/2026/09/does-ptsd-cause-memory-loss.webp") !important;
             }
 
             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5522 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/09/does-ptsd-cause-memory-loss.jpg") !important;
+                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/09/does-ptsd-cause-memory-loss.webp") !important;
             }
         }
     </style>
@@ -8884,15 +8847,15 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <style class="tcb-post-list-dynamic-style" type="text/css">
         @media (min-width: 300px) {
             .tve-theme-26 .content-section #main #post-5521 [data-css="tve-u-170aae40f55"] {
-                background-image: url("wp-content/uploads/2026/09/how-long-does-a-psychological-evaluation-take.jpg") !important;
+                background-image: url("wp-content/uploads/2026/09/how-long-does-a-psychological-evaluation-take.webp") !important;
             }
 
             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5521 [data-css="tve-u-16eb7cc1def"] {
-                background-image: url("wp-content/uploads/2026/09/how-long-does-a-psychological-evaluation-take.jpg") !important;
+                background-image: url("wp-content/uploads/2026/09/how-long-does-a-psychological-evaluation-take.webp") !important;
             }
 
             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5521 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/09/how-long-does-a-psychological-evaluation-take.jpg") !important;
+                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/09/how-long-does-a-psychological-evaluation-take.webp") !important;
             }
         }
     </style>
@@ -9047,15 +9010,15 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-8950 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/09/is-tms-therapy-covered-by-insurance.jpg") !important;
+                                                background-image: url("wp-content/uploads/2026/09/is-tms-therapy-covered-by-insurance.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8950 [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: url("wp-content/uploads/2026/09/is-tms-therapy-covered-by-insurance-300x169.jpg") !important;
+                                                background-image: url("wp-content/uploads/2026/09/is-tms-therapy-covered-by-insurance-300x169.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8950 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/09/is-tms-therapy-covered-by-insurance.jpg") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/09/is-tms-therapy-covered-by-insurance.webp") !important;
                                             }
                                         }
                                     </style>
@@ -9378,7 +9341,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-8924 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.png") !important;
+                                                background-image: url("wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8924 [data-css="tve-u-16eb7cc1def"] {
@@ -9386,7 +9349,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8924 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/08/180b2df6-47a2-4f2c-baf4-b7c022a3c3fe.webp") !important;
                                             }
                                         }
                                     </style>
@@ -9712,7 +9675,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-8814 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/07/ChatGPT-Image-Jul-14-2026-02_41_21-PM.png") !important;
+                                                background-image: url("wp-content/uploads/2026/07/ChatGPT-Image-Jul-14-2026-02_41_21-PM.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8814 [data-css="tve-u-16eb7cc1def"] {
@@ -9720,7 +9683,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8814 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/07/ChatGPT-Image-Jul-14-2026-02_41_21-PM.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/07/ChatGPT-Image-Jul-14-2026-02_41_21-PM.webp") !important;
                                             }
                                         }
                                     </style>
@@ -9874,7 +9837,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-8798 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/07/Screenshot-2026-07-14-142503.png") !important;
+                                                background-image: url("wp-content/uploads/2026/07/Screenshot-2026-07-14-142503.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8798 [data-css="tve-u-16eb7cc1def"] {
@@ -9882,7 +9845,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8798 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/07/Screenshot-2026-07-14-142503.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/07/Screenshot-2026-07-14-142503.webp") !important;
                                             }
                                         }
                                     </style>
@@ -10038,7 +10001,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-8629 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/06/Jun-12-2026-02_07_51-PM.png") !important;
+                                                background-image: url("wp-content/uploads/2026/06/Jun-12-2026-02_07_51-PM.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8629 [data-css="tve-u-16eb7cc1def"] {
@@ -10046,7 +10009,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8629 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/06/Jun-12-2026-02_07_51-PM.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/06/Jun-12-2026-02_07_51-PM.webp") !important;
                                             }
                                         }
                                     </style>
@@ -10201,7 +10164,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-8578 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/05/ChatGPT-Image-May-20-2026-12_59_54-PM.png") !important;
+                                                background-image: url("wp-content/uploads/2026/05/ChatGPT-Image-May-20-2026-12_59_54-PM.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8578 [data-css="tve-u-16eb7cc1def"] {
@@ -10209,7 +10172,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8578 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/05/ChatGPT-Image-May-20-2026-12_59_54-PM.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/05/ChatGPT-Image-May-20-2026-12_59_54-PM.webp") !important;
                                             }
                                         }
                                     </style>
@@ -10367,7 +10330,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-8568 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/05/MHAM.png") !important;
+                                                background-image: url("wp-content/uploads/2026/05/MHAM.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8568 [data-css="tve-u-16eb7cc1def"] {
@@ -10375,7 +10338,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8568 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/05/MHAM.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/05/MHAM.webp") !important;
                                             }
                                         }
                                     </style>
@@ -10532,7 +10495,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-8521 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/05/ChatGPT-Image-May-5-2026-03_12_13-PM.png") !important;
+                                                background-image: url("wp-content/uploads/2026/05/ChatGPT-Image-May-5-2026-03_12_13-PM.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8521 [data-css="tve-u-16eb7cc1def"] {
@@ -10540,7 +10503,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8521 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/05/ChatGPT-Image-May-5-2026-03_12_13-PM.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/05/ChatGPT-Image-May-5-2026-03_12_13-PM.webp") !important;
                                             }
                                         }
                                     </style>
@@ -10697,7 +10660,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5752 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/04/Gemini_Generated_Image_iqux5ziqux5ziqux.png") !important;
+                                                background-image: url("wp-content/uploads/2026/04/Gemini_Generated_Image_iqux5ziqux5ziqux.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5752 [data-css="tve-u-16eb7cc1def"] {
@@ -10705,7 +10668,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5752 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/04/Gemini_Generated_Image_iqux5ziqux5ziqux.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/04/Gemini_Generated_Image_iqux5ziqux5ziqux.webp") !important;
                                             }
                                         }
                                     </style>
@@ -10866,7 +10829,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5719 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/04/adhd-Photoroom.png") !important;
+                                                background-image: url("wp-content/uploads/2026/04/adhd-Photoroom.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5719 [data-css="tve-u-16eb7cc1def"] {
@@ -10874,7 +10837,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5719 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/04/adhd-Photoroom.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/04/adhd-Photoroom.webp") !important;
                                             }
                                         }
                                     </style>
@@ -11199,7 +11162,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5597 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/04/Gemini_Generated_Image_74fhol74fhol74fh-1.png") !important;
+                                                background-image: url("wp-content/uploads/2026/04/Gemini_Generated_Image_74fhol74fhol74fh-1.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5597 [data-css="tve-u-16eb7cc1def"] {
@@ -11207,7 +11170,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5597 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/04/Gemini_Generated_Image_74fhol74fhol74fh-1.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/04/Gemini_Generated_Image_74fhol74fhol74fh-1.webp") !important;
                                             }
                                         }
                                     </style>
@@ -11527,7 +11490,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5504 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_7xl3jy7xl3jy7xl3.png") !important;
+                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_7xl3jy7xl3jy7xl3.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5504 [data-css="tve-u-16eb7cc1def"] {
@@ -11535,7 +11498,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5504 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_7xl3jy7xl3jy7xl3.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_7xl3jy7xl3jy7xl3.webp") !important;
                                             }
                                         }
                                     </style>
@@ -11689,7 +11652,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5513 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_70e9an70e9an70e9.png") !important;
+                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_70e9an70e9an70e9.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5513 [data-css="tve-u-16eb7cc1def"] {
@@ -11697,7 +11660,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5513 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_70e9an70e9an70e9.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_70e9an70e9an70e9.webp") !important;
                                             }
                                         }
                                     </style>
@@ -11852,7 +11815,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5252 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_mqzwemmqzwemmqzw.png") !important;
+                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_mqzwemmqzwemmqzw.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5252 [data-css="tve-u-16eb7cc1def"] {
@@ -11860,7 +11823,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5252 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_mqzwemmqzwemmqzw.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_mqzwemmqzwemmqzw.webp") !important;
                                             }
                                         }
                                     </style>
@@ -12016,7 +11979,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5089 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_yufjyyufjyyufjyy.png") !important;
+                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_yufjyyufjyyufjyy.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5089 [data-css="tve-u-16eb7cc1def"] {
@@ -12024,7 +11987,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5089 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_yufjyyufjyyufjyy.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_yufjyyufjyyufjyy.webp") !important;
                                             }
                                         }
                                     </style>
@@ -12180,7 +12143,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5246 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_ajt5kbajt5kbajt5.png") !important;
+                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_ajt5kbajt5kbajt5.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5246 [data-css="tve-u-16eb7cc1def"] {
@@ -12188,7 +12151,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5246 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_ajt5kbajt5kbajt5.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_ajt5kbajt5kbajt5.webp") !important;
                                             }
                                         }
                                     </style>
@@ -12349,7 +12312,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5243 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_w44sa3w44sa3w44s.png") !important;
+                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_w44sa3w44sa3w44s.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5243 [data-css="tve-u-16eb7cc1def"] {
@@ -12357,7 +12320,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5243 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_w44sa3w44sa3w44s.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_w44sa3w44sa3w44s.webp") !important;
                                             }
                                         }
                                     </style>
@@ -12519,7 +12482,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5228 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_50xh9m50xh9m50xh.png") !important;
+                                                background-image: url("wp-content/uploads/2026/03/Gemini_Generated_Image_50xh9m50xh9m50xh.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5228 [data-css="tve-u-16eb7cc1def"] {
@@ -12527,7 +12490,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5228 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_50xh9m50xh9m50xh.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/03/Gemini_Generated_Image_50xh9m50xh9m50xh.webp") !important;
                                             }
                                         }
                                     </style>
@@ -12689,7 +12652,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5170 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_bl30hhbl30hhbl30-Photoroom.png") !important;
+                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_bl30hhbl30hhbl30-Photoroom.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5170 [data-css="tve-u-16eb7cc1def"] {
@@ -12697,7 +12660,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5170 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_bl30hhbl30hhbl30-Photoroom.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_bl30hhbl30hhbl30-Photoroom.webp") !important;
                                             }
                                         }
                                     </style>
@@ -12859,7 +12822,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5163 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_w74nhfw74nhfw74n-Photoroom.png") !important;
+                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_w74nhfw74nhfw74n-Photoroom.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5163 [data-css="tve-u-16eb7cc1def"] {
@@ -12867,7 +12830,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5163 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_w74nhfw74nhfw74n-Photoroom.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_w74nhfw74nhfw74n-Photoroom.webp") !important;
                                             }
                                         }
                                     </style>
@@ -13029,7 +12992,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5156 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_ahiwugahiwugahiw-Photoroom.png") !important;
+                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_ahiwugahiwugahiw-Photoroom.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5156 [data-css="tve-u-16eb7cc1def"] {
@@ -13037,7 +13000,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5156 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_ahiwugahiwugahiw-Photoroom.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_ahiwugahiwugahiw-Photoroom.webp") !important;
                                             }
                                         }
                                     </style>
@@ -13196,7 +13159,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5148 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_4unmk94unmk94unm.png") !important;
+                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_4unmk94unmk94unm.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5148 [data-css="tve-u-16eb7cc1def"] {
@@ -13204,7 +13167,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5148 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_4unmk94unmk94unm.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_4unmk94unmk94unm.webp") !important;
                                             }
                                         }
                                     </style>
@@ -13361,7 +13324,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5137 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_yo9gfryo9gfryo9g-Photoroom.png") !important;
+                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_yo9gfryo9gfryo9g-Photoroom.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5137 [data-css="tve-u-16eb7cc1def"] {
@@ -13369,7 +13332,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5137 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_yo9gfryo9gfryo9g-Photoroom.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_yo9gfryo9gfryo9g-Photoroom.webp") !important;
                                             }
                                         }
                                     </style>
@@ -13530,7 +13493,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5122 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_jgtegcjgtegcjgte-Photoroom.png") !important;
+                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_jgtegcjgtegcjgte-Photoroom.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5122 [data-css="tve-u-16eb7cc1def"] {
@@ -13538,7 +13501,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5122 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_jgtegcjgtegcjgte-Photoroom.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_jgtegcjgtegcjgte-Photoroom.webp") !important;
                                             }
                                         }
                                     </style>
@@ -13692,7 +13655,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-5116 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_godxyxgodxyxgodx-Photoroom.png") !important;
+                                                background-image: url("wp-content/uploads/2026/02/Gemini_Generated_Image_godxyxgodxyxgodx-Photoroom.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5116 [data-css="tve-u-16eb7cc1def"] {
@@ -13700,7 +13663,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-5116 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_godxyxgodxyxgodx-Photoroom.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/02/Gemini_Generated_Image_godxyxgodxyxgodx-Photoroom.webp") !important;
                                             }
                                         }
                                     </style>
@@ -14020,7 +13983,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-4679 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/01/Gemini_Generated_Image_50j5ff50j5ff50j5.png") !important;
+                                                background-image: url("wp-content/uploads/2026/01/Gemini_Generated_Image_50j5ff50j5ff50j5.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4679 [data-css="tve-u-16eb7cc1def"] {
@@ -14028,7 +13991,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4679 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/01/Gemini_Generated_Image_50j5ff50j5ff50j5.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/01/Gemini_Generated_Image_50j5ff50j5ff50j5.webp") !important;
                                             }
                                         }
                                     </style>
@@ -14515,7 +14478,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-4628 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2026/01/Top-psychiatrists-in-Pennsylvania-guide.png") !important;
+                                                background-image: url("wp-content/uploads/2026/01/Top-psychiatrists-in-Pennsylvania-guide.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4628 [data-css="tve-u-16eb7cc1def"] {
@@ -14523,7 +14486,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4628 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/01/Top-psychiatrists-in-Pennsylvania-guide.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/01/Top-psychiatrists-in-Pennsylvania-guide.webp") !important;
                                             }
                                         }
                                     </style>
@@ -15339,7 +15302,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-4556 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2025/12/mental-health-scaled.jpeg") !important;
+                                                background-image: url("wp-content/uploads/2025/12/mental-health-scaled.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4556 [data-css="tve-u-16eb7cc1def"] {
@@ -15347,7 +15310,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4556 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/12/mental-health-scaled.jpeg") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/12/mental-health-scaled.webp") !important;
                                             }
                                         }
                                     </style>
@@ -15502,7 +15465,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-4537 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2025/12/2149175160.jpg") !important;
+                                                background-image: url("wp-content/uploads/2025/12/2149175160.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4537 [data-css="tve-u-16eb7cc1def"] {
@@ -15510,7 +15473,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4537 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/12/2149175160.jpg") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/12/2149175160.webp") !important;
                                             }
                                         }
                                     </style>
@@ -15669,7 +15632,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-4542 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2025/12/freepik__plain-blank-a-clean-modern-healthcare-infographic-__34476.png") !important;
+                                                background-image: url("wp-content/uploads/2025/12/freepik__plain-blank-a-clean-modern-healthcare-infographic-__34476.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4542 [data-css="tve-u-16eb7cc1def"] {
@@ -15677,7 +15640,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4542 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/12/freepik__plain-blank-a-clean-modern-healthcare-infographic-__34476.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/12/freepik__plain-blank-a-clean-modern-healthcare-infographic-__34476.webp") !important;
                                             }
                                         }
                                     </style>
@@ -16000,7 +15963,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-4439 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2025/11/sub-buzz-561-1619546406-10.jpg") !important;
+                                                background-image: url("wp-content/uploads/2025/11/sub-buzz-561-1619546406-10.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4439 [data-css="tve-u-16eb7cc1def"] {
@@ -16008,7 +15971,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4439 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/11/sub-buzz-561-1619546406-10.jpg") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/11/sub-buzz-561-1619546406-10.webp") !important;
                                             }
                                         }
                                     </style>
@@ -16497,7 +16460,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-4377 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2025/09/How-TMS-Therapy-Helps-Treat-Depression-A-Complete-Guide-to-Breakthrough-Healing-scaled.jpg") !important;
+                                                background-image: url("wp-content/uploads/2025/09/How-TMS-Therapy-Helps-Treat-Depression-A-Complete-Guide-to-Breakthrough-Healing-scaled.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4377 [data-css="tve-u-16eb7cc1def"] {
@@ -16505,7 +16468,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4377 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/09/How-TMS-Therapy-Helps-Treat-Depression-A-Complete-Guide-to-Breakthrough-Healing-scaled.jpg") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/09/How-TMS-Therapy-Helps-Treat-Depression-A-Complete-Guide-to-Breakthrough-Healing-scaled.webp") !important;
                                             }
                                         }
                                     </style>
@@ -17332,7 +17295,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-4000 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2025/04/WhatsApp-Image-2025-05-26-at-12.03.41-PM.jpeg") !important;
+                                                background-image: url("wp-content/uploads/2025/04/WhatsApp-Image-2025-05-26-at-12.03.41-PM.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4000 [data-css="tve-u-16eb7cc1def"] {
@@ -17340,7 +17303,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-4000 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/04/WhatsApp-Image-2025-05-26-at-12.03.41-PM.jpeg") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/04/WhatsApp-Image-2025-05-26-at-12.03.41-PM.webp") !important;
                                             }
                                         }
                                     </style>
@@ -17501,7 +17464,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-3984 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2025/02/pexels-inzmamkhan11-1134204-scaled.jpg") !important;
+                                                background-image: url("wp-content/uploads/2025/02/pexels-inzmamkhan11-1134204-scaled.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-3984 [data-css="tve-u-16eb7cc1def"] {
@@ -17509,7 +17472,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-3984 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/02/pexels-inzmamkhan11-1134204-scaled.jpg") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2025/02/pexels-inzmamkhan11-1134204-scaled.webp") !important;
                                             }
                                         }
                                     </style>
@@ -18344,7 +18307,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-3272 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2022/04/blog_post_3-pic.png") !important;
+                                                background-image: url("wp-content/uploads/2022/04/blog_post_3-pic.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-3272 [data-css="tve-u-16eb7cc1def"] {
@@ -18352,7 +18315,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-3272 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2022/04/blog_post_3-pic.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2022/04/blog_post_3-pic.webp") !important;
                                             }
                                         }
                                     </style>
@@ -19331,7 +19294,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-3267 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2022/04/blog_post_2pic.png") !important;
+                                                background-image: url("wp-content/uploads/2022/04/blog_post_2pic.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-3267 [data-css="tve-u-16eb7cc1def"] {
@@ -19339,7 +19302,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-3267 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2022/04/blog_post_2pic.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2022/04/blog_post_2pic.webp") !important;
                                             }
                                         }
                                     </style>
@@ -19494,7 +19457,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     <style class="tcb-post-list-dynamic-style" type="text/css">
                                         @media (min-width: 300px) {
                                             .tve-theme-26 .content-section #main #post-3262 [data-css="tve-u-170aae40f55"] {
-                                                background-image: url("wp-content/uploads/2022/04/blog_post_1pic.png") !important;
+                                                background-image: url("wp-content/uploads/2022/04/blog_post_1pic.webp") !important;
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-3262 [data-css="tve-u-16eb7cc1def"] {
@@ -19502,7 +19465,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                             }
 
                                             .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-3262 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
-                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2022/04/blog_post_1pic.png") !important;
+                                                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2022/04/blog_post_1pic.webp") !important;
                                             }
                                         }
                                     </style>
@@ -21287,7 +21250,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                 <div class="tcb-flex-col" data-css="tve-u-17c5a123d1b" style="">
                                     <div class="tcb-col">
                                         <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17c5a0d61bd"
-                                            style=""><span class="tve_image_frame"><a href="./"><img alt=""
+                                            style=""><span class="tve_image_frame"><a href="./"><img decoding="async" alt=""
                                                         class="tve_image wp-image-3085" data-css="tve-u-17c5a0d7558"
                                                         data-height="66" data-id="3085" data-init-height="159"
                                                         data-init-width="420" data-link-wrap="true" data-width="175"
@@ -21779,7 +21742,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
             </defs>
         </svg>
     </div>
-    <script type="text/javascript">($ => {
+    <script type="text/javascript">document.addEventListener('DOMContentLoaded',function(){($ => {
             /**
              * Displays toast message from storage, it is used when the user is redirected after login
              */
@@ -21812,7 +21775,8 @@ or the following one for loading the Bootstrap library from jsDelivr:
                 TCB_Front.notificationElement.toggle(message, error ? 'error' : 'success', callback);
             }
         })(typeof ThriveGlobal === 'undefined' ? jQuery : ThriveGlobal.$j);
-    </script>
+    
+});</script>
     <style id="tve_notification_styles" type="text/css"></style>
     <div class="tvd-toast tve-fe-message" style="display: none">
         <div class="tve-toast-message tve-success-message">
@@ -21849,7 +21813,8 @@ or the following one for loading the Bootstrap library from jsDelivr:
         });
     </script>
     <script
-        type="text/javascript">window.TVE_Event_Manager_Registered_Callbacks = window.TVE_Event_Manager_Registered_Callbacks || {}; window.TVE_Event_Manager_Registered_Callbacks.thrive_lightbox = function (t, a, c) { var $t = jQuery("#tve_thrive_lightbox_" + c.l_id); if (t === "exit" && $t.data("shown-on-exit")) { return; } $t.css("display", ""); $t.data("shown-on-" + t, true); var a = c.l_anim || "instant"; TCB_Front.openLightbox($t, a); return false; };;</script>
+        type="text/javascript">document.addEventListener('DOMContentLoaded',function(){window.TVE_Event_Manager_Registered_Callbacks = window.TVE_Event_Manager_Registered_Callbacks || {}; window.TVE_Event_Manager_Registered_Callbacks.thrive_lightbox = function (t, a, c) { var $t = jQuery("#tve_thrive_lightbox_" + c.l_id); if (t === "exit" && $t.data("shown-on-exit")) { return; } $t.css("display", ""); $t.data("shown-on-" + t, true); var a = c.l_anim || "instant"; TCB_Front.openLightbox($t, a); return false; };;
+});</script>
     <style class="tcb-lightspeed-style" id="tcb-style-base-tcb_lightbox-3952"
         onload="typeof window.lightspeedOptimizeStylesheet === 'function' &amp;&amp; window.lightspeedOptimizeStylesheet()"
         type="text/css">
@@ -24042,13 +24007,13 @@ or the following one for loading the Bootstrap library from jsDelivr:
     </script>
     <script id="kk-star-ratings-js"
         src="wp-content/plugins/kk-star-ratings/src/core/public/js/kk-star-ratings.min__qf503e290.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="wpblog-post-layouts-elements-scripts-js"
         src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/elementor-frontend__q8daf52c7.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="wpblog-post-layouts-public-script-js"
         src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/frontend__q8daf52c7.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve-dash-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
         var tve_dash_front = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "force_ajax_send": "1", "is_crawler": "", "recaptcha": [], "turnstile": [], "post_id": "8924" };
@@ -24057,32 +24022,32 @@ or the following one for loading the Bootstrap library from jsDelivr:
     </script>
     <script id="tve-dash-frontend-js"
         src="wp-content/plugins/thrive-ultimatum/thrive-dashboard/js/dist/frontend.min__qe79741bf.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend_divider-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/divider.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend_lead-generation-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/lead-generation.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend_menu-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/menu.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend_pagination-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/pagination.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend_social-share-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/social-share.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend_dropdown-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/dropdown.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend_post-grid-compat-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/post-grid-compat.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="elementor-webpack-runtime-js"
-        src="wp-content/plugins/elementor/assets/js/webpack.runtime.min__q5be56f11.js" type="text/javascript"></script>
+        src="wp-content/plugins/elementor/assets/js/webpack.runtime.min__q5be56f11.js" type="text/javascript" defer></script>
     <script id="elementor-frontend-modules-js"
-        src="wp-content/plugins/elementor/assets/js/frontend-modules.min__q5be56f11.js" type="text/javascript"></script>
+        src="wp-content/plugins/elementor/assets/js/frontend-modules.min__q5be56f11.js" type="text/javascript" defer></script>
     <script id="elementor-frontend-js-before" type="text/javascript">
         /* <![CDATA[ */
         var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.35.3", "is_static": false, "experimentalFeatures": { "e_font_icon_svg": true, "additional_custom_breakpoints": true, "container": true, "e_optimized_markup": true, "e_pro_free_trial_popup": true, "nested-elements": true, "home_screen": true, "global_classes_should_enforce_capabilities": true, "e_variables": true, "cloud-library": true, "e_opt_in_v4_page": true, "e_components": true, "e_interactions": true, "e_editor_one": true, "import-export-customization": true }, "urls": { "assets": "https:\/\/optionspa.com\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/optionspa.com\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "7448d0d352" }, "swiperClass": "swiper", "settings": { "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 0, "title": "Blog - Options Psychiatry", "excerpt": "" } };
@@ -24090,7 +24055,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         /* ]]> */
     </script>
     <script id="elementor-frontend-js" src="wp-content/plugins/elementor/assets/js/frontend.min__q5be56f11.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script class="tcb-post-list-template" data-identifier="#main" type="text/template">{({tcb_post_list_dynamic_style})}@media (min-width: 300px){.tve-theme-26 .content-section #main #post-{({tcb_the_id})} {({data-css="tve-u-170aae40f55"})}{background-image: url("{({tcb_featured_image_url size=full}")}") !important;}.tve-theme-26 .sidebar-section {({data-css="tve-u-16eb7cc1dec"})}.tcb-post-list #post-{({tcb_the_id})} {({data-css="tve-u-16eb7cc1def"})}{background-image: url("{({tcb_featured_image_url size=medium}")}") !important;}.tve-theme-26 .sidebar-section {({data-css="tve-u-16eb7cc1dec"})}.tcb-post-list #post-{({tcb_the_id})} {({data-css="tve-u-16eb7cc1dee"})}:hover {({data-css="tve-u-16eb7cc1def"})}{background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("{({tcb_featured_image_url size=post-thumbnail}")}") !important;}}{({/tcb_post_list_dynamic_style})}
 <div class="tcb-clear" data-css="tve-u-16ec6ce9c8e"><div class="thrv_wrapper thrv-columns" data-css="tve-u-16ec6ce9bf9" style="--tcb-col-el-width:275;"><div class="tcb-flex-row tcb--cols--2 tcb-resized v-2 tcb-mobile-no-wrap m-edit" style="margin-left: 0px;" data-css="tve-u-16ec6cec0d5"><div class="tcb-flex-col" data-css="tve-u-16ec6cef97c" style="padding-left: 0px;"><div class="tcb-col" style="" data-css="tve-u-16ecb0fccee"><div class="thrv_wrapper thrv_text_element tve-froala fr-box" style="" data-css="tve-u-16ec6ce3d3b"><p data-css="tve-u-16ec6ce5e37"><span class="thrive-shortcode-content" data-attr-css="" data-attr-date-format="F j, Y" data-attr-date-format-select="F j, Y" data-attr-link="1" data-attr-rel="0" data-attr-show-time="0" data-attr-target="0" data-attr-time-format="" data-attr-time-format-select="g:i a" data-attr-type="published" data-extra_key="" data-option-inline="1" data-shortcode="tcb_post_published_date" data-shortcode-name="Post date" data-css="tve-u-1708037b30c">{({tcb_post_published_date css='' date-format='F j, Y' date-format-select='F j, Y' link='1' rel='0' show-time='0' target='0' time-format='' time-format-select='g:i a' type='published' inline='1'})}</span></p></div></div></div><div class="tcb-flex-col" data-css="tve-u-16ec6cefa07" style="padding-left: 0px;"><div class="tcb-col" style=""><div class="tcb-clear" data-css="tve-u-16eb7bd89f7"><a href="{({tcb_post_comments_link})}" class="tve-dynamic-link" dynamic-postlink="tcb_post_comments_link" data-shortcode-id="2978"></a><div class="tcb-clear" data-css="tve-u-16ec6cfd45b"><a href="{({tcb_post_comments_link})}" class="tve-dynamic-link" dynamic-postlink="tcb_post_comments_link" data-shortcode-id="2978"></a><a href="{({tcb_post_comments_link})}" class="tve-dynamic-link" dynamic-postlink="tcb_post_comments_link" data-shortcode-id="2978"><div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad" data-css="tve-u-16eb7bd89f8" style="">
 <div class="tve-content-box-background" style="" data-css="tve-u-16eb7c2edcd"></div>
@@ -24139,7 +24104,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <!-- Add HTML code to the header or the footer.
 
 For example, you can use the following code for loading the jQuery library from Google CDN:
-<script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
 
 or the following one for loading the Bootstrap library from jsDelivr:
 <link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -24537,7 +24502,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         /* ]]> */
     </script>
     <script src="wp-content/plugins/thrive-ultimatum/js/dist/no-campaign.min__q04f4ffbd.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
 </body>
 
 </html>

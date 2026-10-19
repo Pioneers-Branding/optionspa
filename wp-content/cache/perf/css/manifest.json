@@ -1,0 +1,653 @@
+{
+ "2026-05.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_cc0b8de7.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4735__q441a7b78.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "2026-06.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_cc0b8de7.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4735__q441a7b78.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "2026-07.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_cc0b8de7.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4735__q441a7b78.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "2026-08.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_cc0b8de7.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4735__q441a7b78.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "2026-09.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_cc0b8de7.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4735__q441a7b78.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "addiction-recovery.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_cc0b8de7.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4735__q441a7b78.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "category-adhd.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_a315950f.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "category-anxiety.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_a315950f.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "category-blog.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_a315950f.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "category-casino-utan-svensk-licens.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_3c7ab341.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/themes/thrive-theme/inc/assets/dist/theme__q784709ed.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "category-casino.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_3c7ab341.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/themes/thrive-theme/inc/assets/dist/theme__q784709ed.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "category-mental-health-page-2.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_a315950f.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "category-mental-health.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_a315950f.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "category-ocd.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_a315950f.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "category-spravato.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_a315950f.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "category-tms-therapy-page-2.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_a315950f.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "category-tms-therapy.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_a315950f.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "elementor-hf-footer.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_cc0b8de7.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4735__q441a7b78.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "elementor-hf-header.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_cc0b8de7.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4735__q441a7b78.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "getstarted.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_cc0b8de7.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4735__q441a7b78.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "index.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_cc0b8de7.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4735__q441a7b78.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ],
+ "location.php": [
+  {
+   "bundle": "wp-content/cache/perf/css/b_3c7ab341.css",
+   "files": [
+    "wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css",
+    "wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css",
+    "wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css",
+    "wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css",
+    "wp-content/uploads/elementor/css/post-4716__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4753__q104fc520.css",
+    "wp-content/uploads/elementor/css/post-4746__q2b585c9b.css",
+    "_external/fonts.googleapis.com/css/index__qe78199b5.html",
+    "wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css",
+    "wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css",
+    "wp-content/themes/thrive-theme/style__q784709ed.css",
+    "wp-content/plugins/thrive-ultimatum/tcb/editor/css/thrive_flat__qe79741bf.css",
+    "wp-content/themes/thrive-theme/inc/assets/dist/theme__q784709ed.css",
+    "wp-content/uploads/thrive/theme-template-1755248066__q784709ed.css",
+    "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css",
+    "wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css",
+    "wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css",
+    "wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css",
+    "_external/fonts.googleapis.com/css/index__q65d37b7f.html",
+    "_external/fonts.googleapis.com/css/index__qb6c5de83.html"
+   ],
+   "runs_replaced": 1
+  }
+ ]
+}

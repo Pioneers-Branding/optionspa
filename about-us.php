@@ -8,7 +8,17 @@
 <html class="tcb" lang="en-US" prefix="og: https://ogp.me/ns#">
 <!--<![endif]-->
 
-<head>
+<head><script>(function(){var q=[],fired=false,W=window,D=document;
+function fire(){if(fired)return;fired=true;while(q.length){try{q.shift()()}catch(e){}}}
+['scroll','click','touchstart','keydown','pointerdown'].forEach(function(e){W.addEventListener(e,fire,{once:true,passive:true})});
+W.addEventListener('visibilitychange',function(){if(D.visibilityState==='hidden')fire()});
+setTimeout(fire,30000);
+function isTag(el){return el&&el.tagName==='SCRIPT'&&el.src&&/googletagmanager\.com\/(gtm|gtag)\.js|connect\.facebook\.net|usermaven\.com|leadconnectorhq|link\.msgsndr/.test(el.src)}
+var ib=Node.prototype.insertBefore,ac=Node.prototype.appendChild;
+Node.prototype.insertBefore=function(el){if(isTag(el)){var s=this,a=arguments;q.push(function(){ib.apply(s,a)});return el}return ib.apply(this,arguments)};
+Node.prototype.appendChild=function(el){if(isTag(el)){var s=this,a=arguments;q.push(function(){ac.apply(s,a)});return el}return ac.apply(this,arguments)};
+q.push(function(){var s=D.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-E9TV9LJDWM';ac.call(D.head,s)});
+})();</script>
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <style class="tcb-lightspeed-style" id="tcb-style-base-page-3045"
@@ -853,8 +863,8 @@
     <meta content="about-us" property="og:url" />
     <meta content="Options Psychiatry" property="og:site_name" />
     <meta content="2026-04-11T03:50:57-04:00" property="og:updated_time" />
-    <meta content="wp-content/uploads/2022/03/about-us.jpg" property="og:image" />
-    <meta content="wp-content/uploads/2022/03/about-us.jpg" property="og:image:secure_url" />
+    <meta content="wp-content/uploads/2022/03/about-us.webp" property="og:image" />
+    <meta content="wp-content/uploads/2022/03/about-us.webp" property="og:image:secure_url" />
     <meta content="1500" property="og:image:width" />
     <meta content="787" property="og:image:height" />
     <meta content="addiction counseling, tms therapy" property="og:image:alt" />
@@ -864,7 +874,7 @@
     <meta
         content="Learn about Options Psychiatry, our mission, experienced mental health professionals, and patient-focused approach to delivering compassionate psychiatric care."
         name="twitter:description" />
-    <meta content="wp-content/uploads/2022/03/about-us.jpg" name="twitter:image" />
+    <meta content="wp-content/uploads/2022/03/about-us.webp" name="twitter:image" />
     <meta content="Time to read" name="twitter:label1" />
     <meta content="Less than a minute" name="twitter:data1" />
     <!-- /Rank Math WordPress SEO plugin -->
@@ -1257,72 +1267,56 @@
 
         /*# sourceURL=global-styles-inline-css */
     </style>
-    <link href="wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min__qf503e290.css"
-        id="kk-star-ratings-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/thrive-ultimatum/tcb-bridge/assets/css/placeholders__qe79741bf.css"
-        id="tve-ult-main-frame-css-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor__qf7ffcae6.css"
-        id="hfe-style-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/css/frontend.min__q5be56f11.css" id="elementor-frontend-css"
-        media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/uploads/elementor/css/post-4716__q104fc520.css" id="elementor-post-4716-css" media="all"
-        rel="stylesheet" type="text/css" />
-    <link href="wp-content/uploads/elementor/css/post-4753__q104fc520.css" id="elementor-post-4753-css" media="all"
-        rel="stylesheet" type="text/css" />
-    <link href="wp-content/uploads/elementor/css/post-4746__q2b585c9b.css" id="elementor-post-4746-css" media="all"
-        rel="stylesheet" type="text/css" />
-    <link href="_external/fonts.googleapis.com/css/index__qe78199b5.html#038;subset=latin%2Clatin-ext"
-        id="wpblog-post-layouts-google-fonts-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/wp-blog-post-layouts/includes/assets/fontawesome/css/all.min__qdc889823.css"
-        id="fontawesome-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/css/frontend__q98f937dc.css" id="tvo-frontend-css"
-        media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/themes/thrive-theme/inc/assets/dist/landingpage-front__q784709ed.css"
-        id="thrive-theme-landingpage-front-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/themes/thrive-theme/style__q784709ed.css" id="thrive-theme-css" media="all" rel="stylesheet"
-        type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min__q705c789f.css"
-        id="hfe-elementor-icons-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/css/widget-icon-list.min__q44b4c90b.css" id="hfe-icons-list-css"
-        media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/css/widget-social-icons.min__q24013a96.css"
-        id="hfe-social-icons-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/brands__q52d586d1.css"
-        id="hfe-social-share-icons-brands-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome__q52d586d1.css"
-        id="hfe-social-share-icons-fontawesome-css" media="all" rel="stylesheet" type="text/css" />
-    <link href="wp-content/plugins/elementor/assets/lib/font-awesome/css/solid__q52d586d1.css"
-        id="hfe-nav-menu-icons-css" media="all" rel="stylesheet" type="text/css" />
-    <script id="jquery-core-js" src="wp-includes/js/jquery/jquery.min__qf43b551b.js" type="text/javascript"></script>
+    <link data-perf-bundle="1" href="wp-content/cache/perf/css/b_b05afe5c.css" rel="stylesheet" type="text/css"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script id="jquery-core-js" src="wp-includes/js/jquery/jquery.min__qf43b551b.js" type="text/javascript" defer></script>
     <script id="jquery-migrate-js" src="wp-includes/js/jquery/jquery-migrate.min__q558973c0.js"
-        type="text/javascript"></script>
-    <script id="jquery-js-after" type="text/javascript">
+        type="text/javascript" defer></script>
+    <script id="jquery-js-after" type="text/javascript">document.addEventListener('DOMContentLoaded',function(){
         /* <![CDATA[ */
         !function ($) { "use strict"; $(document).ready(function () { $(this).scrollTop() > 100 && $(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"), $(window).scroll(function () { $(this).scrollTop() < 100 ? $(".hfe-scroll-to-top-wrap").fadeOut(300) : $(".hfe-scroll-to-top-wrap").fadeIn(300) }), $(".hfe-scroll-to-top-wrap").on("click", function () { $("html, body").animate({ scrollTop: 0 }, 300); return !1 }) }) }(jQuery);
         !function ($) { 'use strict'; $(document).ready(function () { var bar = $('.hfe-reading-progress-bar'); if (!bar.length) return; $(window).on('scroll', function () { var s = $(window).scrollTop(), d = $(document).height() - $(window).height(), p = d ? s / d * 100 : 0; bar.css('width', p + '%') }); }); }(jQuery);
-        //# sourceURL=jquery-js-after
+
         /* ]]> */
-    </script>
+    
+});</script>
     <script id="jquery-ui-core-js" src="wp-includes/js/jquery/ui/core.min__qb37ee774.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="jquery-ui-menu-js" src="wp-includes/js/jquery/ui/menu.min__qb37ee774.js"
-        type="text/javascript"></script>
-    <script id="wp-dom-ready-js" src="wp-includes/js/dist/dom-ready.min__q5346137b.js" type="text/javascript"></script>
-    <script id="wp-hooks-js" src="wp-includes/js/dist/hooks.min__qaf5f3db4.js" type="text/javascript"></script>
-    <script id="wp-i18n-js" src="wp-includes/js/dist/i18n.min__q1cde93bb.js" type="text/javascript"></script>
-    <script id="wp-i18n-js-after" type="text/javascript">
+        type="text/javascript" defer></script>
+    <script id="wp-dom-ready-js" src="wp-includes/js/dist/dom-ready.min__q5346137b.js" type="text/javascript" defer></script>
+    <script id="wp-hooks-js" src="wp-includes/js/dist/hooks.min__qaf5f3db4.js" type="text/javascript" defer></script>
+    <script id="wp-i18n-js" src="wp-includes/js/dist/i18n.min__q1cde93bb.js" type="text/javascript" defer></script>
+    <script id="wp-i18n-js-after" type="text/javascript">document.addEventListener('DOMContentLoaded',function(){
         /* <![CDATA[ */
         wp.i18n.setLocaleData({ 'text direction\u0004ltr': ['ltr'] });
-        //# sourceURL=wp-i18n-js-after
+
         /* ]]> */
-    </script>
-    <script id="wp-a11y-js" src="wp-includes/js/dist/a11y.min__q1b1cf71c.js" type="text/javascript"></script>
+    
+});</script>
+    <script id="wp-a11y-js" src="wp-includes/js/dist/a11y.min__q1b1cf71c.js" type="text/javascript" defer></script>
     <script id="jquery-ui-autocomplete-js" src="wp-includes/js/jquery/ui/autocomplete.min__qb37ee774.js"
-        type="text/javascript"></script>
-    <script id="imagesloaded-js" src="wp-includes/js/imagesloaded.min__qbb938083.js" type="text/javascript"></script>
-    <script id="masonry-js" src="wp-includes/js/masonry.min__q3a0508bb.js" type="text/javascript"></script>
+        type="text/javascript" defer></script>
+    <script id="imagesloaded-js" src="wp-includes/js/imagesloaded.min__qbb938083.js" type="text/javascript" defer></script>
+    <script id="masonry-js" src="wp-includes/js/masonry.min__q3a0508bb.js" type="text/javascript" defer></script>
     <script id="jquery-masonry-js" src="wp-includes/js/jquery/jquery.masonry.min__qef703437.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
         var tve_frontend_options = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "is_editor_page": "", "page_events": [], "is_single": "1", "social_fb_app_id": "", "dash_url": "https://optionspa.com/wp-content/plugins/thrive-ultimatum/thrive-dashboard", "queried_object": { "ID": 3045, "post_author": "4" }, "query_vars": { "page": "", "pagename": "about-us", "certificate_u": "" }, "$_POST": [], "translations": { "Copy": "Copy", "empty_username": "ERROR: The username field is empty.", "empty_password": "ERROR: The password field is empty.", "empty_login": "ERROR: Enter a username or email address.", "min_chars": "At least %s characters are needed", "no_headings": "No headings found", "registration_err": { "required_field": "\u003Cstrong\u003EError\u003C/strong\u003E: This field is required", "required_email": "\u003Cstrong\u003EError\u003C/strong\u003E: Please type your email address", "invalid_email": "\u003Cstrong\u003EError\u003C/strong\u003E: The email address isn&#8217;t correct", "passwordmismatch": "\u003Cstrong\u003EError\u003C/strong\u003E: Password mismatch" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "video_reporting": "https://optionspa.com/wp-json/tcb/v1/video-reporting", "courses": "https://optionspa.com/wp-json/tva/v1/course_list_element", "certificate_search": "https://optionspa.com/wp-json/tva/v1/certificate/search", "assessments": "https://optionspa.com/wp-json/tva/v1/user/assessment", "testimonials": "https://optionspa.com/wp-json/tcb/v1/testimonials" }, "nonce": "52d3aee43c", "allow_video_src": "", "google_client_id": null, "google_api_key": null, "facebook_app_id": null, "lead_generation_custom_tag_apis": ["activecampaign", "aweber", "convertkit", "drip", "klicktipp", "mailchimp", "sendlane", "zapier"], "post_request_data": [], "user_profile_nonce": "4c5041a2b9", "ip": "14.195.188.138", "current_user": [], "post_id": "3045", "post_title": "About Us", "post_type": "page", "post_url": "https://optionspa.com/about-us/", "is_lp": "tcb2-homepage-local-business-focused-02", "conditional_display": { "is_tooltip_dismissed": false } };
@@ -1331,7 +1325,7 @@
     </script>
     <script id="tve_frontend-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/general.min__qe79741bf.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="theme-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
         var thrive_front_localize = { "comments_form": { "error_defaults": { "email": "Email address invalid", "url": "Website address invalid", "required": "Required field missing" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "frontend": "https://optionspa.com/wp-json/ttb/v1/frontend" }, "tar_post_url": "?tve=true&action=architect&from_theme=1", "is_editor": "", "ID": "32", "template_url": "?tve=true&action=architect&from_tar=3045", "pagination_url": { "template": "https://optionspa.com/about-us/", "base": "https://optionspa.com/about-us/" }, "sidebar_visibility": [], "is_singular": "1", "is_user_logged_in": "" };
@@ -1339,24 +1333,21 @@
         /* ]]> */
     </script>
     <script id="theme-frontend-js" src="wp-content/themes/thrive-theme/inc/assets/dist/frontend.min__q784709ed.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="display-testimonials-tcb-js"
         src="wp-content/plugins/thrive-ovation/tcb-bridge/frontend/js/display-testimonials-tcb.min__qe79741bf.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
 
 
     <meta content="IQ1dcuJ47hx3D0nkl5e3QOOCEIZ_UU7NBBkRGBNuLN4" name="google-site-verification" />
-    <link href="wp-content/uploads/custom-css-js/4734__qec47fe7e.css" id="4734-css" media="all" rel="stylesheet"
-        type="text/css" />
-    <link href="wp-content/uploads/custom-css-js/4725__q70077246.css" id="4725-css" media="all" rel="stylesheet"
-        type="text/css" />
-    <link href="wp-content/uploads/custom-css-js/2880__q42b25d37.css" id="2880-css" media="all" rel="stylesheet"
-        type="text/css" />
+    <link data-perf-bundle="1" href="wp-content/cache/perf/css/b_e8c549ae.css" rel="stylesheet" type="text/css"/>
+    
+    
     <!-- start Simple Custom CSS and JS -->
     <!-- Add HTML code to the header or the footer.
 
 For example, you can use the following code for loading the jQuery library from Google CDN:
-<script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
 
 or the following one for loading the Bootstrap library from jsDelivr:
 <link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -1366,7 +1357,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
     <link href="_external/fonts.googleapis.com/css2/index__q179b911d.html" rel="stylesheet" />
     <!-- Font Awesome -->
-    <link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet" />
+    <link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet" media="print" onload="this.media='all'" />
     <!-- End of the comment -->
     <!-- end Simple Custom CSS and JS -->
     <!-- start Simple Custom CSS and JS -->
@@ -1384,7 +1375,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     </script>
     <!-- end Simple Custom CSS and JS -->
     <link href="_external/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-        rel="stylesheet" />
+        rel="stylesheet" media="print" onload="this.media='all'" />
     <!-- Meta Pixel Code -->
     <script>
         !function (f, b, e, v, n, t, s) {
@@ -1419,25 +1410,12 @@ or the following one for loading the Bootstrap library from jsDelivr:
         })();
     </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-222721405-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-222721405-1');
-    </script>
+    
+    
     <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-WH4BGL7V');</script>
+    
     <!-- Google tag (gtag.js) -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16883360986"></script>
+    
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
@@ -1450,7 +1428,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         gtag('event', 'conversion', { 'send_to': 'AW-16883360986/kOsaCIuwsqAaENrJzvI-' });
     </script>
     <!-- Google tag (gtag.js) -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-E9TV9LJDWM"></script>
+    
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
@@ -1483,7 +1461,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         :root {
             --tcb-background-author-image: url("_external/secure.gravatar.com/avatar/0047baa95022e0117a11fdd310da4521de7ab91557a0210496da6c384c404e52/index__qb7b91a31.html");
             --tcb-background-user-image: url();
-            --tcb-background-featured-image-thumbnail: url("wp-content/uploads/2022/03/about-us.jpg");
+            --tcb-background-featured-image-thumbnail: url("wp-content/uploads/2022/03/about-us.webp");
             --tcb-skin-color-0: hsla(var(--tcb-theme-main-master-h, 210), var(--tcb-theme-main-master-s, 77%), var(--tcb-theme-main-master-l, 54%), var(--tcb-theme-main-master-a, 1));
             --tcb-skin-color-0-h: var(--tcb-theme-main-master-h, 210);
             --tcb-skin-color-0-s: var(--tcb-theme-main-master-s, 77%);
@@ -1622,12 +1600,9 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <meta
         content="Elementor 3.35.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
         name="generator" />
-    <link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__q1713ae60.html" rel="stylesheet"
-        type="text/css" />
-    <link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__q02c3b389.html" rel="stylesheet"
-        type="text/css" />
-    <link class="thrive-external-font" href="_external/fonts.googleapis.com/css/index__qbe0afaa7.html" rel="stylesheet"
-        type="text/css" />
+    <link data-perf-bundle="1" href="wp-content/cache/perf/css/b_5780d69e.css" rel="stylesheet" type="text/css"/>
+    
+    
     <style id="thrive-default-styles" type="text/css">
         @media (min-width: 300px) {
             .tcb-style-wrap h1 {
@@ -2663,18 +2638,18 @@ or the following one for loading the Bootstrap library from jsDelivr:
         }
 
         [data-css="tve-u-180181c234c"] {
-            background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
+            background-image: url("wp-content/uploads/2022/03/about-us.webp") !important;
             background-size: cover !important;
             background-position: 50% 50% !important;
             background-attachment: scroll !important;
             background-repeat: no-repeat !important;
             background-color: rgb(12, 17, 21) !important;
-            --background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
+            --background-image: url("wp-content/uploads/2022/03/about-us.webp") !important;
             --background-size: cover !important;
             --background-position: 50% 50% !important;
             --background-attachment: scroll !important;
             --background-repeat: no-repeat !important;
-            --tve-applied-background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
+            --tve-applied-background-image: url("wp-content/uploads/2022/03/about-us.webp") !important;
             --background-color: rgb(12, 17, 21) !important;
             --tve-applied-background-color: rgb(12, 17, 21) !important;
         }
@@ -2731,17 +2706,17 @@ or the following one for loading the Bootstrap library from jsDelivr:
         [data-css="tve-u-197254181e1"] {
             border-radius: 40px;
             overflow: hidden;
-            background-image: url("wp-content/uploads/2025/05/2150858397.jpg") !important;
+            background-image: url("wp-content/uploads/2025/05/2150858397.webp") !important;
             background-size: cover !important;
             background-position: 50% 43% !important;
             background-attachment: scroll !important;
             background-repeat: no-repeat !important;
-            --background-image: url("wp-content/uploads/2025/05/2150858397.jpg") !important;
+            --background-image: url("wp-content/uploads/2025/05/2150858397.webp") !important;
             --background-size: cover !important;
             --background-position: 50% 43% !important;
             --background-attachment: scroll !important;
             --background-repeat: no-repeat !important;
-            --tve-applied-background-image: url("wp-content/uploads/2025/05/2150858397.jpg") !important;
+            --tve-applied-background-image: url("wp-content/uploads/2025/05/2150858397.webp") !important;
             box-shadow: none;
             --tve-applied-box-shadow: none;
         }
@@ -2916,18 +2891,18 @@ or the following one for loading the Bootstrap library from jsDelivr:
         }
 
         [data-css="tve-u-19725e26895"] {
-            background-image: url("wp-content/uploads/2025/05/2149547999.jpg") !important;
+            background-image: url("wp-content/uploads/2025/05/2149547999.webp") !important;
             background-size: cover !important;
             background-position: 0% 51% !important;
             background-attachment: scroll !important;
             background-repeat: no-repeat !important;
             border: 15px solid var(--tcb-local-color-5b254, rgb(240, 246, 251)) !important;
-            --background-image: url("wp-content/uploads/2025/05/2149547999.jpg") !important;
+            --background-image: url("wp-content/uploads/2025/05/2149547999.webp") !important;
             --background-size: cover !important;
             --background-position: 0% 51% !important;
             --background-attachment: scroll !important;
             --background-repeat: no-repeat !important;
-            --tve-applied-background-image: url("wp-content/uploads/2025/05/2149547999.jpg") !important;
+            --tve-applied-background-image: url("wp-content/uploads/2025/05/2149547999.webp") !important;
         }
 
         [data-css="tve-u-19725e26896"] {
@@ -3198,17 +3173,17 @@ or the following one for loading the Bootstrap library from jsDelivr:
             }
 
             [data-css="tve-u-180181c234c"] {
-                background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
+                background-image: url("wp-content/uploads/2022/03/about-us.webp") !important;
                 background-size: cover !important;
                 background-position: 50% 50% !important;
                 background-attachment: scroll !important;
                 background-repeat: no-repeat !important;
-                --background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
+                --background-image: url("wp-content/uploads/2022/03/about-us.webp") !important;
                 --background-size: cover !important;
                 --background-position: 50% 50% !important;
                 --background-attachment: scroll !important;
                 --background-repeat: no-repeat !important;
-                --tve-applied-background-image: url("wp-content/uploads/2022/03/about-us.jpg") !important;
+                --tve-applied-background-image: url("wp-content/uploads/2022/03/about-us.webp") !important;
             }
 
             [data-css="tve-u-180181c2349"] {
@@ -3442,14 +3417,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         }
     </style>
     <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-MJC7C7C4');</script>
+    
     <!-- End Google Tag Manager -->
     <style>
         html {
@@ -3495,8 +3463,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
 <body class="wp-singular page-template-default page page-id-3045 wp-theme-thrive-theme tve_lp"
     data-css="tve-u-6241576d96b3d9" style="">
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MJC7C7C4"
-            style="display:none;visibility:hidden" width="0"></iframe></noscript>
+    
     <!-- End Google Tag Manager (noscript) -->
     <div class="wrp cnt bSe" style="display: none">
         <div class="awr"></div>
@@ -7846,8 +7813,8 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                 }
                             </style>
                             <style class="tve-symbol-custom-style">
-                                @import url("_external/fonts.googleapis.com/css/index__qefe37e37.html");
-                                @import url("_external/fonts.googleapis.com/css/index__qd8ec9620.html");
+                                @import url("_external/fonts.googleapis.com/css/index__qefe37e37.css");
+                                @import url("_external/fonts.googleapis.com/css/index__qd8ec9620.css");
                                 @media (min-width: 300px) {
                                     .thrv_symbol_65 [data-css="tve-u-16eff063edc"] {
                                         padding: 0px !important;
@@ -8549,7 +8516,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                     <picture>
                                                         <source media="(min-width:1024px)"
                                                             srcset="wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY-300x112.png 300w, wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png 463w" />
-                                                        <img alt="options logo" height="173" loading="lazy"
+                                                        <img decoding="async" alt="options logo" height="173" loading="lazy"
                                                             src="wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
                                                             style="width: 100%;" width="463" />
                                                     </picture>
@@ -10352,7 +10319,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                         <div class="tcb-flex-col" data-css="tve-u-17c5a123d1b" style="">
                                             <div class="tcb-col">
                                                 <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17c5a0d61bd"
-                                                    style=""><span class="tve_image_frame"><a href="./"><img
+                                                    style=""><span class="tve_image_frame"><a href="./"><img decoding="async"
                                                                 alt="" class="tve_image wp-image-3085"
                                                                 data-css="tve-u-17c5a0d7558" data-height="66"
                                                                 data-id="3085" data-init-height="159"
@@ -10878,7 +10845,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
             </defs>
         </svg>
     </div>
-    <script type="text/javascript">($ => {
+    <script type="text/javascript">document.addEventListener('DOMContentLoaded',function(){($ => {
             /**
              * Displays toast message from storage, it is used when the user is redirected after login
              */
@@ -10911,7 +10878,8 @@ or the following one for loading the Bootstrap library from jsDelivr:
                 TCB_Front.notificationElement.toggle(message, error ? 'error' : 'success', callback);
             }
         })(typeof ThriveGlobal === 'undefined' ? jQuery : ThriveGlobal.$j);
-    </script>
+    
+});</script>
     <style id="tve_notification_styles" type="text/css"></style>
     <div class="tvd-toast tve-fe-message" style="display: none">
         <div class="tve-toast-message tve-success-message">
@@ -10948,7 +10916,8 @@ or the following one for loading the Bootstrap library from jsDelivr:
         });
     </script>
     <script
-        type="text/javascript">window.TVE_Event_Manager_Registered_Callbacks = window.TVE_Event_Manager_Registered_Callbacks || {}; window.TVE_Event_Manager_Registered_Callbacks.thrive_lightbox = function (t, a, c) { var $t = jQuery("#tve_thrive_lightbox_" + c.l_id); if (t === "exit" && $t.data("shown-on-exit")) { return; } $t.css("display", ""); $t.data("shown-on-" + t, true); var a = c.l_anim || "instant"; TCB_Front.openLightbox($t, a); return false; };;</script>
+        type="text/javascript">document.addEventListener('DOMContentLoaded',function(){window.TVE_Event_Manager_Registered_Callbacks = window.TVE_Event_Manager_Registered_Callbacks || {}; window.TVE_Event_Manager_Registered_Callbacks.thrive_lightbox = function (t, a, c) { var $t = jQuery("#tve_thrive_lightbox_" + c.l_id); if (t === "exit" && $t.data("shown-on-exit")) { return; } $t.css("display", ""); $t.data("shown-on-" + t, true); var a = c.l_anim || "instant"; TCB_Front.openLightbox($t, a); return false; };;
+});</script>
     <style class="tcb-lightspeed-style" id="tcb-style-base-tcb_lightbox-3952"
         onload="typeof window.lightspeedOptimizeStylesheet === 'function' &amp;&amp; window.lightspeedOptimizeStylesheet()"
         type="text/css">
@@ -13133,7 +13102,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     </div>
     <script id="tve_frontend_social-share-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/social-share.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="kk-star-ratings-js-extra" type="text/javascript">
         /* <![CDATA[ */
         var kk_star_ratings = { "action": "kk-star-ratings", "endpoint": "https://optionspa.com/wp-admin/admin-ajax.php", "nonce": "5a73145632" };
@@ -13142,13 +13111,13 @@ or the following one for loading the Bootstrap library from jsDelivr:
     </script>
     <script id="kk-star-ratings-js"
         src="wp-content/plugins/kk-star-ratings/src/core/public/js/kk-star-ratings.min__qf503e290.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="wpblog-post-layouts-elements-scripts-js"
         src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/elementor-frontend__q8daf52c7.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="wpblog-post-layouts-public-script-js"
         src="wp-content/plugins/wp-blog-post-layouts/includes/assets/js/frontend__q8daf52c7.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve-dash-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
         var tve_dash_front = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "force_ajax_send": "1", "is_crawler": "", "recaptcha": [], "turnstile": [], "post_id": "3045" };
@@ -13157,16 +13126,16 @@ or the following one for loading the Bootstrap library from jsDelivr:
     </script>
     <script id="tve-dash-frontend-js"
         src="wp-content/plugins/thrive-ultimatum/thrive-dashboard/js/dist/frontend.min__qe79741bf.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend_lead-generation-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/lead-generation.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend_dropdown-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/dropdown.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script id="tve_frontend_menu-js"
         src="wp-content/plugins/thrive-ultimatum/tcb/editor/js/dist/modules/menu.min__q011b470d.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
     <script
         type="text/javascript">var tcb_current_post_lists = JSON.parse('[]'); var tcb_post_lists = tcb_post_lists ? [...tcb_post_lists, ...tcb_current_post_lists] : tcb_current_post_lists;</script>
     <script id="wp-emoji-settings" type="application/json">
@@ -13185,7 +13154,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <!-- Add HTML code to the header or the footer.
 
 For example, you can use the following code for loading the jQuery library from Google CDN:
-<script src="assets-ext/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
 
 or the following one for loading the Bootstrap library from jsDelivr:
 <link rel="stylesheet" href="assets-ext/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -13583,7 +13552,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         /* ]]> */
     </script>
     <script src="wp-content/plugins/thrive-ultimatum/js/dist/no-campaign.min__q04f4ffbd.js"
-        type="text/javascript"></script>
+        type="text/javascript" defer></script>
 </body>
 
 </html>
