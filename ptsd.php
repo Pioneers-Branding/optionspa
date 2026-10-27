@@ -1002,10 +1002,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Speak with our specialists about your path to recovery.</p>
 <form accept-charset="UTF-8" action="https://app.formester.com/forms/qYHPZIOTp/submissions" method="POST">
 <div class="opt-form-group">
-<input class="opt-form-control" name="fullName" placeholder="Full Name *" required="" type="text"/>
+<input class="opt-form-control" name="name" placeholder="Full Name *" required="" type="text"/>
 </div>
 <div class="opt-form-group">
-<input class="opt-form-control" name="phoneNumber" placeholder="Phone Number *" required="" type="tel"/>
+<input class="opt-form-control" name="phone" placeholder="Phone Number *" required="" type="tel"/>
 </div>
 <div class="opt-form-group">
 <input class="opt-form-control" name="email" placeholder="Email Address" type="email"/>

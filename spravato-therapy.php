@@ -1084,16 +1084,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Expert psychiatric advice for your treatment plan.</p>
 <form accept-charset="UTF-8" action="https://app.formester.com/forms/qYHPZIOTp/submissions" method="POST">
 <div class="spravato-form-group">
-<input class="spravato-form-control" placeholder="Patient Name *" required="" type="text"/>
+<input class="spravato-form-control" name="name" placeholder="Patient Name *" required="" type="text"/>
 </div>
 <div class="spravato-form-group">
-<input class="spravato-form-control" placeholder="Mobile Number *" required="" type="tel"/>
+<input class="spravato-form-control" name="phone" placeholder="Mobile Number *" required="" type="tel"/>
 </div>
 <div class="spravato-form-group">
-<input class="spravato-form-control" placeholder="Email Address *" required="" type="email"/>
+<input class="spravato-form-control" name="email" placeholder="Email Address *" required="" type="email"/>
 </div>
 <div class="spravato-form-group">
-<select class="spravato-form-select" required="">
+<select class="spravato-form-select" name="concern" required="">
 <option value="">Select Condition *</option>
 <option value="depression">Depression</option>
 <option value="anxiety">Anxiety</option>
