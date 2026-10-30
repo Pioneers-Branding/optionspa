@@ -28,6 +28,19 @@ Edit THIS file to change the footer on every page. */ ?>
                                         href="https://www.facebook.com/OptionsAddiction"><i
                                             class="fab fa-facebook-f"></i></a>
                                 </div>
+                                <div class="opt-footer-badges"
+                                    style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-top:20px">
+                                    <a href="https://tmslist.com/clinic/options-reading/" title="Options on TMS List"
+                                        style="display:inline-block;line-height:0"><img
+                                            src="https://tmslist.com/badge/options-reading.svg?layout=pill" width="180"
+                                            height="40" alt="Options is listed on TMS List" loading="lazy"
+                                            style="border:0;max-width:100%;height:auto"></a>
+                                    <a href="https://tmslist.com/clinic/options-reading/" title="Options on TMS List"
+                                        style="display:inline-block;line-height:0"><img
+                                            src="https://tmslist.com/badge/options-reading.svg?type=verified&amp;layout=pill"
+                                            width="192" height="40" alt="Options is a verified TMS clinic on TMS List"
+                                            loading="lazy" style="border:0;max-width:100%;height:auto"></a>
+                                </div>
                             </div>
                             <div class="opt-footer-content">
                                 <div class="footer-column">
