@@ -3458,6 +3458,12 @@ or the following one for loading the Bootstrap library from jsDelivr:
             margin-right: -50vw !important;
         }
     </style>
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-58G8N9XX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
 </head>
 
 <body class="wp-singular page-template-default page page-id-3045 wp-theme-thrive-theme tve_lp"

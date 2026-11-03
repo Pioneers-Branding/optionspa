@@ -458,6 +458,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 margin-right: -50vw !important;
             }
 		</style>
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-58G8N9XX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
 </head>
 <body class="wp-singular page-template page-template-elementor_header_footer page page-id-4244 wp-theme-thrive-theme tve_lp" data-css="tve-u-17081d94adb" style="">
 <!-- Google Tag Manager (noscript) -->

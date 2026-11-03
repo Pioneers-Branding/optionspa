@@ -17,6 +17,12 @@
    background:#12263f;color:#fff;text-decoration:none;font-weight:600}
  a.alt{background:transparent;color:#12263f;border:1px solid #cbd5e1}
 </style>
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-58G8N9XX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
 </head>
 <body>
 <div class="w">

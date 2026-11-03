@@ -504,6 +504,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	margin-top: -125px !important;
 }
 		</style>
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-58G8N9XX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
 </head>
 <body class="home wp-singular page-template page-template-elementor_header_footer page page-id-4735 wp-theme-thrive-theme ehf-header ehf-footer ehf-template-thrive-theme ehf-stylesheet-thrive-theme tve-theme-28 thrive-layout-19 thrive-no-prev-post-in-category thrive-no-next-post-in-category elementor-default elementor-template-full-width elementor-kit-4716 elementor-page elementor-page-4735">
 <!-- Google Tag Manager (noscript) -->

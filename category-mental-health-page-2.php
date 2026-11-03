@@ -433,6 +433,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	margin-top: -125px !important;
 }
 		</style>
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-58G8N9XX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
 </head>
 <body class="archive paged category category-mental-health category-49 paged-2 category-paged-2 wp-theme-thrive-theme ehf-header ehf-footer ehf-template-thrive-theme ehf-stylesheet-thrive-theme tve-theme-27 thrive-layout-19 elementor-default elementor-kit-4716">
 <!-- Google Tag Manager (noscript) -->
