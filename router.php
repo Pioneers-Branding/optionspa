@@ -114,6 +114,13 @@ if (preg_match('#^(.*?)/page(?:/.*)?$#i', urldecode($clean), $m)) {
 // defunct WordPress REST API -> home
 if (preg_match('#^wp-json(?:/.*)?$#i', $clean)) { $go(''); }
 
+// real folder with its own index.php (e.g. lp/tms/) -> serve it with the slash,
+// like Apache's DirectoryIndex + DirectorySlash
+if ($exists($clean . '/index.php')) {
+    if (!$hadSlash) { $go($clean . '/'); }
+    return $serve($clean . '/index.php');
+}
+
 // drop a trailing slash
 if ($hadSlash) { $go($clean); }
 
