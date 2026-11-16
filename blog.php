@@ -8357,7 +8357,170 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                 data-css="tve-u-16eea85aace" data-disabled-links="0"
                                 data-dynamic_filter="{'category':'category','tag':'tag','author':'author','search':'search'}"
                                 data-no_posts_text="" data-pages_near_current="1" data-pagination-type="none"
-                                data-total_post_count="68" data-type="grid" id="main" role="main">
+                                data-total_post_count="69" data-type="grid" id="main" role="main">
+                                                                <article id="post-8960"
+    class="post-8960 post type-post status-publish format-standard has-post-thumbnail hentry category-tms-therapy category-depression post-wrapper thrv_wrapper thrive-animated-item "
+    tcb_hover_state_parent="" data-id="8960" data-selector=".post-wrapper">
+    <style class="tcb-post-list-dynamic-style" type="text/css">
+        @media (min-width: 300px) {
+            .tve-theme-26 .content-section #main #post-8960 [data-css="tve-u-170aae40f55"] {
+                background-image: url("wp-content/uploads/2026/11/how-long-does-tms-therapy-last-apollo-tms-thumbnail.webp") !important;
+            }
+
+            .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8960 [data-css="tve-u-16eb7cc1def"] {
+                background-image: url("wp-content/uploads/2026/11/how-long-does-tms-therapy-last-apollo-tms-thumbnail.webp") !important;
+            }
+
+            .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8960 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
+                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/11/how-long-does-tms-therapy-last-apollo-tms-thumbnail.webp") !important;
+            }
+        }
+    </style>
+    <div class="tcb-clear" data-css="tve-u-16ec6ce9c8e">
+        <div class="thrv_wrapper thrv-columns" data-css="tve-u-16ec6ce9bf9"
+            style="--tcb-col-el-width:275;">
+            <div class="tcb-flex-row tcb--cols--2 tcb-resized v-2 tcb-mobile-no-wrap m-edit"
+                style="margin-left: 0px;" data-css="tve-u-16ec6cec0d5">
+                <div class="tcb-flex-col" data-css="tve-u-16ec6cef97c"
+                    style="padding-left: 0px;">
+                    <div class="tcb-col" style="" data-css="tve-u-16ecb0fccee">
+                        <div class="thrv_wrapper thrv_text_element tve-froala fr-box"
+                            style="" data-css="tve-u-16ec6ce3d3b">
+                            <p data-css="tve-u-16ec6ce5e37"><span
+                                    class="thrive-shortcode-content" data-attr-css=""
+                                    data-attr-date-format="F j, Y"
+                                    data-attr-date-format-select="F j, Y"
+                                    data-attr-link="1" data-attr-rel="0"
+                                    data-attr-show-time="0" data-attr-target="0"
+                                    data-attr-time-format=""
+                                    data-attr-time-format-select="g:i a"
+                                    data-attr-type="published" data-extra_key=""
+                                    data-option-inline="1"
+                                    data-shortcode="tcb_post_published_date"
+                                    data-shortcode-name="Post date"
+                                    data-css="tve-u-1708037b30c"><a href="how-long-does-tms-therapy-last"
+                                        title="November 9, 2026 "
+                                        data-css="">November 9, 2026 </a></span></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tcb-flex-col" data-css="tve-u-16ec6cf1e4d"
+                    style="padding-right: 0px;">
+                    <div class="tcb-col" style="">
+                        <div class="tcb-clear" data-css="tve-u-16eb7bd89f7"><a
+                                href="how-long-does-tms-therapy-last#comments"
+                                class="tve-dynamic-link"
+                                dynamic-postlink="tcb_post_comments_link"
+                                data-shortcode-id="2978"></a>
+                            <div class="tcb-clear" data-css="tve-u-16ec6cfd45b"><a
+                                    href="how-long-does-tms-therapy-last#comments"
+                                    class="tve-dynamic-link"
+                                    dynamic-postlink="tcb_post_comments_link"
+                                    data-shortcode-id="2978"></a><a
+                                    href="how-long-does-tms-therapy-last#comments"
+                                    class="tve-dynamic-link"
+                                    dynamic-postlink="tcb_post_comments_link"
+                                    data-shortcode-id="2978">
+                                    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                                        data-css="tve-u-16eb7bd89f8" style="">
+                                        <div class="tve-content-box-background" style=""
+                                            data-css="tve-u-16eb7c2edcd"></div>
+                                        <div class="tve-cb" data-css="tve-u-1713132fc67"
+                                            data-tcb_hover_state_parent="1" style="">
+                                            <div class="tcb-post-comments-number tcb-shortcode thrv_wrapper"
+                                                data-css="tve-u-16eb7bd89f8">0</div>
+                                            <div class="thrv_wrapper thrv_icon tcb-icon-display"
+                                                data-css="tve-u-16eb7bd89fb" style="">
+                                                <svg class="tcb-icon"
+                                                    viewBox="0 0 512 512"
+                                                    data-id="icon-comment-alt-light"
+                                                    data-name="" style="">
+                                                    <path
+                                                        d="M448 0H64C28.7 0 0 28.7 0 64v288c0 35.3 28.7 64 64 64h96v84c0 7.1 5.8 12 12 12 2.4 0 4.9-.7 7.1-2.4L304 416h144c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64zm32 352c0 17.6-14.4 32-32 32H293.3l-8.5 6.4L192 460v-76H64c-17.6 0-32-14.4-32-32V64c0-17.6 14.4-32 32-32h384c17.6 0 32 14.4 32 32v288z">
+                                                    </path>
+                                                </svg></div>
+                                        </div>
+                                    </div>
+                                </a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="how-long-does-tms-therapy-last" target="_blank" class="tve-dynamic-link"
+        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a><a
+        href="how-long-does-tms-therapy-last" class="tve-dynamic-link"
+        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a>
+    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+        data-css="tve-u-171309e9d70" style="">
+        <div class="tve-content-box-background"></div>
+        <div class="tve-cb"><a href="how-long-does-tms-therapy-last"
+                class="tve-dynamic-link" dynamic-postlink="tcb_post_the_permalink"
+                data-shortcode-id="2978">
+                <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                    style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+                    data-css="tve-u-170aae42b46" data-link-wrap="true">
+                    <div class="tve-content-box-background" style=""
+                        data-css="tve-u-170aae40f55"></div>
+                    <div class="tve-cb" data-css="tve-u-170aae452a1"
+                        style="--tve-line-height:1px;"></div>
+                </div>
+            </a>
+            <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                data-css="tve-u-171309e5dfc" style="">
+                <div class="tve-content-box-background" style=""
+                    data-css="tve-u-171309ef3fb"></div>
+                <div class="tve-cb" style="" data-css="tve-u-171309f04cb">
+                    <div class="thrv_wrapper thrv_text_element tve-froala fr-box fr-basic"
+                        style="" data-css="tve-u-171309fe664">
+                        <p style="" data-css="tve-u-171309f24be"><span
+                                class="thrive-shortcode-content" data-attr-link="1"
+                                data-attr-rel="0" data-attr-target="0" data-extra_key=""
+                                data-option-inline="1"
+                                data-shortcode="tcb_post_categories"
+                                data-shortcode-name="List of Categories"
+                                data-attr-css="tve-u-171309f6482"><a href="category-mental-health"
+                                    title="Mental Health"
+                                    data-css="tve-u-171309f6482">TMS Therapy</a></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="thrv_wrapper thrv_text_element"
+        style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+        data-css="tve-u-16ecb55f946">
+        <h2 class="" data-css="tve-u-171309d2be7"><a
+                class="tve-dynamic-link tve-froala fr-basic"
+                data-css="tve-u-16fa868df06" data-dynamic-link="tcb_post_the_permalink"
+                data-shortcode-id="2978" data-tcb_hover_state_parent=""
+                dynamic-postlink="tcb_post_the_permalink"
+                href="how-long-does-tms-therapy-last"
+                style="outline: none;"><strong><span class="thrive-shortcode-content"
+                        data-attr-link="0" data-attr-rel="0" data-attr-target="1"
+                        data-extra_key="" data-option-inline="1"
+                        data-shortcode="tcb_post_title" data-shortcode-name="Post Title"
+                        data-css="tve-u-171309d2ceb">How Long Does TMS Therapy Last? Sessions, Timeline &amp; Results</span></strong></a></h2>
+    </div>
+    <section class="tcb-post-content tcb-shortcode thrv_wrapper"
+        data-css="tve-u-1713acf18fa">
+        <p>How long does TMS therapy last? Learn how long each session takes, how many weeks a full course runs, and how long TMS results typically last, plus booster and maintenance options in Reading, PA... <a class="more-link"
+                href="how-long-does-tms-therapy-last#more-8960">...</a></p>
+    </section>
+    <div class="tcb-clear tcb-post-read-more-clear">
+        <div class="thrv_wrapper tcb-post-read-more" data-css="tve-u-16ec6869692"
+            data-tcb_hover_state_parent="" style="">
+            <a href="how-long-does-tms-therapy-last"
+                class="tcb-button-link tcb-post-read-more-link">
+                <span class="tcb-button-texts" style=""><span
+                        class="tcb-button-text thrv-inline-text" style=""
+                        data-css="tve-u-17859bf38be">Read More</span></span>
+            </a>
+        </div>
+    </div>
+</article>
                                                                 <article id="post-5525"
     class="post-5525 post type-post status-publish format-standard has-post-thumbnail hentry category-mental-health category-depression post-wrapper thrv_wrapper thrive-animated-item "
     tcb_hover_state_parent="" data-id="5525" data-selector=".post-wrapper">
@@ -8738,47 +8901,94 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                 class="tve-dynamic-link"
                                 dynamic-postlink="tcb_post_comments_link"
                                 data-shortcode-id="2978"></a>
-                            <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-icon-display"
-                                data-css="tve-u-16eb7bd89fc"><svg class="tcb-icon"
-                                    data-id="icon-comment-alt-light"
-                                    viewbox="0 0 512 512">
-                                    <path
-                                        d="M448 0H64C28.7 0 0 28.7 0 64v288c0 35.3 28.7 64 64 64h96v84c0 9.8 11.2 15.5 19.1 9.7L304 416h144c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64z">
-                                    </path>
-                                </svg></div>
-                            <div class="thrv_wrapper thrv_text_element tcb-compact-element"
-                                data-css="tve-u-16eb7bd89fa">
-                                <p data-css="tve-u-16eb7bd89f9"><span
-                                        class="thrive-shortcode-content" data-attr-css=""
-                                        data-attr-link="1" data-attr-none="0"
-                                        data-attr-one="1" data-attr-other="%"
-                                        data-attr-rel="0" data-attr-target="0"
-                                        data-extra_key="" data-option-inline="1"
-                                        data-shortcode="tcb_post_comments_number"
-                                        data-shortcode-name="Post comments"><a
-                                            href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#comments"
-                                            data-css="">0</a></span></p>
-                            </div>
+                            <div class="tcb-clear" data-css="tve-u-16ec6cfd45b"><a
+                                    href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#comments"
+                                    class="tve-dynamic-link"
+                                    dynamic-postlink="tcb_post_comments_link"
+                                    data-shortcode-id="2978"></a><a
+                                    href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#comments"
+                                    class="tve-dynamic-link"
+                                    dynamic-postlink="tcb_post_comments_link"
+                                    data-shortcode-id="2978">
+                                    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                                        data-css="tve-u-16eb7bd89f8" style="">
+                                        <div class="tve-content-box-background" style=""
+                                            data-css="tve-u-16eb7c2edcd"></div>
+                                        <div class="tve-cb" data-css="tve-u-1713132fc67"
+                                            data-tcb_hover_state_parent="1" style="">
+                                            <div class="tcb-post-comments-number tcb-shortcode thrv_wrapper"
+                                                data-css="tve-u-16eb7bd89f8">0</div>
+                                            <div class="thrv_wrapper thrv_icon tcb-icon-display"
+                                                data-css="tve-u-16eb7bd89fb" style="">
+                                                <svg class="tcb-icon"
+                                                    viewBox="0 0 512 512"
+                                                    data-id="icon-comment-alt-light"
+                                                    data-name="" style="">
+                                                    <path
+                                                        d="M448 0H64C28.7 0 0 28.7 0 64v288c0 35.3 28.7 64 64 64h96v84c0 7.1 5.8 12 12 12 2.4 0 4.9-.7 7.1-2.4L304 416h144c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64zm32 352c0 17.6-14.4 32-32 32H293.3l-8.5 6.4L192 460v-76H64c-17.6 0-32-14.4-32-32V64c0-17.6 14.4-32 32-32h384c17.6 0 32 14.4 32 32v288z">
+                                                    </path>
+                                                </svg></div>
+                                        </div>
+                                    </div>
+                                </a></div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad tcb-local-vars-root"
-        data-css="tve-u-170aae40f54">
-        <div class="tve-content-box-background" data-css="tve-u-170aae40f55"></div>
-        <div class="tve-cb"></div><a
-            href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help"
-            class="tve-dynamic-link" dynamic-postlink="tcb_post_url"></a>
+    <a href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" target="_blank" class="tve-dynamic-link"
+        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a><a
+        href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" class="tve-dynamic-link"
+        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a>
+    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+        data-css="tve-u-171309e9d70" style="">
+        <div class="tve-content-box-background"></div>
+        <div class="tve-cb"><a href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help"
+                class="tve-dynamic-link" dynamic-postlink="tcb_post_the_permalink"
+                data-shortcode-id="2978">
+                <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                    style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+                    data-css="tve-u-170aae42b46" data-link-wrap="true">
+                    <div class="tve-content-box-background" style=""
+                        data-css="tve-u-170aae40f55"></div>
+                    <div class="tve-cb" data-css="tve-u-170aae452a1"
+                        style="--tve-line-height:1px;"></div>
+                </div>
+            </a>
+            <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                data-css="tve-u-171309e5dfc" style="">
+                <div class="tve-content-box-background" style=""
+                    data-css="tve-u-171309ef3fb"></div>
+                <div class="tve-cb" style="" data-css="tve-u-171309f04cb">
+                    <div class="thrv_wrapper thrv_text_element tve-froala fr-box fr-basic"
+                        style="" data-css="tve-u-171309fe664">
+                        <p style="" data-css="tve-u-171309f24be"><span
+                                class="thrive-shortcode-content" data-attr-link="1"
+                                data-attr-rel="0" data-attr-target="0" data-extra_key=""
+                                data-option-inline="1"
+                                data-shortcode="tcb_post_categories"
+                                data-shortcode-name="List of Categories"
+                                data-attr-css="tve-u-171309f6482"><a href="category-mental-health"
+                                    title="Mental Health"
+                                    data-css="tve-u-171309f6482">Mental Health</a></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="thrv_wrapper thrv_text_element tve-froala fr-box"
-        data-css="tve-u-16ec686968d">
-        <h2 class="tcb-post-title" data-css="tve-u-16eb7ba6341"><a
+    <div class="thrv_wrapper thrv_text_element"
+        style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+        data-css="tve-u-16ecb55f946">
+        <h2 class="" data-css="tve-u-171309d2be7"><a
+                class="tve-dynamic-link tve-froala fr-basic"
+                data-css="tve-u-16fa868df06" data-dynamic-link="tcb_post_the_permalink"
+                data-shortcode-id="2978" data-tcb_hover_state_parent=""
+                dynamic-postlink="tcb_post_the_permalink"
                 href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help"
-                class="tve-dynamic-link" dynamic-postlink="tcb_post_url"
-                data-css="tve-u-1707efc8fca"><strong><span
-                        class="thrive-shortcode-content" data-attr-link="0"
+                style="outline: none;"><strong><span class="thrive-shortcode-content"
+                        data-attr-link="0" data-attr-rel="0" data-attr-target="1"
                         data-extra_key="" data-option-inline="1"
                         data-shortcode="tcb_post_title" data-shortcode-name="Post Title"
                         data-css="tve-u-171309d2ceb">Mental Illness Awareness Week: How to Recognize When It’s Time to Seek Psychiatric Help</span></strong></a></h2>
@@ -24788,6 +24998,89 @@ or the following one for loading the Bootstrap library from jsDelivr:
     </script>
     <script src="wp-content/plugins/thrive-ultimatum/js/dist/no-campaign.min__q04f4ffbd.js"
         type="text/javascript" defer></script>
+    <!-- Blog 3x3 Grid + Pagination (9 posts per page) -->
+    <style id="opt-blog-grid">
+        .tve-theme-26 .content-section .section-content { max-width: 1240px !important; margin-left: auto !important; margin-right: auto !important; }
+        html body #content > .main-container { width: 100% !important; max-width: 1280px !important; margin-left: auto !important; margin-right: auto !important; }
+        html body #content #theme-content-section, html body #content #theme-content-section > .section-content { width: 100% !important; max-width: 1260px !important; }
+        html body #main.thrive-blog-list > article.post-wrapper.thrv_wrapper { margin: 0 !important; transform: none !important; }
+        html body #main.thrive-blog-list > article > .thrv_wrapper, html body #main.thrive-blog-list > article .thrv-content-box:not([data-css="tve-u-171309e5dfc"]), html body #main.thrive-blog-list > article .tve-cb > a { width: 100% !important; max-width: 100% !important; box-sizing: border-box; }
+        html body #main.thrive-blog-list > article .tve-cb > a { display: block; }
+        html body #main.thrive-blog-list > article [data-css="tve-u-171309e5dfc"] { width: auto !important; max-width: calc(100% - 16px) !important; }
+        html body #main.thrive-blog-list { display: grid !important; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 44px 32px; width: 100% !important; max-width: 1240px !important; }
+        html body #main.thrive-blog-list > article.post-wrapper { width: auto !important; max-width: none !important; min-width: 0 !important; margin: 0 !important; display: flex; flex-direction: column; }
+        html body #main.thrive-blog-list > article.post-wrapper.opt-hidden { display: none !important; }
+        html body #main.thrive-blog-list > article .tcb-post-read-more-clear { margin-top: auto; }
+        @media (max-width: 1023px) { html body #main.thrive-blog-list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 36px 24px; } }
+        @media (max-width: 640px) { html body #main.thrive-blog-list { grid-template-columns: 1fr; gap: 32px; } }
+        .opt-blog-pagination { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px; margin: 48px auto 24px; padding: 0 16px; font-family: 'Barlow', sans-serif; }
+        .opt-blog-pagination a, .opt-blog-pagination span { display: inline-flex; align-items: center; justify-content: center; min-width: 44px; height: 44px; padding: 0 14px; border-radius: 100px; border: 1px solid #d6dde6; background: #fff; color: #173c63; font-size: 16px; font-weight: 600; text-decoration: none; transition: background .2s, color .2s, border-color .2s; }
+        .opt-blog-pagination a:hover { border-color: #ff7a14; color: #ff7a14; }
+        .opt-blog-pagination .opt-current { background: #ff7a14; border-color: #ff7a14; color: #fff; }
+        .opt-blog-pagination .opt-disabled { opacity: .4; pointer-events: none; }
+        .opt-blog-pagination .opt-dots { border: none; background: transparent; min-width: 20px; padding: 0; }
+        @media (max-width: 640px) { .opt-blog-pagination a, .opt-blog-pagination span { min-width: 40px; height: 40px; padding: 0 11px; font-size: 15px; } }
+    </style>
+    <script>
+    (function () {
+        var PER_PAGE = 9;
+        function init() {
+            var list = document.getElementById('main');
+            if (!list || list.getAttribute('data-opt-paged')) return;
+            list.setAttribute('data-opt-paged', '1');
+            var posts = Array.prototype.filter.call(list.children, function (el) { return el.tagName === 'ARTICLE'; });
+            var total = Math.ceil(posts.length / PER_PAGE);
+            if (total <= 1) return;
+            var nav = document.createElement('nav');
+            nav.className = 'opt-blog-pagination';
+            nav.setAttribute('aria-label', 'Blog pagination');
+            list.parentNode.insertBefore(nav, list.nextSibling);
+
+            function pageFromUrl() {
+                var m = /[?&]page=(\d+)/.exec(window.location.search);
+                var n = m ? parseInt(m[1], 10) : 1;
+                return Math.min(Math.max(n || 1, 1), total);
+            }
+            function href(n) { return n === 1 ? window.location.pathname : window.location.pathname + '?page=' + n; }
+            function item(label, n, cls, aria) {
+                if (cls) return '<span class="' + cls + '"' + (aria ? ' aria-current="page"' : '') + '>' + label + '</span>';
+                return '<a href="' + href(n) + '" data-page="' + n + '">' + label + '</a>';
+            }
+            function render(page) {
+                posts.forEach(function (p, i) {
+                    var show = i >= (page - 1) * PER_PAGE && i < page * PER_PAGE;
+                    p.classList.toggle('opt-hidden', !show);
+                    p.style.setProperty('margin', '0', 'important');
+                    if (show) { p.style.opacity = 1; p.style.transform = 'none'; }
+                });
+                var h = '';
+                h += page > 1 ? item('&larr; Prev', page - 1) : item('&larr; Prev', 0, 'opt-disabled');
+                for (var n = 1; n <= total; n++) {
+                    if (n === 1 || n === total || Math.abs(n - page) <= 1) {
+                        h += n === page ? item(n, n, 'opt-current', true) : item(n, n);
+                    } else if (n === page - 2 || n === page + 2) {
+                        h += '<span class="opt-dots">&hellip;</span>';
+                    }
+                }
+                h += page < total ? item('Next &rarr;', page + 1) : item('Next &rarr;', 0, 'opt-disabled');
+                nav.innerHTML = h;
+            }
+            nav.addEventListener('click', function (e) {
+                var a = e.target.closest('a[data-page]');
+                if (!a) return;
+                e.preventDefault();
+                var n = parseInt(a.getAttribute('data-page'), 10);
+                history.pushState({ optPage: n }, '', href(n));
+                render(n);
+                var top = list.getBoundingClientRect().top + window.pageYOffset - 140;
+                window.scrollTo({ top: top, behavior: 'smooth' });
+            });
+            window.addEventListener('popstate', function () { render(pageFromUrl()); });
+            render(pageFromUrl());
+        }
+        if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
+    })();
+    </script>
 </body>
 
 </html>
