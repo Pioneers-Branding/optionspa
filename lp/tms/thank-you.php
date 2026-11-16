@@ -29,6 +29,15 @@
     /></noscript>
     <!-- End Meta Pixel Code -->
 
+    <!-- Google Tag Manager -->
+    <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-58G8N9XX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    </script>
+    <!-- End Google Tag Manager -->
+
     <!-- Google Ads: Submit lead form conversion -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16883360986"></script>
     <script>
