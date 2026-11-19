@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<?php include __DIR__ . '/../../includes/consent-head.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Psychiatric care for depression, anxiety, PTSD, OCD, bipolar disorder and ADHD in Reading, PA. Evaluation, medication management, TMS and Spravato therapy at Options Psychiatry.">
@@ -3260,6 +3261,7 @@
                     <a href="#">Privacy Policy</a>
                     <a href="#">Terms of Service</a>
                     <a href="#">HIPAA Notice</a>
+                    <a href="#cookie-settings" data-cookie-settings>Cookie Settings</a>
                 </div>
             </div>
         </div>
@@ -3503,5 +3505,6 @@
             });
         });
     </script>
+<?php include __DIR__ . '/../../includes/cookie-consent.php'; ?>
 </body>
 </html>

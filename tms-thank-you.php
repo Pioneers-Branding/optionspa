@@ -3,6 +3,7 @@
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
 
 <head>
+<?php include __DIR__ . '/includes/consent-head.php'; ?>
     <!-- Google tag (gtag.js) -->
     
     <script>

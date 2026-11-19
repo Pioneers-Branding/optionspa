@@ -8,7 +8,8 @@
 <html class="tcb" lang="en-US" prefix="og: https://ogp.me/ns#">
 <!--<![endif]-->
 
-<head><script>(function(){var q=[],fired=false,W=window,D=document;
+<head>
+<?php include __DIR__ . '/includes/consent-head.php'; ?><script>(function(){var q=[],fired=false,W=window,D=document;
 function fire(){if(fired)return;fired=true;while(q.length){try{q.shift()()}catch(e){}}}
 ['scroll','click','touchstart','keydown','pointerdown'].forEach(function(e){W.addEventListener(e,fire,{once:true,passive:true})});
 W.addEventListener('visibilitychange',function(){if(D.visibilityState==='hidden')fire()});

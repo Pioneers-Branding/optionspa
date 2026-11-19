@@ -247,7 +247,7 @@ Edit THIS file to change the footer on every page. */ ?>
                                 </div>
                             </div>
                             <div class="opt-footer-bottom">
-                                <p class="opt-footer-copyright">© Copyright 2026, Options Psychiatry PLLC</p>
+                                <p class="opt-footer-copyright">© Copyright 2026, Options Psychiatry PLLC · <a href="#cookie-settings" data-cookie-settings style="color:inherit;text-decoration:underline;">Cookie Settings</a></p>
                             </div>
                         </div>
                     </footer>
@@ -256,3 +256,4 @@ Edit THIS file to change the footer on every page. */ ?>
         </div>
     </div>
 </footer>
+<?php include __DIR__ . '/cookie-consent.php'; ?>

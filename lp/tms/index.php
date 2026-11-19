@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<?php include __DIR__ . '/../../includes/consent-head.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Advanced TMS Therapy in Reading, PA. Non-invasive, FDA-cleared treatment for depression, anxiety, OCD, PTSD, ADHD. Insurance covered. Book your free evaluation today.">
@@ -2936,6 +2937,7 @@
                     <a href="#">Privacy Policy</a>
                     <a href="#">Terms of Service</a>
                     <a href="#">HIPAA Notice</a>
+                    <a href="#cookie-settings" data-cookie-settings>Cookie Settings</a>
                 </div>
             </div>
         </div>
@@ -3169,5 +3171,6 @@
         window.addEventListener('resize', adjustSliderForScreen);
         adjustSliderForScreen();
     </script>
+<?php include __DIR__ . '/../../includes/cookie-consent.php'; ?>
 </body>
 </html>

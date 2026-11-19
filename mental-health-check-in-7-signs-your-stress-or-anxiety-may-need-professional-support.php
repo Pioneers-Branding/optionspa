@@ -2,6 +2,7 @@
 
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
 <head>
+<?php include __DIR__ . '/includes/consent-head.php'; ?>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <link href="_external/gmpg.org/xfn/11/index.html" rel="profile"/>

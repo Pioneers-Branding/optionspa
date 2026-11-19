@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
+<?php include __DIR__ . '/includes/consent-head.php'; ?>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, follow">
@@ -32,5 +33,6 @@
   <a class="alt" href="contact">Contact us</a>
   <a class="alt" href="blog">Blog</a>
 </div>
+<?php include __DIR__ . '/includes/cookie-consent.php'; ?>
 </body>
 </html>

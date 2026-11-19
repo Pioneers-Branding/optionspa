@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<?php include __DIR__ . '/../../includes/consent-head.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex, nofollow">
@@ -258,5 +259,6 @@
     <script>
         document.getElementById('ty-year').textContent = new Date().getFullYear();
     </script>
+<?php include __DIR__ . '/../../includes/cookie-consent.php'; ?>
 </body>
 </html>
