@@ -1,12 +1,12 @@
 <?php /* Cookie consent banner, shown until the visitor accepts or declines.
 Included from includes/footer.php and the landing pages in lp/.
-Consent defaults for returning visitors are set in includes/consent-head.php.
+Tracking is off until Accept; defaults are set in includes/consent-head.php.
 Any link with data-cookie-settings reopens the banner. */ ?>
 <div class="op-cc" id="opCookieConsent" role="dialog" aria-live="polite" aria-label="Cookie consent" hidden>
     <div class="op-cc-inner">
         <div class="op-cc-text">
             <p class="op-cc-title">We value your privacy</p>
-            <p>We use cookies and similar technologies to understand how our website is used and to measure our advertising. You can accept or decline non-essential cookies. Read our <a href="/privacy-policy">Privacy Policy</a>.</p>
+            <p>We use cookies and similar tools from Google, Meta, Microsoft Clarity and Usermaven to understand how our website is used and to measure our advertising. These only run if you accept. Choosing "Decline" also opts you out of the sale or sharing of your personal information. Read our <a href="/privacy-policy">Privacy Policy</a>.</p>
         </div>
         <div class="op-cc-actions">
             <button type="button" class="op-cc-btn op-cc-decline" data-consent="denied">Decline</button>
@@ -130,8 +130,24 @@ Any link with data-cookie-settings reopens the banner. */ ?>
         try { return w.localStorage.getItem(KEY); } catch (e) { return null; }
     }
 
+    // First-party cookies set by Google Ads/Analytics, Meta Pixel and Clarity.
+    var TRACKING_COOKIES = /^(_ga|_ga_.*|_gid|_gat.*|_gcl_.*|_fbp|_fbc|_clck|_clsk)$/;
+    function clearTrackingCookies() {
+        var host = w.location.hostname.split('.');
+        var domains = [''];
+        for (var i = 0; i < host.length - 1; i++) domains.push('; domain=.' + host.slice(i).join('.'));
+        d.cookie.split(';').forEach(function (c) {
+            var name = c.split('=')[0].trim();
+            if (!TRACKING_COOKIES.test(name)) return;
+            domains.forEach(function (dm) {
+                d.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + dm;
+            });
+        });
+    }
+
     function apply(state) {
         var granted = state === 'granted';
+        var wasGranted = !!(w.opConsent && w.opConsent.granted());
         try { w.localStorage.setItem(KEY, state); } catch (e) {}
 
         w.dataLayer = w.dataLayer || [];
@@ -145,8 +161,19 @@ Any link with data-cookie-settings reopens the banner. */ ?>
         });
         w.dataLayer.push({ event: 'cookie_consent_update', cookie_consent: state });
 
-        if (typeof w.fbq === 'function') w.fbq('consent', granted ? 'grant' : 'revoke');
-        if (typeof w.clarity === 'function') w.clarity('consent', granted);
+        if (granted) {
+            if (typeof w.fbq === 'function') {
+                w.fbq('consent', 'grant');
+                // The PageView sent while consent was revoked was dropped; send it now.
+                w.fbq('track', 'PageView');
+            }
+            if (w.opConsent) w.opConsent._grant();
+        } else {
+            if (typeof w.fbq === 'function') w.fbq('consent', 'revoke');
+            clearTrackingCookies();
+            // Scripts that already loaded cannot be unloaded; reload so they stop.
+            if (wasGranted) { w.location.reload(); return; }
+        }
 
         banner.hidden = true;
     }
@@ -163,6 +190,10 @@ Any link with data-cookie-settings reopens the banner. */ ?>
     });
 
     var choice = stored();
-    if (choice !== 'granted' && choice !== 'denied') banner.hidden = false;
+    if (choice !== 'granted') clearTrackingCookies();
+    // First visit: ask. A Global Privacy Control signal with no saved choice
+    // counts as "Decline", so no banner.
+    var gpc = w.navigator.globalPrivacyControl === true;
+    if (choice !== 'granted' && choice !== 'denied' && !gpc) banner.hidden = false;
 })(window, document);
 </script>

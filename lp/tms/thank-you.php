@@ -25,9 +25,6 @@
     fbq('track', 'PageView');
     fbq('track', 'Lead');
     </script>
-    <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=1018652800573698&ev=PageView&noscript=1"
-    /></noscript>
     <!-- End Meta Pixel Code -->
 
     <!-- Google Tag Manager -->

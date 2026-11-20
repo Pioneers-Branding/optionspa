@@ -303,10 +303,9 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 fbq('init', '1018652800573698');
 fbq('track', 'PageView');
 </script>
-<noscript><img height="1" src="https://www.facebook.com/tr?id=1018652800573698&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
 <!-- End Meta Pixel Code -->
 <script type="text/javascript">     
-    (function () {
+    window.opConsent && opConsent.onGrant(function () {
         window.usermaven = window.usermaven || (function () { (window.usermavenQ = window.usermavenQ || []).push(arguments); })
         var t = document.createElement('script'),
             s = document.getElementsByTagName('script')[0];
@@ -317,7 +316,7 @@ fbq('track', 'PageView');
         t.setAttribute('data-autocapture', 'true');  
         t.src = 'https://t.usermaven.com/lib.js';
         s.parentNode.insertBefore(t, s);
-    })();
+    });
   </script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 

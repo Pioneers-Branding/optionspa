@@ -636,11 +636,9 @@ or the following one for loading the Bootstrap library from jsDelivr:
         fbq('init', '1018652800573698');
         fbq('track', 'PageView');
     </script>
-    <noscript><img height="1" src="https://www.facebook.com/tr?id=1018652800573698&amp;ev=PageView&amp;noscript=1"
-            style="display:none" width="1" /></noscript>
     <!-- End Meta Pixel Code -->
     <script type="text/javascript">
-        (function () {
+        window.opConsent && opConsent.onGrant(function () {
             window.usermaven = window.usermaven || (function () { (window.usermavenQ = window.usermavenQ || []).push(arguments); })
             var t = document.createElement('script'),
                 s = document.getElementsByTagName('script')[0];
@@ -651,7 +649,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
             t.setAttribute('data-autocapture', 'true');
             t.src = 'https://t.usermaven.com/lib.js';
             s.parentNode.insertBefore(t, s);
-        })();
+        });
     </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     
@@ -1441,11 +1439,13 @@ or the following one for loading the Bootstrap library from jsDelivr:
         }
     </style>
 <script type="text/javascript">
+    window.opConsent && opConsent.onGrant(function () {
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
         t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "z7p78zkuz9");
+    });
 </script>
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-58G8N9XX"></script>
 <script>
@@ -1484,9 +1484,6 @@ or the following one for loading the Bootstrap library from jsDelivr:
                         fbq('init', '1018652800573698');
                         fbq('track', 'PageView');
                     </script>
-                    <noscript><img height="1"
-                            src="https://www.facebook.com/tr?id=1018652800573698&amp;ev=PageView&amp;noscript=1"
-                            style="display:none" width="1" /></noscript>
                     <!-- End Meta Pixel Code -->
                     <main>
                         <section class="opt-hero-section">

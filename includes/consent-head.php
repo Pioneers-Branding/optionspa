@@ -1,12 +1,30 @@
-<?php /* Cookie consent defaults. Must be the FIRST thing inside <head> on every page,
-before GTM / gtag / Meta Pixel / Clarity load, so a visitor who declined
-cookies is not tracked on later page loads. The banner itself lives in
-includes/cookie-consent.php. */ ?>
+<?php /* Cookie consent defaults (opt-in, same setup as Karma TMS). Must be the
+FIRST thing inside <head> on every page, before GTM / gtag / Meta Pixel /
+Clarity load. Nothing tracks until the visitor clicks Accept:
+- Google Consent Mode v2 defaults to "denied".
+- Meta Pixel consent is revoked before the page's own fbq('init').
+- Clarity, Usermaven and other scripts are wrapped in opConsent.onGrant(fn) so they only
+  load after Accept.
+The banner itself lives in includes/cookie-consent.php. */ ?>
 <script>
 (function (w, d) {
     var choice = null;
     try { choice = w.localStorage.getItem('op_cookie_consent'); } catch (e) {}
-    var state = choice === 'denied' ? 'denied' : 'granted';
+    var granted = choice === 'granted';
+    var queue = [];
+
+    w.opConsent = {
+        granted: function () { return granted; },
+        onGrant: function (fn) {
+            if (granted) { try { fn(); } catch (e) {} } else { queue.push(fn); }
+        },
+        _grant: function () {
+            granted = true;
+            while (queue.length) { try { queue.shift()(); } catch (e) {} }
+        }
+    };
+
+    var state = granted ? 'granted' : 'denied';
 
     // Google Consent Mode v2 (GTM, GA4, Google Ads)
     w.dataLayer = w.dataLayer || [];
@@ -15,10 +33,12 @@ includes/cookie-consent.php. */ ?>
         ad_storage: state,
         analytics_storage: state,
         ad_user_data: state,
-        ad_personalization: state
+        ad_personalization: state,
+        wait_for_update: 500
     });
+    w.gtag('set', 'ads_data_redaction', true);
 
-    if (state === 'denied') {
+    if (!granted) {
         // Meta Pixel: load the base code now and revoke consent before the
         // page's own fbq('init') / fbq('track') calls are queued.
         if (!w.fbq) {
@@ -34,10 +54,6 @@ includes/cookie-consent.php. */ ?>
             s.parentNode.insertBefore(t, s);
         }
         w.fbq('consent', 'revoke');
-
-        // Microsoft Clarity: queue "no consent" before the Clarity tag loads.
-        w.clarity = w.clarity || function () { (w.clarity.q = w.clarity.q || []).push(arguments); };
-        w.clarity('consent', false);
     }
 })(window, document);
 </script>
