@@ -95,25 +95,19 @@ q.push(function(){var s=D.createElement('script');s.async=true;s.src='https://ww
     <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
     <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
     <title>Get Started | Options Psychiatry</title>
-    <meta
-        content="Options Psychiatry provides expert mental health services in Pennsylvania, including TMS therapy, psychiatry, and medication management in Reading, PA. Our board-certified psychiatrists are accepting new patients, call today to get started."
-        name="description" />
+    <meta content="Ready to start care at Options Psychiatry? Request an appointment for TMS, Spravato, medication management or a psychiatric evaluation in Reading, PA." name="description"/>
     <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots" />
-    <link href="./" rel="canonical" />
+    <link href="https://www.optionspa.com/getstarted" rel="canonical"/>
     <meta content="en_US" property="og:locale" />
     <meta content="website" property="og:type" />
     <meta content="Mental Health Services in Pennsylvania | Trusted Psychiatrists" property="og:title" />
-    <meta
-        content="Options Psychiatry provides expert mental health services in Pennsylvania, including TMS therapy, psychiatry, and medication management in Reading, PA. Our board-certified psychiatrists are accepting new patients, call today to get started."
-        property="og:description" />
-    <meta content="./" property="og:url" />
+    <meta content="Ready to start care at Options Psychiatry? Request an appointment for TMS, Spravato, medication management or a psychiatric evaluation in Reading, PA." property="og:description"/>
+    <meta content="https://www.optionspa.com/" property="og:url"/>
     <meta content="Options Psychiatry" property="og:site_name" />
     <meta content="2026-07-21T05:12:23-04:00" property="og:updated_time" />
     <meta content="summary_large_image" name="twitter:card" />
     <meta content="Mental Health Services in Pennsylvania | Trusted Psychiatrists" name="twitter:title" />
-    <meta
-        content="Options Psychiatry provides expert mental health services in Pennsylvania, including TMS therapy, psychiatry, and medication management in Reading, PA. Our board-certified psychiatrists are accepting new patients, call today to get started."
-        name="twitter:description" />
+    <meta content="Ready to start care at Options Psychiatry? Request an appointment for TMS, Spravato, medication management or a psychiatric evaluation in Reading, PA." name="twitter:description"/>
     <meta content="Written by" name="twitter:label1" />
     <meta content="Dr. Cyntrell Crawford" name="twitter:data1" />
     <meta content="Time to read" name="twitter:label2" />
@@ -562,7 +556,7 @@ q.push(function(){var s=D.createElement('script');s.async=true;s.src='https://ww
         type="text/javascript" defer></script>
     <script id="tve_frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var tve_frontend_options = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "is_editor_page": "", "page_events": "", "is_single": "1", "social_fb_app_id": "", "dash_url": "https://optionspa.com/wp-content/plugins/thrive-ultimatum/thrive-dashboard", "queried_object": { "ID": 4735, "post_author": "4" }, "query_vars": { "certificate_u": "" }, "$_POST": [], "translations": { "Copy": "Copy", "empty_username": "ERROR: The username field is empty.", "empty_password": "ERROR: The password field is empty.", "empty_login": "ERROR: Enter a username or email address.", "min_chars": "At least %s characters are needed", "no_headings": "No headings found", "registration_err": { "required_field": "\u003Cstrong\u003EError\u003C/strong\u003E: This field is required", "required_email": "\u003Cstrong\u003EError\u003C/strong\u003E: Please type your email address", "invalid_email": "\u003Cstrong\u003EError\u003C/strong\u003E: The email address isn&#8217;t correct", "passwordmismatch": "\u003Cstrong\u003EError\u003C/strong\u003E: Password mismatch" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "video_reporting": "https://optionspa.com/wp-json/tcb/v1/video-reporting", "courses": "https://optionspa.com/wp-json/tva/v1/course_list_element", "certificate_search": "https://optionspa.com/wp-json/tva/v1/certificate/search", "assessments": "https://optionspa.com/wp-json/tva/v1/user/assessment", "testimonials": "https://optionspa.com/wp-json/tcb/v1/testimonials" }, "nonce": "52d3aee43c", "allow_video_src": "", "google_client_id": null, "google_api_key": null, "facebook_app_id": null, "lead_generation_custom_tag_apis": ["activecampaign", "aweber", "convertkit", "drip", "klicktipp", "mailchimp", "sendlane", "zapier"], "post_request_data": [], "user_profile_nonce": "4c5041a2b9", "ip": "14.195.188.138", "current_user": [], "post_id": "4735", "post_title": "Mental Health Services in Pennsylvania | Trusted Psychiatrist", "post_type": "page", "post_url": "https://optionspa.com/", "is_lp": "", "conditional_display": { "is_tooltip_dismissed": false } };
+        var tve_frontend_options = { "ajaxurl": "https://www.optionspa.com/wp-admin/admin-ajax.php", "is_editor_page": "", "page_events": "", "is_single": "1", "social_fb_app_id": "", "dash_url": "https://www.optionspa.com/wp-content/plugins/thrive-ultimatum/thrive-dashboard", "queried_object": { "ID": 4735, "post_author": "4" }, "query_vars": { "certificate_u": "" }, "$_POST": [], "translations": { "Copy": "Copy", "empty_username": "ERROR: The username field is empty.", "empty_password": "ERROR: The password field is empty.", "empty_login": "ERROR: Enter a username or email address.", "min_chars": "At least %s characters are needed", "no_headings": "No headings found", "registration_err": { "required_field": "\u003Cstrong\u003EError\u003C/strong\u003E: This field is required", "required_email": "\u003Cstrong\u003EError\u003C/strong\u003E: Please type your email address", "invalid_email": "\u003Cstrong\u003EError\u003C/strong\u003E: The email address isn&#8217;t correct", "passwordmismatch": "\u003Cstrong\u003EError\u003C/strong\u003E: Password mismatch" } }, "routes": { "posts": "https://www.optionspa.com/wp-json/tcb/v1/posts", "video_reporting": "https://www.optionspa.com/wp-json/tcb/v1/video-reporting", "courses": "https://www.optionspa.com/wp-json/tva/v1/course_list_element", "certificate_search": "https://www.optionspa.com/wp-json/tva/v1/certificate/search", "assessments": "https://www.optionspa.com/wp-json/tva/v1/user/assessment", "testimonials": "https://www.optionspa.com/wp-json/tcb/v1/testimonials" }, "nonce": "52d3aee43c", "allow_video_src": "", "google_client_id": null, "google_api_key": null, "facebook_app_id": null, "lead_generation_custom_tag_apis": ["activecampaign", "aweber", "convertkit", "drip", "klicktipp", "mailchimp", "sendlane", "zapier"], "post_request_data": [], "user_profile_nonce": "4c5041a2b9", "ip": "14.195.188.138", "current_user": [], "post_id": "4735", "post_title": "Mental Health Services in Pennsylvania | Trusted Psychiatrist", "post_type": "page", "post_url": "https://www.optionspa.com/", "is_lp": "", "conditional_display": { "is_tooltip_dismissed": false } };
         //# sourceURL=tve_frontend-js-extra
         /* ]]> */
     </script>
@@ -571,7 +565,7 @@ q.push(function(){var s=D.createElement('script');s.async=true;s.src='https://ww
         type="text/javascript" defer></script>
     <script id="theme-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var thrive_front_localize = { "comments_form": { "error_defaults": { "email": "Email address invalid", "url": "Website address invalid", "required": "Required field missing" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "frontend": "https://optionspa.com/wp-json/ttb/v1/frontend" }, "tar_post_url": "?tve=true&action=architect&from_theme=1", "is_editor": "", "ID": "28", "template_url": "?tve=true&action=architect&from_tar=4735", "pagination_url": { "template": "https://optionspa.com/", "base": "https://optionspa.com/" }, "sidebar_visibility": [], "is_singular": "1", "is_user_logged_in": "" };
+        var thrive_front_localize = { "comments_form": { "error_defaults": { "email": "Email address invalid", "url": "Website address invalid", "required": "Required field missing" } }, "routes": { "posts": "https://www.optionspa.com/wp-json/tcb/v1/posts", "frontend": "https://www.optionspa.com/wp-json/ttb/v1/frontend" }, "tar_post_url": "?tve=true&action=architect&from_theme=1", "is_editor": "", "ID": "28", "template_url": "?tve=true&action=architect&from_tar=4735", "pagination_url": { "template": "https://www.optionspa.com/", "base": "https://www.optionspa.com/" }, "sidebar_visibility": [], "is_singular": "1", "is_user_logged_in": "" };
         //# sourceURL=theme-frontend-js-extra
         /* ]]> */
     </script>
@@ -635,7 +629,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         fbq('init', '1018652800573698');
         fbq('track', 'PageView');
     </script>
-    <noscript><img height="1" src="https://www.facebook.com/tr?id=1018652800573698&amp;ev=PageView&amp;noscript=1"
+    <noscript><img alt="Facebook tracking pixel" height="1" src="https://www.facebook.com/tr?id=1018652800573698&amp;ev=PageView&amp;noscript=1"
             style="display:none" width="1" /></noscript>
     <!-- End Meta Pixel Code -->
     <script type="text/javascript">
@@ -956,7 +950,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         name="generator" />
     <!-- Schema & Structured Data For WP v1.50 - -->
     <script class="saswp-schema-markup-output" type="application/ld+json">
-[{"@context":"https:\/\/schema.org\/","@type":"Organization","@id":"https:\/\/optionspa.com#Organization","name":"Options Psychiatry","url":"https:\/\/brandingpioneers.co.in\/option-wordpress-web","sameAs":[]}]
+[{"@context":"https:\/\/schema.org\/","@type":"Organization","@id":"https:\/\/www.optionspa.com#Organization","name":"Options Psychiatry","url":"https:\/\/brandingpioneers.co.in\/option-wordpress-web","sameAs":[]}]
 </script>
     <!-- Schema & Structured Data For WP Custom Markup v1.50 - -->
     <script class="saswp-custom-schema-markup-output" type="application/ld+json">{
@@ -1476,7 +1470,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                         fbq('init', '1018652800573698');
                         fbq('track', 'PageView');
                     </script>
-                    <noscript><img height="1"
+                    <noscript><img alt="Facebook tracking pixel" height="1"
                             src="https://www.facebook.com/tr?id=1018652800573698&amp;ev=PageView&amp;noscript=1"
                             style="display:none" width="1" /></noscript>
                     <!-- End Meta Pixel Code -->
@@ -1905,7 +1899,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     </script>
     <script id="kk-star-ratings-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var kk_star_ratings = { "action": "kk-star-ratings", "endpoint": "https://optionspa.com/wp-admin/admin-ajax.php", "nonce": "5a73145632" };
+        var kk_star_ratings = { "action": "kk-star-ratings", "endpoint": "https://www.optionspa.com/wp-admin/admin-ajax.php", "nonce": "5a73145632" };
         //# sourceURL=kk-star-ratings-js-extra
         /* ]]> */
     </script>
@@ -1921,7 +1915,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         src="wp-content/plugins/elementor/assets/js/frontend-modules.min__q5be56f11.js" type="text/javascript" defer></script>
     <script id="elementor-frontend-js-before" type="text/javascript">
         /* <![CDATA[ */
-        var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.35.3", "is_static": false, "experimentalFeatures": { "e_font_icon_svg": true, "additional_custom_breakpoints": true, "container": true, "e_optimized_markup": true, "e_pro_free_trial_popup": true, "nested-elements": true, "home_screen": true, "global_classes_should_enforce_capabilities": true, "e_variables": true, "cloud-library": true, "e_opt_in_v4_page": true, "e_components": true, "e_interactions": true, "e_editor_one": true, "import-export-customization": true }, "urls": { "assets": "https:\/\/optionspa.com\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/optionspa.com\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "7448d0d352" }, "swiperClass": "swiper", "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 4735, "title": "Mental%20Health%20Services%20in%20Pennsylvania%20%7C%20Trusted%20Psychiatrists", "excerpt": "", "featuredImage": false } };
+        var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.35.3", "is_static": false, "experimentalFeatures": { "e_font_icon_svg": true, "additional_custom_breakpoints": true, "container": true, "e_optimized_markup": true, "e_pro_free_trial_popup": true, "nested-elements": true, "home_screen": true, "global_classes_should_enforce_capabilities": true, "e_variables": true, "cloud-library": true, "e_opt_in_v4_page": true, "e_components": true, "e_interactions": true, "e_editor_one": true, "import-export-customization": true }, "urls": { "assets": "https:\/\/www.optionspa.com\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/www.optionspa.com\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/www.optionspa.com\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "7448d0d352" }, "swiperClass": "swiper", "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 4735, "title": "Mental%20Health%20Services%20in%20Pennsylvania%20%7C%20Trusted%20Psychiatrists", "excerpt": "", "featuredImage": false } };
         //# sourceURL=elementor-frontend-js-before
         /* ]]> */
     </script>
@@ -1932,7 +1926,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         type="text/javascript" defer></script>
     <script id="tve-dash-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var tve_dash_front = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "force_ajax_send": "1", "is_crawler": "", "recaptcha": [], "turnstile": [], "post_id": "4735" };
+        var tve_dash_front = { "ajaxurl": "https://www.optionspa.com/wp-admin/admin-ajax.php", "force_ajax_send": "1", "is_crawler": "", "recaptcha": [], "turnstile": [], "post_id": "4735" };
         //# sourceURL=tve-dash-frontend-js-extra
         /* ]]> */
     </script>
@@ -1958,7 +1952,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         /* ]]> */
     </script>
     <script
-        type="text/javascript">/*<![CDATA[*/if (!window.TL_Const) { var TL_Const = { "security": "ea42a27cef", "ajax_url": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 1, "screen_id": 0 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }; } else { window.TL_Front && TL_Front.extendConst && TL_Front.extendConst({ "security": "ea42a27cef", "ajax_url": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 1, "screen_id": 0 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }) } /*]]> */</script>
+        type="text/javascript">/*<![CDATA[*/if (!window.TL_Const) { var TL_Const = { "security": "ea42a27cef", "ajax_url": "https:\/\/www.optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 1, "screen_id": 0 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }; } else { window.TL_Front && TL_Front.extendConst && TL_Front.extendConst({ "security": "ea42a27cef", "ajax_url": "https:\/\/www.optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 1, "screen_id": 0 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }) } /*]]> */</script>
     <div></div><!-- start Simple Custom CSS and JS -->
     <!-- Add HTML code to the header or the footer.
 
@@ -2357,7 +2351,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <!-- end Simple Custom CSS and JS -->
     <script type="text/javascript">
         /* <![CDATA[ */
-        var TVE_Ult_Data = { "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "ajax_load_action": "tve_ult_ajax_load", "conversion_events_action": "tve_ult_conversion_event", "shortcode_campaign_ids": [], "matched_display_settings": [], "campaign_ids": [], "post_id": 4735, "is_singular": true, "tu_em": "", "evergreen_redirects": [] };
+        var TVE_Ult_Data = { "ajaxurl": "https:\/\/www.optionspa.com\/wp-admin\/admin-ajax.php", "ajax_load_action": "tve_ult_ajax_load", "conversion_events_action": "tve_ult_conversion_event", "shortcode_campaign_ids": [], "matched_display_settings": [], "campaign_ids": [], "post_id": 4735, "is_singular": true, "tu_em": "", "evergreen_redirects": [] };
         /* ]]> */
     </script>
     <script src="wp-content/plugins/thrive-ultimatum/js/dist/no-campaign.min__q04f4ffbd.js"

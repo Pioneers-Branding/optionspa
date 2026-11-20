@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="noindex, nofollow">
+    <meta content="noindex, follow" name="robots"/>
     <title>Thank You | Options Psychiatry</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -24,7 +24,7 @@
     fbq('track', 'PageView');
     fbq('track', 'Lead');
     </script>
-    <noscript><img height="1" width="1" style="display:none"
+    <noscript><img alt="Facebook tracking pixel" height="1" width="1" style="display:none"
     src="https://www.facebook.com/tr?id=1018652800573698&ev=PageView&noscript=1"
     /></noscript>
     <!-- End Meta Pixel Code -->

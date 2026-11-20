@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Server-side fragments and dev router (not pages)
+Disallow: /includes/
+Disallow: /router.php
+
+# Form confirmation pages
+Disallow: /thank-you
+Disallow: /thank-you-old
+Disallow: /tms-thank-you
+Disallow: /lp/*/thank-you
+
+Sitemap: https://www.optionspa.com/sitemap.xml

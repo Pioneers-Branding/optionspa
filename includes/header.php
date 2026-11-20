@@ -11,7 +11,7 @@ Edit THIS file to change the header on every page. */ ?>
             <meta content="wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png" property="og:image" />
             <header class="opt-header">
                <div class="opt-container opt-header-container">
-                  <div class="opt-header-logo"><a href="./"><img
+                  <div class="opt-header-logo"><a href="./"><img alt="Options Psychiatry logo"
                            src="wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png" style="width: 150px;" /></a>
                   </div>
                   <nav class="opt-nav-menu">

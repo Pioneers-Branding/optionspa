@@ -3,17 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Psychiatric care for depression, anxiety, PTSD, OCD, bipolar disorder and ADHD in Reading, PA. Evaluation, medication management, TMS and Spravato therapy at Options Psychiatry.">
+    <meta content="Psychiatric care for depression, anxiety, PTSD, OCD, bipolar disorder and ADHD in Reading, PA, with evaluations, medication management, TMS and Spravato." name="description"/>
     <meta name="keywords" content="psychiatrist Reading PA, depression treatment, anxiety treatment, PTSD treatment, OCD treatment, bipolar disorder treatment, ADHD assessment, medication management">
     <meta name="author" content="Options Psychiatry">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://optionspa.com/lp/mental-health-disease/">
-    <title>Depression, Anxiety, PTSD, OCD, Bipolar &amp; ADHD Treatment | Options Psychiatry</title>
+    <link rel="canonical" href="https://www.optionspa.com/lp/mental-health-disease/">
+    <title>Mental Health Treatment in Reading, PA | Options Psychiatry</title>
 
-    <meta property="og:title" content="Depression, Anxiety, PTSD, OCD, Bipolar &amp; ADHD Treatment | Options Psychiatry">
-    <meta property="og:description" content="Mental health conditions are treatable. Evaluation, medication management, TMS and Spravato therapy in Reading, PA.">
+    <meta content="Mental Health Treatment in Reading, PA | Options Psychiatry" property="og:title"/>
+    <meta content="Psychiatric care for depression, anxiety, PTSD, OCD, bipolar disorder and ADHD in Reading, PA, with evaluations, medication management, TMS and Spravato." property="og:description"/>
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://optionspa.com/lp/mental-health-disease/">
+    <meta property="og:url" content="https://www.optionspa.com/lp/mental-health-disease/">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -32,7 +32,7 @@
     fbq('init', '1018652800573698');
     fbq('track', 'PageView');
     </script>
-    <noscript><img height="1" width="1" style="display:none"
+    <noscript><img alt="Facebook tracking pixel" height="1" width="1" style="display:none"
     src="https://www.facebook.com/tr?id=1018652800573698&ev=PageView&noscript=1"
     /></noscript>
     <!-- End Meta Pixel Code -->
@@ -2515,7 +2515,7 @@
         "@type": "MedicalBusiness",
         "name": "Options Psychiatry",
         "description": "Psychiatric care for depression, anxiety, PTSD, OCD, bipolar disorder and ADHD in Reading, PA",
-        "url": "https://optionspa.com",
+        "url": "https://www.optionspa.com",
         "telephone": "(610) 741-6567",
         "address": {
             "@type": "PostalAddress",

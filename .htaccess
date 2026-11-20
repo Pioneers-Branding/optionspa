@@ -27,8 +27,28 @@ DirectoryIndex index.php
 <IfModule mod_rewrite.c>
 RewriteEngine On
 
+# --- one canonical origin: https://www.optionspa.com -------------------
+# Every http:// and non-www request 301s there in a single hop.
+# Only the production domain is matched, so staging/dev hosts are untouched.
+# Never add a www -> non-www redirect in the server panel or a CDN, or the
+# two will loop.
+RewriteCond %{HTTP_HOST} ^optionspa\.com$ [NC]
+RewriteRule ^ https://www.optionspa.com%{REQUEST_URI} [R=301,L]
+# http -> https on www. The X-Forwarded-Proto check keeps this from looping
+# if a proxy/CDN that terminates TLS is ever put in front of the server.
+RewriteCond %{HTTP_HOST} ^www\.optionspa\.com$ [NC]
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+RewriteRule ^ https://www.optionspa.com%{REQUEST_URI} [R=301,L]
+
 # includes/ holds HTML fragments, not pages - never serve directly
 RewriteRule ^includes/ - [F,L]
+
+# --- hacked spam pages: 410 Gone (tells Google to drop them for good) --
+# Casino spam categories injected by a past WordPress hack, plus an old
+# 1xbet spam post. Matches the flat and old nested forms, .php, trailing
+# slash and any /page/N suffix.
+RewriteRule ^(category[-/]casino(-utan-svensk-licens)?|preimushchestva-i-nedostatki-1xbet-zerkalo-rabochee-na-segodnia-9)(\.php)?(/.*)?$ - [G,L,NC]
 
 # --- home ------------------------------------------------------------
 # /index.php and /index -> the folder itself (the one url that keeps its slash)
@@ -42,15 +62,9 @@ RewriteCond %{THE_REQUEST} \s/+([^\s?]+?)\.php[\s?] [NC]
 RewriteRule ^ /%1 [R=301,L]
 
 # --- old WordPress nested urls -> flat canonical ----------------------
-RewriteRule ^2026/05/?$ 2026-05 [R=301,L]
-RewriteRule ^2026/06/?$ 2026-06 [R=301,L]
-RewriteRule ^2026/07/?$ 2026-07 [R=301,L]
-RewriteRule ^2026/08/?$ 2026-08 [R=301,L]
 RewriteRule ^category/adhd/?$ category-adhd [R=301,L]
 RewriteRule ^category/anxiety/?$ category-anxiety [R=301,L]
 RewriteRule ^category/blog/?$ category-blog [R=301,L]
-RewriteRule ^category/casino/?$ category-casino [R=301,L]
-RewriteRule ^category/casino-utan-svensk-licens/?$ category-casino-utan-svensk-licens [R=301,L]
 RewriteRule ^category/mental-health/?$ category-mental-health [R=301,L]
 RewriteRule ^category/mental-health/page/2/?$ category-mental-health-page-2 [R=301,L]
 RewriteRule ^category/ocd/?$ category-ocd [R=301,L]
@@ -58,8 +72,7 @@ RewriteRule ^category/psychotherapy/?$ therapist-in-reading-pa [R=301,L]
 RewriteRule ^category/spravato/?$ category-spravato [R=301,L]
 RewriteRule ^category/tms-therapy/?$ category-tms-therapy [R=301,L]
 RewriteRule ^category/tms-therapy/page/2/?$ category-tms-therapy-page-2 [R=301,L]
-RewriteRule ^elementor-hf/footer/?$ elementor-hf-footer [R=301,L]
-RewriteRule ^elementor-hf/header/?$ elementor-hf-header [R=301,L]
+RewriteRule ^elementor-hf/(footer|header)/?$ ./ [R=301,L]
 RewriteRule ^location/reading/?$ location-reading [R=301,L]
 
 # date archives were never exported -> home
@@ -91,10 +104,30 @@ RewriteRule ^insurance-coverage/?$ insurances-accepted [R=301,L]
 RewriteRule ^insurance-plans/?$ insurances-accepted [R=301,L]
 RewriteRule ^new-blog-layout/?$ blog [R=301,L]
 RewriteRule ^ocd-treatment/?$ ocd [R=301,L]
-RewriteRule ^preimushchestva-i-nedostatki-1xbet-zerkalo-rabochee-na-segodnia-9/?$ ./ [R=301,L]
 RewriteRule ^psychiatrist-in-reading-pa/?$ location-reading [R=301,L]
 RewriteRule ^ptsd-treatment/?$ ptsd [R=301,L]
 RewriteRule ^tms-therapy-reading-pa/?$ tms-therapy-reading [R=301,L]
+
+# --- duplicate pages -> one main url (SEO: duplicate titles/descriptions)
+# The duplicate .php files are kept in the repo but never served.
+# homepage copies / template fragments / old WordPress date archives
+RewriteRule ^(2026-0[5-9]|generated-homepage|elementor-hf-header|elementor-hf-footer)/?$ ./ [R=301,L]
+RewriteRule ^addiction-recovery/?$ drug-addiction [R=301,L]
+RewriteRule ^location/?$ location-reading [R=301,L]
+# exact copies of a live page
+RewriteRule ^tms-therapy/?$ tms-therapy-reading [R=301,L]
+RewriteRule ^(medication-management|med-management)/?$ medication-management-options [R=301,L]
+RewriteRule ^anxiety-treatment-centers-in-pennsylvania/?$ anxiety-treatment [R=301,L]
+RewriteRule ^does-aetna-cover-tms-therapy-your-complete-guide-to-tms-coverage-at-options-psychiatry/?$ does-aetna-cover-tms-therapy [R=301,L]
+RewriteRule ^is-anxiety-a-mood-disorder-understanding-the-difference/?$ is-anxiety-a-mood-disorder [R=301,L]
+RewriteRule ^what-are-the-symptoms-of-addiction-when-should-you-seek-mental-health-support/?$ what-are-the-symptoms-of-addiction [R=301,L]
+# old backup versions of live pages
+RewriteRule ^blog-old/?$ blog [R=301,L]
+RewriteRule ^contact-old/?$ contact [R=301,L]
+RewriteRule ^dr-crawford-old/?$ dr-crawford [R=301,L]
+RewriteRule ^medication-management-options-old/?$ medication-management-options [R=301,L]
+RewriteRule ^tms-therapy-reading-old/?$ tms-therapy-reading [R=301,L]
+RewriteRule ^thank-you-old/?$ thank-you [R=301,L]
 
 # --- drop the trailing slash -----------------------------------------
 # !-d keeps real directories (the site root) working, so no redirect loop

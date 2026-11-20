@@ -84,15 +84,15 @@
 </script>
 <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
 <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-<title>How Often Is Spravato Administered? Schedule &amp; Frequency | Options</title>
+<title>How Often Is Spravato Administered? Schedule &amp; Frequency</title>
 <meta content="How often is Spravato administered? Twice weekly for 4 weeks, weekly for weeks 5–8, then every 1–2 weeks. See the full Spravato schedule, visit length &amp; dosing." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="https://optionspa.com/how-often-is-spravato-administered" rel="canonical"/>
+<link href="https://www.optionspa.com/how-often-is-spravato-administered" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
-<meta content="How Often Is Spravato Administered? Treatment Schedule &amp; Frequency" property="og:title"/>
+<meta content="How Often Is Spravato Administered? Schedule &amp; Frequency" property="og:title"/>
 <meta content="How often is Spravato administered? Twice weekly for 4 weeks, weekly for weeks 5–8, then every 1–2 weeks. See the full Spravato schedule, visit length &amp; dosing." property="og:description"/>
-<meta content="https://optionspa.com/how-often-is-spravato-administered" property="og:url"/>
+<meta content="https://www.optionspa.com/how-often-is-spravato-administered" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="Spravato" property="article:section"/>
 <meta content="Depression" property="article:section"/>
@@ -106,7 +106,7 @@
 <meta content="2026-11-17T09:00:00-05:00" property="article:published_time"/>
 <meta content="2026-11-17T09:00:00-05:00" property="article:modified_time"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="How Often Is Spravato Administered? Schedule &amp; Frequency | Options" name="twitter:title"/>
+<meta content="How Often Is Spravato Administered? Schedule &amp; Frequency" name="twitter:title"/>
 <meta content="How often is Spravato administered? Twice weekly for 4 weeks, weekly for weeks 5–8, then every 1–2 weeks. See the full Spravato schedule, visit length &amp; dosing." name="twitter:description"/>
 <meta content="wp-content/uploads/2026/11/how-often-is-spravato-administered-treatment-schedule.webp?v=3" name="twitter:image"/>
 <meta content="Written by" name="twitter:label1"/>
@@ -714,7 +714,7 @@ h2[id], section[id] {
 <li><strong>Your response:</strong> Patients who reach remission are often able to move to every-other-week sessions.</li>
 <li><strong>Depression history:</strong> People with many prior episodes may benefit from longer maintenance.</li>
 <li><strong>Ongoing therapy:</strong> Combining Spravato with psychotherapy helps build skills that protect against relapse.</li>
-<li><strong>Medication plan:</strong> Careful <a href="medication-management">medication management</a> of your oral antidepressant supports lasting results.</li>
+<li><strong>Medication plan:</strong> Careful <a href="medication-management-options">medication management</a> of your oral antidepressant supports lasting results.</li>
 <li><strong>Insurance requirements:</strong> Some plans require periodic reauthorization. Learn more about whether <a href="is-spravato-covered-by-insurance">Spravato is covered by insurance</a>.</li>
 </ul>
 <p>Not sure whether Spravato or another option suits your life better? Compare the time commitment and benefits in our guide to <a href="tms-therapy-vs-spravato">TMS therapy vs. Spravato</a>, or see <a href="how-often-do-you-need-tms-treatment">how often TMS treatment is needed</a>.</p>
@@ -883,14 +883,14 @@ h2[id], section[id] {
   "@graph": [
     {
       "@type": "BlogPosting",
-      "@id": "https://optionspa.com/how-often-is-spravato-administered#article",
+      "@id": "https://www.optionspa.com/how-often-is-spravato-administered#article",
       "isPartOf": {
         "@type": "WebPage",
-        "@id": "https://optionspa.com/how-often-is-spravato-administered"
+        "@id": "https://www.optionspa.com/how-often-is-spravato-administered"
       },
       "headline": "How Often Is Spravato Administered? Treatment Schedule and Frequency",
       "description": "How often is Spravato administered? Twice weekly for 4 weeks, weekly for weeks 5–8, then every 1–2 weeks. See the full Spravato schedule, visit length & dosing.",
-      "mainEntityOfPage": "https://optionspa.com/how-often-is-spravato-administered",
+      "mainEntityOfPage": "https://www.optionspa.com/how-often-is-spravato-administered",
       "datePublished": "2026-11-17T09:00:00-05:00",
       "dateModified": "2026-11-17T09:00:00-05:00",
       "inLanguage": "en-US",
@@ -900,15 +900,15 @@ h2[id], section[id] {
         "@type": "Person",
         "name": "Dr. Cyntrell Crawford",
         "jobTitle": "Board-Certified Psychiatrist & Medical Director",
-        "url": "https://optionspa.com/dr-crawford"
+        "url": "https://www.optionspa.com/dr-crawford"
       },
       "publisher": {
         "@type": "MedicalClinic",
         "name": "Options Psychiatry",
-        "url": "https://optionspa.com/",
+        "url": "https://www.optionspa.com/",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
+          "url": "https://www.optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
         },
         "address": {
           "@type": "PostalAddress",
@@ -922,7 +922,7 @@ h2[id], section[id] {
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://optionspa.com/wp-content/uploads/2026/11/how-often-is-spravato-administered-treatment-schedule.webp?v=3",
+        "url": "https://www.optionspa.com/wp-content/uploads/2026/11/how-often-is-spravato-administered-treatment-schedule.webp?v=3",
         "width": 1376,
         "height": 768,
         "caption": "How often is Spravato administered - patient resting in a recliner while a nurse checks in during the 2-hour Spravato observation period at Options Psychiatry in Reading, PA"
@@ -947,7 +947,7 @@ h2[id], section[id] {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://optionspa.com/how-often-is-spravato-administered#faq",
+      "@id": "https://www.optionspa.com/how-often-is-spravato-administered#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -1017,10 +1017,10 @@ h2[id], section[id] {
     },
     {
       "@type": "MedicalClinic",
-      "@id": "https://optionspa.com/#organization",
+      "@id": "https://www.optionspa.com/#organization",
       "name": "Options Psychiatry",
-      "url": "https://optionspa.com",
-      "logo": "https://optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
+      "url": "https://www.optionspa.com",
+      "logo": "https://www.optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
       "telephone": "(610) 741-6567",
       "address": {
         "@type": "PostalAddress",
@@ -1034,25 +1034,25 @@ h2[id], section[id] {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://optionspa.com/how-often-is-spravato-administered#breadcrumb",
+      "@id": "https://www.optionspa.com/how-often-is-spravato-administered#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://optionspa.com/"
+          "item": "https://www.optionspa.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Blog",
-          "item": "https://optionspa.com/blog"
+          "item": "https://www.optionspa.com/blog"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "How Often Is Spravato Administered?",
-          "item": "https://optionspa.com/how-often-is-spravato-administered"
+          "item": "https://www.optionspa.com/how-often-is-spravato-administered"
         }
       ]
     }
@@ -1117,13 +1117,13 @@ h2[id], section[id] {
 <div class="thrv_wrapper thrv_text_element" data-css="tve-u-16f89e98101"><p data-css="tve-u-16f89e87f26">share this</p></div>
 <div class="thrv_wrapper thrv_social_custom thrv_social" data-css="tve-u-16f89e8f368">
 <div class="tve_social_items tve_social_custom tve_style_4 tve_social_cb">
-<div class="tve_s_item tve_s_fb_share" data-href="https://optionspa.com/how-often-is-spravato-administered" data-label="Share" data-s="fb_share">
+<div class="tve_s_item tve_s_fb_share" data-href="https://www.optionspa.com/how-often-is-spravato-administered" data-label="Share" data-s="fb_share">
 <a class="tve_s_link" href="javascript:void(0)"><span class="tve_s_icon thrv-svg-icon"><svg class="tcb-facebook" viewbox="0 0 16 28" xmlns="http://www.w3.org/2000/svg"><path d="M14.984 0.187v4.125h-2.453q-1.344 0-1.813 0.562t-0.469 1.687v2.953h4.578l-0.609 4.625h-3.969v11.859h-4.781v-11.859h-3.984v-4.625h3.984v-3.406q0-2.906 1.625-4.508t4.328-1.602q2.297 0 3.563 0.187z"></path></svg></span><span class="tve_s_text">Share</span><span class="tve_s_count">0</span></a>
 </div>
-<div class="tve_s_item tve_s_t_share" data-href="https://optionspa.com/how-often-is-spravato-administered" data-label="Tweet" data-s="t_share">
+<div class="tve_s_item tve_s_t_share" data-href="https://www.optionspa.com/how-often-is-spravato-administered" data-label="Tweet" data-s="t_share">
 <a class="tve_s_link" href="javascript:void(0)"><span class="tve_s_icon thrv-svg-icon"><svg class="tcb-twitter" viewbox="0 0 26 28" xmlns="http://www.w3.org/2000/svg"><path d="M25.312 6.375q-1.047 1.531-2.531 2.609 0.016 0.219 0.016 0.656 0 2.031-0.594 4.055t-1.805 3.883-2.883 3.289-4.031 2.281-5.047 0.852q-4.234 0-7.75-2.266 0.547 0.063 1.219 0.063 3.516 0 6.266-2.156-1.641-0.031-2.938-1.008t-1.781-2.492q0.516 0.078 0.953 0.078 0.672 0 1.328-0.172-1.75-0.359-2.898-1.742t-1.148-3.211v-0.063q1.062 0.594 2.281 0.641-1.031-0.688-1.641-1.797t-0.609-2.406q0-1.375 0.688-2.547 1.891 2.328 4.602 3.727t5.805 1.555q-0.125-0.594-0.125-1.156 0-2.094 1.477-3.57t3.57-1.477q2.188 0 3.687 1.594 1.703-0.328 3.203-1.219-0.578 1.797-2.219 2.781 1.453-0.156 2.906-0.781z"></path></svg></span><span class="tve_s_text">Tweet</span><span class="tve_s_count">0</span></a>
 </div>
-<div class="tve_s_item tve_s_pin_share" data-href="https://optionspa.com/how-often-is-spravato-administered" data-label="Pin" data-s="pin_share">
+<div class="tve_s_item tve_s_pin_share" data-href="https://www.optionspa.com/how-often-is-spravato-administered" data-label="Pin" data-s="pin_share">
 <a class="tve_s_link" href="javascript:void(0)"><span class="tve_s_icon thrv-svg-icon"><svg class="tcb-pinterest" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M16 0c-8.837 0-16 7.163-16 16 0 6.778 4.217 12.568 10.169 14.899-0.14-1.266-0.266-3.208 0.055-4.59 0.291-1.249 1.876-7.953 1.876-7.953s-0.479-0.958-0.479-2.375c0-2.225 1.29-3.886 2.895-3.886 1.365 0 2.024 1.025 2.024 2.254 0 1.373-0.874 3.425-1.325 5.327-0.377 1.593 0.799 2.892 2.369 2.892 2.844 0 5.030-2.999 5.030-7.327 0-3.831-2.753-6.509-6.683-6.509-4.552 0-7.225 3.415-7.225 6.943 0 1.375 0.53 2.85 1.191 3.651 0.131 0.158 0.15 0.297 0.111 0.459-0.121 0.506-0.391 1.593-0.444 1.815-0.070 0.293-0.232 0.355-0.535 0.214-1.998-0.93-3.248-3.852-3.248-6.198 0-5.047 3.667-9.682 10.572-9.682 5.55 0 9.864 3.955 9.864 9.241 0 5.514-3.477 9.952-8.302 9.952-1.621 0-3.145-0.842-3.667-1.837 0 0-0.802 3.055-0.997 3.803-0.361 1.39-1.337 3.132-1.989 4.195 1.497 0.463 3.088 0.713 4.738 0.713 8.836-0 16-7.163 16-16s-7.163-16-16-16z"></path></svg></span><span class="tve_s_text">Pin</span><span class="tve_s_count">0</span></a>
 </div>
 </div>

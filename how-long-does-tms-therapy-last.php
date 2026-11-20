@@ -87,12 +87,12 @@
 <title>How Long Does TMS Therapy Last? Timeline &amp; Results | Options</title>
 <meta content="How long does TMS therapy last? Sessions take 3–37 minutes, a full course runs 6–9 weeks, and results often last a year or more. See the full TMS timeline." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="how-long-does-tms-therapy-last" rel="canonical"/>
+<link href="https://www.optionspa.com/how-long-does-tms-therapy-last" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="How Long Does TMS Therapy Last? Timeline &amp; Results" property="og:title"/>
 <meta content="How long does TMS therapy last? Sessions take 3–37 minutes, a full course runs 6–9 weeks, and results often last a year or more. See the full TMS timeline." property="og:description"/>
-<meta content="how-long-does-tms-therapy-last" property="og:url"/>
+<meta content="https://www.optionspa.com/how-long-does-tms-therapy-last" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="TMS Therapy" property="article:section"/>
 <meta content="Depression" property="article:section"/>
@@ -595,7 +595,7 @@ h2[id], section[id] {
 <p><strong>Key Takeaway (Quick Answer):</strong> <em>How long does TMS therapy last?</em> <strong>TMS therapy lasts in three different ways.</strong> A single session takes about <strong>3 to 37 minutes</strong>, depending on the protocol. A standard full course runs <strong>5 days a week for about 6 weeks</strong>, often followed by a 3-week taper, so most people finish in <strong>6 to 9 weeks (around 30 to 36 sessions)</strong>. And for patients who respond, the antidepressant benefits of <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" rel="noopener noreferrer" target="_blank">Transcranial Magnetic Stimulation (TMS)</a> commonly last <strong>a year or longer</strong>. In one large follow-up study, about 6 in 10 responders still met response criteria 12 months later. If symptoms come back, a repeat course or periodic "booster" sessions are often effective. Your exact timeline depends on your diagnosis, protocol, and how quickly your brain responds.</p>
 </div>
 
-<p>If you are considering <a href="tms-therapy">TMS therapy</a> for depression, one of the first practical questions is about time. How long will each appointment take? How many weeks will I need to commit? And, most importantly, <strong>how long will the results last</strong> once treatment ends?</p>
+<p>If you are considering <a href="tms-therapy-reading">TMS therapy</a> for depression, one of the first practical questions is about time. How long will each appointment take? How many weeks will I need to commit? And, most importantly, <strong>how long will the results last</strong> once treatment ends?</p>
 
 <p>These are fair questions. TMS asks for a real commitment of weekday visits, and you deserve a clear picture before you start. At <strong>Options Psychiatry</strong> in Reading, PA, board-certified psychiatrist <a href="dr-crawford">Dr. Cyntrell Crawford</a> and our clinical team walk every patient through the full TMS timeline, from the first mapping session to long-term maintenance. This guide gives you the same answer-first breakdown.</p>
 
@@ -708,7 +708,7 @@ h2[id], section[id] {
 <li><strong>Remission vs. partial response:</strong> Patients who reach full remission (minimal symptoms) tend to stay well longer than those with only partial improvement.</li>
 <li><strong>Completing the full course:</strong> Finishing all prescribed sessions, including the taper, supports more durable results.</li>
 <li><strong>Ongoing therapy:</strong> Combining TMS with psychotherapy helps people build coping skills that protect against relapse.</li>
-<li><strong>Medication management:</strong> Many patients continue an antidepressant after TMS. Careful <a href="medication-management">medication management</a> can extend benefits.</li>
+<li><strong>Medication management:</strong> Many patients continue an antidepressant after TMS. Careful <a href="medication-management-options">medication management</a> can extend benefits.</li>
 <li><strong>Life stressors:</strong> Major losses, chronic stress, or trauma can trigger relapse, which is why ongoing support matters.</li>
 <li><strong>Healthy routines:</strong> Regular sleep, physical activity, sunlight exposure, and limiting alcohol all support brain health and mood stability.</li>
 <li><strong>Depression history:</strong> People with many prior episodes or long-standing treatment-resistant depression may benefit from a planned maintenance schedule.</li>
@@ -886,14 +886,14 @@ h2[id], section[id] {
   "@graph": [
     {
       "@type": "BlogPosting",
-      "@id": "https://optionspa.com/how-long-does-tms-therapy-last#article",
+      "@id": "https://www.optionspa.com/how-long-does-tms-therapy-last#article",
       "isPartOf": {
         "@type": "WebPage",
-        "@id": "https://optionspa.com/how-long-does-tms-therapy-last"
+        "@id": "https://www.optionspa.com/how-long-does-tms-therapy-last"
       },
       "headline": "How Long Does TMS Therapy Last? Sessions, Timeline & Results",
       "description": "How long does TMS therapy last? Sessions take 3–37 minutes, a full course runs 6–9 weeks, and results often last a year or more. See the full TMS timeline.",
-      "mainEntityOfPage": "https://optionspa.com/how-long-does-tms-therapy-last",
+      "mainEntityOfPage": "https://www.optionspa.com/how-long-does-tms-therapy-last",
       "datePublished": "2026-11-09T09:00:00-05:00",
       "dateModified": "2026-11-09T09:00:00-05:00",
       "inLanguage": "en-US",
@@ -902,15 +902,15 @@ h2[id], section[id] {
         "@type": "Person",
         "name": "Dr. Cyntrell Crawford",
         "jobTitle": "Board-Certified Psychiatrist & Medical Director",
-        "url": "https://optionspa.com/dr-crawford"
+        "url": "https://www.optionspa.com/dr-crawford"
       },
       "publisher": {
         "@type": "MedicalClinic",
         "name": "Options Psychiatry",
-        "url": "https://optionspa.com/",
+        "url": "https://www.optionspa.com/",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
+          "url": "https://www.optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
         },
         "address": {
           "@type": "PostalAddress",
@@ -924,7 +924,7 @@ h2[id], section[id] {
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://optionspa.com/wp-content/uploads/2026/11/how-long-does-tms-therapy-last-apollo-tms-thumbnail.webp",
+        "url": "https://www.optionspa.com/wp-content/uploads/2026/11/how-long-does-tms-therapy-last-apollo-tms-thumbnail.webp",
         "width": 1376,
         "height": 768,
         "caption": "How long does TMS therapy last - patient in a TMS treatment chair while a clinician positions the magnetic coil at Options Psychiatry in Reading, PA"
@@ -948,7 +948,7 @@ h2[id], section[id] {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://optionspa.com/how-long-does-tms-therapy-last#faq",
+      "@id": "https://www.optionspa.com/how-long-does-tms-therapy-last#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -1018,10 +1018,10 @@ h2[id], section[id] {
     },
     {
       "@type": "MedicalClinic",
-      "@id": "https://optionspa.com/#organization",
+      "@id": "https://www.optionspa.com/#organization",
       "name": "Options Psychiatry",
-      "url": "https://optionspa.com",
-      "logo": "https://optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
+      "url": "https://www.optionspa.com",
+      "logo": "https://www.optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
       "telephone": "(610) 741-6567",
       "address": {
         "@type": "PostalAddress",
@@ -1035,25 +1035,25 @@ h2[id], section[id] {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://optionspa.com/how-long-does-tms-therapy-last#breadcrumb",
+      "@id": "https://www.optionspa.com/how-long-does-tms-therapy-last#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://optionspa.com/"
+          "item": "https://www.optionspa.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Blog",
-          "item": "https://optionspa.com/blog"
+          "item": "https://www.optionspa.com/blog"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "How Long Does TMS Therapy Last?",
-          "item": "https://optionspa.com/how-long-does-tms-therapy-last"
+          "item": "https://www.optionspa.com/how-long-does-tms-therapy-last"
         }
       ]
     }
@@ -1118,13 +1118,13 @@ h2[id], section[id] {
 <div class="thrv_wrapper thrv_text_element" data-css="tve-u-16f89e98101"><p data-css="tve-u-16f89e87f26">share this</p></div>
 <div class="thrv_wrapper thrv_social_custom thrv_social" data-css="tve-u-16f89e8f368">
 <div class="tve_social_items tve_social_custom tve_style_4 tve_social_cb">
-<div class="tve_s_item tve_s_fb_share" data-href="https://optionspa.com/how-long-does-tms-therapy-last" data-label="Share" data-s="fb_share">
+<div class="tve_s_item tve_s_fb_share" data-href="https://www.optionspa.com/how-long-does-tms-therapy-last" data-label="Share" data-s="fb_share">
 <a class="tve_s_link" href="javascript:void(0)"><span class="tve_s_icon thrv-svg-icon"><svg class="tcb-facebook" viewbox="0 0 16 28" xmlns="http://www.w3.org/2000/svg"><path d="M14.984 0.187v4.125h-2.453q-1.344 0-1.813 0.562t-0.469 1.687v2.953h4.578l-0.609 4.625h-3.969v11.859h-4.781v-11.859h-3.984v-4.625h3.984v-3.406q0-2.906 1.625-4.508t4.328-1.602q2.297 0 3.563 0.187z"></path></svg></span><span class="tve_s_text">Share</span><span class="tve_s_count">0</span></a>
 </div>
-<div class="tve_s_item tve_s_t_share" data-href="https://optionspa.com/how-long-does-tms-therapy-last" data-label="Tweet" data-s="t_share">
+<div class="tve_s_item tve_s_t_share" data-href="https://www.optionspa.com/how-long-does-tms-therapy-last" data-label="Tweet" data-s="t_share">
 <a class="tve_s_link" href="javascript:void(0)"><span class="tve_s_icon thrv-svg-icon"><svg class="tcb-twitter" viewbox="0 0 26 28" xmlns="http://www.w3.org/2000/svg"><path d="M25.312 6.375q-1.047 1.531-2.531 2.609 0.016 0.219 0.016 0.656 0 2.031-0.594 4.055t-1.805 3.883-2.883 3.289-4.031 2.281-5.047 0.852q-4.234 0-7.75-2.266 0.547 0.063 1.219 0.063 3.516 0 6.266-2.156-1.641-0.031-2.938-1.008t-1.781-2.492q0.516 0.078 0.953 0.078 0.672 0 1.328-0.172-1.75-0.359-2.898-1.742t-1.148-3.211v-0.063q1.062 0.594 2.281 0.641-1.031-0.688-1.641-1.797t-0.609-2.406q0-1.375 0.688-2.547 1.891 2.328 4.602 3.727t5.805 1.555q-0.125-0.594-0.125-1.156 0-2.094 1.477-3.57t3.57-1.477q2.188 0 3.687 1.594 1.703-0.328 3.203-1.219-0.578 1.797-2.219 2.781 1.453-0.156 2.906-0.781z"></path></svg></span><span class="tve_s_text">Tweet</span><span class="tve_s_count">0</span></a>
 </div>
-<div class="tve_s_item tve_s_pin_share" data-href="https://optionspa.com/how-long-does-tms-therapy-last" data-label="Pin" data-s="pin_share">
+<div class="tve_s_item tve_s_pin_share" data-href="https://www.optionspa.com/how-long-does-tms-therapy-last" data-label="Pin" data-s="pin_share">
 <a class="tve_s_link" href="javascript:void(0)"><span class="tve_s_icon thrv-svg-icon"><svg class="tcb-pinterest" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M16 0c-8.837 0-16 7.163-16 16 0 6.778 4.217 12.568 10.169 14.899-0.14-1.266-0.266-3.208 0.055-4.59 0.291-1.249 1.876-7.953 1.876-7.953s-0.479-0.958-0.479-2.375c0-2.225 1.29-3.886 2.895-3.886 1.365 0 2.024 1.025 2.024 2.254 0 1.373-0.874 3.425-1.325 5.327-0.377 1.593 0.799 2.892 2.369 2.892 2.844 0 5.030-2.999 5.030-7.327 0-3.831-2.753-6.509-6.683-6.509-4.552 0-7.225 3.415-7.225 6.943 0 1.375 0.53 2.85 1.191 3.651 0.131 0.158 0.15 0.297 0.111 0.459-0.121 0.506-0.391 1.593-0.444 1.815-0.070 0.293-0.232 0.355-0.535 0.214-1.998-0.93-3.248-3.852-3.248-6.198 0-5.047 3.667-9.682 10.572-9.682 5.55 0 9.864 3.955 9.864 9.241 0 5.514-3.477 9.952-8.302 9.952-1.621 0-3.145-0.842-3.667-1.837 0 0-0.802 3.055-0.997 3.803-0.361 1.39-1.337 3.132-1.989 4.195 1.497 0.463 3.088 0.713 4.738 0.713 8.836-0 16-7.163 16-16s-7.163-16-16-16z"></path></svg></span><span class="tve_s_text">Pin</span><span class="tve_s_count">0</span></a>
 </div>
 </div>
