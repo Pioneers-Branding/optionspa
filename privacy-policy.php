@@ -496,7 +496,126 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="tve-page-section-in tve_empty_dropzone" data-css="tve-u-18262b53d77" style=""><div class="thrv_wrapper thrv_text_element" data-css="tve-u-18262b53d7d" style=""><h1 class="" data-css="tve-u-18262b53d7e" style="text-align: center;"><strong><strong>PRIVACY POLICY</strong></strong></h1></div></div>
 </div><div class="thrv_wrapper thrv-page-section tve-height-update" data-css="tve-u-623ade5c85e1c1" data-inherit-lp-settings="1" style="">
 <div class="tve-page-section-out"></div>
-<div class="tve-page-section-in" data-css="tve-u-18018900b38" style=""><div class="thrv_wrapper thrv_custom_html_shortcode"><div data-extra="table-style=accordion" data-policy-key="UzIxSEswZFNibVYwWkRadk5sRTlQUT09" height="480" id="policy" width="640"> </div><code class="tve_js_placeholder"><script src="_external/app.termageddon.com/js/termageddon.js" defer></script></code></div></div>
+<div class="tve-page-section-in" data-css="tve-u-18018900b38" style=""><div class="thrv_wrapper op-legal-wrap">
+<!-- Privacy Policy: from legal/PRIVACY POLICY.pdf (effective November 19, 2026) -->
+<style>
+.op-legal{max-width:860px;margin:0 auto;padding:8px 24px 48px;font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#2D3436;font-size:16px;line-height:1.75;text-align:left}
+.op-legal h2{font-size:1.45rem;line-height:1.3;color:#163C62;margin:2.2em 0 .6em;font-weight:700;text-align:left;letter-spacing:0;text-transform:none}
+.op-legal h3{font-size:1.08rem;line-height:1.4;color:#2D3436;margin:1.6em 0 .4em;font-weight:700;text-align:left;letter-spacing:0;text-transform:none}
+.op-legal p{margin:0 0 1em;font-size:16px;line-height:1.75}
+.op-legal ul{margin:0 0 1.2em;padding-left:1.4em;list-style:disc}
+.op-legal li{margin:0 0 .4em;font-size:16px;line-height:1.65}
+.op-legal a{color:#E56A10;text-decoration:underline;word-break:break-word}
+.op-legal .op-legal-meta{background:#F5F0E8;border-left:4px solid #FF7A15;border-radius:10px;padding:16px 20px;margin-bottom:2em}
+.op-legal .op-legal-address{background:#F8F9FA;border-radius:10px;padding:16px 20px}
+#tve_editor .op-legal p,.op-legal p{margin:0 0 14px!important;padding:0!important;font-size:16px!important;line-height:1.75!important;color:#2D3436}
+#tve_editor .op-legal li,.op-legal li{font-size:16px!important;line-height:1.65!important;margin:0 0 6px!important;padding:0!important}
+#tve_editor .op-legal ul,.op-legal ul{margin:0 0 18px!important;padding:0 0 0 22px!important}
+#tve_editor .op-legal h2,.op-legal h2{margin:36px 0 12px!important;padding:0!important}
+#tve_editor .op-legal h3,.op-legal h3{margin:24px 0 8px!important;padding:0!important}
+#tve_editor .op-legal .op-legal-meta p,.op-legal .op-legal-meta,.op-legal .op-legal-address{margin-bottom:24px!important}
+@media (max-width:600px){.op-legal{padding:0 16px 32px}.op-legal h2{font-size:1.25rem}}
+</style>
+<div class="op-legal">
+<p class="op-legal-meta"><strong>Options Psychiatry</strong><br>
+<strong>Effective Date:</strong> November 19, 2026<br>
+<strong>Website:</strong> <a href="https://optionspa.com">https://optionspa.com</a></p>
+<h2>1. Introduction</h2>
+<p>Options Psychiatry ("Options Psychiatry," "we," "us," or "our") respects your privacy and is committed to protecting the personal information you provide when visiting our website, contacting our office, requesting services, or communicating with us.</p>
+<p>This Privacy Policy explains how we collect, use, disclose, and protect personal information, including information collected through our website, online forms, telephone communications, and SMS text messaging services.</p>
+<p>By using our website or voluntarily submitting information, you acknowledge the practices described in this Privacy Policy.</p>
+<h2>2. Information We Collect</h2>
+<p>We may collect the following categories of information:</p>
+<h3>Personal Information</h3>
+<ul>
+    <li>Full name</li>
+    <li>Email address</li>
+    <li>Telephone and mobile phone numbers</li>
+    <li>Mailing address</li>
+    <li>Appointment requests and communication preferences</li>
+    <li>Information voluntarily submitted through contact forms</li>
+</ul>
+<h3>Healthcare-Related Information</h3>
+<p>When you request psychiatric services, consultations, or treatment information, we may collect information relating to your healthcare needs, medical history, or treatment interests.</p>
+<p>Protected Health Information (PHI) is handled in accordance with applicable healthcare privacy laws, including HIPAA where applicable.</p>
+<h3>Automatically Collected Information</h3>
+<p>When you visit our website, certain information may be collected automatically, including IP address, browser type, device information, pages visited, and website usage data through cookies or similar technologies.</p>
+<h2>3. How We Use Your Information</h2>
+<p>We may use collected information to:</p>
+<ul>
+    <li>Respond to inquiries and consultation requests.</li>
+    <li>Schedule and confirm appointments.</li>
+    <li>Provide information about psychiatric services, TMS therapy, medication management, and other available treatments.</li>
+    <li>Send appointment reminders and administrative notifications.</li>
+    <li>Communicate with patients regarding requested services.</li>
+    <li>Send promotional communications when appropriate consent has been obtained.</li>
+    <li>Improve website functionality and customer service.</li>
+    <li>Meet legal, regulatory, and healthcare obligations.</li>
+</ul>
+<h2>4. SMS Messaging and Mobile Information Privacy</h2>
+<p>Options Psychiatry may offer SMS text messaging to individuals who have expressly consented to receive text communications.</p>
+<p>Messages may include appointment confirmations, scheduling reminders, consultation follow-ups, administrative updates, and, where separately authorized, promotional information regarding our services.</p>
+<h3>Mobile Information Non-Sharing Statement</h3>
+<p>No mobile information will be shared with third parties or affiliates for marketing or promotional purposes.</p>
+<p>All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, except service providers acting on our behalf solely to deliver and support our messaging services, or as otherwise required by law.</p>
+<p>SMS opt-in consent is not sold, rented, or disclosed to independent third parties for their own marketing purposes.</p>
+<h3>SMS Consent</h3>
+<p>By affirmatively opting in to receive SMS communications from Options Psychiatry, you authorize us to send text messages to the mobile number you provide for the purposes identified at the time of consent.</p>
+<p>Consent to receive marketing text messages is not a condition of purchasing goods or services or receiving healthcare treatment.</p>
+<h3>Message Frequency</h3>
+<p>Message frequency varies based on appointment activity, service requests, and your communication preferences.</p>
+<h3>Message and Data Rates</h3>
+<p>Message and data rates may apply depending on your mobile carrier and wireless service plan.</p>
+<h3>Opt-Out Instructions</h3>
+<p>You may opt out of SMS communications at any time by replying <strong>STOP</strong> to a message.</p>
+<p>After opting out, you may receive a final confirmation message. No additional messages will be sent under that messaging program unless you provide new consent, except as permitted by law.</p>
+<h3>Help Instructions</h3>
+<p>For assistance, reply <strong>HELP</strong> to any SMS message or contact us at <a href="tel:+16107416567">(610) 741-6567</a> or <a href="mailto:help@optionspsychiatry.com">help@optionspsychiatry.com</a>.</p>
+<h2>5. Sharing and Disclosure of Information</h2>
+<p>We do not sell personal information.</p>
+<p>We may disclose information to authorized service providers who assist with website hosting, appointment scheduling, patient communications, and other operational services, subject to appropriate confidentiality and security obligations.</p>
+<p>We may also disclose information when required by applicable law, regulation, legal process, or other lawful obligation.</p>
+<p>Where protected health information is involved, disclosures will be subject to applicable HIPAA requirements and our Notice of Privacy Practices.</p>
+<h2>6. Healthcare Privacy and HIPAA</h2>
+<p>Options Psychiatry recognizes the importance of protecting sensitive healthcare information.</p>
+<p>Where applicable, protected health information is governed by HIPAA and other relevant federal and state privacy requirements.</p>
+<p>Our healthcare privacy practices, including patient rights regarding protected health information, are described in our separate HIPAA Notice of Privacy Practices.</p>
+<p>This website Privacy Policy does not replace that notice.</p>
+<h2>7. Data Security</h2>
+<p>We use reasonable administrative, technical, and organizational safeguards designed to protect personal information from unauthorized access, disclosure, alteration, or destruction.</p>
+<p>However, no internet transmission or electronic storage method is completely secure.</p>
+<p>Standard SMS text messaging may not be encrypted or appropriate for communicating sensitive medical information.</p>
+<p>Patients should avoid transmitting sensitive medical details through ordinary SMS unless specifically instructed to use an approved secure communication method.</p>
+<h2>8. Cookies and Website Analytics</h2>
+<p>Our website may use cookies and similar technologies to improve functionality, understand website traffic, and enhance user experience.</p>
+<p>Users may adjust browser settings to manage cookies.</p>
+<p>Any analytics, advertising, or tracking technologies used on healthcare-related pages must be configured in accordance with applicable privacy requirements.</p>
+<h2>9. Data Retention</h2>
+<p>We retain personal information only as long as reasonably necessary to fulfill the purposes described in this policy or as required by applicable laws, healthcare recordkeeping requirements, and regulatory obligations.</p>
+<h2>10. Your Privacy Choices</h2>
+<p>You may contact Options Psychiatry to request information regarding your personal data, update contact information, change communication preferences, or exercise applicable privacy rights.</p>
+<p>Certain healthcare information requests may be governed by HIPAA and our Notice of Privacy Practices.</p>
+<p>You may withdraw SMS consent at any time by replying STOP.</p>
+<h2>11. Third-Party Websites</h2>
+<p>Our website may contain links to third-party websites or services.</p>
+<p>Options Psychiatry is not responsible for the privacy practices or content of independently operated third-party websites.</p>
+<p>We encourage users to review their respective privacy policies.</p>
+<h2>12. Children's Privacy</h2>
+<p>Our website is not intended to collect personal information directly from children under 13 without appropriate parental or guardian authorization.</p>
+<p>If we become aware that information has been collected in violation of applicable law, we will take appropriate steps to address the matter.</p>
+<h2>13. Changes to This Privacy Policy</h2>
+<p>We may update this Privacy Policy periodically to reflect changes in our services, technology, legal obligations, or privacy practices.</p>
+<p>Updates will be published on this page with a revised effective date.</p>
+<h2>14. Contact Information</h2>
+<p>For questions about this Privacy Policy or our privacy practices, contact:</p>
+<p class="op-legal-address"><strong>Options Psychiatry</strong><br>
+2211 Quarry Drive, Suite E56<br>
+Reading, PA 19609<br>
+Phone: <a href="tel:+16107416567">(610) 741-6567</a><br>
+Email: <a href="mailto:help@optionspsychiatry.com">help@optionspsychiatry.com</a><br>
+Website: <a href="https://optionspa.com">https://optionspa.com</a></p>
+</div>
+</div></div>
 </div><div class="thrv_wrapper thrv-page-section tve-height-update" data-css="tve-u-1801836342b" data-inherit-lp-settings="1" style="">
 <div class="tve-page-section-out" data-css="tve-u-1801836342c" style=""></div>
 <div class="tve-page-section-in tve_empty_dropzone" data-css="tve-u-18018363429" style=""><div class="thrv_wrapper thrv_text_element"><h2 class="" data-css="tve-u-1801836342d" style="text-align: center;">READY TO BEGIN YOUR JOURNEY?</h2></div><div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root" data-button-size-m="s" data-css="tve-u-1801836342f" data-tcb_hover_state_parent="" style="">

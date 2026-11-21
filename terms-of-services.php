@@ -496,7 +496,130 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="tve-page-section-in tve_empty_dropzone" data-css="tve-u-18018367056" style=""><div class="thrv_wrapper thrv_text_element" data-css="tve-u-18018367065" style=""><h1 class="" data-css="tve-u-18262a33b87" style="text-align: center;"><strong><strong>TERMS OF SERVICES</strong></strong></h1></div></div>
 </div><div class="thrv_wrapper thrv-page-section tve-height-update" data-css="tve-u-623ae034581f68" data-inherit-lp-settings="1" style="">
 <div class="tve-page-section-out"></div>
-<div class="tve-page-section-in" data-css="tve-u-180189231c2" style=""><div class="thrv_wrapper thrv_custom_html_shortcode"><div data-extra="table-style=accordion" data-policy-key="ZVdsNmFWcG1LekpxZW5SeFQyYzlQUT09" height="480" id="policy" width="640"> </div><code class="tve_js_placeholder"><script src="_external/app.termageddon.com/js/termageddon.js" defer></script></code></div></div>
+<div class="tve-page-section-in" data-css="tve-u-180189231c2" style=""><div class="thrv_wrapper op-legal-wrap">
+<!-- Terms of Service: from legal/TERMS OF SERVICE.pdf (effective November 19, 2026) -->
+<style>
+.op-legal{max-width:860px;margin:0 auto;padding:8px 24px 48px;font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#2D3436;font-size:16px;line-height:1.75;text-align:left}
+.op-legal h2{font-size:1.45rem;line-height:1.3;color:#163C62;margin:2.2em 0 .6em;font-weight:700;text-align:left;letter-spacing:0;text-transform:none}
+.op-legal h3{font-size:1.08rem;line-height:1.4;color:#2D3436;margin:1.6em 0 .4em;font-weight:700;text-align:left;letter-spacing:0;text-transform:none}
+.op-legal p{margin:0 0 1em;font-size:16px;line-height:1.75}
+.op-legal ul{margin:0 0 1.2em;padding-left:1.4em;list-style:disc}
+.op-legal li{margin:0 0 .4em;font-size:16px;line-height:1.65}
+.op-legal a{color:#E56A10;text-decoration:underline;word-break:break-word}
+.op-legal .op-legal-meta{background:#F5F0E8;border-left:4px solid #FF7A15;border-radius:10px;padding:16px 20px;margin-bottom:2em}
+.op-legal .op-legal-address{background:#F8F9FA;border-radius:10px;padding:16px 20px}
+#tve_editor .op-legal p,.op-legal p{margin:0 0 14px!important;padding:0!important;font-size:16px!important;line-height:1.75!important;color:#2D3436}
+#tve_editor .op-legal li,.op-legal li{font-size:16px!important;line-height:1.65!important;margin:0 0 6px!important;padding:0!important}
+#tve_editor .op-legal ul,.op-legal ul{margin:0 0 18px!important;padding:0 0 0 22px!important}
+#tve_editor .op-legal h2,.op-legal h2{margin:36px 0 12px!important;padding:0!important}
+#tve_editor .op-legal h3,.op-legal h3{margin:24px 0 8px!important;padding:0!important}
+#tve_editor .op-legal .op-legal-meta p,.op-legal .op-legal-meta,.op-legal .op-legal-address{margin-bottom:24px!important}
+@media (max-width:600px){.op-legal{padding:0 16px 32px}.op-legal h2{font-size:1.25rem}}
+</style>
+<div class="op-legal">
+<p class="op-legal-meta"><strong>Options Psychiatry</strong><br>
+<strong>Effective Date:</strong> November 19, 2026<br>
+<strong>Website:</strong> <a href="https://optionspa.com">https://optionspa.com</a></p>
+<h2>1. Acceptance of Terms</h2>
+<p>Welcome to Options Psychiatry.</p>
+<p>These Terms of Service ("Terms") govern your access to and use of our website, online contact forms, digital communications, and SMS messaging services.</p>
+<p>By accessing or using our website, you agree to these Terms and our <a href="/privacy-policy">Privacy Policy</a>.</p>
+<p>If you do not agree with these Terms, please discontinue use of the website.</p>
+<h2>2. Description of Services</h2>
+<p>Options Psychiatry provides information about psychiatric healthcare services, including psychiatric evaluations, medication management, Transcranial Magnetic Stimulation (TMS) therapy, Spravato therapy, and related mental health treatment options.</p>
+<p>Website content is provided for general informational and educational purposes.</p>
+<p>Use of the website does not independently establish a physician-patient relationship.</p>
+<h2>3. Medical Disclaimer</h2>
+<p>Information on this website is not intended to replace professional medical advice, diagnosis, or treatment.</p>
+<p>Treatment recommendations require appropriate evaluation by a qualified healthcare professional.</p>
+<p>Individual treatment outcomes may vary.</p>
+<h3>Medical Emergencies</h3>
+<p>This website and our SMS messaging service are not emergency communication channels.</p>
+<p>If you are experiencing a medical emergency, call <a href="tel:911">911</a> or seek immediate emergency medical assistance.</p>
+<p>For a mental health crisis in the United States, call or text <a href="tel:988">988</a>.</p>
+<h2>4. Website Use</h2>
+<p>Users agree to use the website only for lawful purposes.</p>
+<p>Users may not interfere with website operations, attempt unauthorized access, transmit malicious software, or misuse website forms and communication systems.</p>
+<p>We reserve the right to restrict access when necessary to protect our website, systems, patients, or staff.</p>
+<h2>5. Appointment Requests and Communications</h2>
+<p>Submitting an appointment request or inquiry through the website does not guarantee an appointment, acceptance as a patient, or availability of a particular treatment.</p>
+<p>Our team may contact you using the contact information you provide to respond to your request.</p>
+<p>Appointment availability, treatment eligibility, insurance coverage, and medical recommendations are subject to individual review.</p>
+<h2>6. SMS Messaging Terms and Conditions</h2>
+<p><strong>Program Name:</strong> Options Psychiatry SMS Messaging Program</p>
+<h3>Program Description</h3>
+<p>Options Psychiatry offers an SMS messaging program for individuals who affirmatively opt in to receive text communications.</p>
+<p>Depending on the consent provided, messages may include:</p>
+<ul>
+    <li>Appointment confirmations and reminders.</li>
+    <li>Consultation scheduling and follow-up messages.</li>
+    <li>Responses to patient inquiries.</li>
+    <li>Administrative and office updates.</li>
+    <li>Information regarding requested healthcare services.</li>
+    <li>Promotional messages regarding available services, only when appropriate marketing consent has been obtained.</li>
+</ul>
+<h3>How to Opt In</h3>
+<p>Individuals may enroll in the SMS program by selecting an unchecked SMS consent checkbox on an Options Psychiatry website form, completing another documented consent process, or otherwise providing legally valid express consent.</p>
+<p>The specific message categories authorized will be identified during the opt-in process.</p>
+<h3>Consent Requirements</h3>
+<p>By opting in, you authorize Options Psychiatry to send SMS text messages to the mobile phone number you provide.</p>
+<p>Consent to receive marketing text messages is not required as a condition of receiving healthcare treatment, purchasing services, or scheduling an appointment.</p>
+<p>Where applicable, consent may authorize messages sent using automated technology, as disclosed at the point of enrollment.</p>
+<h3>Message Frequency</h3>
+<p>Message frequency varies based on appointment schedules, service inquiries, and communication preferences.</p>
+<h3>Message and Data Rates</h3>
+<p>Message and data rates may apply.</p>
+<p>Charges are determined by your mobile carrier and service plan.</p>
+<h3>Opt-Out Instructions</h3>
+<p>You may cancel SMS communications at any time by replying <strong>STOP</strong> to a message from Options Psychiatry.</p>
+<p>After sending STOP, you may receive one confirmation message indicating that your opt-out request has been processed.</p>
+<p>To receive additional messages in the future, you must provide new consent where required.</p>
+<h3>Help and Support</h3>
+<p>Reply <strong>HELP</strong> to any text message for assistance.</p>
+<p>You may also contact Options Psychiatry:</p>
+<p>Phone: <a href="tel:+16107416567">(610) 741-6567</a><br>Email: <a href="mailto:help@optionspsychiatry.com">help@optionspsychiatry.com</a></p>
+<h3>Carrier Disclaimer</h3>
+<p>Mobile carriers are not liable for delayed or undelivered messages.</p>
+<p>Delivery depends on carrier availability, network conditions, and device compatibility.</p>
+<h3>Privacy</h3>
+<p>Your privacy is important to us.</p>
+<p>Mobile information and SMS opt-in consent will not be sold or shared with third parties or affiliates for their independent marketing or promotional purposes.</p>
+<p>For additional information, review our Privacy Policy at:</p>
+<p><a href="https://optionspa.com/privacy-policy">https://optionspa.com/privacy-policy</a></p>
+<h2>7. Healthcare Communication Limitations</h2>
+<p>SMS messages are not intended to replace secure patient portal communications or direct medical consultation.</p>
+<p>Standard SMS may not be encrypted.</p>
+<p>Patients should not send sensitive medical information, detailed medical histories, or emergency requests through standard text messaging.</p>
+<p>Options Psychiatry may direct patients to a secure communication channel when appropriate.</p>
+<h2>8. Intellectual Property</h2>
+<p>Website content, including text, graphics, branding, images, and other materials, is owned by Options Psychiatry or used with permission, unless otherwise indicated.</p>
+<p>Content may not be reproduced, distributed, or commercially exploited without appropriate authorization.</p>
+<h2>9. Third-Party Services</h2>
+<p>Our website may use third-party technology providers for scheduling, website hosting, analytics, or communications.</p>
+<p>Use of certain third-party services may be subject to their separate terms and privacy policies.</p>
+<h2>10. Disclaimer of Warranties</h2>
+<p>We strive to maintain accurate and current website information.</p>
+<p>However, the website and its informational content are provided on an "as available" basis without guarantees of uninterrupted operation, completeness, or error-free performance.</p>
+<p>Nothing in these Terms limits rights or protections that cannot lawfully be waived.</p>
+<h2>11. Limitation of Liability</h2>
+<p>To the extent permitted by applicable law, Options Psychiatry is not responsible for losses arising solely from interruptions, technical failures, or unauthorized misuse of the website.</p>
+<p>Nothing in these Terms excludes liability that cannot lawfully be excluded or limits any rights patients may have under applicable healthcare or consumer protection laws.</p>
+<h2>12. Changes to Terms</h2>
+<p>Options Psychiatry may revise these Terms periodically.</p>
+<p>Updated Terms will be published on this website with a revised effective date.</p>
+<p>Continued website use after changes become effective constitutes acceptance to the extent permitted by law.</p>
+<h2>13. Governing Law</h2>
+<p>These Terms are governed by the applicable laws of the Commonwealth of Pennsylvania and the United States, without overriding mandatory consumer protection or healthcare laws.</p>
+<h2>14. Contact Information</h2>
+<p>For questions about these Terms of Service or our SMS messaging program, contact:</p>
+<p class="op-legal-address"><strong>Options Psychiatry</strong><br>
+2211 Quarry Drive, Suite E56<br>
+Reading, PA 19609<br>
+Phone: <a href="tel:+16107416567">(610) 741-6567</a><br>
+Email: <a href="mailto:help@optionspsychiatry.com">help@optionspsychiatry.com</a><br>
+Website: <a href="https://optionspa.com">https://optionspa.com</a></p>
+</div>
+</div></div>
 </div><div class="thrv_wrapper thrv-page-section tve-height-update" data-css="tve-u-1801836c3c3" data-inherit-lp-settings="1" style="">
 <div class="tve-page-section-out" data-css="tve-u-1801836c3c5" style=""></div>
 <div class="tve-page-section-in tve_empty_dropzone" data-css="tve-u-1801836c3c0" style=""><div class="thrv_wrapper thrv_text_element"><h2 class="" data-css="tve-u-1801836c3c8" style="text-align: center;">READY TO BEGIN YOUR JOURNEY?</h2></div><div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root" data-button-size-m="s" data-css="tve-u-1801836c3ca" data-tcb_hover_state_parent="" style="">
