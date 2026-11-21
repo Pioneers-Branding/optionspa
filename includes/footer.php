@@ -247,7 +247,7 @@ Edit THIS file to change the footer on every page. */ ?>
                                 </div>
                             </div>
                             <div class="opt-footer-bottom">
-                                <p class="opt-footer-copyright">© Copyright 2026, Options Psychiatry PLLC · <a href="#cookie-settings" data-cookie-settings style="color:inherit;text-decoration:underline;">Cookie Settings</a></p>
+                                <p class="opt-footer-copyright">© Copyright 2026, Options Psychiatry PLLC · <a href="privacy-policy" style="color:inherit;text-decoration:underline;">Privacy Policy</a> · <a href="terms-of-services" style="color:inherit;text-decoration:underline;">Terms of Service</a> · <a href="hipaa-policy" style="color:inherit;text-decoration:underline;">HIPAA Policy</a> · <a href="#cookie-settings" data-cookie-settings style="color:inherit;text-decoration:underline;">Cookie Settings</a></p>
                             </div>
                         </div>
                     </footer>

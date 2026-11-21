@@ -3255,9 +3255,9 @@
             <div class="footer-bottom">
                 <p>&copy; 2025 Options Psychiatry. All rights reserved. For information only; not a substitute for medical advice. Individual results vary.</p>
                 <div class="footer-bottom-links">
-                    <a href="#">Privacy Policy</a>
-                    <a href="#">Terms of Service</a>
-                    <a href="#">HIPAA Notice</a>
+                    <a href="/privacy-policy">Privacy Policy</a>
+                    <a href="/terms-of-services">Terms of Service</a>
+                    <a href="/hipaa-policy">HIPAA Notice</a>
                     <a href="#cookie-settings" data-cookie-settings>Cookie Settings</a>
                 </div>
             </div>
