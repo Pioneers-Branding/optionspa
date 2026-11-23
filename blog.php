@@ -1807,14 +1807,14 @@ q.push(function(){var s=D.createElement('script');s.async=true;s.src='https://ww
         content="Uncategorized March 10, 20260CommentsBy:Cyntrell Crawford Elementor #4988 Read more TMS Therapy January 31, 20260CommentsBy:Cyntrell CrawfordTMS Therapy in"
         name="description" />
     <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots" />
-    <link href="blog" rel="canonical" />
+    <link href="https://www.optionspa.com/blog" rel="canonical" />
     <meta content="en_US" property="og:locale" />
     <meta content="website" property="og:type" />
     <meta content="Blog - Options Psychiatry" property="og:title" />
     <meta
         content="Uncategorized March 10, 20260CommentsBy:Cyntrell Crawford Elementor #4988 Read more TMS Therapy January 31, 20260CommentsBy:Cyntrell CrawfordTMS Therapy in"
         property="og:description" />
-    <meta content="blog" property="og:url" />
+    <meta content="https://www.optionspa.com/blog" property="og:url"/>
     <meta content="Options Psychiatry" property="og:site_name" />
     <meta content="wp-content/uploads/2025/05/Your-Mind-Matters-Most-Expert-TMS-Care-in-Reading.jpg"
         property="og:image" />
@@ -2271,7 +2271,7 @@ q.push(function(){var s=D.createElement('script');s.async=true;s.src='https://ww
         type="text/javascript" defer></script>
     <script id="tve_frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var tve_frontend_options = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "is_editor_page": "", "page_events": [], "is_single": "0", "social_fb_app_id": "", "dash_url": "https://optionspa.com/wp-content/plugins/thrive-ultimatum/thrive-dashboard", "queried_object": { "ID": 4995, "post_author": "4" }, "query_vars": { "page": "", "pagename": "blog", "certificate_u": "" }, "$_POST": [], "translations": { "Copy": "Copy", "empty_username": "ERROR: The username field is empty.", "empty_password": "ERROR: The password field is empty.", "empty_login": "ERROR: Enter a username or email address.", "min_chars": "At least %s characters are needed", "no_headings": "No headings found", "registration_err": { "required_field": "\u003Cstrong\u003EError\u003C/strong\u003E: This field is required", "required_email": "\u003Cstrong\u003EError\u003C/strong\u003E: Please type your email address", "invalid_email": "\u003Cstrong\u003EError\u003C/strong\u003E: The email address isn&#8217;t correct", "passwordmismatch": "\u003Cstrong\u003EError\u003C/strong\u003E: Password mismatch" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "video_reporting": "https://optionspa.com/wp-json/tcb/v1/video-reporting", "courses": "https://optionspa.com/wp-json/tva/v1/course_list_element", "certificate_search": "https://optionspa.com/wp-json/tva/v1/certificate/search", "assessments": "https://optionspa.com/wp-json/tva/v1/user/assessment", "testimonials": "https://optionspa.com/wp-json/tcb/v1/testimonials" }, "nonce": "52d3aee43c", "allow_video_src": "", "google_client_id": null, "google_api_key": null, "facebook_app_id": null, "lead_generation_custom_tag_apis": ["activecampaign", "aweber", "convertkit", "drip", "klicktipp", "mailchimp", "sendlane", "zapier"], "post_request_data": [], "user_profile_nonce": "4c5041a2b9", "ip": "14.195.188.138", "current_user": [], "conditional_display": { "is_tooltip_dismissed": false } };
+        var tve_frontend_options = { "ajaxurl": "https://www.optionspa.com/wp-admin/admin-ajax.php", "is_editor_page": "", "page_events": [], "is_single": "0", "social_fb_app_id": "", "dash_url": "https://www.optionspa.com/wp-content/plugins/thrive-ultimatum/thrive-dashboard", "queried_object": { "ID": 4995, "post_author": "4" }, "query_vars": { "page": "", "pagename": "blog", "certificate_u": "" }, "$_POST": [], "translations": { "Copy": "Copy", "empty_username": "ERROR: The username field is empty.", "empty_password": "ERROR: The password field is empty.", "empty_login": "ERROR: Enter a username or email address.", "min_chars": "At least %s characters are needed", "no_headings": "No headings found", "registration_err": { "required_field": "\u003Cstrong\u003EError\u003C/strong\u003E: This field is required", "required_email": "\u003Cstrong\u003EError\u003C/strong\u003E: Please type your email address", "invalid_email": "\u003Cstrong\u003EError\u003C/strong\u003E: The email address isn&#8217;t correct", "passwordmismatch": "\u003Cstrong\u003EError\u003C/strong\u003E: Password mismatch" } }, "routes": { "posts": "https://www.optionspa.com/wp-json/tcb/v1/posts", "video_reporting": "https://www.optionspa.com/wp-json/tcb/v1/video-reporting", "courses": "https://www.optionspa.com/wp-json/tva/v1/course_list_element", "certificate_search": "https://www.optionspa.com/wp-json/tva/v1/certificate/search", "assessments": "https://www.optionspa.com/wp-json/tva/v1/user/assessment", "testimonials": "https://www.optionspa.com/wp-json/tcb/v1/testimonials" }, "nonce": "52d3aee43c", "allow_video_src": "", "google_client_id": null, "google_api_key": null, "facebook_app_id": null, "lead_generation_custom_tag_apis": ["activecampaign", "aweber", "convertkit", "drip", "klicktipp", "mailchimp", "sendlane", "zapier"], "post_request_data": [], "user_profile_nonce": "4c5041a2b9", "ip": "14.195.188.138", "current_user": [], "conditional_display": { "is_tooltip_dismissed": false } };
         //# sourceURL=tve_frontend-js-extra
         /* ]]> */
     </script>
@@ -2283,7 +2283,7 @@ q.push(function(){var s=D.createElement('script');s.async=true;s.src='https://ww
         type="text/javascript" defer></script>
     <script id="theme-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var thrive_front_localize = { "comments_form": { "error_defaults": { "email": "Email address invalid", "url": "Website address invalid", "required": "Required field missing" } }, "routes": { "posts": "https://optionspa.com/wp-json/tcb/v1/posts", "frontend": "https://optionspa.com/wp-json/ttb/v1/frontend" }, "tar_post_url": "?tve=true&action=architect&from_theme=1", "is_editor": "", "ID": "26", "template_url": "?tve=true&action=architect&from_tar=8924", "pagination_url": { "template": "https://optionspa.com/blog/", "base": "https://optionspa.com/blog/" }, "sidebar_visibility": [], "is_singular": "", "is_user_logged_in": "" };
+        var thrive_front_localize = { "comments_form": { "error_defaults": { "email": "Email address invalid", "url": "Website address invalid", "required": "Required field missing" } }, "routes": { "posts": "https://www.optionspa.com/wp-json/tcb/v1/posts", "frontend": "https://www.optionspa.com/wp-json/ttb/v1/frontend" }, "tar_post_url": "?tve=true&action=architect&from_theme=1", "is_editor": "", "ID": "26", "template_url": "?tve=true&action=architect&from_tar=8924", "pagination_url": { "template": "https://www.optionspa.com/blog/", "base": "https://www.optionspa.com/blog/" }, "sidebar_visibility": [], "is_singular": "", "is_user_logged_in": "" };
         //# sourceURL=theme-frontend-js-extra
         /* ]]> */
     </script>
@@ -2623,7 +2623,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         name="generator" />
     <!-- Schema & Structured Data For WP v1.50 - -->
     <script class="saswp-schema-markup-output" type="application/ld+json">
-[{"@context":"https:\/\/schema.org\/","@type":"Organization","@id":"https:\/\/optionspa.com#Organization","name":"Options Psychiatry","url":"https:\/\/brandingpioneers.co.in\/option-wordpress-web","sameAs":[]}]
+[{"@context":"https:\/\/schema.org\/","@type":"Organization","@id":"https:\/\/www.optionspa.com#Organization","name":"Options Psychiatry","url":"https:\/\/brandingpioneers.co.in\/option-wordpress-web","sameAs":[]}]
 </script>
     <style>
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
@@ -8142,7 +8142,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                             data-id="74" data-item-display-desktop="text"
                                                             id="menu-item-74"><a
                                                                 class="tcb-menu-item-container tcb--row"
-                                                                href="generated-homepage"><span
+                                                                href="./"><span
                                                                     class="tcb-menu-item-image menu-item-74-img tve_editable tcb-elem-placeholder">
                                                                     <span
                                                                         class="tcb-inline-placeholder-action with-icon">
@@ -8176,7 +8176,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                             <ul class="sub-menu menu-item-3052-ul">
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2983 lvl-1"
                                                                     data-id="2983" data-item-display-desktop="text"
-                                                                    id="menu-item-2983"><a href="dr-crawford-old"><span
+                                                                    id="menu-item-2983"><a href="dr-crawford"><span
                                                                             class="tve-disabled-text-inner">Meet Dr.
                                                                             Crawford Old</span></a></li>
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3386 lvl-1"
@@ -8210,13 +8210,13 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3039 lvl-1"
                                                                     data-id="3039" data-item-display-desktop="text"
                                                                     id="menu-item-3039"><a
-                                                                        href="tms-therapy-reading-old"><span
+                                                                        href="tms-therapy-reading"><span
                                                                             class="tve-disabled-text-inner">TMS Therapy
                                                                             at Options Old</span></a></li>
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3038 lvl-1"
                                                                     data-id="3038" data-item-display-desktop="text"
                                                                     id="menu-item-3038"><a
-                                                                        href="medication-management-options-old"><span
+                                                                        href="medication-management-options"><span
                                                                             class="tve-disabled-text-inner">Medication
                                                                             Management at Options Old</span></a></li>
                                                             </ul>
@@ -8244,7 +8244,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                             <ul class="sub-menu menu-item-3756-ul">
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3751 lvl-1"
                                                                     data-id="3751" data-item-display-desktop="text"
-                                                                    id="menu-item-3751"><a href="get-started"><span
+                                                                    id="menu-item-3751"><a href="getstarted"><span
                                                                             class="tve-disabled-text-inner">Get
                                                                             Started</span></a></li>
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3755 lvl-1"
@@ -8259,7 +8259,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                             data-id="2982" data-item-display-desktop="text"
                                                             id="menu-item-2982"><a
                                                                 class="tcb-menu-item-container tcb--row"
-                                                                href="blog-old"><span
+                                                                href="blog"><span
                                                                     class="tcb-menu-item-image menu-item-2982-img tve_editable tcb-elem-placeholder">
                                                                     <span
                                                                         class="tcb-inline-placeholder-action with-icon">
@@ -8273,7 +8273,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                             data-id="2984" data-item-display-desktop="text"
                                                             id="menu-item-2984"><a
                                                                 class="tcb-menu-item-container tcb--row"
-                                                                href="contact-old"><span
+                                                                href="contact"><span
                                                                     class="tcb-menu-item-image menu-item-2984-img tve_editable tcb-elem-placeholder">
                                                                     <span
                                                                         class="tcb-inline-placeholder-action with-icon">
@@ -8356,7 +8356,333 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                 data-css="tve-u-16eea85aace" data-disabled-links="0"
                                 data-dynamic_filter="{'category':'category','tag':'tag','author':'author','search':'search'}"
                                 data-no_posts_text="" data-pages_near_current="1" data-pagination-type="none"
-                                data-total_post_count="68" data-type="grid" id="main" role="main">
+                                data-total_post_count="70" data-type="grid" id="main" role="main">
+                                                                <article id="post-8970"
+    class="post-8970 post type-post status-publish format-standard has-post-thumbnail hentry category-spravato category-depression post-wrapper thrv_wrapper thrive-animated-item "
+    tcb_hover_state_parent="" data-id="8970" data-selector=".post-wrapper">
+    <style class="tcb-post-list-dynamic-style" type="text/css">
+        @media (min-width: 300px) {
+            .tve-theme-26 .content-section #main #post-8970 [data-css="tve-u-170aae40f55"] {
+                background-image: url("wp-content/uploads/2026/11/how-often-is-spravato-administered-treatment-schedule.webp?v=3") !important;
+            }
+
+            .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8970 [data-css="tve-u-16eb7cc1def"] {
+                background-image: url("wp-content/uploads/2026/11/how-often-is-spravato-administered-treatment-schedule.webp?v=3") !important;
+            }
+
+            .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8970 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
+                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/11/how-often-is-spravato-administered-treatment-schedule.webp?v=3") !important;
+            }
+        }
+    </style>
+    <div class="tcb-clear" data-css="tve-u-16ec6ce9c8e">
+        <div class="thrv_wrapper thrv-columns" data-css="tve-u-16ec6ce9bf9"
+            style="--tcb-col-el-width:275;">
+            <div class="tcb-flex-row tcb--cols--2 tcb-resized v-2 tcb-mobile-no-wrap m-edit"
+                style="margin-left: 0px;" data-css="tve-u-16ec6cec0d5">
+                <div class="tcb-flex-col" data-css="tve-u-16ec6cef97c"
+                    style="padding-left: 0px;">
+                    <div class="tcb-col" style="" data-css="tve-u-16ecb0fccee">
+                        <div class="thrv_wrapper thrv_text_element tve-froala fr-box"
+                            style="" data-css="tve-u-16ec6ce3d3b">
+                            <p data-css="tve-u-16ec6ce5e37"><span
+                                    class="thrive-shortcode-content" data-attr-css=""
+                                    data-attr-date-format="F j, Y"
+                                    data-attr-date-format-select="F j, Y"
+                                    data-attr-link="1" data-attr-rel="0"
+                                    data-attr-show-time="0" data-attr-target="0"
+                                    data-attr-time-format=""
+                                    data-attr-time-format-select="g:i a"
+                                    data-attr-type="published" data-extra_key=""
+                                    data-option-inline="1"
+                                    data-shortcode="tcb_post_published_date"
+                                    data-shortcode-name="Post date"
+                                    data-css="tve-u-1708037b30c"><a href="how-often-is-spravato-administered"
+                                        title="November 17, 2026 "
+                                        data-css="">November 17, 2026 </a></span></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tcb-flex-col" data-css="tve-u-16ec6cf1e4d"
+                    style="padding-right: 0px;">
+                    <div class="tcb-col" style="">
+                        <div class="tcb-clear" data-css="tve-u-16eb7bd89f7"><a
+                                href="how-often-is-spravato-administered#comments"
+                                class="tve-dynamic-link"
+                                dynamic-postlink="tcb_post_comments_link"
+                                data-shortcode-id="2978"></a>
+                            <div class="tcb-clear" data-css="tve-u-16ec6cfd45b"><a
+                                    href="how-often-is-spravato-administered#comments"
+                                    class="tve-dynamic-link"
+                                    dynamic-postlink="tcb_post_comments_link"
+                                    data-shortcode-id="2978"></a><a
+                                    href="how-often-is-spravato-administered#comments"
+                                    class="tve-dynamic-link"
+                                    dynamic-postlink="tcb_post_comments_link"
+                                    data-shortcode-id="2978">
+                                    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                                        data-css="tve-u-16eb7bd89f8" style="">
+                                        <div class="tve-content-box-background" style=""
+                                            data-css="tve-u-16eb7c2edcd"></div>
+                                        <div class="tve-cb" data-css="tve-u-1713132fc67"
+                                            data-tcb_hover_state_parent="1" style="">
+                                            <div class="tcb-post-comments-number tcb-shortcode thrv_wrapper"
+                                                data-css="tve-u-16eb7bd89f8">0</div>
+                                            <div class="thrv_wrapper thrv_icon tcb-icon-display"
+                                                data-css="tve-u-16eb7bd89fb" style="">
+                                                <svg class="tcb-icon"
+                                                    viewBox="0 0 512 512"
+                                                    data-id="icon-comment-alt-light"
+                                                    data-name="" style="">
+                                                    <path
+                                                        d="M448 0H64C28.7 0 0 28.7 0 64v288c0 35.3 28.7 64 64 64h96v84c0 7.1 5.8 12 12 12 2.4 0 4.9-.7 7.1-2.4L304 416h144c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64zm32 352c0 17.6-14.4 32-32 32H293.3l-8.5 6.4L192 460v-76H64c-17.6 0-32-14.4-32-32V64c0-17.6 14.4-32 32-32h384c17.6 0 32 14.4 32 32v288z">
+                                                    </path>
+                                                </svg></div>
+                                        </div>
+                                    </div>
+                                </a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="how-often-is-spravato-administered" target="_blank" class="tve-dynamic-link"
+        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a><a
+        href="how-often-is-spravato-administered" class="tve-dynamic-link"
+        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a>
+    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+        data-css="tve-u-171309e9d70" style="">
+        <div class="tve-content-box-background"></div>
+        <div class="tve-cb"><a href="how-often-is-spravato-administered"
+                class="tve-dynamic-link" dynamic-postlink="tcb_post_the_permalink"
+                data-shortcode-id="2978">
+                <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                    style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+                    data-css="tve-u-170aae42b46" data-link-wrap="true">
+                    <div class="tve-content-box-background" style=""
+                        data-css="tve-u-170aae40f55"></div>
+                    <div class="tve-cb" data-css="tve-u-170aae452a1"
+                        style="--tve-line-height:1px;"></div>
+                </div>
+            </a>
+            <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                data-css="tve-u-171309e5dfc" style="">
+                <div class="tve-content-box-background" style=""
+                    data-css="tve-u-171309ef3fb"></div>
+                <div class="tve-cb" style="" data-css="tve-u-171309f04cb">
+                    <div class="thrv_wrapper thrv_text_element tve-froala fr-box fr-basic"
+                        style="" data-css="tve-u-171309fe664">
+                        <p style="" data-css="tve-u-171309f24be"><span
+                                class="thrive-shortcode-content" data-attr-link="1"
+                                data-attr-rel="0" data-attr-target="0" data-extra_key=""
+                                data-option-inline="1"
+                                data-shortcode="tcb_post_categories"
+                                data-shortcode-name="List of Categories"
+                                data-attr-css="tve-u-171309f6482"><a href="category-spravato"
+                                    title="Spravato"
+                                    data-css="tve-u-171309f6482">Spravato</a></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="thrv_wrapper thrv_text_element"
+        style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+        data-css="tve-u-16ecb55f946">
+        <h2 class="" data-css="tve-u-171309d2be7"><a
+                class="tve-dynamic-link tve-froala fr-basic"
+                data-css="tve-u-16fa868df06" data-dynamic-link="tcb_post_the_permalink"
+                data-shortcode-id="2978" data-tcb_hover_state_parent=""
+                dynamic-postlink="tcb_post_the_permalink"
+                href="how-often-is-spravato-administered"
+                style="outline: none;"><strong><span class="thrive-shortcode-content"
+                        data-attr-link="0" data-attr-rel="0" data-attr-target="1"
+                        data-extra_key="" data-option-inline="1"
+                        data-shortcode="tcb_post_title" data-shortcode-name="Post Title"
+                        data-css="tve-u-171309d2ceb">How Often Is Spravato Administered? Treatment Schedule and Frequency</span></strong></a></h2>
+    </div>
+    <section class="tcb-post-content tcb-shortcode thrv_wrapper"
+        data-css="tve-u-1713acf18fa">
+        <p>How often is Spravato administered? Learn the full Spravato treatment schedule, from twice-weekly induction sessions to weekly and every-other-week maintenance, plus how long each visit takes in Reading, PA... <a class="more-link"
+                href="how-often-is-spravato-administered#more-8970">...</a></p>
+    </section>
+    <div class="tcb-clear tcb-post-read-more-clear">
+        <div class="thrv_wrapper tcb-post-read-more" data-css="tve-u-16ec6869692"
+            data-tcb_hover_state_parent="" style="">
+            <a href="how-often-is-spravato-administered"
+                class="tcb-button-link tcb-post-read-more-link">
+                <span class="tcb-button-texts" style=""><span
+                        class="tcb-button-text thrv-inline-text" style=""
+                        data-css="tve-u-17859bf38be">Read More</span></span>
+            </a>
+        </div>
+    </div>
+</article>
+                                                                <article id="post-8960"
+    class="post-8960 post type-post status-publish format-standard has-post-thumbnail hentry category-tms-therapy category-depression post-wrapper thrv_wrapper thrive-animated-item "
+    tcb_hover_state_parent="" data-id="8960" data-selector=".post-wrapper">
+    <style class="tcb-post-list-dynamic-style" type="text/css">
+        @media (min-width: 300px) {
+            .tve-theme-26 .content-section #main #post-8960 [data-css="tve-u-170aae40f55"] {
+                background-image: url("wp-content/uploads/2026/11/how-long-does-tms-therapy-last-apollo-tms-thumbnail.webp") !important;
+            }
+
+            .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8960 [data-css="tve-u-16eb7cc1def"] {
+                background-image: url("wp-content/uploads/2026/11/how-long-does-tms-therapy-last-apollo-tms-thumbnail.webp") !important;
+            }
+
+            .tve-theme-26 .sidebar-section [data-css="tve-u-16eb7cc1dec"].tcb-post-list #post-8960 [data-css="tve-u-16eb7cc1dee"]:hover [data-css="tve-u-16eb7cc1def"] {
+                background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("wp-content/uploads/2026/11/how-long-does-tms-therapy-last-apollo-tms-thumbnail.webp") !important;
+            }
+        }
+    </style>
+    <div class="tcb-clear" data-css="tve-u-16ec6ce9c8e">
+        <div class="thrv_wrapper thrv-columns" data-css="tve-u-16ec6ce9bf9"
+            style="--tcb-col-el-width:275;">
+            <div class="tcb-flex-row tcb--cols--2 tcb-resized v-2 tcb-mobile-no-wrap m-edit"
+                style="margin-left: 0px;" data-css="tve-u-16ec6cec0d5">
+                <div class="tcb-flex-col" data-css="tve-u-16ec6cef97c"
+                    style="padding-left: 0px;">
+                    <div class="tcb-col" style="" data-css="tve-u-16ecb0fccee">
+                        <div class="thrv_wrapper thrv_text_element tve-froala fr-box"
+                            style="" data-css="tve-u-16ec6ce3d3b">
+                            <p data-css="tve-u-16ec6ce5e37"><span
+                                    class="thrive-shortcode-content" data-attr-css=""
+                                    data-attr-date-format="F j, Y"
+                                    data-attr-date-format-select="F j, Y"
+                                    data-attr-link="1" data-attr-rel="0"
+                                    data-attr-show-time="0" data-attr-target="0"
+                                    data-attr-time-format=""
+                                    data-attr-time-format-select="g:i a"
+                                    data-attr-type="published" data-extra_key=""
+                                    data-option-inline="1"
+                                    data-shortcode="tcb_post_published_date"
+                                    data-shortcode-name="Post date"
+                                    data-css="tve-u-1708037b30c"><a href="how-long-does-tms-therapy-last"
+                                        title="November 9, 2026 "
+                                        data-css="">November 9, 2026 </a></span></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tcb-flex-col" data-css="tve-u-16ec6cf1e4d"
+                    style="padding-right: 0px;">
+                    <div class="tcb-col" style="">
+                        <div class="tcb-clear" data-css="tve-u-16eb7bd89f7"><a
+                                href="how-long-does-tms-therapy-last#comments"
+                                class="tve-dynamic-link"
+                                dynamic-postlink="tcb_post_comments_link"
+                                data-shortcode-id="2978"></a>
+                            <div class="tcb-clear" data-css="tve-u-16ec6cfd45b"><a
+                                    href="how-long-does-tms-therapy-last#comments"
+                                    class="tve-dynamic-link"
+                                    dynamic-postlink="tcb_post_comments_link"
+                                    data-shortcode-id="2978"></a><a
+                                    href="how-long-does-tms-therapy-last#comments"
+                                    class="tve-dynamic-link"
+                                    dynamic-postlink="tcb_post_comments_link"
+                                    data-shortcode-id="2978">
+                                    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                                        data-css="tve-u-16eb7bd89f8" style="">
+                                        <div class="tve-content-box-background" style=""
+                                            data-css="tve-u-16eb7c2edcd"></div>
+                                        <div class="tve-cb" data-css="tve-u-1713132fc67"
+                                            data-tcb_hover_state_parent="1" style="">
+                                            <div class="tcb-post-comments-number tcb-shortcode thrv_wrapper"
+                                                data-css="tve-u-16eb7bd89f8">0</div>
+                                            <div class="thrv_wrapper thrv_icon tcb-icon-display"
+                                                data-css="tve-u-16eb7bd89fb" style="">
+                                                <svg class="tcb-icon"
+                                                    viewBox="0 0 512 512"
+                                                    data-id="icon-comment-alt-light"
+                                                    data-name="" style="">
+                                                    <path
+                                                        d="M448 0H64C28.7 0 0 28.7 0 64v288c0 35.3 28.7 64 64 64h96v84c0 7.1 5.8 12 12 12 2.4 0 4.9-.7 7.1-2.4L304 416h144c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64zm32 352c0 17.6-14.4 32-32 32H293.3l-8.5 6.4L192 460v-76H64c-17.6 0-32-14.4-32-32V64c0-17.6 14.4-32 32-32h384c17.6 0 32 14.4 32 32v288z">
+                                                    </path>
+                                                </svg></div>
+                                        </div>
+                                    </div>
+                                </a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="how-long-does-tms-therapy-last" target="_blank" class="tve-dynamic-link"
+        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a><a
+        href="how-long-does-tms-therapy-last" class="tve-dynamic-link"
+        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a>
+    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+        data-css="tve-u-171309e9d70" style="">
+        <div class="tve-content-box-background"></div>
+        <div class="tve-cb"><a href="how-long-does-tms-therapy-last"
+                class="tve-dynamic-link" dynamic-postlink="tcb_post_the_permalink"
+                data-shortcode-id="2978">
+                <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                    style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+                    data-css="tve-u-170aae42b46" data-link-wrap="true">
+                    <div class="tve-content-box-background" style=""
+                        data-css="tve-u-170aae40f55"></div>
+                    <div class="tve-cb" data-css="tve-u-170aae452a1"
+                        style="--tve-line-height:1px;"></div>
+                </div>
+            </a>
+            <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                data-css="tve-u-171309e5dfc" style="">
+                <div class="tve-content-box-background" style=""
+                    data-css="tve-u-171309ef3fb"></div>
+                <div class="tve-cb" style="" data-css="tve-u-171309f04cb">
+                    <div class="thrv_wrapper thrv_text_element tve-froala fr-box fr-basic"
+                        style="" data-css="tve-u-171309fe664">
+                        <p style="" data-css="tve-u-171309f24be"><span
+                                class="thrive-shortcode-content" data-attr-link="1"
+                                data-attr-rel="0" data-attr-target="0" data-extra_key=""
+                                data-option-inline="1"
+                                data-shortcode="tcb_post_categories"
+                                data-shortcode-name="List of Categories"
+                                data-attr-css="tve-u-171309f6482"><a href="category-mental-health"
+                                    title="Mental Health"
+                                    data-css="tve-u-171309f6482">TMS Therapy</a></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="thrv_wrapper thrv_text_element"
+        style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+        data-css="tve-u-16ecb55f946">
+        <h2 class="" data-css="tve-u-171309d2be7"><a
+                class="tve-dynamic-link tve-froala fr-basic"
+                data-css="tve-u-16fa868df06" data-dynamic-link="tcb_post_the_permalink"
+                data-shortcode-id="2978" data-tcb_hover_state_parent=""
+                dynamic-postlink="tcb_post_the_permalink"
+                href="how-long-does-tms-therapy-last"
+                style="outline: none;"><strong><span class="thrive-shortcode-content"
+                        data-attr-link="0" data-attr-rel="0" data-attr-target="1"
+                        data-extra_key="" data-option-inline="1"
+                        data-shortcode="tcb_post_title" data-shortcode-name="Post Title"
+                        data-css="tve-u-171309d2ceb">How Long Does TMS Therapy Last? Sessions, Timeline &amp; Results</span></strong></a></h2>
+    </div>
+    <section class="tcb-post-content tcb-shortcode thrv_wrapper"
+        data-css="tve-u-1713acf18fa">
+        <p>How long does TMS therapy last? Learn how long each session takes, how many weeks a full course runs, and how long TMS results typically last, plus booster and maintenance options in Reading, PA... <a class="more-link"
+                href="how-long-does-tms-therapy-last#more-8960">...</a></p>
+    </section>
+    <div class="tcb-clear tcb-post-read-more-clear">
+        <div class="thrv_wrapper tcb-post-read-more" data-css="tve-u-16ec6869692"
+            data-tcb_hover_state_parent="" style="">
+            <a href="how-long-does-tms-therapy-last"
+                class="tcb-button-link tcb-post-read-more-link">
+                <span class="tcb-button-texts" style=""><span
+                        class="tcb-button-text thrv-inline-text" style=""
+                        data-css="tve-u-17859bf38be">Read More</span></span>
+            </a>
+        </div>
+    </div>
+</article>
                                                                 <article id="post-5525"
     class="post-5525 post type-post status-publish format-standard has-post-thumbnail hentry category-mental-health category-depression post-wrapper thrv_wrapper thrive-animated-item "
     tcb_hover_state_parent="" data-id="5525" data-selector=".post-wrapper">
@@ -8737,47 +9063,94 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                 class="tve-dynamic-link"
                                 dynamic-postlink="tcb_post_comments_link"
                                 data-shortcode-id="2978"></a>
-                            <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-icon-display"
-                                data-css="tve-u-16eb7bd89fc"><svg class="tcb-icon"
-                                    data-id="icon-comment-alt-light"
-                                    viewbox="0 0 512 512">
-                                    <path
-                                        d="M448 0H64C28.7 0 0 28.7 0 64v288c0 35.3 28.7 64 64 64h96v84c0 9.8 11.2 15.5 19.1 9.7L304 416h144c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64z">
-                                    </path>
-                                </svg></div>
-                            <div class="thrv_wrapper thrv_text_element tcb-compact-element"
-                                data-css="tve-u-16eb7bd89fa">
-                                <p data-css="tve-u-16eb7bd89f9"><span
-                                        class="thrive-shortcode-content" data-attr-css=""
-                                        data-attr-link="1" data-attr-none="0"
-                                        data-attr-one="1" data-attr-other="%"
-                                        data-attr-rel="0" data-attr-target="0"
-                                        data-extra_key="" data-option-inline="1"
-                                        data-shortcode="tcb_post_comments_number"
-                                        data-shortcode-name="Post comments"><a
-                                            href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#comments"
-                                            data-css="">0</a></span></p>
-                            </div>
+                            <div class="tcb-clear" data-css="tve-u-16ec6cfd45b"><a
+                                    href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#comments"
+                                    class="tve-dynamic-link"
+                                    dynamic-postlink="tcb_post_comments_link"
+                                    data-shortcode-id="2978"></a><a
+                                    href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#comments"
+                                    class="tve-dynamic-link"
+                                    dynamic-postlink="tcb_post_comments_link"
+                                    data-shortcode-id="2978">
+                                    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                                        data-css="tve-u-16eb7bd89f8" style="">
+                                        <div class="tve-content-box-background" style=""
+                                            data-css="tve-u-16eb7c2edcd"></div>
+                                        <div class="tve-cb" data-css="tve-u-1713132fc67"
+                                            data-tcb_hover_state_parent="1" style="">
+                                            <div class="tcb-post-comments-number tcb-shortcode thrv_wrapper"
+                                                data-css="tve-u-16eb7bd89f8">0</div>
+                                            <div class="thrv_wrapper thrv_icon tcb-icon-display"
+                                                data-css="tve-u-16eb7bd89fb" style="">
+                                                <svg class="tcb-icon"
+                                                    viewBox="0 0 512 512"
+                                                    data-id="icon-comment-alt-light"
+                                                    data-name="" style="">
+                                                    <path
+                                                        d="M448 0H64C28.7 0 0 28.7 0 64v288c0 35.3 28.7 64 64 64h96v84c0 7.1 5.8 12 12 12 2.4 0 4.9-.7 7.1-2.4L304 416h144c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64zm32 352c0 17.6-14.4 32-32 32H293.3l-8.5 6.4L192 460v-76H64c-17.6 0-32-14.4-32-32V64c0-17.6 14.4-32 32-32h384c17.6 0 32 14.4 32 32v288z">
+                                                    </path>
+                                                </svg></div>
+                                        </div>
+                                    </div>
+                                </a></div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad tcb-local-vars-root"
-        data-css="tve-u-170aae40f54">
-        <div class="tve-content-box-background" data-css="tve-u-170aae40f55"></div>
-        <div class="tve-cb"></div><a
-            href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help"
-            class="tve-dynamic-link" dynamic-postlink="tcb_post_url"></a>
+    <a href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" target="_blank" class="tve-dynamic-link"
+        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a><a
+        href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" class="tve-dynamic-link"
+        dynamic-postlink="tcb_post_the_permalink" data-shortcode-id="2978"></a>
+    <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+        data-css="tve-u-171309e9d70" style="">
+        <div class="tve-content-box-background"></div>
+        <div class="tve-cb"><a href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help"
+                class="tve-dynamic-link" dynamic-postlink="tcb_post_the_permalink"
+                data-shortcode-id="2978">
+                <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                    style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+                    data-css="tve-u-170aae42b46" data-link-wrap="true">
+                    <div class="tve-content-box-background" style=""
+                        data-css="tve-u-170aae40f55"></div>
+                    <div class="tve-cb" data-css="tve-u-170aae452a1"
+                        style="--tve-line-height:1px;"></div>
+                </div>
+            </a>
+            <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
+                data-css="tve-u-171309e5dfc" style="">
+                <div class="tve-content-box-background" style=""
+                    data-css="tve-u-171309ef3fb"></div>
+                <div class="tve-cb" style="" data-css="tve-u-171309f04cb">
+                    <div class="thrv_wrapper thrv_text_element tve-froala fr-box fr-basic"
+                        style="" data-css="tve-u-171309fe664">
+                        <p style="" data-css="tve-u-171309f24be"><span
+                                class="thrive-shortcode-content" data-attr-link="1"
+                                data-attr-rel="0" data-attr-target="0" data-extra_key=""
+                                data-option-inline="1"
+                                data-shortcode="tcb_post_categories"
+                                data-shortcode-name="List of Categories"
+                                data-attr-css="tve-u-171309f6482"><a href="category-mental-health"
+                                    title="Mental Health"
+                                    data-css="tve-u-171309f6482">Mental Health</a></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="thrv_wrapper thrv_text_element tve-froala fr-box"
-        data-css="tve-u-16ec686968d">
-        <h2 class="tcb-post-title" data-css="tve-u-16eb7ba6341"><a
+    <div class="thrv_wrapper thrv_text_element"
+        style="padding-top: 0px !important; padding-right: 0px !important; padding-left: 0px !important;"
+        data-css="tve-u-16ecb55f946">
+        <h2 class="" data-css="tve-u-171309d2be7"><a
+                class="tve-dynamic-link tve-froala fr-basic"
+                data-css="tve-u-16fa868df06" data-dynamic-link="tcb_post_the_permalink"
+                data-shortcode-id="2978" data-tcb_hover_state_parent=""
+                dynamic-postlink="tcb_post_the_permalink"
                 href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help"
-                class="tve-dynamic-link" dynamic-postlink="tcb_post_url"
-                data-css="tve-u-1707efc8fca"><strong><span
-                        class="thrive-shortcode-content" data-attr-link="0"
+                style="outline: none;"><strong><span class="thrive-shortcode-content"
+                        data-attr-link="0" data-attr-rel="0" data-attr-target="1"
                         data-extra_key="" data-option-inline="1"
                         data-shortcode="tcb_post_title" data-shortcode-name="Post Title"
                         data-css="tve-u-171309d2ceb">Mental Illness Awareness Week: How to Recognize When It’s Time to Seek Psychiatric Help</span></strong></a></h2>
@@ -8839,7 +9212,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     data-option-inline="1"
                                     data-shortcode="tcb_post_published_date"
                                     data-shortcode-name="Post date"
-                                    data-css="tve-u-1708037b30c"><a href="2026-09"
+                                    data-css="tve-u-1708037b30c"><a href="./"
                                         title="September 26, 2026 "
                                         data-css="">September 26, 2026 </a></span></p>
                         </div>
@@ -9002,7 +9375,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     data-option-inline="1"
                                     data-shortcode="tcb_post_published_date"
                                     data-shortcode-name="Post date"
-                                    data-css="tve-u-1708037b30c"><a href="2026-09"
+                                    data-css="tve-u-1708037b30c"><a href="./"
                                         title="September 23, 2026 "
                                         data-css="">September 23, 2026 </a></span></p>
                         </div>
@@ -9165,7 +9538,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                     data-option-inline="1"
                                     data-shortcode="tcb_post_published_date"
                                     data-shortcode-name="Post date"
-                                    data-css="tve-u-1708037b30c"><a href="2026-09"
+                                    data-css="tve-u-1708037b30c"><a href="./"
                                         title="September 21, 2026 "
                                         data-css="">September 21, 2026 </a></span></p>
                         </div>
@@ -9328,7 +9701,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-option-inline="1"
                                                                     data-shortcode="tcb_post_published_date"
                                                                     data-shortcode-name="Post date"
-                                                                    data-css="tve-u-1708037b30c"><a href="2026-09"
+                                                                    data-css="tve-u-1708037b30c"><a href="./"
                                                                         title="September 17, 2026 "
                                                                         data-css="">September 17, 2026 </a></span></p>
                                                         </div>
@@ -9493,7 +9866,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-option-inline="1"
                                                                     data-shortcode="tcb_post_published_date"
                                                                     data-shortcode-name="Post date"
-                                                                    data-css="tve-u-1708037b30c"><a href="2026-09"
+                                                                    data-css="tve-u-1708037b30c"><a href="./"
                                                                         title="September 11, 2026 "
                                                                         data-css="">September 11, 2026 </a></span></p>
                                                         </div>
@@ -9659,7 +10032,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-option-inline="1"
                                                                     data-shortcode="tcb_post_published_date"
                                                                     data-shortcode-name="Post date"
-                                                                    data-css="tve-u-1708037b30c"><a href="2026-08"
+                                                                    data-css="tve-u-1708037b30c"><a href="./"
                                                                         title="August 14, 2026 " data-css="">August 14,
                                                                         2026 </a></span></p>
                                                         </div>
@@ -9827,7 +10200,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-option-inline="1"
                                                                     data-shortcode="tcb_post_published_date"
                                                                     data-shortcode-name="Post date"
-                                                                    data-css="tve-u-1708037b30c"><a href="2026-08"
+                                                                    data-css="tve-u-1708037b30c"><a href="./"
                                                                         title="August 6, 2026 " data-css="">August 6,
                                                                         2026 </a></span></p>
                                                         </div>
@@ -9993,7 +10366,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-option-inline="1"
                                                                     data-shortcode="tcb_post_published_date"
                                                                     data-shortcode-name="Post date"
-                                                                    data-css="tve-u-1708037b30c"><a href="2026-07"
+                                                                    data-css="tve-u-1708037b30c"><a href="./"
                                                                         title="July 12, 2026 " data-css="">July 12, 2026
                                                                     </a></span></p>
                                                         </div>
@@ -10155,7 +10528,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-option-inline="1"
                                                                     data-shortcode="tcb_post_published_date"
                                                                     data-shortcode-name="Post date"
-                                                                    data-css="tve-u-1708037b30c"><a href="2026-07"
+                                                                    data-css="tve-u-1708037b30c"><a href="./"
                                                                         title="July 5, 2026 " data-css="">July 5, 2026
                                                                     </a></span></p>
                                                         </div>
@@ -10319,7 +10692,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-option-inline="1"
                                                                     data-shortcode="tcb_post_published_date"
                                                                     data-shortcode-name="Post date"
-                                                                    data-css="tve-u-1708037b30c"><a href="2026-06"
+                                                                    data-css="tve-u-1708037b30c"><a href="./"
                                                                         title="June 6, 2026 " data-css="">June 6, 2026
                                                                     </a></span></p>
                                                         </div>
@@ -10482,7 +10855,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-option-inline="1"
                                                                     data-shortcode="tcb_post_published_date"
                                                                     data-shortcode-name="Post date"
-                                                                    data-css="tve-u-1708037b30c"><a href="2026-05"
+                                                                    data-css="tve-u-1708037b30c"><a href="./"
                                                                         title="May 17, 2026 " data-css="">May 17, 2026
                                                                     </a></span></p>
                                                         </div>
@@ -10648,7 +11021,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-option-inline="1"
                                                                     data-shortcode="tcb_post_published_date"
                                                                     data-shortcode-name="Post date"
-                                                                    data-css="tve-u-1708037b30c"><a href="2026-05"
+                                                                    data-css="tve-u-1708037b30c"><a href="./"
                                                                         title="May 14, 2026 " data-css="">May 14, 2026
                                                                     </a></span></p>
                                                         </div>
@@ -10813,7 +11186,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
                                                                     data-option-inline="1"
                                                                     data-shortcode="tcb_post_published_date"
                                                                     data-shortcode-name="Post date"
-                                                                    data-css="tve-u-1708037b30c"><a href="2026-05"
+                                                                    data-css="tve-u-1708037b30c"><a href="./"
                                                                         title="May 5, 2026 " data-css="">May 5, 2026
                                                                     </a></span></p>
                                                         </div>
@@ -24285,7 +24658,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
     </div>
     <script id="kk-star-ratings-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var kk_star_ratings = { "action": "kk-star-ratings", "endpoint": "https://optionspa.com/wp-admin/admin-ajax.php", "nonce": "5a73145632" };
+        var kk_star_ratings = { "action": "kk-star-ratings", "endpoint": "https://www.optionspa.com/wp-admin/admin-ajax.php", "nonce": "5a73145632" };
         //# sourceURL=kk-star-ratings-js-extra
         /* ]]> */
     </script>
@@ -24300,7 +24673,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         type="text/javascript" defer></script>
     <script id="tve-dash-frontend-js-extra" type="text/javascript">
         /* <![CDATA[ */
-        var tve_dash_front = { "ajaxurl": "https://optionspa.com/wp-admin/admin-ajax.php", "force_ajax_send": "1", "is_crawler": "", "recaptcha": [], "turnstile": [], "post_id": "8924" };
+        var tve_dash_front = { "ajaxurl": "https://www.optionspa.com/wp-admin/admin-ajax.php", "force_ajax_send": "1", "is_crawler": "", "recaptcha": [], "turnstile": [], "post_id": "8924" };
         //# sourceURL=tve-dash-frontend-js-extra
         /* ]]> */
     </script>
@@ -24334,7 +24707,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         src="wp-content/plugins/elementor/assets/js/frontend-modules.min__q5be56f11.js" type="text/javascript" defer></script>
     <script id="elementor-frontend-js-before" type="text/javascript">
         /* <![CDATA[ */
-        var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.35.3", "is_static": false, "experimentalFeatures": { "e_font_icon_svg": true, "additional_custom_breakpoints": true, "container": true, "e_optimized_markup": true, "e_pro_free_trial_popup": true, "nested-elements": true, "home_screen": true, "global_classes_should_enforce_capabilities": true, "e_variables": true, "cloud-library": true, "e_opt_in_v4_page": true, "e_components": true, "e_interactions": true, "e_editor_one": true, "import-export-customization": true }, "urls": { "assets": "https:\/\/optionspa.com\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/optionspa.com\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "7448d0d352" }, "swiperClass": "swiper", "settings": { "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 0, "title": "Blog - Options Psychiatry", "excerpt": "" } };
+        var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.35.3", "is_static": false, "experimentalFeatures": { "e_font_icon_svg": true, "additional_custom_breakpoints": true, "container": true, "e_optimized_markup": true, "e_pro_free_trial_popup": true, "nested-elements": true, "home_screen": true, "global_classes_should_enforce_capabilities": true, "e_variables": true, "cloud-library": true, "e_opt_in_v4_page": true, "e_components": true, "e_interactions": true, "e_editor_one": true, "import-export-customization": true }, "urls": { "assets": "https:\/\/www.optionspa.com\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/www.optionspa.com\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/www.optionspa.com\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "7448d0d352" }, "swiperClass": "swiper", "settings": { "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 0, "title": "Blog - Options Psychiatry", "excerpt": "" } };
         //# sourceURL=elementor-frontend-js-before
         /* ]]> */
     </script>
@@ -24383,7 +24756,7 @@ or the following one for loading the Bootstrap library from jsDelivr:
         /* ]]> */
     </script>
     <script
-        type="text/javascript">/*<![CDATA[*/if (!window.TL_Const) { var TL_Const = { "security": "ea42a27cef", "ajax_url": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 2, "screen_id": 0 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }; } else { window.TL_Front && TL_Front.extendConst && TL_Front.extendConst({ "security": "ea42a27cef", "ajax_url": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 2, "screen_id": 0 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }) } /*]]> */</script>
+        type="text/javascript">/*<![CDATA[*/if (!window.TL_Const) { var TL_Const = { "security": "ea42a27cef", "ajax_url": "https:\/\/www.optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 2, "screen_id": 0 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }; } else { window.TL_Front && TL_Front.extendConst && TL_Front.extendConst({ "security": "ea42a27cef", "ajax_url": "https:\/\/www.optionspa.com\/wp-admin\/admin-ajax.php", "forms": [], "action_conversion": "tve_leads_ajax_conversion", "action_impression": "tve_leads_ajax_impression", "ajax_load": 0, "custom_post_data": [], "current_screen": { "screen_type": 2, "screen_id": 0 }, "ignored_fields": ["email", "_captcha_size", "_captcha_theme", "_captcha_type", "_submit_option", "_use_captcha", "g-recaptcha-response", "__tcb_lg_fc", "__tcb_lg_msg", "_state", "_form_type", "_error_message_option", "_back_url", "_submit_option", "url", "_asset_group", "_asset_option", "mailchimp_optin", "tcb_token", "tve_labels", "tve_mapping", "_api_custom_fields", "_sendParams", "_autofill"] }) } /*]]> */</script>
     <div></div><!-- start Simple Custom CSS and JS -->
     <!-- Add HTML code to the header or the footer.
 
@@ -24782,11 +25155,94 @@ or the following one for loading the Bootstrap library from jsDelivr:
     <!-- end Simple Custom CSS and JS -->
     <script type="text/javascript">
         /* <![CDATA[ */
-        var TVE_Ult_Data = { "ajaxurl": "https:\/\/optionspa.com\/wp-admin\/admin-ajax.php", "ajax_load_action": "tve_ult_ajax_load", "conversion_events_action": "tve_ult_conversion_event", "shortcode_campaign_ids": [], "matched_display_settings": [], "campaign_ids": [], "post_id": 8578, "is_singular": false, "tu_em": "", "evergreen_redirects": [] };
+        var TVE_Ult_Data = { "ajaxurl": "https:\/\/www.optionspa.com\/wp-admin\/admin-ajax.php", "ajax_load_action": "tve_ult_ajax_load", "conversion_events_action": "tve_ult_conversion_event", "shortcode_campaign_ids": [], "matched_display_settings": [], "campaign_ids": [], "post_id": 8578, "is_singular": false, "tu_em": "", "evergreen_redirects": [] };
         /* ]]> */
     </script>
     <script src="wp-content/plugins/thrive-ultimatum/js/dist/no-campaign.min__q04f4ffbd.js"
         type="text/javascript" defer></script>
+    <!-- Blog 3x3 Grid + Pagination (9 posts per page) -->
+    <style id="opt-blog-grid">
+        .tve-theme-26 .content-section .section-content { max-width: 1240px !important; margin-left: auto !important; margin-right: auto !important; }
+        html body #content > .main-container { width: 100% !important; max-width: 1280px !important; margin-left: auto !important; margin-right: auto !important; }
+        html body #content #theme-content-section, html body #content #theme-content-section > .section-content { width: 100% !important; max-width: 1260px !important; }
+        html body #main.thrive-blog-list > article.post-wrapper.thrv_wrapper { margin: 0 !important; transform: none !important; }
+        html body #main.thrive-blog-list > article > .thrv_wrapper, html body #main.thrive-blog-list > article .thrv-content-box:not([data-css="tve-u-171309e5dfc"]), html body #main.thrive-blog-list > article .tve-cb > a { width: 100% !important; max-width: 100% !important; box-sizing: border-box; }
+        html body #main.thrive-blog-list > article .tve-cb > a { display: block; }
+        html body #main.thrive-blog-list > article [data-css="tve-u-171309e5dfc"] { width: auto !important; max-width: calc(100% - 16px) !important; }
+        html body #main.thrive-blog-list { display: grid !important; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 44px 32px; width: 100% !important; max-width: 1240px !important; }
+        html body #main.thrive-blog-list > article.post-wrapper { width: auto !important; max-width: none !important; min-width: 0 !important; margin: 0 !important; display: flex; flex-direction: column; }
+        html body #main.thrive-blog-list > article.post-wrapper.opt-hidden { display: none !important; }
+        html body #main.thrive-blog-list > article .tcb-post-read-more-clear { margin-top: auto; }
+        @media (max-width: 1023px) { html body #main.thrive-blog-list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 36px 24px; } }
+        @media (max-width: 640px) { html body #main.thrive-blog-list { grid-template-columns: 1fr; gap: 32px; } }
+        .opt-blog-pagination { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px; margin: 48px auto 24px; padding: 0 16px; font-family: 'Barlow', sans-serif; }
+        .opt-blog-pagination a, .opt-blog-pagination span { display: inline-flex; align-items: center; justify-content: center; min-width: 44px; height: 44px; padding: 0 14px; border-radius: 100px; border: 1px solid #d6dde6; background: #fff; color: #173c63; font-size: 16px; font-weight: 600; text-decoration: none; transition: background .2s, color .2s, border-color .2s; }
+        .opt-blog-pagination a:hover { border-color: #ff7a14; color: #ff7a14; }
+        .opt-blog-pagination .opt-current { background: #ff7a14; border-color: #ff7a14; color: #fff; }
+        .opt-blog-pagination .opt-disabled { opacity: .4; pointer-events: none; }
+        .opt-blog-pagination .opt-dots { border: none; background: transparent; min-width: 20px; padding: 0; }
+        @media (max-width: 640px) { .opt-blog-pagination a, .opt-blog-pagination span { min-width: 40px; height: 40px; padding: 0 11px; font-size: 15px; } }
+    </style>
+    <script>
+    (function () {
+        var PER_PAGE = 9;
+        function init() {
+            var list = document.getElementById('main');
+            if (!list || list.getAttribute('data-opt-paged')) return;
+            list.setAttribute('data-opt-paged', '1');
+            var posts = Array.prototype.filter.call(list.children, function (el) { return el.tagName === 'ARTICLE'; });
+            var total = Math.ceil(posts.length / PER_PAGE);
+            if (total <= 1) return;
+            var nav = document.createElement('nav');
+            nav.className = 'opt-blog-pagination';
+            nav.setAttribute('aria-label', 'Blog pagination');
+            list.parentNode.insertBefore(nav, list.nextSibling);
+
+            function pageFromUrl() {
+                var m = /[?&]page=(\d+)/.exec(window.location.search);
+                var n = m ? parseInt(m[1], 10) : 1;
+                return Math.min(Math.max(n || 1, 1), total);
+            }
+            function href(n) { return n === 1 ? window.location.pathname : window.location.pathname + '?page=' + n; }
+            function item(label, n, cls, aria) {
+                if (cls) return '<span class="' + cls + '"' + (aria ? ' aria-current="page"' : '') + '>' + label + '</span>';
+                return '<a href="' + href(n) + '" data-page="' + n + '">' + label + '</a>';
+            }
+            function render(page) {
+                posts.forEach(function (p, i) {
+                    var show = i >= (page - 1) * PER_PAGE && i < page * PER_PAGE;
+                    p.classList.toggle('opt-hidden', !show);
+                    p.style.setProperty('margin', '0', 'important');
+                    if (show) { p.style.opacity = 1; p.style.transform = 'none'; }
+                });
+                var h = '';
+                h += page > 1 ? item('&larr; Prev', page - 1) : item('&larr; Prev', 0, 'opt-disabled');
+                for (var n = 1; n <= total; n++) {
+                    if (n === 1 || n === total || Math.abs(n - page) <= 1) {
+                        h += n === page ? item(n, n, 'opt-current', true) : item(n, n);
+                    } else if (n === page - 2 || n === page + 2) {
+                        h += '<span class="opt-dots">&hellip;</span>';
+                    }
+                }
+                h += page < total ? item('Next &rarr;', page + 1) : item('Next &rarr;', 0, 'opt-disabled');
+                nav.innerHTML = h;
+            }
+            nav.addEventListener('click', function (e) {
+                var a = e.target.closest('a[data-page]');
+                if (!a) return;
+                e.preventDefault();
+                var n = parseInt(a.getAttribute('data-page'), 10);
+                history.pushState({ optPage: n }, '', href(n));
+                render(n);
+                var top = list.getBoundingClientRect().top + window.pageYOffset - 140;
+                window.scrollTo({ top: top, behavior: 'smooth' });
+            });
+            window.addEventListener('popstate', function () { render(pageFromUrl()); });
+            render(pageFromUrl());
+        }
+        if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
+    })();
+    </script>
 </body>
 
 </html>

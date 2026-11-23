@@ -85,15 +85,15 @@
 </script>
 <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
 <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-<title>Mental Illness Awareness Week: How to Recognize When It’s Time to Seek Psychiatric Help | Options</title>
-<meta content="Learn how to recognize when stress or emotional distress becomes clinical psychiatric illness during Mental Illness Awareness Week. Expert guidance from Options Psychiatry." name="description"/>
+<title>When to Seek Psychiatric Help: Mental Illness Awareness Week</title>
+<meta content="Learn how to tell when stress or emotional distress has become a psychiatric condition, and when to seek help. Expert guidance from Options Psychiatry." name="description"/>
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
-<link href="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" rel="canonical"/>
+<link href="https://www.optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" rel="canonical"/>
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
-<meta content="Mental Illness Awareness Week: How to Recognize When It’s Time to Seek Psychiatric Help" property="og:title"/>
-<meta content="Learn how to recognize when stress or emotional distress becomes clinical psychiatric illness during Mental Illness Awareness Week. Expert guidance from Options Psychiatry." property="og:description"/>
-<meta content="mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" property="og:url"/>
+<meta content="When to Seek Psychiatric Help: Mental Illness Awareness Week" property="og:title"/>
+<meta content="Learn how to tell when stress or emotional distress has become a psychiatric condition, and when to seek help. Expert guidance from Options Psychiatry." property="og:description"/>
+<meta content="https://www.optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" property="og:url"/>
 <meta content="Options Psychiatry" property="og:site_name"/>
 <meta content="Mental Health" property="article:section"/>
 <meta content="Psychiatry" property="article:section"/>
@@ -107,8 +107,8 @@
 <meta content="2026-10-09T09:00:00-04:00" property="article:published_time"/>
 <meta content="2026-10-09T09:00:00-04:00" property="article:modified_time"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Mental Illness Awareness Week: How to Recognize When It’s Time to Seek Psychiatric Help | Options" name="twitter:title"/>
-<meta content="Learn how to recognize when stress or emotional distress becomes clinical psychiatric illness during Mental Illness Awareness Week. Expert guidance from Options Psychiatry." name="twitter:description"/>
+<meta content="When to Seek Psychiatric Help: Mental Illness Awareness Week" name="twitter:title"/>
+<meta content="Learn how to tell when stress or emotional distress has become a psychiatric condition, and when to seek help. Expert guidance from Options Psychiatry." name="twitter:description"/>
 <meta content="wp-content/uploads/2026/10/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help.webp" name="twitter:image"/>
 <meta content="Written by" name="twitter:label1"/>
 <meta content="Dr. Cyntrell Crawford" name="twitter:data1"/>
@@ -544,7 +544,7 @@ body, .tcb-style-wrap, .main-container, .tcb-post-content {
 
 <!-- AEO Direct Answer Summary Box -->
 <div class="wp-block-group direct-answer-callout">
-<p><strong>Key Takeaway (Quick Answer):</strong> <em>During Mental Illness Awareness Week, how do you recognize when it is time to seek psychiatric help?</em> Seek a psychiatric evaluation when emotional distress persists for more than two consecutive weeks, impairs daily functioning, or produces severe symptoms like debilitating panic, chronic insomnia, or hopelessness. A board-certified psychiatrist evaluates biological drivers of mood and anxiety disorders, providing targeted treatments including <a href="medication-management">medication management</a>, therapy, and advanced therapies like <a href="tms-therapy">TMS therapy</a> without waiting for a crisis.</p>
+<p><strong>Key Takeaway (Quick Answer):</strong> <em>During Mental Illness Awareness Week, how do you recognize when it is time to seek psychiatric help?</em> Seek a psychiatric evaluation when emotional distress persists for more than two consecutive weeks, impairs daily functioning, or produces severe symptoms like debilitating panic, chronic insomnia, or hopelessness. A board-certified psychiatrist evaluates biological drivers of mood and anxiety disorders, providing targeted treatments including <a href="medication-management-options">medication management</a>, therapy, and advanced therapies like <a href="tms-therapy-reading">TMS therapy</a> without waiting for a crisis.</p>
 </div>
 
 <p>Every year during the first full week of October, healthcare providers, advocacy groups, and families observe <strong>Mental Illness Awareness Week: How to Recognize When It’s Time to Seek Psychiatric Help</strong> becomes the most essential question millions of Americans face. Established by Congress in 1990 and championed nationwide by organizations like the <a href="https://en.wikipedia.org/wiki/Mental_Illness_Awareness_Week" rel="noopener noreferrer" target="_blank">National Alliance on Mental Illness (NAMI)</a>, this observance serves a dual purpose: dismantling persistent societal stigma and empowering individuals to recognize that mental illnesses are real, treatable medical conditions.</p>
@@ -646,7 +646,7 @@ body, .tcb-style-wrap, .main-container, .tcb-post-content {
 <p>Understanding provider roles ensures you access the appropriate level of clinical care without delay:</p>
 
 <ul class="wp-block-list">
-<li><strong>Psychiatrist (MD or DO):</strong> A medical doctor with residency training in brain chemistry and mental health. Psychiatrists diagnose complex disorders, order medical labs, prescribe medications, and administer advanced neuromodulation like <a href="tms-therapy">TMS therapy</a>.</li>
+<li><strong>Psychiatrist (MD or DO):</strong> A medical doctor with residency training in brain chemistry and mental health. Psychiatrists diagnose complex disorders, order medical labs, prescribe medications, and administer advanced neuromodulation like <a href="tms-therapy-reading">TMS therapy</a>.</li>
 <li><strong>Clinical Psychologist (PhD or PsyD):</strong> A doctoral clinician specializing in psychological evaluations and psychotherapies like CBT. Psychologists in Pennsylvania do not prescribe medication.</li>
 <li><strong>Licensed Counselor / Therapist (LPC, LCSW):</strong> Master's-level clinicians providing structured talk therapy, coping strategies, and emotional support.</li>
 </ul>
@@ -660,10 +660,10 @@ body, .tcb-style-wrap, .main-container, .tcb-post-content {
 <p>Effective treatment begins with an exhaustive 60- to 90-minute medical assessment. Dr. Crawford evaluates symptom history, biological markers, hereditary predispositions, medical comorbidities (such as thyroid imbalances or autoimmune markers), and lifestyle factors to establish an accurate DSM-5 diagnosis and a clear roadmap for recovery.</p>
 
 <h3>Precision Medication Management</h3>
-<p>When neurotransmitter circuits require pharmacological balance, our clinic offers evidence-based <a href="medication-management">medication management</a>. We select medications tailored to your specific neurochemical profile, closely monitor therapeutic response, minimize side effects, and make gradual adjustments to ensure optimal clarity and emotional stabilization.</p>
+<p>When neurotransmitter circuits require pharmacological balance, our clinic offers evidence-based <a href="medication-management-options">medication management</a>. We select medications tailored to your specific neurochemical profile, closely monitor therapeutic response, minimize side effects, and make gradual adjustments to ensure optimal clarity and emotional stabilization.</p>
 
 <h3>Transcranial Magnetic Stimulation (TMS Therapy)</h3>
-<p>For individuals who suffer from treatment-resistant depression, severe OCD, or cannot tolerate systemic antidepressant side effects, <a href="tms-therapy">Transcranial Magnetic Stimulation (TMS)</a> represents an FDA-cleared breakthrough. TMS uses targeted MRI-strength magnetic pulses to stimulate underactive neurons in the dorsolateral prefrontal cortex.</p>
+<p>For individuals who suffer from treatment-resistant depression, severe OCD, or cannot tolerate systemic antidepressant side effects, <a href="tms-therapy-reading">Transcranial Magnetic Stimulation (TMS)</a> represents an FDA-cleared breakthrough. TMS uses targeted MRI-strength magnetic pulses to stimulate underactive neurons in the dorsolateral prefrontal cortex.</p>
 <ul class="wp-block-list">
 <li><strong>Non-Systemic:</strong> Magnetic pulses treat mood circuits directly without causing weight gain, sedation, or systemic side effects.</li>
 <li><strong>High Clinical Response:</strong> Over 70% of treatment-resistant patients experience significant depressive symptom reduction.</li>
@@ -822,29 +822,29 @@ body, .tcb-style-wrap, .main-container, .tcb-post-content {
   "@graph": [
     {
       "@type": "BlogPosting",
-      "@id": "https://optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#article",
+      "@id": "https://www.optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#article",
       "isPartOf": {
         "@type": "WebPage",
-        "@id": "https://optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help"
+        "@id": "https://www.optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help"
       },
       "headline": "Mental Illness Awareness Week: How to Recognize When It’s Time to Seek Psychiatric Help",
       "description": "Learn how to recognize when stress or emotional distress becomes clinical psychiatric illness during Mental Illness Awareness Week. Expert guidance from Options Psychiatry.",
-      "mainEntityOfPage": "https://optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help",
+      "mainEntityOfPage": "https://www.optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help",
       "datePublished": "2026-10-09T09:00:00-04:00",
       "dateModified": "2026-10-09T09:00:00-04:00",
       "author": {
         "@type": "Person",
         "name": "Dr. Cyntrell Crawford",
         "jobTitle": "Board-Certified Psychiatrist & Medical Director",
-        "url": "https://optionspa.com/dr-crawford"
+        "url": "https://www.optionspa.com/dr-crawford"
       },
       "publisher": {
         "@type": "MedicalClinic",
         "name": "Options Psychiatry",
-        "url": "https://optionspa.com/",
+        "url": "https://www.optionspa.com/",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
+          "url": "https://www.optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png"
         },
         "address": {
           "@type": "PostalAddress",
@@ -858,7 +858,7 @@ body, .tcb-style-wrap, .main-container, .tcb-post-content {
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://optionspa.com/wp-content/uploads/2026/10/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help.webp",
+        "url": "https://www.optionspa.com/wp-content/uploads/2026/10/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help.webp",
         "caption": "Mental Illness Awareness Week psychiatric consultation guidance by Options Psychiatry"
       },
       "keywords": [
@@ -874,7 +874,7 @@ body, .tcb-style-wrap, .main-container, .tcb-post-content {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#faq",
+      "@id": "https://www.optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -936,10 +936,10 @@ body, .tcb-style-wrap, .main-container, .tcb-post-content {
     },
     {
       "@type": "MedicalClinic",
-      "@id": "https://optionspa.com/#organization",
+      "@id": "https://www.optionspa.com/#organization",
       "name": "Options Psychiatry",
-      "url": "https://optionspa.com",
-      "logo": "https://optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
+      "url": "https://www.optionspa.com",
+      "logo": "https://www.optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png",
       "telephone": "(610) 741-6567",
       "address": {
         "@type": "PostalAddress",
@@ -953,25 +953,25 @@ body, .tcb-style-wrap, .main-container, .tcb-post-content {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#breadcrumb",
+      "@id": "https://www.optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://optionspa.com/"
+          "item": "https://www.optionspa.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Blog",
-          "item": "https://optionspa.com/blog"
+          "item": "https://www.optionspa.com/blog"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Mental Illness Awareness Week: How to Recognize When It’s Time to Seek Psychiatric Help",
-          "item": "https://optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help"
+          "item": "https://www.optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help"
         }
       ]
     }
@@ -1036,13 +1036,13 @@ body, .tcb-style-wrap, .main-container, .tcb-post-content {
 <div class="thrv_wrapper thrv_text_element" data-css="tve-u-16f89e98101"><p data-css="tve-u-16f89e87f26">share this</p></div>
 <div class="thrv_wrapper thrv_social_custom thrv_social" data-css="tve-u-16f89e8f368">
 <div class="tve_social_items tve_social_custom tve_style_4 tve_social_cb">
-<div class="tve_s_item tve_s_fb_share" data-href="https://optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" data-label="Share" data-s="fb_share">
+<div class="tve_s_item tve_s_fb_share" data-href="https://www.optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" data-label="Share" data-s="fb_share">
 <a class="tve_s_link" href="javascript:void(0)"><span class="tve_s_icon thrv-svg-icon"><svg class="tcb-facebook" viewbox="0 0 16 28" xmlns="http://www.w3.org/2000/svg"><path d="M14.984 0.187v4.125h-2.453q-1.344 0-1.813 0.562t-0.469 1.687v2.953h4.578l-0.609 4.625h-3.969v11.859h-4.781v-11.859h-3.984v-4.625h3.984v-3.406q0-2.906 1.625-4.508t4.328-1.602q2.297 0 3.563 0.187z"></path></svg></span><span class="tve_s_text">Share</span><span class="tve_s_count">0</span></a>
 </div>
-<div class="tve_s_item tve_s_t_share" data-href="https://optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" data-label="Tweet" data-s="t_share">
+<div class="tve_s_item tve_s_t_share" data-href="https://www.optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" data-label="Tweet" data-s="t_share">
 <a class="tve_s_link" href="javascript:void(0)"><span class="tve_s_icon thrv-svg-icon"><svg class="tcb-twitter" viewbox="0 0 26 28" xmlns="http://www.w3.org/2000/svg"><path d="M25.312 6.375q-1.047 1.531-2.531 2.609 0.016 0.219 0.016 0.656 0 2.031-0.594 4.055t-1.805 3.883-2.883 3.289-4.031 2.281-5.047 0.852q-4.234 0-7.75-2.266 0.547 0.063 1.219 0.063 3.516 0 6.266-2.156-1.641-0.031-2.938-1.008t-1.781-2.492q0.516 0.078 0.953 0.078 0.672 0 1.328-0.172-1.75-0.359-2.898-1.742t-1.148-3.211v-0.063q1.062 0.594 2.281 0.641-1.031-0.688-1.641-1.797t-0.609-2.406q0-1.375 0.688-2.547 1.891 2.328 4.602 3.727t5.805 1.555q-0.125-0.594-0.125-1.156 0-2.094 1.477-3.57t3.57-1.477q2.188 0 3.687 1.594 1.703-0.328 3.203-1.219-0.578 1.797-2.219 2.781 1.453-0.156 2.906-0.781z"></path></svg></span><span class="tve_s_text">Tweet</span><span class="tve_s_count">0</span></a>
 </div>
-<div class="tve_s_item tve_s_pin_share" data-href="https://optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" data-label="Pin" data-s="pin_share">
+<div class="tve_s_item tve_s_pin_share" data-href="https://www.optionspa.com/mental-illness-awareness-week-how-to-recognize-when-its-time-to-seek-psychiatric-help" data-label="Pin" data-s="pin_share">
 <a class="tve_s_link" href="javascript:void(0)"><span class="tve_s_icon thrv-svg-icon"><svg class="tcb-pinterest" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M16 0c-8.837 0-16 7.163-16 16 0 6.778 4.217 12.568 10.169 14.899-0.14-1.266-0.266-3.208 0.055-4.59 0.291-1.249 1.876-7.953 1.876-7.953s-0.479-0.958-0.479-2.375c0-2.225 1.29-3.886 2.895-3.886 1.365 0 2.024 1.025 2.024 2.254 0 1.373-0.874 3.425-1.325 5.327-0.377 1.593 0.799 2.892 2.369 2.892 2.844 0 5.030-2.999 5.030-7.327 0-3.831-2.753-6.509-6.683-6.509-4.552 0-7.225 3.415-7.225 6.943 0 1.375 0.53 2.85 1.191 3.651 0.131 0.158 0.15 0.297 0.111 0.459-0.121 0.506-0.391 1.593-0.444 1.815-0.070 0.293-0.232 0.355-0.535 0.214-1.998-0.93-3.248-3.852-3.248-6.198 0-5.047 3.667-9.682 10.572-9.682 5.55 0 9.864 3.955 9.864 9.241 0 5.514-3.477 9.952-8.302 9.952-1.621 0-3.145-0.842-3.667-1.837 0 0-0.802 3.055-0.997 3.803-0.361 1.39-1.337 3.132-1.989 4.195 1.497 0.463 3.088 0.713 4.738 0.713 8.836-0 16-7.163 16-16s-7.163-16-16-16z"></path></svg></span><span class="tve_s_text">Pin</span><span class="tve_s_count">0</span></a>
 </div>
 </div>

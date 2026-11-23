@@ -4,17 +4,17 @@
 <?php include __DIR__ . '/../../includes/consent-head.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Advanced TMS Therapy in Reading, PA. Non-invasive, FDA-cleared treatment for depression, anxiety, OCD, PTSD, ADHD. Insurance covered. Book your free evaluation today.">
+    <meta content="FDA-cleared, non-invasive TMS therapy in Reading, PA for depression and more. Most insurance plans accepted. Book your TMS evaluation at Options Psychiatry." name="description"/>
     <meta name="keywords" content="TMS therapy, transcranial magnetic stimulation, depression treatment, anxiety treatment, Reading PA, non-invasive treatment, FDA cleared TMS">
     <meta name="author" content="Options Psychiatry">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://optionspa.com/lp/tms/">
-    <title>TMS Therapy Near Me in Reading, PA | Advanced TMS Treatment | Options Psychiatry</title>
+    <link rel="canonical" href="https://www.optionspa.com/lp/tms/">
+    <title>TMS Therapy in Reading, PA | Options Psychiatry</title>
 
-    <meta property="og:title" content="Advanced TMS Therapy in Reading, PA | Options Psychiatry">
-    <meta property="og:description" content="Break free from depression and anxiety with non-invasive TMS therapy. FDA-cleared, insurance covered. Book your free evaluation.">
+    <meta content="TMS Therapy in Reading, PA | Options Psychiatry" property="og:title"/>
+    <meta content="FDA-cleared, non-invasive TMS therapy in Reading, PA for depression and more. Most insurance plans accepted. Book your TMS evaluation at Options Psychiatry." property="og:description"/>
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://optionspa.com/lp/tms/">
+    <meta property="og:url" content="https://www.optionspa.com/lp/tms/">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -2197,7 +2197,7 @@
         "@type": "MedicalBusiness",
         "name": "Options Psychiatry - TMS Therapy",
         "description": "Advanced TMS Therapy treatment for depression, anxiety, OCD, PTSD, ADHD in Reading, PA",
-        "url": "https://optionspa.com",
+        "url": "https://www.optionspa.com",
         "telephone": "(610) 741-6567",
         "address": {
             "@type": "PostalAddress",

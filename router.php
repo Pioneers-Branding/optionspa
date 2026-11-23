@@ -40,6 +40,11 @@ $exists = function ($file) { return is_file(__DIR__ . '/' . $file); };
 // includes/ holds HTML fragments, not pages
 if (strpos($clean, 'includes/') === 0) { http_response_code(403); echo 'Forbidden'; return true; }
 
+// hacked spam pages (casino categories, 1xbet post) -> 410 Gone, mirrors .htaccess
+if (preg_match('#^(category[-/]casino(-utan-svensk-licens)?|preimushchestva-i-nedostatki-1xbet-zerkalo-rabochee-na-segodnia-9)(\.php)?(/.*)?$#i', $clean)) {
+    http_response_code(410); echo 'Gone'; return true;
+}
+
 // real static asset -> let the built-in server handle it
 if ($clean !== '' && $exists($clean) && substr($clean, -4) !== '.php') { return false; }
 
@@ -53,14 +58,9 @@ if (substr($clean, -4) === '.php' && strpos($clean, 'wp-') !== 0) { $go(substr($
 
 // old WordPress nested URLs -> flat canonical
 $nested = [
-    '2026/05' => '2026-05', '2026/06' => '2026-06',
-    '2026/07' => '2026-07', '2026/08' => '2026-08',
-    '2026/09' => '2026-09',
     'category/adhd' => 'category-adhd',
     'category/anxiety' => 'category-anxiety',
     'category/blog' => 'category-blog',
-    'category/casino' => 'category-casino',
-    'category/casino-utan-svensk-licens' => 'category-casino-utan-svensk-licens',
     'category/mental-health' => 'category-mental-health',
     'category/mental-health/page/2' => 'category-mental-health-page-2',
     'category/ocd' => 'category-ocd',
@@ -68,8 +68,8 @@ $nested = [
     'category/spravato' => 'category-spravato',
     'category/tms-therapy' => 'category-tms-therapy',
     'category/tms-therapy/page/2' => 'category-tms-therapy-page-2',
-    'elementor-hf/footer' => 'elementor-hf-footer',
-    'elementor-hf/header' => 'elementor-hf-header',
+    'elementor-hf/footer' => '',
+    'elementor-hf/header' => '',
     'location/reading' => 'location-reading',
 ];
 if (isset($nested[$clean])) { $go($nested[$clean]); }
@@ -93,10 +93,29 @@ $retired = [
     'insurance-plans'              => 'insurances-accepted',
     'new-blog-layout'              => 'blog',
     'ocd-treatment'                => 'ocd',
-    'preimushchestva-i-nedostatki-1xbet-zerkalo-rabochee-na-segodnia-9' => '',
     'psychiatrist-in-reading-pa'   => 'location-reading',
     'ptsd-treatment'               => 'ptsd',
     'tms-therapy-reading-pa'       => 'tms-therapy-reading',
+    // duplicate pages -> one main url (files kept, never served)
+    '2026-05' => '', '2026-06' => '', '2026-07' => '', '2026-08' => '', '2026-09' => '',
+    'generated-homepage'           => '',
+    'elementor-hf-header'          => '',
+    'elementor-hf-footer'          => '',
+    'addiction-recovery'           => 'drug-addiction',
+    'location'                     => 'location-reading',
+    'tms-therapy'                  => 'tms-therapy-reading',
+    'medication-management'        => 'medication-management-options',
+    'med-management'               => 'medication-management-options',
+    'anxiety-treatment-centers-in-pennsylvania' => 'anxiety-treatment',
+    'does-aetna-cover-tms-therapy-your-complete-guide-to-tms-coverage-at-options-psychiatry' => 'does-aetna-cover-tms-therapy',
+    'is-anxiety-a-mood-disorder-understanding-the-difference' => 'is-anxiety-a-mood-disorder',
+    'what-are-the-symptoms-of-addiction-when-should-you-seek-mental-health-support' => 'what-are-the-symptoms-of-addiction',
+    'blog-old'                     => 'blog',
+    'contact-old'                  => 'contact',
+    'dr-crawford-old'              => 'dr-crawford',
+    'medication-management-options-old' => 'medication-management-options',
+    'tms-therapy-reading-old'      => 'tms-therapy-reading',
+    'thank-you-old'                => 'thank-you',
 ];
 if (isset($retired[$clean])) { $go($retired[$clean]); }
 

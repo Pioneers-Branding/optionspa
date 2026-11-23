@@ -9,14 +9,21 @@ DirectoryIndex index.php
 RewriteEngine On
 RewriteBase /
 
-# 1. canonical host: www -> non-www.
-#    Also fixes the www<->non-www redirect loop that made
-#    /how-tms-therapy-helps-treat-depression/ unreachable.
+# 1. canonical host: http + non-www -> https://www (www.optionspa.com is canonical).
+#    One rule, one hop. Never add a www -> non-www rule anywhere else
+#    (server panel / CDN) or the two will loop.
+RewriteCond %{HTTP_HOST} ^optionspa\.com$ [NC]
+RewriteRule ^(.*)$ https://www.optionspa.com/$1 [R=301,L]
 RewriteCond %{HTTP_HOST} ^www\.optionspa\.com$ [NC]
-RewriteRule ^(.*)$ https://optionspa.com/$1 [R=301,L]
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+RewriteRule ^(.*)$ https://www.optionspa.com/$1 [R=301,L]
 
 # 2. includes/ holds HTML fragments, not pages - never serve directly
 RewriteRule ^includes/ - [F,L]
+
+# hacked spam pages (casino categories, 1xbet post) -> 410 Gone
+RewriteRule ^(category[-/]casino(-utan-svensk-licens)?|preimushchestva-i-nedostatki-1xbet-zerkalo-rabochee-na-segodnia-9)(\.php)?(/.*)?$ - [G,L,NC]
 
 # 3. /slug.php -> canonical URL, 301, one hop.
 #
@@ -53,10 +60,6 @@ RewriteCond %{THE_REQUEST} \s/+category-anxiety\.php[\s?] [NC]
 RewriteRule ^ /category/anxiety/ [R=301,L]
 RewriteCond %{THE_REQUEST} \s/+category-blog\.php[\s?] [NC]
 RewriteRule ^ /category/blog/ [R=301,L]
-RewriteCond %{THE_REQUEST} \s/+category-casino\.php[\s?] [NC]
-RewriteRule ^ /category/casino/ [R=301,L]
-RewriteCond %{THE_REQUEST} \s/+category-casino-utan-svensk-licens\.php[\s?] [NC]
-RewriteRule ^ /category/casino-utan-svensk-licens/ [R=301,L]
 RewriteCond %{THE_REQUEST} \s/+category-mental-health\.php[\s?] [NC]
 RewriteRule ^ /category/mental-health/ [R=301,L]
 RewriteCond %{THE_REQUEST} \s/+category-mental-health-page-2\.php[\s?] [NC]
@@ -91,7 +94,6 @@ RewriteRule ^insurance-plans/?$ /insurances-accepted/ [R=301,L]
 RewriteRule ^new-blog-layout/?$ /blog/ [R=301,L]
 RewriteRule ^category/psychotherapy/?$ /therapist-in-reading-pa/ [R=301,L]
 RewriteRule ^ocd-treatment/?$ /ocd/ [R=301,L]
-RewriteRule ^preimushchestva-i-nedostatki-1xbet-zerkalo-rabochee-na-segodnia-9/?$ / [R=301,L]
 RewriteRule ^psychiatrist-in-reading-pa/?$ /location/reading/ [R=301,L]
 RewriteRule ^ptsd-treatment/?$ /ptsd/ [R=301,L]
 RewriteRule ^tms-therapy-reading-pa/?$ /tms-therapy-reading/ [R=301,L]
@@ -111,8 +113,6 @@ RewriteRule ^2026-08/?$ /2026/08/ [R=301,L]
 RewriteRule ^category-adhd/?$ /category/adhd/ [R=301,L]
 RewriteRule ^category-anxiety/?$ /category/anxiety/ [R=301,L]
 RewriteRule ^category-blog/?$ /category/blog/ [R=301,L]
-RewriteRule ^category-casino/?$ /category/casino/ [R=301,L]
-RewriteRule ^category-casino-utan-svensk-licens/?$ /category/casino-utan-svensk-licens/ [R=301,L]
 RewriteRule ^category-mental-health/?$ /category/mental-health/ [R=301,L]
 RewriteRule ^category-mental-health-page-2/?$ /category/mental-health/page/2/ [R=301,L]
 RewriteRule ^category-ocd/?$ /category/ocd/ [R=301,L]
@@ -139,8 +139,6 @@ RewriteRule ^wp-json(?:/.*)?$ / [R=301,L]
 RewriteRule ^category/adhd/?$ category-adhd.php [L]
 RewriteRule ^category/anxiety/?$ category-anxiety.php [L]
 RewriteRule ^category/blog/?$ category-blog.php [L]
-RewriteRule ^category/casino/?$ category-casino.php [L]
-RewriteRule ^category/casino-utan-svensk-licens/?$ category-casino-utan-svensk-licens.php [L]
 RewriteRule ^category/mental-health/?$ category-mental-health.php [L]
 RewriteRule ^category/mental-health/page/2/?$ category-mental-health-page-2.php [L]
 RewriteRule ^category/ocd/?$ category-ocd.php [L]

@@ -4,7 +4,7 @@
 <?php include __DIR__ . '/../../includes/consent-head.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="noindex, nofollow">
+    <meta content="noindex, follow" name="robots"/>
     <title>Thank You | Options Psychiatry</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
